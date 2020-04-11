@@ -48,7 +48,7 @@ usort($files, function($a, $b) {
 	return $b['modified'] <=> $a['modified'];
 });
 echo "<ul>";
-for($i = 0; $i<=20; $i++) {
+for($i = 0; $i<=30; $i++) {
 	$path = $files[$i]['path'];
 	$path = str_replace('/home/', '/~', $path);
 	$path = str_replace('/public_html', '', $path);
