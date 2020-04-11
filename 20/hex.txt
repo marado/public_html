@@ -1,0 +1,754 @@
+[00:32] <Mind_Booster> Attention people... Now I ask you all to calm down, 
+the lecture is almost in its beggining
+[00:32] <Rainstorm> ok.
+[00:32] * ringZero takes a seat
+[00:32] <_CryX_> ok..
+[00:32] <_CryX_> lol
+[00:32] <DeStInAtIoN> mmm i intall snort on my linux server see how it works
+[00:32] * Rainstorm takes two seats
+[00:32] <Mind_Booster> I hope you all are logging this...
+[00:32] <_CryX_> ./log
+[00:32] <Mind_Booster> well ppl...
+[00:32] <ringZero> lol
+[00:32] <Mind_Booster> let's do this.
+[00:32] <Mind_Booster> 3...
+[00:32] <Mind_Booster> 2...
+[00:32] <ringZero> where can i get a logging module ?
+[00:32] <Mind_Booster> 1...
+[00:32] <Rainstorm> Boom
+[00:32] <ringZero> for BX ?????
+[00:32] <Mind_Booster> GO!
+[00:32] <Mind_Booster> Hehehe
+[00:32] <DeStInAtIoN> 1
+[00:33] <ringZero> damn 2 late
+[00:33] <DeStInAtIoN> 0
+[00:33] <Mind_Booster> Allright...
+[00:33] <`BoB`> shooot
+[00:33] <Renton> we r starting?
+[00:33] <Effo> someone ping me please
+[00:33] -> [effo] PING
+[00:33] <Mind_Booster> This is a lecture about HEX Hack
+[00:33] <Effo> thx
+[00:33] <_CryX_> cracking ?
+[00:33] <_CryX_> or ICMP hex ?
+[00:33] <Mind_Booster> In fact this is a very small and easy to understand 
+lecture...
+[00:33] <Mind_Booster> More to newbies
+[00:34] <`BoB`> what is hex?
+[00:34] <_CryX_> roflol
+[00:34] <DeStInAtIoN> ohh nooo
+[00:34] <Rainstorm> wait and see bob
+[00:34] <Renton> hexademical system.
+[00:34] <Mind_Booster> everyone knows that HEX editing is not a way or a 
+good way of hacking :P
+[00:34] <Effo> base 16
+[00:34] <yegz> base 16
+[00:34] <Effo> hehe
+[00:34] <Effo> ;)
+[00:34] <Mind_Booster> calme down please...
+[00:34] <yegz> lol @ effo
+[00:34] <Mind_Booster> I started to think what was the best way to explain 
+this...
+[00:35] <ringZero> rowdy class today ;)
+[00:35] <DeStInAtIoN> all stop that and just lisen to mind_booster ..plz
+[00:35] <_CryX_> RTFM ?
+[00:35] <ringZero> set mode +m and op mind_booster
+[00:35] <Mind_Booster> and I decided (because some posts on blacksun BBS 
+too)
+[00:35] <Effo> mindless, Talk...
+[00:35] <Effo> Mind_Booster, Talk...
+[00:35] <Mind_Booster> that i would explain this crap with an example
+[00:35] <Effo> oops... ;)
+[00:35] *** Cypher sets mode: +o Mind_Booster
+[00:35] <Mind_Booster> thx
+[00:35] <Cypher> you're starting?
+[00:36] <Mind_Booster> oh, and sorry if my English is not very good :P
+[00:36] <Mind_Booster> yes I am :)
+[00:36] <DeStInAtIoN> ?
+[00:36] <Renton> ok.nobady is perfect.
+[00:36] <Mind_Booster> As you should know
+[00:36] <Mind_Booster> a program is a bunch of command lines
+[00:36] <Mind_Booster> wrote in some language
+[00:37] <Mind_Booster> then compiled and transformed to machine language
+[00:37] <DeStInAtIoN> assembly??
+[00:37] <Mind_Booster> that language your PC understante
+[00:37] <_CryX_> lol
+[00:37] <Renton> machine language...
+[00:37] <Rainstorm> binary?
+[00:37] <yegz> binary
+[00:37] *** exec has joined #BSRF
+[00:37] <_CryX_> first to objects then to machine language
+[00:37] <Mind_Booster> no, a more basic evan language, but directly related 
+with Assembly
+[00:37] <DeStInAtIoN> iok
+[00:37] <Effo> binary = 2 base, right ?
+[00:37] <yegz> yup
+[00:37] <Renton> yes
+[00:37] <yegz> 1 / 0
+[00:38] <Mind_Booster> yes
+[00:38] <Mind_Booster> Laughs Out Loud
+[00:38] <Mind_Booster> well...
+[00:38] <Spit> Can someone help me out here, i'm confused
+[00:38] *** GenX has joined #bsrf
+[00:38] <Mind_Booster> Spit, yes?
+[00:38] <`BoB`> i still don't know what hex is
+[00:38] <`BoB`> ..
+[00:38] <Spit> lets say i wanted to hack into some system
+[00:39] <Mind_Booster> well...
+[00:39] <Mind_Booster> if you let me finish... :/
+[00:39] <_CryX_> `BoB`: hex numbers ranging from 0-9
+[00:39] <Mind_Booster> WRONG
+[00:39] <yegz> bob : it is sorta the way that ur files and all are 
+represented on ur pc
+[00:39] <_CryX_> obove nine it goes to A B C D E F
+[00:39] *** Mind_Booster sets mode: +m
+[00:39] *** CrEeP has joined #bsrf
+[00:39] <Mind_Booster> sorry ppl
+[00:39] <Mind_Booster> until you calm down I have to moderate this
+[00:39] <Rainstorm> go on
+[00:39] #bsrf Cannot send to channel (channel is moderated, you do not have 
+a voice)
+[00:39] <Mind_Booster> :/
+[00:39] <Mind_Booster> so...
+[00:40] *** mishelino has joined #bsrf
+[00:40] <Mind_Booster> as you said that is the "0/1" language, a base 2 
+language
+[00:40] *** Clic has quit IRC (Quit: Clic, sphinx en quete d'ataraxie)
+[00:40] <Mind_Booster> turning that to HEX is piting that on base 16
+[00:41] <Mind_Booster> so the characters are not 0/1 but 0, 
+1,2,3,4,5,6,7,8,9,A,B,C,D,E,F
+[00:41] *** Mind_Booster sets mode: -m
+[00:41] <Mind_Booster> anby kestions so far?
+[00:41] <ringZero> lol
+[00:41] <Renton> a = 10 b = 11 c =12 d =13 e =14 f =15
+[00:41] <`BoB`> when is another lesson
+[00:41] <yegz> lol
+[00:41] <Mind_Booster> yes
+[00:41] <`BoB`> hehehe
+[00:41] <Effo> A = 10, so in binary it will be: 1010 ???
+[00:41] <Mind_Booster> so...
+[00:41] <`BoB`> i understand nothing bout this hex thing
+[00:42] <Mind_Booster> NO!
+[00:42] <Mind_Booster> listen
+[00:42] <GenX> so hex relates to binary or is independant?
+[00:42] <Mind_Booster> machines are a bunch of electronic crap, right?
+[00:42] <`BoB`> yep
+[00:42] <Rainstorm> yes
+[00:42] <Mind_Booster> so they opnly understand if there's  electricity 
+passing or not
+[00:42] <Mind_Booster> (1 or 0)
+[00:42] <Mind_Booster> so...
+[00:42] * ringZero lights a petrol doused paper jet and sends it over to 
+chippy ;)
+[00:42] <Mind_Booster> information has to be on ones and zeros
+[00:43] <_CryX_> 1 (true) 0 (false)
+[00:43] <Renton> they understand volts and ampers i think
+[00:43] <GenX> matrix
+[00:43] * mindless ducks
+[00:43] <yegz> can i try and explain to bob ??
+[00:43] <`BoB`> lol
+[00:43] <Mind_Booster> Renton, no they don't, there's another story, maybe 
+another lecture :P
+[00:43] <`BoB`> sure
+[00:43] <Mind_Booster> yegz, explain later off
+[00:43] <Renton> if 5 volts pass its 1
+[00:43] <Mind_Booster> please
+[00:43] <yegz> np :)
+[00:43] <Mind_Booster> :)
+[00:44] <Mind_Booster> so...
+[00:44] <DeStInAtIoN> listen
+[00:44] <Effo> Mind_Booster, +m
+[00:44] <`BoB`> i'm listening
+[00:44] <Mind_Booster> to have a more understandable language
+[00:44] <DeStInAtIoN> to mind_booster
+[00:44] *** mishelino has left #bsrf
+[00:44] *** cha0s has joined #bsrf
+[00:44] <`BoB`> :)
+[00:44] <Mind_Booster> we can pass that 0/1 to Hexadecimal language
+[00:44] <DeStInAtIoN> yes plz
+[00:45] <Mind_Booster> all you understand now?
+[00:45] <Mind_Booster> I guess so :P
+[00:45] <Effo> no
+[00:45] <Mind_Booster> Effo, what'sd the fucking problem now?
+[00:45] <`BoB`> me neither, but yegz will explain later :)
+[00:45] <yegz> of course :)
+[00:45] * DeStInAtIoN says download a hex-editor forst when you join a hex 
+lecture
+[00:45] <Effo> Mind_Booster, dunno what's the problem
+[00:45] <_CryX_> lol
+[00:45] <Effo> i didnt understand ;)
+[00:45] <`BoB`> where do u get that?
+[00:46] <Mind_Booster> ppl, I'll modeate, sorry
+[00:46] *** Mind_Booster sets mode: +m
+[00:46] <Mind_Booster> ouf.. :)
+[00:46] <Mind_Booster> well, and last time for Effo, is information is 
+passed electronicly by using 0/1's
+[00:46] <Mind_Booster> then you have numbers in decimal
+[00:47] <Mind_Booster> you can pass those numbers to a 0-9 klanguage
+[00:47] <Mind_Booster> (that where 2+2=4 :P   )
+[00:47] <Mind_Booster> or, in this case
+[00:47] <Mind_Booster> Haxa decima
+[00:47] <Mind_Booster> that's when you don't have 2 charaters
+[00:47] <Mind_Booster> (0/1)
+[00:47] <Mind_Booster> nor 10
+[00:48] <Mind_Booster> (0,1,2,3,4,5,6,7,8,9)
+[00:48] <Mind_Booster> but 16!
+[00:48] <Mind_Booster> (0,1,2,3,...,9,A,B,C,D,E,F)
+[00:48] <Mind_Booster> done
+[00:48] <Mind_Booster> so...
+[00:48] <Mind_Booster> what's HEX Hack?
+[00:49] <Mind_Booster> It's, in the most basic way, read information
+[00:49] <Mind_Booster> by putting it in HEXADECIMAL language
+[00:49] <Mind_Booster> you can do this with anything...
+[00:50] <Mind_Booster> mostly on binaries (youre Windoze *.exe files)
+[00:50] <Mind_Booster> so, now, I'm going to purpose you to download 
+everyone an Hex Editor
+[00:50] <Mind_Booster> if you have one stay with it
+[00:50] * Cypher is away: auto-dead after 15 minutes [l\on] [p\on]
+[00:51] <Mind_Booster> if you have not just download one
+[00:51] <Mind_Booster> there's in my page
+[00:51] <Mind_Booster> a simple and basic one
+[00:51] <Mind_Booster> for DOS
+[00:51] <Mind_Booster> (I fucked the linux version - sorry)
+[00:51] <Mind_Booster> http://student.dei.uc.pt/~marado/HEX.EXE
+[00:51] <Mind_Booster> you can download it here
+[00:52] *** Mind_Booster sets mode: -m
+[00:52] <yegz> alright ..
+[00:52] <`BoB`> and it works under dos
+[00:52] <Mind_Booster> when you all have one HEX editor...
+[00:52] <yegz> bob : u understand now ?
+[00:52] <Tyler> yo, when did baller leave?
+[00:52] <Tyler> shit
+[00:52] <ringZero> any recommendatoins ?
+[00:52] <Mind_Booster> I'll go on
+[00:52] <Spit> inorder to hack into a system i need to have a shell acount 
+on their system. to get a shell acount i need to find the passwd file but i 
+cant the file because i have no way of loging in. What can i do?
+[00:52] <GenX> a hex editor translates what to what??
+[00:52] <Effo> error 403
+[00:52] *** Tyler is now known as Tyl3r
+[00:52] <ringZero> ok
+[00:52] <Effo> forbidden
+[00:52] <_CryX_> do you have the source code ?
+[00:52] <Effo> i cant download from that link !!!
+[00:52] <DeStInAtIoN> tsss listing to MIND_BOOSTER !!!!!
+[00:52] <yegz> effo : get a hex editor called HexIt ..
+[00:52] <yegz> it is god
+[00:52] <Effo> where ??
+[00:53] <yegz> it is good
+[00:53] <Mind_Booster> Spit, that's not in concern of this lecture
+[00:53] <`BoB`> where
+[00:53] <Mind_Booster> post your doubt on BSRF BBS
+[00:53] <Tyl3r> what decompiler should we use?
+[00:53] <yegz> dunno ..
+[00:53] <Spit> k sorry
+[00:53] <Renton> leave the man to talk ..
+[00:53] <yegz> but if u find it
+[00:53] <_CryX_> i gtg
+[00:53] <_CryX_> chow
+[00:53] <_CryX_> cheers ringZero
+[00:53] <yegz> cya
+[00:54] <`BoB`> later
+[00:54] <_CryX_> chow yegz
+[00:54] <DeStInAtIoN> people just listinen and try the hex-edit program 
+later you will understeand when you have a hex editor ..so only listen
+[00:54] *** _CryX_ has left #bsrf
+[00:54] <Mind_Booster> only you Effo can't download it, I can and the other 
+can!
+[00:54] <Effo> ;(
+[00:54] <ringZero> heh
+[00:54] <DeStInAtIoN> Effe press this link 
+http://download.cnet.com/downloads/1,10150,0-10001-103-0-1-7,00.html?tag=st%2Edl%2E10001%2Esbsr&qt=hex+edit&cn=&ca=10001
+[00:54] <Effo> Forbidden
+[00:55] <Mind_Booster> I hope you all have the HEX Editor, to try some shit 
+later...
+[00:55] <Effo> You don't have permission to access /~marado/HEX.EXE on this 
+server.
+[00:55] <Effo> 
+--------------------------------------------------------------------------------
+[00:55] <Effo> Apache/1.3.12 Server at student.dei.uc.pt Port 80
+[00:55] <Renton> i can use Edit or i should d/l something else?
+[00:55] <`BoB`> Forbidden
+[00:55] <`BoB`> You don't have permission to access /~marado/HEX.EXE on this 
+server.
+[00:55] <`BoB`> 
+--------------------------------------------------------------------------------
+[00:55] <`BoB`> Forbidden
+[00:55] <`BoB`> You don't have permission to access /~marado/HEX.EXE on this 
+server.
+[00:55] <`BoB`> 
+--------------------------------------------------------------------------------
+[00:55] <ringZero> oo ooo Effo : try ftp bounce attack to retrive it
+[00:55] <`BoB`> Forbidden
+[00:55] <`BoB`> You don't have permission to access /~marado/HEX.EXE on this 
+server.
+[00:55] <`BoB`> 
+--------------------------------------------------------------------------------
+[00:55] <Mind_Booster> Effo, calm down man, don«'t make me moderate 
+again!!!!
+[00:55] <ringZero> that could be exiting :P
+[00:55] <`BoB`> Forbidden
+[00:55] <`BoB`> You don't have permission to access /~marado/HEX.EXE on this 
+server.
+[00:55] <`BoB`> 
+--------------------------------------------------------------------------------
+[00:55] *** Mind_Booster sets mode: +m
+[00:55] <Mind_Booster> Sorry
+[00:55] <Mind_Booster> if you somehow can't get that editor
+[00:56] <Mind_Booster> take this:
+[00:56] <Mind_Booster> 
+http://download.cnet.com/downloads/1,10150,0-10001-103-0-1-7,00.html?tag=st%2Edl%2E10001%2Esbsr&qt=hex+edit&cn=&ca=10001
+[00:56] <Mind_Booster> ok...
+[00:56] <Mind_Booster> let's go to the example I said I'll take to explain 
+this...
+[00:56] <Mind_Booster> I'll do an example
+[00:57] <Mind_Booster> that's related with Windoze
+[00:57] <Mind_Booster> Is a simple spoof on a date value
+[00:57] *** _Virus- has joined #bsrf
+[00:57] <Mind_Booster> that's stored in the registry
+[00:57] <Mind_Booster> But doing the Hack yourselves
+[00:58] <Mind_Booster> makes you all understand what0's actually going on
+[00:58] <Mind_Booster> and will give you the confidence that you'll succeed
+[00:58] <Mind_Booster> sorry if I don't answer the privates... :P
+[00:59] *** bomb8595 has joined #bsrf
+[00:59] <Mind_Booster> So the example is about Hex Workshop
+[00:59] <Mind_Booster> Hex Workshop is a hex-editing program for Windows 95
+[00:59] *** Effo has left #bsrf
+[00:59] *** Effo has joined #bsrf
+[00:59] <Mind_Booster> from BreakPoint Software
+[01:00] <Mind_Booster> When I downloaded the trial version of Hex Workshop 
+v2.54
+[01:00] <Mind_Booster> and installed it
+[01:00] *** _C0balt_ has joined #bsrf
+[01:00] <Mind_Booster> it told me I have a 90 day trial edition of this 
+software
+[01:01] <Mind_Booster> Next time I run it
+[01:01] <Mind_Booster> 5 secs later
+[01:01] <Mind_Booster> It said the time was over and that I has only 14 days 
+to register the software"
+[01:02] *** Njan has joined #bsrf
+[01:02] *** ChanServ sets mode: +oa Njan Njan
+[01:02] <Njan> Hello there.
+[01:02] <Mind_Booster> I started wondering how the time was calculated by 
+this program so...
+[01:02] <Mind_Booster> assuming that my clock was set to May 11, 1980 was a 
+root of the problem i started to investigate
+[01:03] <Mind_Booster> hi Njan
+[01:03] * Njan nods at Mind_Booster
+[01:03] *** Mind_Booster sets mode: -m
+[01:03] <Mind_Booster> doubts so far?
+[01:03] <Renton> should we d/l the Hex Workshop?
+[01:03] *** `BoB` has quit IRC (Ping timeout)
+[01:03] *** [B_Real] has joined #bsrf
+[01:03] <DeStInAtIoN> yes but not now
+[01:03] <Renton> ok
+[01:04] <Mind_Booster> wright
+[01:04] <Mind_Booster> so...
+[01:04] <DeStInAtIoN> plz go on mind_booster .....
+[01:04] <Mind_Booster> so far so good
+[01:04] <Renton> yep
+[01:04] <CrEeP> where do we download hex workshop?? i havent heard
+[01:04] *** Njan has quit IRC (Quit: Back later.)
+[01:04] <Mind_Booster> The program has 2 different security mechanisms built 
+in
+[01:05] <Mind_Booster> one was that if you put the right serial nimber you 
+would get the registred version
+[01:05] <Mind_Booster> and other is that if you don't use the program for 90 
+days it will stop working
+[01:06] <Mind_Booster> For HEX Hack I'll take only the second...
+[01:06] <Mind_Booster> what0's good in hacking non-network programs
+[01:06] <Mind_Booster> is that the question is all it in front of you
+[01:06] <Mind_Booster> you have all data you need...
+[01:07] *** Cypher has quit IRC (Quit: cya everyone)
+[01:07] *** bomb8595 has left #bsrf
+[01:07] <DeStInAtIoN> to get  more expersions
+[01:07] <Mind_Booster> if u don't understanfd what's up
+[01:07] <Mind_Booster> you'll never crack it
+[01:07] <Mind_Booster> so you 1st have to understand the hole problem
+[01:08] <Mind_Booster> If the program is TIME LIMITED
+[01:08] <Mind_Booster> it must have a DATE somewere, right?
+[01:08] <DeStInAtIoN> may i ask something
+[01:08] <Mind_Booster> so
+[01:08] <DeStInAtIoN> if i open a exe file
+[01:08] <Mind_Booster> u only have to find out where's the date
+[01:08] <GenX> dont progs have a trip command/code so that if u try and edit 
+it, they stop working?
+[01:08] <DeStInAtIoN> then i can't see where they put the data
+[01:08] <Mind_Booster> and how
+[01:09] <Mind_Booster> GenX
+[01:09] *** Griever[HeadCold] has joined #bsrf
+[01:09] <Mind_Booster> GenX, yes, some of them...
+[01:09] <DeStInAtIoN> so how must i see where they put it
+[01:09] <yegz> y not use a disassembler
+[01:09] <Mind_Booster> so well have to be smarter
+[01:09] <yegz> like woftice ?
+[01:09] *** ding-away has joined #bsrf
+[01:09] <yegz> softice or windasm ?
+[01:09] *** Griever[HeadCold] has quit IRC (Quit: Be afraid, I have a large 
+hat for pants)
+[01:09] *** ringZero has quit IRC (Quit: Mind_Booster gives shitty 
+non-interactive lectures on subjects that newbies should have as)
+[01:09] <Mind_Booster> listen please...
+[01:09] *** `BoB` has joined #bsrf
+[01:10] <Mind_Booster> if you edit the program you'll are less probability 
+to find out a way
+[01:10] <Mind_Booster> and more of messing up the program
+[01:10] <Mind_Booster> so
+[01:10] <Mind_Booster> ANY IDEIAS?
+[01:10] <Effo> keep the file the same size
+[01:11] *** Tyl3r has quit IRC (Quit: phones.box.sk)
+[01:11] <Effo> keeping...
+[01:11] <DeStInAtIoN> use exespy
+[01:11] *** Tyl3r has joined #bsrf
+[01:11] <Mind_Booster> no
+[01:11] <DeStInAtIoN> ok
+[01:11] <Effo> why was i got pinged ??
+[01:11] <yegz> a disassembler
+[01:11] <Mind_Booster> If you can find where the date is stored and how, 
+you'll be a lot more sucessfull modifying it that modify directly the code!
+[01:11] <yegz> use that
+[01:12] <Mind_Booster> Good targets are small, suspicius files in the 
+program directory and the Windows Registry!!!
+[01:12] <Mind_Booster> SO...
+[01:12] <ding-away> ooo..windows registry...
+[01:12] <ding-away> what fun
+[01:12] <Mind_Booster> Let's try take a look on Windows Register
+[01:12] <Rainstorm> which key?
+[01:13] <Mind_Booster> running regedit and looking at
+[01:13] *** yegz has quit IRC (Quit: I am telling you , A disassembler works 
+better ... search for the registration, look for t)
+[01:13] <Rainstorm> ok
+[01:13] * DeStInAtIoN is smashing his head to the screen
+[01:13] <Effo> looking at... ???
+[01:13] * Renton slaps Renton around a bit with a large trout
+[01:13] <Mind_Booster> My 
+Computer/HKEY_LOCAL_MACHINE/SOFTWARE/BreackPoint/Hex Workshop/2.50
+[01:13] <Renton> where?
+[01:14] <Mind_Booster> looking to My 
+Computer/HKEY_LOCAL_MACHINE/SOFTWARE/BreackPoint/Hex Workshop/2.50
+[01:14] <Mind_Booster> there were two keys
+[01:14] <Effo> ok, i'm there...
+[01:14] <Mind_Booster> one was called Major
+[01:14] <Renton> i don't have this
+[01:14] <Renton> key
+[01:14] <Mind_Booster> the other was Minor
+[01:14] <Effo> major
+[01:14] <Effo> ;)
+[01:14] <GenX> every time u install the program on another comp u will have 
+to repeat editing the reg?
+[01:14] <Mind_Booster> no :P
+[01:15] <Mind_Booster> GenX, LINTEN!
+[01:15] <Mind_Booster> listen
+[01:15] <GenX> listening
+[01:15] <Mind_Booster> there were Major & Minor
+[01:15] *** ding-away has quit IRC (No route to host)
+[01:15] <Mind_Booster> and taking a guess I just erased them, and...
+[01:15] <Mind_Booster> BINGO!
+[01:16] <Mind_Booster> when I run the program it said there was the 1st time 
+I used that program!!!
+[01:16] <DeStInAtIoN> Cewl
+[01:16] <DeStInAtIoN> that easy
+[01:16] <Mind_Booster> Do you think this is over?
+[01:16] <Mind_Booster> 'course not
+[01:16] <DeStInAtIoN> nope you mkae
+[01:16] <Mind_Booster> !!!
+[01:16] <Rainstorm> It'll start counting again
+[01:16] <Mind_Booster> that's not about HEX, it can't over by here :P
+[01:17] <Mind_Booster> so...
+[01:17] *** exec has quit IRC (Quit: )
+[01:17] <DeStInAtIoN> a reg file that overides evertime you reboot the pc
+[01:17] <Mind_Booster> I'm a curious motherfucker
+[01:17] <DeStInAtIoN> ok listening
+[01:17] <Mind_Booster> I mess with everything
+[01:17] *** [B_Real] has left #bsrf
+[01:17] <Mind_Booster> so I WANT TO KNOW how those MAJOR and MINOR keys 
+work!
+[01:17] <Mind_Booster> they were phe pieces of the puzzle!
+[01:18] <Mind_Booster> of course, like Rainstorm said, the program will 
+count again
+[01:18] <Mind_Booster> so there are once more those keys
+[01:18] *** Tyl3r has left #bsrf
+[01:18] *** Tyl3r has joined #bsrf
+[01:18] <Mind_Booster> I had to experiment some simple stuff
+[01:18] <Mind_Booster> ...
+[01:19] <Mind_Booster> I just played with Windows date
+[01:19] <Mind_Booster> and saw the effects on those keys!
+[01:19] <Mind_Booster> In comparison and a lot of tests
+[01:19] <Mind_Booster> I concluded that:
+[01:20] <Mind_Booster> The Minor key had to do with what step of security 
+were you at:
+[01:20] <Mind_Booster> Minor Value=00000000          Means Still Free
+[01:20] <Mind_Booster> Minor Value=AA000000          14 days left to 
+register
+[01:21] <DeStInAtIoN> cewl
+[01:21] <Mind_Booster> Minor Value=BB000000          Locked out!!!
+[01:21] <Mind_Booster> all you understood till now?
+[01:21] <Rainstorm> yep
+[01:21] <Effo> how did you figure that out ??
+[01:21] <GenX> yup
+[01:21] <DeStInAtIoN> but what has this to do with hex
+[01:21] <Mind_Booster> I just said it...
+[01:22] <Mind_Booster> those Minor Values are in Hexadecimal!
+[01:22] <Mind_Booster> but this is not over, oh no...
+[01:22] <DeStInAtIoN> heheh i get it
+[01:22] <Rainstorm> so change 'em to decimal
+[01:22] <Mind_Booster> r u forgetting about the Major key?
+[01:22] <Rainstorm> and let's see what we have got
+[01:22] <Mind_Booster> ccalme down please
+[01:23] <Mind_Booster> when the program hit the 14 day point
+[01:23] <Mind_Booster> it changed the Major key!!!
+[01:23] *** BigBoy has joined #bsrf
+[01:23] <Mind_Booster> Now...
+[01:23] <Mind_Booster> I figured out some more!
+[01:23] <BigBoy> hello to everybody
+[01:24] <BigBoy> may i ask a question?
+[01:24] <Mind_Booster> If the date is set to before January 1, 1990
+[01:24] <Mind_Booster> when running the program advanced the minor value at 
+one each time
+[01:24] <Mind_Booster> ask, but do it now
+[01:25] <BigBoy> where can i find a crack for the BPM 3.0?
+[01:25] <Mind_Booster> time out :P
+[01:25] <Mind_Booster> If the date is set to after Jan 18, 2038 then program 
+crashed everytime
+[01:25] <BigBoy> ja
+[01:26] <DeStInAtIoN> millenuim bug :)
+[01:26] <Mind_Booster> MORE I FIGURED OUT....
+[01:26] <Mind_Booster> advancing date by 1 decremented 4th bit by 1
+[01:26] *** baller has joined #bsrf
+[01:26] <Mind_Booster> advancing month by 1 decremented 2th bit by 1
+[01:27] <Mind_Booster> advancing year by 1 decremented last bit by 1
+[01:27] <Effo> i believe its 2nd
+[01:27] <Effo> and not 2th
+[01:27] *** Pupp3tM has joined #bsrf
+[01:27] <Effo> ;)
+[01:27] <Pupp3tM> hey all
+[01:27] <Mind_Booster> :))
+[01:27] <Mind_Booster> well
+[01:27] <DeStInAtIoN> shut up all and listing
+[01:28] <Mind_Booster> that swoed me and encrypted date with can only be 
+seen in HEX!
+[01:28] <BigBoy> i don't want to bother you, but could you answer me?
+[01:28] <Mind_Booster> When I start studying it it figured out to be REALLY 
+simple:
+[01:28] <Mind_Booster> BigBoy: Now we're in a lecturew, so...
+[01:29] <Mind_Booster> well
+[01:29] <Mind_Booster> it was really simple...
+[01:29] <Mind_Booster> the MAJOR formula was:
+[01:29] -BigBoy-  l o o k s h a r p  2.5j    http://www.looksharp.com.ar    
+AntiSpaM
+[01:29] <Mind_Booster> now I', going to draw something
+[01:29] <Mind_Booster> ------------------------------------------
+[01:30] <Mind_Booster> YYYY      MEANS      DD      MEANS      MM      MEANS
+[01:30] <Mind_Booster> oops
+[01:30] *** aiyo has joined #bsrf
+[01:30] <Mind_Booster> oopsdo it again...
+[01:30] <Mind_Booster> ------------------------------------------
+[01:30] <Mind_Booster> YYYY    MEANS    DD    MEANS    MM    MEANS
+[01:31] <Mind_Booster> F843    1980    E0    31       FB    JAN
+[01:31] <Mind_Booster> F842    1981    E1     30       FA    FEB
+[01:32] <Mind_Booster> F841    1982    E2     29       F9    MAR
+[01:32] <Mind_Booster> ...
+[01:32] *** GenX has quit IRC (Quit: Could someone send me the log at 
+rasta@ziplip.com)
+[01:32] <Effo> in my PC is like that: f3f5f82f
+[01:32] <Mind_Booster> F839    1990    EF     16       F6    JUN
+[01:32] <Effo> wtf does that mean ?
+[01:32] <DeStInAtIoN> i don't get that advancing thing...advancing date by 1 
+decremented 4th bit by 1 ???? what does it mean
+[01:32] *** Alex has joined #bsrf
+[01:33] <Mind_Booster> I could continue
+[01:33] <Mind_Booster> but I'll explain what's here
+[01:33] <Mind_Booster> so...
+[01:33] *** Pupp3tM has quit IRC (Quit: so...)
+[01:33] *** QmD has joined #bsrf
+[01:33] <Mind_Booster> starting by Years
+[01:33] <Renton> wait because someone must have been confused.
+[01:33] <Mind_Booster> you have 1980
+[01:33] *** StS has joined #bsrf
+[01:33] *** baller has quit IRC (Ping timeout)
+[01:34] <Mind_Booster> year 1980 = F843
+[01:34] <Mind_Booster> year 1981 = F842
+[01:34] <Mind_Booster> year 1982 = F841
+[01:34] <Mind_Booster> does that sounds like a padron?
+[01:34] <DeStInAtIoN> that easy
+[01:34] <Renton> to translate F843 to 1980 u take f843 from hex and do it on 
+binary and binary to decimal ?
+[01:35] <Mind_Booster> no renton
+[01:35] <Mind_Booster> they piked up a base, whatever it is
+[01:35] <DeStInAtIoN> it not important to know
+[01:35] <Renton> so how did u do it?
+[01:35] <Renton> quess?
+[01:35] <Mind_Booster> starting in 1980 and knowing than it equals F843
+[01:35] <Mind_Booster> messing up to windows date, that simple!
+[01:35] <Mind_Booster> LISTEN PLEASE
+[01:36] <Mind_Booster> the only secret here is:
+[01:36] <Mind_Booster> you have two numbers
+[01:36] <Mind_Booster> and having one you want to figue out the other
+[01:36] <Mind_Booster> one is decimal, other HEX
+[01:36] <Mind_Booster> so...
+[01:36] <Renton> ok
+[01:36] <Mind_Booster> you pick one you know it's correct
+[01:37] <Mind_Booster> I'll choose 1980 - F843
+[01:37] <cha0s> I dont have to bother explaining... Everyone: 2600 magazine. 
+Volume Seventeen. Number 2. Summer 2000. Page 41. you will understand better 
+that way... read for yourself!!
+[01:37] *** cha0s has quit IRC (Quit: cha0s)
+[01:37] <Mind_Booster> now I'll try to figure out how it's the year 
+calculated in HEX
+[01:37] *** aiyo has quit IRC (Quit: Leaving)
+[01:37] <Mind_Booster> Laughs Out Loud
+[01:38] <DeStInAtIoN> \3 ,
+[01:38] <DeStInAtIoN> oops sorry
+[01:40] <DeStInAtIoN> go on please ...plz
+[01:40] *** DeStInAtIoN has quit IRC (Connection reset by peer)
+[01:40] <Mind_Booster> well...
+[01:40] <Mind_Booster> I'll choose 1980 - F843
+[01:41] *** DeStInAtIoN has joined #bsrf
+[01:41] *** BigBoy has quit IRC (Quit: good users don't use colored quits)
+[01:41] <Mind_Booster> now I have to see how to calculate other dates
+[01:41] <Mind_Booster> so...
+[01:42] <Mind_Booster> I'll pick 1981!
+[01:42] <Mind_Booster> And I see...
+[01:42] <Mind_Booster> 1981 - F842
+[01:42] <Mind_Booster> so?
+[01:43] <Mind_Booster> I figured out that one more year in normal notation
+[01:43] <Mind_Booster> one less on HEX
+[01:43] <Mind_Booster> let's try...
+[01:43] <Mind_Booster> now 1982 must ne F841
+[01:43] <Mind_Booster> is it?YES IT IS!
+[01:43] <Mind_Booster> now...
+[01:43] <`BoB`> hey mind booster where u from
+[01:44] <Mind_Booster> 1982 will be F840
+[01:44] <Mind_Booster> who can tell me witch is the HEX value for 1983?
+[01:44] <Mind_Booster> Portugal
+[01:44] <Rainstorm> 1983 will be F840
+[01:44] <DeStInAtIoN> f842
+[01:44] <`BoB`> F842
+[01:45] <Renton> wait..
+[01:45] <Mind_Booster> yes 1983 will be F840
+[01:45] <Mind_Booster> and 1984?
+[01:45] <Renton> 1982 is f841 or f840?
+[01:45] <`BoB`> f840
+[01:45] <Effo> F83F
+[01:45] <Rainstorm> 1983 will be F83F?
+[01:45] *** CrEeP has quit IRC (Ping timeout)
+[01:45] <`BoB`> i dunno i'm guessing
+[01:46] <`BoB`> ;(
+[01:46] <DeStInAtIoN> F839
+[01:46] <Renton> f83f
+[01:46] <DeStInAtIoN> f83f f=9
+[01:46] <Effo> DeStInAtIoN, base 16
+[01:46] *** _Virus- has quit IRC (Quit: good users don't use colored quits)
+[01:46] <Effo> f = 16
+[01:46] <Effo> base 16
+[01:46] <Mind_Booster> F83F, right!
+[01:46] <Renton> f = 15
+[01:46] <Mind_Booster> because before 3 is 2
+[01:46] <Effo> or f = 15...
+[01:46] <Mind_Booster> before 2 is 1
+[01:46] <Rainstorm> :)
+[01:46] <StS> learn math, peoplez!!!!!!
+[01:46] <Mind_Booster> before 1 is 0
+[01:47] <Mind_Booster> before 0 is F
+[01:47] <Effo> F = 15
+[01:47] <Mind_Booster> before 0 is E!!!
+[01:47] <Renton> f =15 on base 16.
+[01:47] *** cha0s has joined #bsrf
+[01:47] <Mind_Booster> I told you this on thew beggining of the lecture!
+[01:47] *** Death1 has joined #bsrf
+[01:47] <`BoB`> i wish they had lectures like these on linux, so u learn 
+trough a shell account
+[01:47] <Renton> before F is E.
+[01:47] <Mind_Booster> course!
+[01:48] <Mind_Booster> so, now YEAR is over
+[01:48] <Renton> u said before 0 is e
+[01:48] <Mind_Booster> if you see in the table (up there)
+[01:48] <Mind_Booster> oops
+[01:48] <Mind_Booster> before 0 is F and before F is E
+[01:48] <Death1> since your talking about linux can anyone tell me about 
+root access, i.e. is it needed to get the shadowed part of a password file?
+[01:48] <Mind_Booster> if you see in the table (up there)
+[01:49] *** QmD has quit IRC (Quit: Leaving)
+[01:49] <Mind_Booster> you'll see that's similar in Day!
+[01:49] <Mind_Booster> day 31 is E0
+[01:49] <Mind_Booster> day 30 is E1
+[01:49] <Mind_Booster> day 29 is E2!
+[01:49] <Mind_Booster> the same sequence
+[01:49] <Mind_Booster> the same to months too!
+[01:49] <cha0s> ducks.....
+[01:50] <Effo> how did you found out that 31 = E0 ???
+[01:50] *** cha0s has left #bsrf
+[01:51] *** Tyl3r has quit IRC (Quit: phones.box.sk)
+[01:51] <Mind_Booster> just put day 30 and saw in Major what was there!
+[01:51] *** Tyl3r has joined #bsrf
+[01:51] *** Esamurai has joined #bsrf
+[01:51] *** `BoB` has quit IRC (Quit: c ya all i'll be back later :))))
+[01:51] <Effo> put where ???
+[01:51] <Mind_Booster> so...
+[01:51] <Death1> bye
+[01:51] *** Death1 has left #bsrf
+[01:51] <Mind_Booster> The lecture is about to end
+[01:51] <Rainstorm> effo: tests are important
+[01:51] *** _C0balt_ has quit IRC (Quit: Leaving)
+[01:51] <Mind_Booster> CHANGED WINDOWS DATE
+[01:51] <Effo> ohh...
+[01:52] <Effo> ok
+[01:52] <Effo> ;)
+[01:52] <Mind_Booster> so...
+[01:52] <Mind_Booster> I think that's it
+[01:52] <Mind_Booster> what's the point of all this?
+[01:52] <Effo> who logged this ???
+[01:52] <Rainstorm> I did
+[01:52] <Mind_Booster> I did
+[01:52] <Mind_Booster> what's the point of all this?
+[01:52] <Effo> i did too...
+[01:52] <DeStInAtIoN> how must i log?
+[01:53] <Effo> ;)
+[01:53] <Esamurai> will it be posted on bsrf?
+[01:53] <Renton> can someone send it to me plz?
+[01:53] <Mind_Booster> It's not over
+[01:53] <Esamurai> mind: u gonna post it on ure site?
+[01:53] <Effo> Mind_Booster, Please Continue
+[01:53] *** Mind_Booster sets mode: +m
+[01:53] <Mind_Booster> CONCLUSIONS WE CAN TAKE?
+[01:54] <Mind_Booster> 1st - Never think that the data that's in number are 
+in decimal...
+[01:54] <Mind_Booster> the same as saying that you can not understand whats 
+happening becouse you think that after 5 there's a 6 but may there's a 0 
+again!
+[01:55] <Mind_Booster> 2nd - HEX edit works with HEX numbers, so you'll have 
+to understand that all is translated to numbers, and you'll have to work in 
+a sistem that goes from 0 to F
+[01:56] <Mind_Booster> 3rd - Programs are difficult to edit, too much 
+information in there.
+[01:56] <Mind_Booster> You have to think in the question first
+[01:56] <Mind_Booster> figure out all the points
+[01:56] <Mind_Booster> if program stores things in other places, let's see 
+what he stores, not edit the program!
+[01:57] <Mind_Booster> 4rth and last - Windows Register has almost all the 
+info
+[01:57] <Mind_Booster> all the cracks that you love
+[01:57] <Mind_Booster> almost all messes with register
+[01:58] *** Spit has left #bsrf
+[01:58] <Mind_Booster> and register has his things in a easy way, you just 
+have to undertand them!
+[01:58] <Mind_Booster> oh - all in HEX
+[01:58] <Mind_Booster> Hehehe
+[01:58] *** Shamalamastreetman has joined #bsrf
+[01:59] <Mind_Booster> Stay Cold and think at your problem, look for the 
+right point of concert, then... Explore it!
+[01:59] <Mind_Booster> That0's all
+[01:59] <Mind_Booster> If you have any doubts
+[02:00] <Mind_Booster> you can ask me, my page is www.mindbooster.net and my 
+mail is mbooster2freeshell.org
+[02:00] <Mind_Booster> I'm up to do another lecture soon...
+[02:00] <Mind_Booster> maybe about Digital Sistems, I noticed you're weak 
+there...
+[02:01] <Mind_Booster> the log of this lecture will be osted on my webpage 
+in less than an half a hour
+[02:01] <Mind_Booster> be well...
+[02:01] <Mind_Booster> ---- END -----
+_________________________________________________________________________
+Thanks to BSRF crew for let me do this and to Zarathustra for the example
+_________________________________________________________________________
+
