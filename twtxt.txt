@@ -8048,3 +8048,4 @@ QueremTresolver através do Dto Concorrência um problema de Dto Autor causado p
 2020-04-10T23:55:07+01:00	Lifetime SD Cards on a Raspberry Pi 1 are sorely short. This one survived 5 months...
 2020-04-11T01:33:36+01:00	@<epifanio https://tilde.pt/~epifanio/twtxt.txt>: nice duck, but it doesn't work very well with a client... https://imgur.com/a/DSD0Bxb
 2020-04-12T18:05:52+01:00	@<epifanio https://tilde.pt/~epifanio/twtxt.txt> maybe... ASCII art one-liners are a thing! °j°m
+2020-04-13T12:51:09+01:00	@<gil https://tilde.pt/~gil/twtxt.txt> are you using https://github.com/mdom/txtnish ?
