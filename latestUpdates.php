@@ -21,21 +21,25 @@ echo "<h1>Últimas Actualizações</h1>";
 
 function searchDir($target) {
 	global $files;
-	if (strpos($target, '/./') === false && strpos($target, '/../') === false) {
-		echo "<!-- DEBUG: going to scandir($target) -->\n";
-		$results = scandir($target);
-		forEach($results as $item) {
-			if(is_file($target.$item)) {
-				//echo filemtime($target.$item).' '.$target.$item;
-				$ext = pathinfo($target.$item, PATHINFO_EXTENSION);
-				//excluded extentions
-				if(!in_array($ext, ["swp"])) {
-				array_push($files, ['modified' => filemtime($target.$item), 'path' =>  $target.$item]);
+	if(is_dir($target) && is_readable($target)) {
+		if (strpos($target, '/./') === false && strpos($target, '/../') === false) {
+			echo "<!-- DEBUG: going to scandir($target) -->\n";
+			$results = scandir($target);
+			forEach($results as $item) {
+				if(is_file($target.$item)) {
+					//echo filemtime($target.$item).' '.$target.$item;
+					$ext = pathinfo($target.$item, PATHINFO_EXTENSION);
+					//excluded extentions
+					if(!in_array($ext, ["swp"])) {
+					array_push($files, ['modified' => filemtime($target.$item), 'path' =>  $target.$item]);
+					}
+				} else if(is_dir($target.$item)){
+					searchDir($target.$item."/");
 				}
-			} else if(is_dir($target.$item)){
-				searchDir($target.$item."/");
 			}
 		}
+	} else {
+		echo "<!-- DEBUG: chose not scan $target -->\n";
 	}
 }
 
