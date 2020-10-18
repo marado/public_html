@@ -131,6 +131,8 @@ div.period {
 	float: right;
 	}
 
+div.lang { text-align: right; }
+
 @media all and (min-width: 0px) {
 div.period { 
 	margin-top: 0;
