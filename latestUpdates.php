@@ -29,12 +29,15 @@ function searchDir($target) {
 				if(is_file($target.$item)) {
 					//echo filemtime($target.$item).' '.$target.$item;
 					$ext = pathinfo($target.$item, PATHINFO_EXTENSION);
-					//excluded extentions
+					// excluded extentions
 					if(!in_array($ext, ["swp"])) {
 					array_push($files, ['modified' => filemtime($target.$item), 'path' =>  $target.$item]);
 					}
 				} else if(is_dir($target.$item)){
-					searchDir($target.$item."/");
+					// excluded dirs
+					if(!in_array($item, [".git"])) {
+						searchDir($target.$item."/");
+					}
 				}
 			}
 		}
