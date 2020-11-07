@@ -19,9 +19,9 @@
 # visualizer = https://tilde.pt/~marado/twtxt.php
 #
 # You can find the previous decade of 201x (2010-2019) at:
-# next_nick = marado-201x
-# next_url = https://tilde.pt/~marado/twtxt-201x.txt
-# next_visualizer = https://tilde.pt/~marado/twtxt-201x.php
+# prev_nick = marado-201x
+# prev_url = https://tilde.pt/~marado/twtxt-201x.txt
+# prev_visualizer = https://tilde.pt/~marado/twtxt-201x.php
 #
 # == Content ==
 #
