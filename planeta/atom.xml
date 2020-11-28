@@ -1,0 +1,898 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:planet="http://planet.intertwingly.net/" xmlns:indexing="urn:atom-extension:indexing" indexing:index="no"><access:restriction xmlns:access="http://www.bloglines.com/about/specs/fac-1.0" relationship="deny"/>
+  <title>Planeta Tilde</title>
+  <updated>2020-11-28T22:20:02Z</updated>
+  <generator uri="http://intertwingly.net/code/venus/">Venus</generator>
+  <author>
+    <name>Marcos Marado</name>
+    <email>mindboosternoori@gmail.com</email>
+  </author>
+  <id>http://tilde.pt/~marado/atom.xml</id>
+  <link href="http://tilde.pt/~marado/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="http://tilde.pt/~marado/planeta" rel="alternate"/>
+
+  <entry xml:lang="en">
+    <id>https://tilde.pt/~epifanio/blog/./o-tildept-num-verdadeiro-computador-retro.html</id>
+    <link href="https://tilde.pt/~epifanio/blog/o-tildept-num-verdadeiro-computador-retro.html" rel="alternate" type="text/html"/>
+    <title>O tilde.pt num verdadeiro computador retro</title>
+    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>O HTML, quando bem feito e quando não precisa de muito mais do que apresentar informação textual, pode e deve ser feito de forma a que seja de fácil leitura no maior número de browsers e dispositivos: computadores tradicionais, tablets, telemóveis e até mesmo browsers sem suporte para CSS como terminais de texto ou browsers para invisuais.</p>
+
+<p>A melhor forma de o fazer, tipicamente, é construir o HTML mais simples possível, que consiga ser de fácil leitura em software sem suporte para CSS. Só numa fase posterior é que se deverá dar maior atenção à componente visual, através de CSS e Javascript, para que seja apresentado de uma forma coisa jeitosa num browser mais moderno.</p>
+
+<p>Quis saber se o tilde.pt seria facilmente navegável na minha plataforma retro preferida: o <a href="https://pt.wikipedia.org/wiki/Amiga">Amiga</a>. Como browser usei o <a href="https://en.wikipedia.org/wiki/IBrowse">IBrowse</a> que, apesar de ter sido lançado há 23 anos atrás, teve uma actualização ainda este ano.</p>
+
+<p>Foi uma surpresa agradável. O tilde.pt passou com distinção no teste. Vejamos a homepage:</p>
+
+<p><img alt="homepage tilde.pt" src="https://tilde.pt/~epifanio/img/ibrowse_tilde_pt.jpg" title=""/> </p>
+
+<p>O espaço do <a href="https://tilde.pt/~rlafuente">rlafuente</a> também passou o teste:</p>
+
+<p><img alt="rlafuente" src="https://tilde.pt/~epifanio/img/ibrowse_rlafuente.jpg" title=""/></p>
+
+<p>E o <a href="https://tilde.pt/~marado">marado</a> provou que usar <em>tables</em> para construir o layout uma página html (em vez de <em>divs</em>) tem as suas vantagens. Vejam:</p>
+
+<p><img alt="marado" src="https://tilde.pt/~epifanio/img/ibrowse_marado.jpg" title=""/></p>
+
+<p>Como não há milagres, o <a href="https://tilde.pt/~aiscarvalho/users/">Hotel</a> (que é uma bela obra de arte) depende muito de CSS e é apresentado apenas como uma simples lista. Lanço o desafio à <a href="https://tilde.pt/~aiscarvalho/">aiscarvalho</a> para a construção de uma versão em ASCII art.</p>
+
+<p><img alt="hotel" src="https://tilde.pt/~epifanio/img/ibrowse_hotel.jpg" title=""/></p>
+
+<p>Uma nota final: o computador usado para este teste foi uma versão "moderna" do Amiga baseada em <a href="https://pt.wikipedia.org/wiki/Field-programmable_gate_array">FPGA</a>, uma <a href="https://www.apollo-accelerators.com/">Vampire V4 Standalone</a>. O sistema operativo é o Amiga OS 3.9 que infelizmente continua a ser proprietário devido a intermináveis guerras sobre a propriedade intelectual do mesmo. Felizmente temos o <a href="https://aros.sourceforge.io/">AROS 68k</a> que está a caminhar a passos largos para se tornar uma séria alternativa open-source ao velhinho Amiga OS.</p>
+
+<p>tags: <a href="https://tilde.pt/~epifanio/blog/tag_tilde.pt.html">tilde.pt</a>, <a href="https://tilde.pt/~epifanio/blog/tag_html.html">html</a>, <a href="https://tilde.pt/~epifanio/blog/tag_css.html">css</a>, <a href="https://tilde.pt/~epifanio/blog/tag_retro.html">retro</a>, <a href="https://tilde.pt/~epifanio/blog/tag_amiga.html">amiga</a></p>
+</div>
+    </summary>
+    <updated>2020-05-18T23:15:44Z</updated>
+    <author>
+      <name>~epifanio</name>
+    </author>
+    <source>
+      <id>https://tilde.pt/~epifanio/blog/index.html</id>
+      <link href="https://tilde.pt/~epifanio/blog/index.html" rel="alternate" type="text/html"/>
+      <link href="https://tilde.pt/~epifanio/blog/feed.rss" rel="self" type="application/rss+xml"/>
+      <subtitle>um blog na tildelândia</subtitle>
+      <title>o meu tildelog</title>
+      <updated>2020-05-18T23:20:54Z</updated>
+    </source>
+  </entry>
+
+  <entry xml:lang="en">
+    <id>https://tilde.pt/~marado/blog/./dia-mundial-da-internet.html</id>
+    <link href="https://tilde.pt/~marado/blog/dia-mundial-da-internet.html" rel="alternate" type="text/html"/>
+    <title>Dia Mundial da Internet</title>
+    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Feliz dia mundial da Internet! Sabias que...</p>
+
+<ul>
+<li>Há 30 anos atrás (1990) foi organizada a 1ª Convenção Portuguesa de Unix.</li>
+<li>Há 29 anos atrás (1991) foi montado o ".PT" ...</li>
+<li>Há 28 anos atrás (1992) o tld "PT" foi reconhecido. O primeiro talker Português foi criado.</li>
+<li>Há 27 anos atrás (1993) a EUNET <a href="https://drive.google.com/file/d/1R-7wYRGNRtJmUaY7i_CTgeIrFnvTWCRt/view">era assim</a>.</li>
+<li>Há 26 anos atrás (1994) teve lugar no LNEC, o seminário "Portugal na Internet". Ligar à internet em Portugal era assim:</li>
+</ul>
+
+<p><img alt="ligar &#xE0; Internet em Portugal, em 1994" src="https://raw.githubusercontent.com/marado/selva-presentation/master/EUnet.png" title=""/></p>
+
+<ul>
+<li>Há 25 anos atrás (1995) foi fundado o SAPO, na Universidade de Aveiro.</li>
+<li>Há 24 anos atrás (1996) existem 10 entidades com licença para prestação de Serviços de Telecomunicações Complementares Fixos, no âmbito dos quais se pode enquadrar o acesso à Internet.</li>
+<li>Há 23 anos atrás (1997) a PTNET, a maior rede de IRC Portuguesa, foi criada. Pulhas, Toxyn e KaotiK iniciam a sua campanha de hacktivismo por causa da ocupação a Timor.</li>
+<li>Há 22 anos atrás (1998) a Saber &amp; Lazer - Informática compra o SAPO.</li>
+<li>Há 21 anos atrás (1999) a Sonaecom cria a Novis, resultante da compra da IP Global, e a marca Clix para o mercado residencial. A Esoterica é comprada pela VIA NET.WORKS.</li>
+<li>Há 20 anos atrás (2000) a EUnet Portugal passa a KPNQwest.</li>
+<li>Há 19 anos atrás (2001) a ANSOL - Associação Nacional para o Software Livre, é anunciada, durante a edição de 2001 do "Porto, Cidade Tecnológica".</li>
+<li>Há 18 anos atŕas (2002) tanto o SAPO como o Clix lançam as suas ofertas de ADSL.</li>
+<li>Há 17 anos atrás (2003) a moda dos blogs chega em força a Portugal, com a criação do serviço SAPO Blogs.</li>
+<li>Há 16 anos atrás (2004) a Novis adquiriu a KPNQwest Portugal (antiga EUNet Portugal), ficando assim com o legado do primeiro ISP em Portugal (ainda enquanto PUUG).</li>
+<li>Há 15 anos atrás (2005) o Clix lançou no mercado uma oferta de 16Mbps utilizando a tecnologia ADSL2+.</li>
+<li>Há 14 anos atrás (2006) o Clix lançou para o público a SmarTV, um serviço de Televisão Digital e Home Video utilizando o sistema IPTV sobre a tecnologia ADSL2+, sendo a primeira oferta em Portugal a utilizar esta tecnologia.</li>
+<li>Há 13 anos atrás (2007) a marca Novis foi incorporada pela marca Optimus. O evento SAPO Codebits teve a sua primeira edição.</li>
+<li>Há 12 anos atrás (2008) apareceu a Clix Fibra, a primeira oferta comercial em Portugal de ligação à internet através de fibra óptica.</li>
+</ul>
+
+<p>tags: <a href="https://tilde.pt/~marado/blog/tag_pt.html">pt</a>, <a href="https://tilde.pt/~marado/blog/tag_internet.html">internet</a>, <a href="https://tilde.pt/~marado/blog/tag_history.html">history</a></p>
+
+<p id="twitter"><a href="http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/dia-mundial-da-internet.html&amp;text=&lt;escreve o coment&#xE1;rio aqui mas deixa o URL para outras pessoas poderem seguir os coment&#xE1;rios&gt;&amp;via=mind_booster">comentários? tweetar</a> 
+<a href="https://twitter.com/search?q=https://tilde.pt/~marado/blog/dia-mundial-da-internet.html"><span id="count-3408"/></a> </p></div>
+    </summary>
+    <updated>2020-05-17T22:51:27Z</updated>
+    <author>
+      <name>~marado</name>
+    </author>
+    <source>
+      <id>https://tilde.pt/~marado/blog/index.html</id>
+      <link href="https://tilde.pt/~marado/blog/index.html" rel="alternate" type="text/html"/>
+      <link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml"/>
+      <subtitle>a tildelog on tildeverse</subtitle>
+      <title>~marado's tildelog</title>
+      <updated>2020-05-17T22:51:30Z</updated>
+    </source>
+  </entry>
+
+  <entry xml:lang="en">
+    <id>https://tilde.pt/~marado/blog/./contact-tracing.html</id>
+    <link href="https://tilde.pt/~marado/blog/contact-tracing.html" rel="alternate" type="text/html"/>
+    <title>Contact Tracing</title>
+    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p><em>Pensei fazer um tweet, e quando dei conta tinha monologado uma <a href="https://twitter.com/mind_booster/status/1259129049164775426">thread bem
+grande</a>. Para
+facilitar a sua leitura, decidi publicar essa thread aqui.</em></p>
+
+<p>O Ricardo Lafuente escreve mais um interessantíssimo
+<a href="https://tilde.pt/~rlafuente/blog/pensar-antes-de-instalar.html">artigo</a> no seu
+blog, desta vez sobre Contact Tracing.</p>
+
+<p>Todo o artigo é bom (e leitura recomendada), mas gosto principalmente por estas
+duas frases que, em meu entender, são as que metem o dedo bem mesmo na ferida:</p>
+
+<blockquote>
+  <p>Seria ótimo termos em mãos a informação sobre o que se pretende implementar
+em Portugal, mas não existe ainda qualquer documento formal a descrever o que
+se está a preparar, apenas comentário de imprensa.
+Não pode ser assim, se estamos a falar de uma decisão sócio-política com
+implicações que ainda não conseguimos quantificar enquanto sociedade, mas
+cujo desfecho definirá as nossas existências nos tempos que aí vêm.</p>
+</blockquote>
+
+<p>A meu ver, não podemos continuar a estar nesta situação em que aparentam
+estarem a testarem-se águas sobre várias soluções e a tentar formar opinião
+pública, sem que todas as cartas sejam postas em cima da mesa. É assim que
+temos coisas como <a href="https://twitter.com/decoproteste/status/1258350951653670913">este artigo da
+DECO</a>, ao mesmo
+tempo que temos a admissão, mesmo dos proponentes deste tipo de apps, que, na
+realidade, a privacidade não está garantida, apesar dos riscos estarem
+minimizados (supostamente: nos promenores, encontram-se diversos compromissos a
+serem tomados mas várias soluções).</p>
+
+<p>O artigo da DECO tb é apresentado como "país quer ARCs", quando na realidade os
+números que lá se vêm falam do inverso: afinal, "a maioria" pouco importa neste
+discurso, menos de 60% da população se voluntaria para o uso, e sem 60% estas
+apps são inúteis, dizem os estudos.</p>
+
+<p>De notar que, pelo que se vai sabendo <a href="https://jpn.up.pt/2020/04/30/covidapp-e-stayaway-duas-apps-portuguesas-que-rastream-casos-de-covid-19/">pela
+imprensa</a>,
+a "app oficial", apoiada pelo Governo, será a StayAway, do INESC TEC. Mais uma
+vez, só se sabe dessa app o que vai <a href="https://eco.sapo.pt/2020/05/04/esta-app-vai-dizer-lhe-se-esteve-perto-de-alguem-com-covid-19-saiba-como-vai-funcionar/">aparecendo na
+imprensa</a>,
+mas já com detalhes que levantam muitas questões.</p>
+
+<p>Mas será mesmo assim? Urge que o Governo seja claro e transparente. Vai mesmo
+adoptar uma ferramenta? Haverá ainda espaço para o debate público sobre esta
+matéria? A adoptar, será mesmo a StayAway? Se sim, há ainda espaço para debate
+sobre as decisões de arquitectura da solução?</p>
+
+<p>Urge termos respostas para estas perguntas. Até lá, será útil ler o <a href="https://www.acm.org/binaries/content/assets/public-policy/europe-tpc-contact-tracing-statement.pdf">artigo de
+ontem da
+ACM</a>
+sobre o tema. Destaco três frases:</p>
+
+<blockquote>
+  <p>No known tracing applications can fully preserve individual privacy and
+anonymity, while multiple technical issues hinder the ability to prove or
+assume the apps' accuracy.</p>
+
+<p>Moreover, high technical quality and functionality are insufficient for
+ensuring their efficacy.</p>
+
+<p>Mechanisms should be employed for seeking the public’s and civil society
+representatives’ comment on proposed contact tracing technology and all
+aspects of its intended deployment.</p>
+</blockquote>
+
+<p>tags: <a href="https://tilde.pt/~marado/blog/tag_pt.html">pt</a>, <a href="https://tilde.pt/~marado/blog/tag_tracing.html">tracing</a>, <a href="https://tilde.pt/~marado/blog/tag_COVID-19.html">COVID-19</a>, <a href="https://tilde.pt/~marado/blog/tag_privacy.html">privacy</a></p>
+
+
+<p id="twitter"><a href="http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/contact-tracing.html&amp;text=&lt;escreve o coment&#xE1;rio aqui mas deixa o URL para outras pessoas poderem seguir os coment&#xE1;rios&gt;&amp;via=mind_booster">comentários? tweetar</a> 
+<a href="https://twitter.com/search?q=https://tilde.pt/~marado/blog/contact-tracing.html"><span id="count-30254"/></a> </p></div>
+    </summary>
+    <updated>2020-05-09T15:38:30Z</updated>
+    <author>
+      <name>~marado</name>
+    </author>
+    <source>
+      <id>https://tilde.pt/~marado/blog/index.html</id>
+      <link href="https://tilde.pt/~marado/blog/index.html" rel="alternate" type="text/html"/>
+      <link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml"/>
+      <subtitle>a tildelog on tildeverse</subtitle>
+      <title>~marado's tildelog</title>
+      <updated>2020-05-17T22:51:30Z</updated>
+    </source>
+  </entry>
+
+  <entry xml:lang="en">
+    <id>https://tilde.pt/~rlafuente/blog/./pensar-antes-de-instalar.html</id>
+    <link href="https://tilde.pt/~rlafuente/blog/pensar-antes-de-instalar.html" rel="alternate" type="text/html"/>
+    <title>Pensar antes de instalar</title>
+    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p><em>E de repente, uma solução: as apps de rastreamento de contacto estão na ordem do dia. É boa ideia instalar?</em></p>
+
+<p>Estão a chegar: as apps de rastreamento de contactos (ARCs) são apresentadas como uma possível esperança na luta contra o covid-19, como uma forma de nos prevenirmos coletivamente, e como um meio de reforçar o esforço epidemiológico para analisar o alastramento da doença. No entanto, elas levantam muitas questões que põem seriamente em causa a sua capacidade de corresponder a esses objetivos.</p>
+
+<p>Uma das primeiras preocupações foi se uma ARC poria em causa a privacidade das pessoas, expondo o seu estado de saúde ou mesmo localização a sabe-se lá quem, e para isto surgiram um conjunto de abordagens com a privacidade como preocupação. Essas abordagens "privacy-first" têm procurado alguma consciência sobre as implicações de privacidade, embora não sejam apenas dessa ordem as consequências nefastas das ARCs. Neste tipo específico de ARCs que têm em conta a privacidade inclui-se <a href="https://eco.sapo.pt/2020/05/04/esta-app-vai-dizer-lhe-se-esteve-perto-de-alguem-com-covid-19-saiba-como-vai-funcionar/">a ARC desenvolvida pelo InescTec</a>, que tudo indica que receberá o aval do governo português. Estas ARCs "amigas da privacidade" correspondem a um esforço genuíno de limitar o seu alcance, face a alternativas grotescas baseadas na geolocalização e cruzamento de dados, como no Reino Unido. Mas mesmo com essa preocupação, elas contêm riscos sérios que não são resolúveis tecnicamente.</p>
+
+<p>Antes de entrar pelo lado técnico, importa ter o retrato total da problemática à volta das ARCs. É que neste momento as pessoas estão desesperadas por uma solução para o momento em que vivem. Estão desempregadas, com a integridade psicológica em risco, lidando com dramas familiares, sem capacidade de cuidar dos filhos a tempo inteiro ao mesmo tempo que trabalham à distância. O óbvio desespero que tais cenários motivam leva a uma adesão imediata a qualquer réstia de esperança numa solução mágica. As ARCs aparecem aqui como a esperança possível, que irá motivar muita gente a instalar uma app cuja eficácia não está de todo demonstrada e cujas consequências podem ser muito graves.</p>
+
+<h3>Os falsos positivos e negativos</h3>
+
+<p>Os modelos de ARC que estão a ser desenvolvidos recorrem ao Bluetooth para evitar o recurso à geolocalização (que exclui o anonimato). São medidos os "contactos" entre telemóveis, ou seja, os momentos em que dois aparelhos estão próximos durante um tempo suficiente para ser considerado um potencial contacto. Mais tarde, quando alguém é marcado como tendo covid-19, as pessoas com quem contactou receberão notificações do facto, sem haver transmissão direta da identidade das pessoas. Mesmo salvaguardando o anonimato, há um pormenor que não há como contornar: o falso positivo ou falso negativo.</p>
+
+<p>É que o Bluetooth está longe de ser uma tecnologia milimétrica, e não foi desenhada para medir distâncias entre pessoas. Há "contactos" a 5 metros que podem ser registados, e contactos reais de meio metro que não o vão ser. Para complicar, o Bluetooth atravessa barreiras, registando um contacto mesmo quando há uma barreira de plástico, ou mesmo uma parede, entre as pessoas, registando um falso positivo. Será um cenário frequente em apartamentos: quantas vezes já vimos a coluna ou a TV do vizinho quando ligamos o Bluetooth no telemóvel para procurar aparelhos à nossa volta? </p>
+
+<p>Podemos antever o resultado: uma rede de contactos falsa e incompleta, de utilidade epidemiológica muitíssimo questionável por conter tantos falsos positivos e negativos. Mas há uma consequência muito mais grave: muitas pessoas receberão notificações de contacto que não ocorreu na realidade. Não houve exposição, mas a notificação será enviada. As pessoas ficarão ansiosas, muitas a colocar-se em auto-quarentena até poderem realizar um teste, com implicações psicológicas e familiares que se somam ao tremendo stress que já todos sofremos. Se pensarmos que muitos destes casos serão falsos alarmes, está-se assim a criar uma nova fonte de ansiedade profundamente desnecessária, num momento em que ninguém no país precisa de mais.</p>
+
+<h3>O uso "voluntário"</h3>
+
+<p>Quando ligamos à nossa operadora de comunicações para resolver uma questão técnica, a voz automática informa-nos de que a chamada será gravada e, se não consentirmos, que temos de recorrer aos meios de comunicação alternativos. Em tempo de pandemia, o meio de contacto presencial está excluído. Se o nosso problema necessitar de resolução urgente, não confiaremos no e-mail para obter uma resposta célere, e a única forma que temos à disposição de obter uma resposta imediata é consentir na gravação da chamada.</p>
+
+<p>É assim que algo que surge como uma aparente escolha, com consentimento informado, se torna na verdade uma discreta imposição para aceitar condições que não admitiríamos noutra circunstância. É este fenómeno que também vai ocorrer com as ARCs e o seu carácter de adesão voluntária. É perverso argumentar que quem não quer, não precisa de aderir.</p>
+
+<p>Olhemos para <a href="https://www.buzzfeednews.com/article/pranavdixit/for-a-billion-indians-the-governments-voluntary-contact">o que se passou na Índia</a>, onde existe uma ARC promovida pelo governo, de uso voluntário. Muita gente está a ver barrada a sua entrada em farmácias, onde só se entra quando se mostra que a app está instalada no telemóvel. Os estafetas de entrega de refeições do Zomato são obrigados a ter a app instalada, senão não podem trabalhar. Alguns condomínios vedam o acesso a serviços aos condóminos que não provam ter a app instalada, e provocam o maldizer de vizinhos em relação a quem prefere não instalar. </p>
+
+<p>Resumindo: é voluntário, mas obrigação existe de facto, na forma que a app se torna mediadora do acesso que temos a serviços essenciais, trabalho e ao nosso próprio domicílio. Nota-se muito a falta de qualquer contributo sociológico, etnográfico ou filosófico na concepção das ARCs, uma omissão que tem de ser destacada: é mais uma lacuna motivada por uma vontade solucionista de focar o debate nos pormenores técnicos e minimizar o valor de qualquer outro ângulo. Esta leveza na apresentação das ARCs como de uso "voluntário" tem de ser questionada.</p>
+
+<h3>Big brother? Não é bem isso</h3>
+
+<p>Vários dos proponentes das ARCs têm avançado o mesmo slogan de que "não se trata de um Big Brother". Têm razão, e devemos evitar a fácil condenação de que correspondem a uma conspiração por parte do Estado (ou privados) que apenas procuram um pretexto para acumular poder. Tem a ver com o desespero que tanto cidadãos como políticos estão a sentir na falta de qualquer solução mágica. A Comissão Europeia faz parte deste grupo desesperado: estava até há bem pouco tempo sob fortes críticas de não conseguir coordenar uma resposta conjunta à crise, até aparecer o pretexto das ARCs, que estão agora a ser propostas (e quase impostas) sem testes, análises profundas ou sequer uma especificação do valor real dessas apps. Tem de ser e pronto.</p>
+
+<p>Esta é a <a href="https://www.theguardian.com/commentisfree/2020/apr/15/tech-coronavirus-surveilance-state-digital-disrupt">doutrina solucionista</a>: reduzir os problemas complexos a cenários preto e branco que só podem ser resolvidos com soluções tecnológicas. Essa doutrina reduz o discurso aos pormenores de implementação e descarta qualquer consideração fora dessa esfera. Neste caos em concreto, ela propõe falsamente uma dicotomia entre a app e o confinamento, ou em sentido mais lato, entre a salvação e o marasmo. Podemos recordar que antes de se falar de ARCs, a linha comummente aceite era que até à cura ou vacina não encontraremos soluções mágicas. Agora a solução existe -- uma ARC -- muitas vezes sem qualquer menção concreta das suas vantagens.  Ela é apresentada como algo que tem de ser. A sua introdução contempla pouco ou nenhum debate. Não podemos, mesmo com a ansiedade coletiva em busca de soluções, apressar adoções em massa com implicações sociais fortes.</p>
+
+<p>Temos ainda demasiado poucas pistas para o que aí vem, considerando que estamos a definir o precedente para o nosso futuro próximo: aceitaremos apps e engenhos tecnológicos como forma de mediação social? O Primeiro-Ministro, na sua entrevista recente na RTP, não sugere uma solução vinda do Estado, mas um ecossistema de apps de uso voluntário. Seria ótimo termos em mãos a informação sobre o que se pretende implementar em Portugal, mas não existe ainda qualquer documento formal a descrever o que se está a preparar, apenas comentário de imprensa. Não pode ser assim, se estamos a falar de uma decisão sócio-política com implicações que ainda não conseguimos quantificar enquanto sociedade, mas cujo desfecho definirá as nossas existências nos tempos que aí vêm.</p>
+
+<p>Há ainda outros focos de preocupação que o espaço deste artigo não chega para albergar. Estamos na <a href="https://direitosdigitais.pt">D3</a> a preparar um recurso para ajudar cada pessoa a decidir se é boa ideia instalar ou não a app: o <a href="http://rastreamento.pt">rastreamento.pt</a> ainda está a ser montado, mas dá para deixar lá o e-mail para receber um aviso quando estiver pronto, e assim poder ter os factos no sítio na altura de decidir se é boa ideia instalar uma app destas ou não.</p>
+
+<p>tags: <a href="https://tilde.pt/~rlafuente/blog/tag_ARCs.html">ARCs</a></p>
+</div>
+    </summary>
+    <updated>2020-05-09T14:04:44Z</updated>
+    <author>
+      <name>Ricardo Lafuente</name>
+    </author>
+    <source>
+      <id>https://tilde.pt/~rlafuente/blog/index.html</id>
+      <link href="https://tilde.pt/~rlafuente/blog/index.html" rel="alternate" type="text/html"/>
+      <link href="https://tilde.pt/~rlafuente/blog/feed.rss" rel="self" type="application/rss+xml"/>
+      <subtitle>sobre os calos técnicos e as lombas filosóficas que encontro enquanto tento pôr computadores a fazer o que eu quero</subtitle>
+      <title>~rlafuente</title>
+      <updated>2020-05-09T14:04:46Z</updated>
+    </source>
+  </entry>
+
+  <entry xml:lang="en">
+    <id>https://tilde.pt/~marado/blog/./decentralized-privacy-preserving-proximity-tracing----is-it-really.html</id>
+    <link href="https://tilde.pt/~marado/blog/decentralized-privacy-preserving-proximity-tracing----is-it-really.html" rel="alternate" type="text/html"/>
+    <title>Decentralized Privacy-Preserving Proximity Tracing -- is it really?</title>
+    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>DP-3T, as it is known, stands for Decentralized Privacy-Preserving Proximity Tracing. It tries to be a decentralized, privacy-preserving solution to a problem: to make phone applications help mitigate the current COVID-19 pandemic.</p>
+
+<p>OK, let me take a step back. There have been talks (and in some contries already actions) about having an app to use phones in order to help track down the spread of COVID-19. I am not focused, in this article, to argue that the idea, in general is bad (tip: I think it is, due to privacy concerns), or to point out that relying on big companies like Google or Apple to "take care of it" using closed and opaque methods is a really bad idea (tip: it should be obvious: it is). I also don't plan to discuss what is each country proposing, adopting, or doing: not even the Portuguese case, where the Prime Minister and President announce they are against geolocalization, one week later the same Prime Minister consider it a possible solution, and one other week later the adoption of a platform for that is announced. I am not even focused on the discussion between the adoption of DP-3T or one of the proposals of PEPP-PT: much was already written about it, and if you still don't know that DP-3T is a better design than any of the PEPP-PT endorsed solutions.</p>
+
+<p>Instead, this article is about something I didn't see yet anything making the case for: DP-3T, the best protocol/architecture for a solution out there, claims to be Privacy-Preserving. But is it?</p>
+
+<h3>Not yet</h3>
+
+<p>My first take on this issue is to consider DP-3T as it is right now. It is, we understand, an ever-evolving specification, that, due to the time constraints inherent to the demand for applications of this sort, need to adopt a 'release early, release often' approach. Still, in the moment I am writting this, there are <a href="https://github.com/DP-3T/documents/issues?q=is%3Aissue+is%3Aopen+label%3A%22privacy+risk%22">14 open issues to the spec tagged as 'privacy risks'</a>. Privacy, like security, or life, in certain cases is quite binary: there only needs to be one privacy issue with a certain protocol, format or tool, to make it not be privacy-preserving, so the answer to the question of DP-3T is privacy perserving is... "not yet."</p>
+
+<h3>Not really</h3>
+
+<p>But is that it? If you take a closer look, things get even grimmer. From the "privacy risk" issues previously opened and now closed on the project, we can see that several of them (nine, at this moment) were closed because they stopped having input. While a manual reading of each of them will show a status of them, and most of them were dealt (partially or entirely) one way or another, the struggle of the maintainers of the project to keep the number of issues low is clear, the reference to future versions of the documents leave things unclear of wether the issues have been addressed or not, and the way some things are not solved, but only mitigated shows that there is a "best effort" sort of approach to privacy, the idea that "let's see how privacy-preserving can we be in a rushing development cycle", instead of what it should be: a firm stance that no privacy-risk can exist in a privacy-preserving solution.</p>
+
+<p>I do understand that the critic here so far is vague enough that one could argue that we're still on the 'not yet' field: after all, after all the privacy-related issues are closed, after all the documents still being prepared are published, one can go through all of those issues, check the latest version of the document, and verify if all of the privacy issues were indeed solved. Arguably, they could. But we do not need to stay on the theoretical field here, not when the "best effort" approach, even in partial sacrifice of privacy, is actually documented. My favorite example of this, is the <a href="https://github.com/DP-3T/documents/blob/master/FAQ.md#p5-why-not-use-mixnets-or-other-anonymous-communication-systems-to-query-the-server">FAQ's 5th point</a>, about the use of anonymous communication systems.</p>
+
+<h4>Why not use mixnets or other anonymous communication systems to query the server?</h4>
+
+<p>In the answer to this question, DP-3T stipulates, first, that this is a valid question and concern. Then, they explain that they decided not to for three reasons: a solution would increase complexity, anonymity would cost latency and bandwidth, and it would widen the field of research necessary to take protocol decisions.</p>
+
+<p>In the end, the answer is a claim that there currently is no system ready to use DP-3T could piggy back on and simply use to this purpose, mature enough to the scale DP-3T aims to be deployed -- if there was, they'd use it.</p>
+
+<p>While I do not disagree - such anonymous communication system is a need we, as a society, have for a long time, but an itch we did never focus on scratching, and the solutions so far are far from a stable and consolidated state - I also believe that this is clear proof that DP-3T is, by design, not 'Privacy-Preserving', but only 'as Privacy-Preserving as we can be, with these time constraints'.</p>
+
+<h3>Why does it matter?</h3>
+
+<p>The difference between "private" and "as private as possible" is not small, no matter how tiny it is: it is the difference between a solution that respects your privacy, and a solution that doesn't. While I can understand DP-3T and its interesting properties as an academic project, it is, IMO, a dangerous assumption to think that, because this is the best someone has came up to, that it is good enough for us, and that we should adopt it. In fact, my belief is that, since DP-3T is the best we aim to be able to achieve during this outbreak, it should <em>not</em> be used. On the other hand, this can and should be used as a learning experience, proof that there is a need to serious public investment on the development of <em>real</em> Privacy-Preserving technologies, of which anonymous communication systems are just an example.</p>
+
+<h3>What could have been</h3>
+
+<p>This article is long enough already, and I could go on and on about what can be done, if the serious effort is made to make it happen. The first paper I wrote about <a href="https://gnunet.org/">GNUnet</a> was more than 15 years ago: since then many things have happened, extraordinary developments in many technological fields, a decade and half has passed... but GNUnet seems to me as being still the most promising privacy-centric project out there, and, quite unfortunately, it is still in an early alpha stage. The latest incarnation of its website has a tagline that is quite fitting for this article: "The Internet of tomorrow needs GNUnet today". In 2020, technology failed us in many ways: when a worldwide event like COVID-19 hit, we searched for technological solutions that still did not exist. 2020 was tomorrow, and we did not have GNUnet (or any other solution of choice -- take your pick, there is plenty around to do). My biggest fear on this subject is not to see solutions like DP-3T (or worse) being adopted, affecting the privacy of real lives, real people. My biggest fear that we will step out of the current sittuation, and decide not to learn from the evidences of past mistakes. Let's build the Internet of tomorrow, now.</p>
+
+<p>tags: <a href="https://tilde.pt/~marado/blog/tag_en.html">en</a>, <a href="https://tilde.pt/~marado/blog/tag_DP-3T.html">DP-3T</a>, <a href="https://tilde.pt/~marado/blog/tag_COVID-19.html">COVID-19</a>, <a href="https://tilde.pt/~marado/blog/tag_privacy.html">privacy</a>, <a href="https://tilde.pt/~marado/blog/tag_tracking.html">tracking</a>, <a href="https://tilde.pt/~marado/blog/tag_tracing.html">tracing</a>, <a href="https://tilde.pt/~marado/blog/tag_localization.html">localization</a>, <a href="https://tilde.pt/~marado/blog/tag_PEPP-PT.html">PEPP-PT</a>, <a href="https://tilde.pt/~marado/blog/tag_gnunet.html">gnunet</a></p>
+
+
+<p id="twitter"><a href="http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/decentralized-privacy-preserving-proximity-tracing----is-it-really.html&amp;text=&lt;escreve o coment&#xE1;rio aqui mas deixa o URL para outras pessoas poderem seguir os coment&#xE1;rios&gt;&amp;via=mind_booster">comentários? tweetar</a> 
+<a href="https://twitter.com/search?q=https://tilde.pt/~marado/blog/decentralized-privacy-preserving-proximity-tracing----is-it-really.html"><span id="count-18209"/></a> </p></div>
+    </summary>
+    <updated>2020-04-28T23:51:24Z</updated>
+    <author>
+      <name>~marado</name>
+    </author>
+    <source>
+      <id>https://tilde.pt/~marado/blog/index.html</id>
+      <link href="https://tilde.pt/~marado/blog/index.html" rel="alternate" type="text/html"/>
+      <link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml"/>
+      <subtitle>a tildelog on tildeverse</subtitle>
+      <title>~marado's tildelog</title>
+      <updated>2020-05-17T22:51:30Z</updated>
+    </source>
+  </entry>
+
+  <entry xml:lang="en">
+    <id>https://tilde.pt/~rlafuente/blog/./dicionarios-visuais-com-emoji-no-inkscape.html</id>
+    <link href="https://tilde.pt/~rlafuente/blog/dicionarios-visuais-com-emoji-no-inkscape.html" rel="alternate" type="text/html"/>
+    <title>Dicionários visuais com emoji no Inkscape</title>
+    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p><img alt="" src="https://tilde.pt/~rlafuente/blog/images/emoji-ed-1.jpg" title=""/></p>
+
+<p>Uma vez, ao usar o telemóvel com o Eduardo (o nosso filho de 2 anos) ao lado, deu para reparar no interesse dele nos emoji. Experimentámos deixá-lo brincar com o teclado do ecrã um par de vezes e ele entusiasmou-se bastante a selecionar e a procurar mais emoji, dizendo os objetos que reconhecia. Noutra altura mais tarde, ocorreu-nos que as várias categorias e diversidade nos emoji podiam ser uma boa base para treinarmos o vocabulário com ele, em vez de dependermos de livros infantis de vocabulário cujas escolhas editoriais nos costumam deixar perplexos.</p>
+
+<p>Durante a sesta de hoje, começámos à procura. Não encontrámos modelos prontos a imprimir numa rápida pesquisa, e percebemos que era melhor construirmos os nossos próprios. A seguir decidimo-nos a encontrar forma de usar o <a href="https://inkscape.org/">Inkscape</a> (a nossa ferramenta preferida para design vetorial) para dispôr graficamente os conjuntos de emoji, mas não se mostrou trivial empregar fontes de emoji.</p>
+
+<p>Encontrámos uma boa surpresa numa package pronta a instalar em Debian: <a href="https://github.com/Xaviju/inkscape-open-symbols">inkscape-open-symbols</a>. É um conjunto extenso de coleções de ícones de vários tipos, colocados à disposição na paleta de símbolos do Inkscape – um recanto desta ferramenta que não conhecíamos ainda. A coleção do inkscape-open-symbols é impressionante, incluindo pictogramas da AIGA, símbolos de diagramas elétricos ou ícones vindos do Material Design, Wordpress, GitHub e outros – todos eles recursos que nos vão dar jeito um dia. E, claro, lá encontramos os emoji da coleção Emoji One[^1].</p>
+
+<p><img alt="" src="https://tilde.pt/~rlafuente/blog/images/symbols.png" title=""/>
+<em>Uma pequena amostra do que a coleção do inkscape-open-symbols nos tem para dar.</em></p>
+
+<p>Antes de ele acordar da sesta, conseguimos fazer o layout de duas páginas e imprimi-las, uma com emoji relativos à alimentação e outra com meios de transporte. Foi útil podermos compôr a nossa versão e lidar com algumas das decisões editoriais que não esperávamos encontrar: Incluímos fast food e doces que ele não conhece, como hamburgeres ou donuts? Na falta dos autocarros dos STCP que ele conhece, é melhor usar uma camioneta ou um "school bus" amarelo à americana? Os livros não nos costumam dar a escolher, e valeu a pena o trabalho adicional para conseguirmos acabar com algo mais familiar e mais nosso.</p>
+
+<p>Os emoji são uma condensação injusta e demasiado concisa da diversidade do mundo – falta lá encontrar um prato de bacalhau ou rissóis, limusines (ele adora) ou trotinetes. Apesar disso, para este modesto fim que procurávamos hoje, deram muito jeito depois de os imprimir e prender na parede.</p>
+
+<p><img alt="" src="https://tilde.pt/~rlafuente/blog/images/emoji-ed-2.jpg" title=""/></p>
+
+<p>[^1]: Uma outra descoberta deste empreendimento foi que a coleção EmojiOne passou a chamar-se <a href="https://emojipedia.org/joypixels/">JoyPixels</a> e deixou de ser livre, com os acrescentos feitos desde esta mudança a ser sujeitos a licença paga. Como o conjunto original continua de acesso livre, serve para os nossos propósitos atuais, mas é uma pena. Outros virão.</p>
+
+</div>
+    </summary>
+    <updated>2020-04-25T21:44:07Z</updated>
+    <author>
+      <name>Ricardo Lafuente</name>
+    </author>
+    <source>
+      <id>https://tilde.pt/~rlafuente/blog/index.html</id>
+      <link href="https://tilde.pt/~rlafuente/blog/index.html" rel="alternate" type="text/html"/>
+      <link href="https://tilde.pt/~rlafuente/blog/feed.rss" rel="self" type="application/rss+xml"/>
+      <subtitle>sobre os calos técnicos e as lombas filosóficas que encontro enquanto tento pôr computadores a fazer o que eu quero</subtitle>
+      <title>~rlafuente</title>
+      <updated>2020-05-09T14:04:46Z</updated>
+    </source>
+  </entry>
+
+  <entry xml:lang="en">
+    <id>https://tilde.pt/~rlafuente/blog/./relatos-de-pedagogias-remotas.html</id>
+    <link href="https://tilde.pt/~rlafuente/blog/relatos-de-pedagogias-remotas.html" rel="alternate" type="text/html"/>
+    <title>Relatos de pedagogias remotas</title>
+    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Tal como todos os professores, fui recentemente confrontado com a urgência de
+passar a um modelo de ensino à distância. E tal como a maioria, encontrei-me
+muito pouco preparado para essa transição de emergência. Volvido mais ou menos
+um mês desde o momento em que se tornou claro que teríamos de dar aulas à
+distância, aproveito agora para documentar alguns dos princípios, reflexões e
+conclusões que estão a motivar a minha metodologia para esta estranha forma de
+fazer escola.</p>
+
+<p>Algum contexto antes de continuar. A Ana Isabel Carvalho e eu começámos em
+setembro a dar aulas no departamento de Design de Comunicação da ESAP, com
+disciplinas dedicadas ao design na web. Neste semestre, estou eu a dar uma
+cadeira sobre design de interfaces, após uma introdução ao código na web no
+primeiro semestre, enquanto que a Ana leccionou uma cadeira de projeto e design
+para a web. Estar apenas eu a dar aulas neste semestre revelou-se um acaso
+afortunado para as coisas correrem menos mal -- a quarentena imposta mais tarde
+fez com que um de nós tivesse de estar mais presente nos cuidados ao nosso
+filho. Nesses entretantos, a Ana e eu fomos trabalhando bem mais do que seria
+saudável para conseguir chegar a um sistema de aulas à distância que pudesse
+ser sustentado durante um par de meses (um cenário pessimista na altura, mas
+agora revelou-se acertado). Apesar de ser eu quem está a dar as aulas e a
+acompanhar os trabalhos, toda a construção dos sistemas e métodos que vou
+descrever neste e em futuros posts são um sério trabalho de equipa.</p>
+
+<p>Após algum nervosismo inicial, o diretor do curso deixou-nos à vontade para
+ensaiar e avançar com as metodologias que sentíssemos adequadas. Daí, tentámos
+endereçar esta situação como um problema de design. Sabíamos já que vários
+alunos estavam com as suas rotinas despedaçadas e alguns ainda a ter de
+trabalhar em empregos muito exigentes, particularmente em época de crise.
+Também vimos como primeira prioridade assegurar a privacidade e integridade de
+quaisquer plataformas que empregássemos, obrigando a olhar para além das
+soluções "cloud" do costume. E finalmente, sentimos necessidade de questionar e
+ir mais além do que os modelos convencionais de e-learning, com plataformas
+holísticas que tentam mediar todo o processo de aprendizagem e avaliação
+(Moodles e afins).</p>
+
+<p>A nossa experiência de vários anos a trabalhar à distância enquanto designers
+com clientes no estrangeiro tem sido particularmente útil. O nosso contacto com a
+área do jornalismo de dados também nos familiarizou com os MOOCs, de eficácia
+variável mas que introduzem muitos novos métodos e tácticas de transmitir
+conhecimento por via digital. Com isto, sentimos que poderíamos analisar as
+partes do processo pedagógico, retirar as que não nos servem, e idealizar
+metodologias e <em>workflows</em> que pudessem responder à necessidade de uma
+<em>framework</em> estável que pudesse sustentar as nossas aulas online.</p>
+
+<p>Assim, identificámos um conjunto de premissas a que precisaríamos de dar resposta:</p>
+
+<ul>
+<li><strong>Assincronia</strong>. Mesmo mantendo as rotinas pré-crise e propondo a continuação de
+aulas à mesma hora que o habitual, é preciso dar resposta a quem não pode
+estar presente -- não é preciso enumerar os casos e possibilidades em que
+pessoas confinadas podem ter os seus planos e prioridades alterados. Por
+isso, procurámos formas que não prejudicassem quem não tem um horário
+regular, e permitir nesses casos o acesso a tudo o que se passou antes, ao
+ritmo possível de cada pessoa.</li>
+<li><strong>Software livre e <em>open source</em></strong>. Já há mais de uma década que usamos
+exclusivamente ferramentas livres nos nossos contextos profissionais,
+artísticos, pessoais e experimentais. Sabíamos existir uma boa variedade de
+ferramentas promissoras vindas da comunidade livre; sabemos também das
+estratégias questionáveis de entidades proprietárias que disponibilizam
+ferramentas atractivas (Zoom, Google Classroom, MS Teams, entre muitos
+outros) que apresentam também riscos para a privacidade e autonomia. Por
+isso, a nossa escolha recairia sempre em ferramentas cujo código é aberto e
+cuja reutilização é livre. </li>
+<li><strong>Autonomia e self-hosting</strong>. A única forma de termos controlo sobre as
+ferramentas que usamos é, para além de evitar soluções proprietárias e
+preferir o <em>open source</em>, tê-las instaladas nos nossos próprios servidores.
+Por sorte, tínhamos acabado de adquirir um computador desktop decente para o
+nosso escritório cuja utilidade ficou limitada com a quarentena, pelo que
+podíamos utilizá-lo como servidor para alojar as plataformas que
+precisássemos -- e foi neste ponto que a nossa experiência com o self-hosting
+(instalar e manter plataformas no nosso próprio servidor) se mostrou
+preciosa. Poderíamos ter enveredado por um alojamento convencional na cloud
+que nos pouparia algumas dores de cabeça, mas não pouparia a carteira. Como
+tínhamos o computador à mão, foi uma possibilidade que aproveitámos.</li>
+</ul>
+
+<p>O <em>self-hosting</em> é uma estratégia trabalhosa: foram precisas várias dezenas de
+horas para montar, configurar, afinar, colocar no ar e desenhar tácticas de
+manutenção para cada uma das ferramentas que usamos. No final, a recompensa é
+um sistema que controlamos integralmente, sem dependência de fornecedores, e
+com total autonomia: sabemos onde estão os nossos dados (e os dos nossos
+alunos), sabemos que estão seguros -- não totalmente porque há sempre possíveis
+riscos, mas bem mais do que se confiássemos num serviço cloud com servidores do
+outro lado do mundo e termos de serviços profundamente armadilhados.</p>
+
+<p>Vou tentar detalhar nos próximos posts os pormenores da nossa implementação
+técnica, mas importa já expôr as ferramentas que adotámos:</p>
+
+<ul>
+<li>Rocket.chat para conversa em texto, do mesmo tipo de plataforma que o Slack.
+Esta tem-se revelado fundamental como alternativa a aulas por
+videoconferẽncia, que sentimos ser um meio limitado que não responde à
+premissa da assincronia (um assunto a desenvolver num post em breve). A esta
+plataforma chamámos "Recreio": porque na escola é o local onde nos reunimos
+em caso de emergência, mas também devido a uma expressão popular de que às
+vezes se aprende mais no recreio do que na sala de aula (um pouco taxativa,
+mas a mensagem é que no recreio também se aprende!). </li>
+<li>Um mini-site com vídeos que vamos gravando com os conteúdos programáticos.
+Dos MOOCs retirámos a conclusão que vídeos curtos (máx. 15 min) a expôr
+assuntos individuais são o melhor formato para este tipo de meio. Recorremos
+ao OBS (Open Broadcasting Studio) para os gravar, VidCutter para os editar e
+cortar, ffmpeg para converter para mp4, e um gerador de sites estáticos que
+escrevemos para os publicar.</li>
+<li>Um Raspberry Pi com um webserver para os alunos poderem publicar os seus
+trabalhos. Como a área das nossas disciplinas é a web, é algo que
+precisávamos e que, felizmente, já havíamos implementado e testado no
+primeiro semestre com os alunos, pelo que já estava tudo no sítio para
+continuar. </li>
+<li>Open Streaming Platform para transmitir diretos, um formato mais próximo do
+Twitch ou Youtube Live do que da videoconferência tradicional. Inicialmente,
+pareceu uma possibilidade útil para aulas à distância, mas foi rapidamente
+suplantada nos nossos planos pelo Recreio/Rocket.chat. Mesmo assim, vamos
+fazer experiências mais à frente para determinar se é um formato com
+potencial de complemento para as outras duas plataformas.</li>
+</ul>
+
+<p>Até agora já decorreram 3 semanas de aulas (excluindo as férias da Páscoa),
+pelo que já pudemos tirar várias conclusões. Vou tentar documentá-las em mais
+posts, bem como ir mais a fundo sobre como cada plataforma tem funcionado e as
+pormenores interessantes que tem potenciado. Felizmente, sentimos que estamos a
+obter bons resultados dado o carácter de emergência que todo este esforço tem
+tido. E faz sentido partilhá-los, porque este novo paradigma de ensino vai ter
+muita presença nos próximos tempos, e temos de falar sobre isso.</p>
+
+<p>tags: <a href="https://tilde.pt/~rlafuente/blog/tag_ensino-%C3%A0-dist%C3%A2ncia.html">ensino-à-distância</a></p>
+</div>
+    </summary>
+    <updated>2020-04-15T22:14:39Z</updated>
+    <author>
+      <name>Ricardo Lafuente</name>
+    </author>
+    <source>
+      <id>https://tilde.pt/~rlafuente/blog/index.html</id>
+      <link href="https://tilde.pt/~rlafuente/blog/index.html" rel="alternate" type="text/html"/>
+      <link href="https://tilde.pt/~rlafuente/blog/feed.rss" rel="self" type="application/rss+xml"/>
+      <subtitle>sobre os calos técnicos e as lombas filosóficas que encontro enquanto tento pôr computadores a fazer o que eu quero</subtitle>
+      <title>~rlafuente</title>
+      <updated>2020-05-09T14:04:46Z</updated>
+    </source>
+  </entry>
+
+  <entry xml:lang="en">
+    <id>https://tilde.pt/~marado/blog/./multi-aspell-a-treat-for-alpine-users.html</id>
+    <link href="https://tilde.pt/~marado/blog/multi-aspell-a-treat-for-alpine-users.html" rel="alternate" type="text/html"/>
+    <title>multi-aspell: a treat for alpine users</title>
+    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Probably more useful to users of <a href="https://tilde.pt/tilde.pt">tilde.pt</a>, but maybe others
+of the <a href="https://tildeverse.org/">tildeverse</a> who speak more than one language
+and use <a href="http://alpine.x10host.com/alpine/release/">alpine</a> as a mail client,
+today wrote a very small shell script called
+<a href="https://github.com/marado/multi-aspell">multi-aspell</a>.</p>
+
+<p><code>multi-aspell</code> is an helper script that shows you a list of (pre-defined)
+language options to run <a href="http://aspell.net/">aspell</a> with.</p>
+
+<p>It was written with the purpose of replacing the aspell invocation from
+alpine, in order to let you choose which language you want your e-mail to have
+its spell checked (useful if you're used to write mails in more than one
+language).</p>
+
+<p>Now, before sending an email, alpine will ask me wether I want to spell check
+it in Portuguese or English, and then use that language to check the e-mail
+with.</p>
+
+<p>Of course, comments, issues, patches or feature requests are more than welcome.
+Enjoy!</p>
+
+<p>tags: <a href="https://tilde.pt/~marado/blog/tag_pine.html">pine</a>, <a href="https://tilde.pt/~marado/blog/tag_alpine.html">alpine</a>, <a href="https://tilde.pt/~marado/blog/tag_tilde.pt.html">tilde.pt</a>, <a href="https://tilde.pt/~marado/blog/tag_tilde.html">tilde</a>, <a href="https://tilde.pt/~marado/blog/tag_tildeverse.html">tildeverse</a>, <a href="https://tilde.pt/~marado/blog/tag_aspell.html">aspell</a>, <a href="https://tilde.pt/~marado/blog/tag_multi-aspell.html">multi-aspell</a>, <a href="https://tilde.pt/~marado/blog/tag_en.html">en</a></p>
+
+
+<p id="twitter"><a href="http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/multi-aspell-a-treat-for-alpine-users.html&amp;text=&lt;escreve o coment&#xE1;rio aqui mas deixa o URL para outras pessoas poderem seguir os coment&#xE1;rios&gt;&amp;via=mind_booster">comentários? tweetar</a> 
+<a href="https://twitter.com/search?q=https://tilde.pt/~marado/blog/multi-aspell-a-treat-for-alpine-users.html"><span id="count-17561"/></a> </p></div>
+    </summary>
+    <updated>2020-04-09T22:22:06Z</updated>
+    <author>
+      <name>~marado</name>
+    </author>
+    <source>
+      <id>https://tilde.pt/~marado/blog/index.html</id>
+      <link href="https://tilde.pt/~marado/blog/index.html" rel="alternate" type="text/html"/>
+      <link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml"/>
+      <subtitle>a tildelog on tildeverse</subtitle>
+      <title>~marado's tildelog</title>
+      <updated>2020-05-17T22:51:30Z</updated>
+    </source>
+  </entry>
+
+  <entry xml:lang="en">
+    <id>https://tilde.pt/~epifanio/blog/./a-declaration-of-the-independence-of-tildespace.html</id>
+    <link href="https://tilde.pt/~epifanio/blog/a-declaration-of-the-independence-of-tildespace.html" rel="alternate" type="text/html"/>
+    <title>A Declaration of the Independence of Tildespace</title>
+    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><blockquote>
+  <p>Governments of the Industrial World, you weary giants of flesh and steel, I come from Tildeverse, the new home of Mind. On behalf of the future, I ask you of the past to leave us alone. You are not welcome among us. You have no sovereignty where we gather.</p>
+
+<p>We have no elected government, nor are we likely to have one, so I address you with no greater authority than that with which liberty itself always speaks. I declare the global social space we are building to be naturally independent of the tyrannies you seek to impose on us. You have no moral right to rule us nor do you possess any methods of enforcement we have true reason to fear.</p>
+
+<p>Governments derive their just powers from the consent of the governed. You have neither solicited nor received ours. We did not invite you. You do not know us, nor do you know our world. Tildeverse does not lie within your borders. Do not think that you can build it, as though it were a public construction project. You cannot. It is an act of nature and it grows itself through our collective actions.</p>
+
+<p>You have not engaged in our great and gathering conversation, nor did you create the wealth of our marketplaces. You do not know our culture, our ethics, or the unwritten codes that already provide our society more order than could be obtained by any of your impositions.</p>
+
+<p>You claim there are problems among us that you need to solve. You use this claim as an excuse to invade our precincts. Many of these problems don't exist. Where there are real conflicts, where there are wrongs, we will identify them and address them by our means. We are forming our own Social Contract. This governance will arise according to the conditions of our world, not yours. Our world is different.</p>
+
+<p>Tildeverse consists of transactions, relationships, and thought itself, arrayed like a standing wave in the web of our communications. Ours is a world that is both everywhere and nowhere, but it is not where bodies live.</p>
+
+<p>We are creating a world that all may enter without privilege or prejudice accorded by race, economic power, military force, or station of birth.</p>
+
+<p>We are creating a world where anyone, anywhere may express his or her beliefs, no matter how singular, without fear of being coerced into silence or conformity.</p>
+
+<p>Your legal concepts of property, expression, identity, movement, and context do not apply to us. They are all based on matter, and there is no matter here.</p>
+
+<p>Our identities have no bodies, so, unlike you, we cannot obtain order by physical coercion. We believe that from ethics, enlightened self-interest, and the commonweal, our governance will emerge. Our identities may be distributed across many of your jurisdictions. The only law that all our constituent cultures would generally recognize is the Golden Rule. We hope we will be able to build our particular solutions on that basis. But we cannot accept the solutions you are attempting to impose.</p>
+
+<p>In the United States, you have today created a law, the Telecommunications Reform Act, which repudiates your own Constitution and insults the dreams of Jefferson, Washington, Mill, Madison, DeToqueville, and Brandeis. These dreams must now be born anew in us.</p>
+
+<p>You are terrified of your own children, since they are natives in a world where you will always be immigrants. Because you fear them, you entrust your bureaucracies with the parental responsibilities you are too cowardly to confront yourselves. In our world, all the sentiments and expressions of humanity, from the debasing to the angelic, are parts of a seamless whole, the global conversation of bits. We cannot separate the air that chokes from the air upon which wings beat.</p>
+
+<p>In China, Germany, France, Russia, Singapore, Italy and the United States, you are trying to ward off the virus of liberty by erecting guard posts at the frontiers of Tildeverse. These may keep out the contagion for a small time, but they will not work in a world that will soon be blanketed in bit-bearing media.</p>
+
+<p>Your increasingly obsolete information industries would perpetuate themselves by proposing laws, in America and elsewhere, that claim to own speech itself throughout the world. These laws would declare ideas to be another industrial product, no more noble than pig iron. In our world, whatever the human mind may create can be reproduced and distributed infinitely at no cost. The global conveyance of thought no longer requires your factories to accomplish.</p>
+
+<p>These increasingly hostile and colonial measures place us in the same position as those previous lovers of freedom and self-determination who had to reject the authorities of distant, uninformed powers. We must declare our virtual selves immune to your sovereignty, even as we continue to consent to your rule over our bodies. We will spread ourselves across the Planet so that no one can arrest our thoughts.</p>
+
+<p>We will create a civilization of the Mind in Tildeverse. May it be more humane and fair than the world your governments have made before.</p>
+</blockquote>
+
+<p>Text "adapted" from John Perry Barlow's <a href="https://www.eff.org/cyberspace-independence">"A Declaration of the Independence of Cyberspace"</a>, 1996.</p>
+
+<p>"Adapted" is a euphemism for this (in vim):</p>
+
+<p><code>
+:%s/Cyberspace/Tildeverse/g
+</code></p>
+
+<p>tags: <a href="https://tilde.pt/~epifanio/blog/tag_internet.html">internet</a>, <a href="https://tilde.pt/~epifanio/blog/tag_tildeverse.html">tildeverse</a>, <a href="https://tilde.pt/~epifanio/blog/tag_cyberspace.html">cyberspace</a></p>
+</div>
+    </summary>
+    <updated>2020-04-08T23:40:34Z</updated>
+    <author>
+      <name>~epifanio</name>
+    </author>
+    <source>
+      <id>https://tilde.pt/~epifanio/blog/index.html</id>
+      <link href="https://tilde.pt/~epifanio/blog/index.html" rel="alternate" type="text/html"/>
+      <link href="https://tilde.pt/~epifanio/blog/feed.rss" rel="self" type="application/rss+xml"/>
+      <subtitle>um blog na tildelândia</subtitle>
+      <title>o meu tildelog</title>
+      <updated>2020-05-18T23:20:54Z</updated>
+    </source>
+  </entry>
+
+  <entry xml:lang="en">
+    <id>https://tilde.pt/~gil/blog/./i-love-codebbcode.html</id>
+    <link href="https://tilde.pt/~gil/blog/i-love-codebbcode.html" rel="alternate" type="text/html"/>
+    <title type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml">I love <code>bb</code></div>
+    </title>
+    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>It was sooo quick to post the previous (and this) blog post using bb, a simple <code>ssh</code> into tilde.pt + <code>cd public_html/blog</code>, <code>bb post</code>, write it up and it gets posted.</p>
+
+<p>Slow web perhaps, but not in speed.</p>
+
+</div>
+    </summary>
+    <updated>2020-04-07T21:13:23Z</updated>
+    <author>
+      <name>~gil</name>
+    </author>
+    <source>
+      <id>https://tilde.pt/~gil/blog/index.html</id>
+      <link href="https://tilde.pt/~gil/blog/index.html" rel="alternate" type="text/html"/>
+      <link href="https://tilde.pt/~gil/blog/feed.rss" rel="self" type="application/rss+xml"/>
+      <subtitle>um blog na tildelândia</subtitle>
+      <title>o meu tildelog</title>
+      <updated>2020-04-07T21:13:25Z</updated>
+    </source>
+  </entry>
+
+  <entry xml:lang="en">
+    <id>https://tilde.pt/~gil/blog/./knowing-the-tildeverse.html</id>
+    <link href="https://tilde.pt/~gil/blog/knowing-the-tildeverse.html" rel="alternate" type="text/html"/>
+    <title>Knowing the tildeverse</title>
+    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>I found this blog post explaining the tildeverse very nicely. Posting here to share: https://thedorkweb.substack.com/p/tales-from-the-dork-web-5</p>
+
+</div>
+    </summary>
+    <updated>2020-04-07T21:11:30Z</updated>
+    <author>
+      <name>~gil</name>
+    </author>
+    <source>
+      <id>https://tilde.pt/~gil/blog/index.html</id>
+      <link href="https://tilde.pt/~gil/blog/index.html" rel="alternate" type="text/html"/>
+      <link href="https://tilde.pt/~gil/blog/feed.rss" rel="self" type="application/rss+xml"/>
+      <subtitle>um blog na tildelândia</subtitle>
+      <title>o meu tildelog</title>
+      <updated>2020-04-07T21:13:25Z</updated>
+    </source>
+  </entry>
+
+  <entry xml:lang="en">
+    <id>https://tilde.pt/~rlafuente/blog/./o-zoom-e-um-perigo.html</id>
+    <link href="https://tilde.pt/~rlafuente/blog/o-zoom-e-um-perigo.html" rel="alternate" type="text/html"/>
+    <title>O Zoom é um perigo</title>
+    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p><em>Este é um assunto que tem pairado nas comunidades e meios relacionados com a cultura digital, mas fora deles a percepção dos problemas do Zoom tem sido pouca. Alinhei este texto para não ter de repetir argumentos sempre que me vão perguntando porque é que recomendo que não se use o Zoom.</em></p>
+
+<p>O Zoom é uma plataforma de videoconferência que está a ganhar ampla atenção graças às novas necessidades de comunicação que a confinação coletiva tem imposto. Universidades, empresas e organismos públicos têm investido em licenças dessa plataforma -- é parte integrante do <a href="https://videoconf-colibri.zoom.us/">Colibri</a>, uma iniciativa pública da <a href="https://www.fct.pt/">FCT</a>. Também tem sido um recurso para amigos e familiares manterem contacto com recurso a um interface fácil e funcionalidades giras.</p>
+
+<p>No entanto, aparentemente longe dos olhos da grande maioria da imprensa portuguesa e da percepção pública por cá, o Zoom contém um conjunto inaceitável de falhas e más práticas que a tornam um risco enorme. A cada dia têm saído mais notícias sobre os buracos e práticas moralmente questionáveis da empresa.</p>
+
+<h2>Falhas de segurança deliberadas e imperdoáveis</h2>
+
+<p>A minha <a href="http://margaridacarvalho.org/">brilhante cunhada</a> partilhou comigo há pouco um pormenor preocupante: até há bem pouco tempo, as reuniões não estavam protegidas por password, sendo apenas necessário um link em que os últimos 10 dígitos eram diferentes. Bastava experimentar números à sorte para ir parar a reuniões de outras pessoas, muitas delas privadas. </p>
+
+<p>Ao procurar um pouco, encontramos relatos de trolls que exploram falhas de segurança estúpidas como esta para se meterem em reuniões dos Alcoólicos Anónimos <a href="https://www.businessinsider.com/aa-intergroup-meetings-zoom-bombing-trolls-alcoholics-anonymous-2020-3">a dizer como beber é que é bom</a>. A prática já ganhou um nome: <em>zoombombing</em>, e já há <a href="https://krebsonsecurity.com/2020/04/war-dialing-tool-exposes-zooms-password-problems/">relatos de ferramentas</a> para explorar esta e outras omissões de segurança elementar.</p>
+
+<p>Se o Zoom falha em proteções tão simples, verdadeiras obrigações elementares dentro da indústria, seria de esperar que ouvíssemos falar de mais casos graves. Pois bem, têm saído a cada dia e foi-se descobrindo que:</p>
+
+<ul>
+<li>Já há <a href="https://nypost.com/2020/03/31/lawsuit-claims-zoom-illegally-shared-user-data-with-facebook/">processos em tribunal</a> contra o Zoom por enviar em massa os dados dos utilizadores para o Facebook, sem qualquer menção do facto ou pedido de autorização aos seus utilizadores, incluindo informação de utilizadores que não têm conta no Facebook.</li>
+<li>O instalador do Zoom em Mac <a href="https://www.theverge.com/2020/4/2/21204648/zoom-macos-installer-update-privacy-security-concerns">tinha uns <em>hacks</em> muito manhosos</a> para ultrapassar as seguranças legítimas do sistema, sendo a instalação feita sem autorização do utilizador. </li>
+<li>Era possível <a href="https://www.nytimes.com/2020/04/02/technology/zoom-linkedin-data.html">aceder a links privados e pessoais</a> de pessoas que estavam anonimamente na reunião, informação essa que era partilhada com membros do programa de prospeção de vendas do Linkedin.</li>
+<li>Os dados dos utilizadores e as chaves de encriptação <a href="https://www.ft.com/content/2fc518e0-26cd-4d5f-8419-fe71f5c55c98">têm passado por servidores na China</a>, país que se distingue pela vigilância total das suas redes nacionais, sendo-lhe entregues de bandeja as únicas formas de proteção para as nossas mensagens e comunicações permanecerem privadas. Quando se tem acesso a uma chave de encriptação, tudo o que ela protege passa a ser integralmente legível.</li>
+<li>Um conjunto de peritos <a href="https://citizenlab.ca/2020/04/move-fast-roll-your-own-crypto-a-quick-look-at-the-confidentiality-of-zoom-meetings/">investigou a criptografia do Zoom</a> e foram descobertas numerosas anomalias e implementações incompetentes. Esse artigo também expõe de forma preocupante as implicações das relações da empresa com a China.</li>
+<li>Numa funcionalidade pensada para chefes controleiros, o Zoom <a href="https://mobile.twitter.com/Ouren/status/1241398181205889024">vigia a atividade</a> do computador dos utilizadores e junta informação sobre os programas a correr e grava a imagem da janela que está aberta. Quem dirige a chamada pode espiar que programas as outras pessoas usam.</li>
+</ul>
+
+<p>Todos estes pontos não são simples falhas de segurança a ser "consertadas", como tem tentado defender o departamento de relações públicas do Zoom. São funcionalidades deliberadas para contornar as defesas do sistema dos utilizadores e "facilitar" o acesso da aplicação, o que tem a consequência de escancarar as portas dos computadores de cada um de nós e permitir a intrusão por parte de gente pouco escrupulosa. É muito importante destacar este pormenor: o Zoom tem a prática de negligenciar a integridade e segurança de cada um para introduzir riscos desnecessários. Não se tratam de meras "falhas" advindas de programação preguiçosa. Mas também as há:</p>
+
+<ul>
+<li>Um <em>bug</em> <a href="https://twitter.com/hackerfantastic/status/1245133371262619654">permitiu a extração de passwords</a> no Windows, bastando ter a aplicação aberta para ficarmos vulneráveis a esse ataque.</li>
+<li>Outra falha, desta vez em Mac OS, <a href="https://objective-see.com/blog/blog_0x56.html">tornou possível o acesso não autorizado</a> à webcam e microfone, abrindo também o risco de termos o nosso computador controlado totalmente por outra pessoa sem o sabermos.</li>
+</ul>
+
+<p>O Zoom acaba de capitular e fazer um <a href="https://blog.zoom.us/wordpress/2020/04/01/a-message-to-our-users/"><em>mea culpa</em> público algo postiço</a>, a publicar consertos para as mazelas acima descritas, e a prometer mais cuidado com a segurança das pessoas. Todas estas falhas estiveram na plataforma durante anos até agora, em que o número de pessoas a precisar de soluções semelhantes disparou, e está a ser feito um escrutínio preciso por investigadores de todo o mundo aos buracos de segurança e privacidade do Zoom. É doloroso ver como foi profundamente negligenciada qualquer preocupação com os dados pessoais de milhões de pessoas que usam (e por vezes são obrigadas a usar) esta plataforma. </p>
+
+<p>Dá para confiar?</p>
+
+<h2>É um risco enorme continuar a usar o Zoom</h2>
+
+<p>O Zoom passou de <a href="https://twitter.com/DKThomp/status/1245681377720352769">10 milhões para 200 milhões de utilizadores</a> desde o início da pandemia. Esse número ainda está para crescer bem mais. Ao mesmo tempo, a empresa de exploração espacial de Elon Musk, SpaceX, já <a href="https://www.reuters.com/article/us-spacex-zoom-video-commn/elon-musks-spacex-bans-zoom-over-privacy-concerns-memo-idUSKBN21J71H">proibiu totalmente</a> o uso do Zoom nas suas comunicações internas e externas. Várias <a href="https://hamodia.com/2020/04/04/school-districts-including-new-york-citys-start-banning-zoom-online-security-issues/">instituições de ensino</a> também já estão a re-equacionar a sua adoção. <em>[Mesmo antes de publicar este texto, saiu a notícia de que <a href="https://techcrunch.com/2020/04/05/zoom-new-york-city-schools/">Nova Iorque</a> proibiu as suas escolas de usar o Zoom.]</em></p>
+
+<p>Estou convencido de que, mais tarde, veremos correr muita tinta sobre a responsabilidade de entidades que recomendaram -- quando não impuseram mesmo -- o uso do Zoom e as consequências que tal implica para a integridade dos dados e comunicações dos seus trabalhadores, alunos, professores e outros. Todas essas entidades falharam na sua responsabilidade e obrigação de analisar os pormenores de uma plataforma e não apenas ficarem-se pela lista de funcionalidades que encontraram na home page.</p>
+
+<p>E se formos a argumentar "bom, mas agora já estamos a usar por isso nada a fazer", só posso dizer que estou bem convencido que em breve vamos receber a notícia de um ataque ao Zoom em que os dados pessoais dos trabalhadores fiquem comprometidos (uma <em>data breach</em>) e, no pior dos casos, publicados. Com o amadorismo já demonstrado, e a enorme atenção que o Zoom está agora a ter, parece-me um cenário particularmente plausível. Quem quiser aceitar a possibilidade de, mais à frente, dar bastante trabalho ao seu departamento jurídico quando for altura de lidar com as consequências de tal cenário, está à vontade para continuar.</p>
+
+<p>Enquanto isso, também estamos um pouco órfãos de informação fidedigna sobre as plataformas que estão a ser recomendadas: o Público incluiu o Zoom na sua <a href="https://www.publico.pt/2020/03/19/tecnologia/noticia/ferramentas-manter-sanidade-trabalho-distancia-1908350">lista das melhores aplicações para teletrabalho</a>, elencando a fofinha lista de funcionalidades, que é fácil de encontrar, e sem qualquer menção aos riscos que na altura da publicação da notícia já eram conhecidos. Em boa verdade, cito o Público por ser o jornal diário que assino, e não encontrei qualquer publicação ou entidade em Portugal que já tivesse reportado esses alertas (com a habitual excepção do <a href="https://shifter.sapo.pt/2020/04/zoom-privacidade-seguranca/">Shifter</a>, que costuma estar atento). Mas é nesta altura que precisamos mesmo do jornalismo rigoroso. Já não há a desculpa de que a tecnologia é um universo à parte.</p>
+
+<p>O Zoom é um perigo. A melhor jogada é parar <strong>agora</strong> de usar o Zoom.</p>
+
+<p>Mas nem toda a gente tem a oportunidade de pôr de parte o Zoom, sendo obrigada a tê-la instalada no seu computador pessoal pela sua entidade patronal (aliás, consigo já ouvir o bater dos teclados de advogados sindicais). Para estes casos há duas listas úteis, elaboradas pela <a href="https://protonmail.com/blog/zoom-privacy-issues/">ProtonMail</a> e pela <a href="https://foundation.mozilla.org/en/blog/tips-make-your-zoom-gatherings-more-private/">Mozilla Foundation</a>, que ajudam limitar os riscos do uso desta perigosa plataforma quando não temos mesmo alternativa.</p>
+
+<p>Decerto que o Zoom apresenta uma enorme conveniência nas funcionalidades que nos dá, e não é uma tarefa simples encontrar bons substitutos em determinados contextos. Mas as alternativas existem. Este texto já tem bem mais caracteres do que gostaria, pelo que me fico por recomendar o <a href="https://meet.jit.si">Jitsi Meet</a> para dar conta de quaisquer necessidades de videochamada ou videoconferência. Há também listas de aplicações livres e <em>open source</em> para teletrabalho e ensino à distância, como <a href="https://wiki.fsfe.org/Activities/FreeSoftware4RemoteWorking">esta da Free Software Foundation Europe</a> ou <a href="https://adistancia.ansol.org/">esta da sua congénere portuguesa ANSOL</a>.</p>
+
+<p>Estes tempos de incerteza obrigam-nos a reações e soluções rápidas, muitas vezes de improviso. Mas não se pode fazer o <em>outsourcing</em> dessas soluções sem se compreender em que nos estamos a meter. No caso do Zoom, é um risco que ninguém precisa, sejam patrões, assalariados, professores, alunos, amigos, diretores ou funcionários públicos. Já estamos a lidar com perigos que cheguem para agora ter mais um com o Zoom.</p>
+
+
+
+
+</div>
+    </summary>
+    <updated>2020-04-06T14:20:41Z</updated>
+    <author>
+      <name>Ricardo Lafuente</name>
+    </author>
+    <source>
+      <id>https://tilde.pt/~rlafuente/blog/index.html</id>
+      <link href="https://tilde.pt/~rlafuente/blog/index.html" rel="alternate" type="text/html"/>
+      <link href="https://tilde.pt/~rlafuente/blog/feed.rss" rel="self" type="application/rss+xml"/>
+      <subtitle>sobre os calos técnicos e as lombas filosóficas que encontro enquanto tento pôr computadores a fazer o que eu quero</subtitle>
+      <title>~rlafuente</title>
+      <updated>2020-05-09T14:04:46Z</updated>
+    </source>
+  </entry>
+
+  <entry xml:lang="en">
+    <id>https://tilde.pt/~gil/blog/./setting-up-your-tilde-for-the-first-time.html</id>
+    <link href="https://tilde.pt/~gil/blog/setting-up-your-tilde-for-the-first-time.html" rel="alternate" type="text/html"/>
+    <title>Setting up your tilde for the first time</title>
+    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul>
+<li>Ssh into tilde.pt (as per <a href="https://tilde.pt/docs/como-ligar/">the instructions</a></li>
+<li>Change my password (Run <code>passwd</code>)</li>
+<li>Upload my pub key into <code>.ssh/authorized_keys</code> so I don't need to type my password. I used copy paste, but you can use <code>scp</code> which is easier.</li>
+<li>Add this line to  <code>.bashrc</code>:</li>
+</ul>
+
+<p><code>
+export TERM=xterm
+</code></p>
+
+<p>So I can use backspace</p>
+
+<ul>
+<li>Copy over my <a href="https://github.com/lurst/setup">setup</a> and link my <code>.config</code> so I can use my confy vim setup.</li>
+<li>Change my config so it's a bit more minimal (culled over any autocomplete plugins, rust / python plugins, anything related to GUI apps, etc..)</li>
+<li>Water my plants: <code>botany</code> (it's a <a href="https://github.com/jifunks/botany/">"game"</a> we run here)</li>
+<li><a href="https://tilde.pt/docs/blog/">Setup this blog</a></li>
+</ul>
+
+<p>What I'm missing:</p>
+
+<ul>
+<li>tmux</li>
+</ul>
+
+<p>Check this space for part II, soon...</p>
+
+
+
+</div>
+    </summary>
+    <updated>2020-04-04T22:21:16Z</updated>
+    <author>
+      <name>~gil</name>
+    </author>
+    <source>
+      <id>https://tilde.pt/~gil/blog/index.html</id>
+      <link href="https://tilde.pt/~gil/blog/index.html" rel="alternate" type="text/html"/>
+      <link href="https://tilde.pt/~gil/blog/feed.rss" rel="self" type="application/rss+xml"/>
+      <subtitle>um blog na tildelândia</subtitle>
+      <title>o meu tildelog</title>
+      <updated>2020-04-07T21:13:25Z</updated>
+    </source>
+  </entry>
+
+  <entry xml:lang="en">
+    <id>https://tilde.pt/~marado/blog/./from-marado-to-marado.html</id>
+    <link href="https://tilde.pt/~marado/blog/from-marado-to-marado.html" rel="alternate" type="text/html"/>
+    <title>From ~marado to @marado</title>
+    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Speaking yesterday with someone about <a href="https://tilde.pt">tilde.pt</a>, which he
+found out about due to my contributions to
+<a href="https://github.com/marado/botany">botany</a>, it took me a while but I did
+realize that there is a generational issue recognizing a ~, or, in particular,
+recognizing it as a way to refer to someone.</p>
+
+<p>Once upon a time, before @username was the common way to refer to a person (who
+came with that first? twitter?), ~username was so. UNIX users will still be
+probably used to do things like <code>cd ~</code> to go to their <code>$HOME</code>, or even <code>~user</code>
+to refer to some other person's home. But I do not think that's where the most
+common <code>~</code> recognition comes from: instead, what people will most remember is
+the number of websites of "white pages" (as some other person refered about
+them to me as), that had, as an address, <code>http://institution/~username</code>.</p>
+
+<p>So, where does this <code>~</code> come from? Well, there was a time where every machine
+connected to the web was more or less expected to have <a href="https://httpd.apache.org/">Apache's
+httpd</a> running, and it had a useful module, called
+<code>mod_userdir</code>. UserDir actually was inherited: Apache's httpd started in 1995
+as a continuation of the NCSA HTTPd webserver, and NCSA not only had the
+UserDir directive, it was actually <a href="http://www6.uniovi.es/~antonio/ncsa_httpd/setup/srm/UserDir.html">active by
+default</a>.
+What does all this means? Well, it means that, by default, UNIX machines with a
+webserver running would probably have NCSA or later Apache's httpd, which, by
+default, would be allowing each of that server's users to have their own
+website, at the address http://server.address/~username , and to have something
+in there they'd just have to put some html pages into their <code>public_html</code>
+directory.</p>
+
+<p>tags: <a href="https://tilde.pt/~marado/blog/tag_history.html">history</a>, <a href="https://tilde.pt/~marado/blog/tag_tilde.html">tilde</a>, <a href="https://tilde.pt/~marado/blog/tag_UNIX.html">UNIX</a>, <a href="https://tilde.pt/~marado/blog/tag_username.html">username</a>, <a href="https://tilde.pt/~marado/blog/tag_apache.html">apache</a>, <a href="https://tilde.pt/~marado/blog/tag_httpd.html">httpd</a>, <a href="https://tilde.pt/~marado/blog/tag_userdir.html">userdir</a>, <a href="https://tilde.pt/~marado/blog/tag_en.html">en</a></p>
+
+
+<p id="twitter"><a href="http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/from-marado-to-marado.html&amp;text=&lt;escreve o coment&#xE1;rio aqui mas deixa o URL para outras pessoas poderem seguir os coment&#xE1;rios&gt;&amp;via=mind_booster">comentários? tweetar</a> 
+<a href="https://twitter.com/search?q=https://tilde.pt/~marado/blog/from-marado-to-marado.html"><span id="count-5236"/></a> </p></div>
+    </summary>
+    <updated>2020-04-04T14:50:42Z</updated>
+    <author>
+      <name>~marado</name>
+    </author>
+    <source>
+      <id>https://tilde.pt/~marado/blog/index.html</id>
+      <link href="https://tilde.pt/~marado/blog/index.html" rel="alternate" type="text/html"/>
+      <link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml"/>
+      <subtitle>a tildelog on tildeverse</subtitle>
+      <title>~marado's tildelog</title>
+      <updated>2020-05-17T22:51:30Z</updated>
+    </source>
+  </entry>
+
+  <entry xml:lang="en">
+    <id>https://tilde.pt/~marado/blog/./my-very-first-blog-post-again.html</id>
+    <link href="https://tilde.pt/~marado/blog/my-very-first-blog-post-again.html" rel="alternate" type="text/html"/>
+    <title>My very first blog post... again</title>
+    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>This is not my first blog, so it is also not my first blog post, but... it is
+the first post of my new blog, and, well, it is costumary to make an hello
+world sort of blog post, so here's mine.</p>
+
+<p>I am not a fan of blogs: I never was, even when I maintained quite regularly a
+personal blog in the past. But it seems that blogs are the new trend on the
+<a href="https://tildeverse.org/">tildeverse</a>, and, well, I guess I'll stop tild'ing
+like it was the nineties, and get do it like it was the 2000's again.</p>
+
+<p>Do not expect this to be updated very often... or at all. But... well, not even
+I know exactly what I expect this tilde of mine to become, so I guess we'll
+find out together!</p>
+
+<p>tags: <a href="https://tilde.pt/~marado/blog/tag_blog.html">blog</a>, <a href="https://tilde.pt/~marado/blog/tag_hello-world.html">hello-world</a>, <a href="https://tilde.pt/~marado/blog/tag_en.html">en</a></p>
+
+
+
+
+
+
+<p id="twitter"><a href="http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/my-very-first-blog-post-again.html&amp;text=&lt;escreve o coment&#xE1;rio aqui mas deixa o URL para outras pessoas poderem seguir os coment&#xE1;rios&gt;&amp;via=mind_booster">comentários? tweetar</a> 
+<a href="https://twitter.com/search?q=https://tilde.pt/~marado/blog/my-very-first-blog-post-again.html"><span id="count-15319"/></a> </p></div>
+    </summary>
+    <updated>2020-03-22T22:55:51Z</updated>
+    <author>
+      <name>~marado</name>
+    </author>
+    <source>
+      <id>https://tilde.pt/~marado/blog/index.html</id>
+      <link href="https://tilde.pt/~marado/blog/index.html" rel="alternate" type="text/html"/>
+      <link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml"/>
+      <subtitle>a tildelog on tildeverse</subtitle>
+      <title>~marado's tildelog</title>
+      <updated>2020-05-17T22:51:30Z</updated>
+    </source>
+  </entry>
+
+  <entry xml:lang="en">
+    <id>https://tilde.pt/~rlafuente/blog/./ola-mundo.html</id>
+    <link href="https://tilde.pt/~rlafuente/blog/ola-mundo.html" rel="alternate" type="text/html"/>
+    <title>Um olá, mundo</title>
+    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Porque o primeiro post a isso obriga, cá vai disto. Nunca consegui a disciplina e perseverança para tornar a escrita avulsa uma coisa mais regular, mas faço mais uma tentativa. Tenho andado com experimentações e dilemas que exigem alguma documentação, exigência essa amplificada por amigos que insistiram para publicar algumas das minhas impressões.</p>
+
+<p>Para já, este blogue vai servir principalmente para a documentação das experiências de ensino à distância que a <a href="https://tilde.pt/~aiscarvalho">~aiscarvalho</a> e eu estamos a levar a cabo na ESAP. A confinação obrigou a uma re-definição total das metodologias pedagógicas, e decidimo-nos por uma abordagem que envolvesse o <em>self-hosting</em> das ferramentas que necessitávamos, e que essas ferramentas sejam livres (<em>open source</em>). Já vou falar mais disso nos próximos dias.</p>
+
+<p>Também andava há uns tempos à procura de um poiso para algumas notas mais ou menos técnicas sobre cruzamentos de áreas que vou tocando: F/LOSS, cultura livre, design, tipografia, tildes, a dimensão sócio-política das ferramentas digitais, hacks, sysadmin e por aí. Sem promessas, é um dia de cada vez.</p>
+
+
+
+
+</div>
+    </summary>
+    <updated>2020-03-22T22:45:33Z</updated>
+    <author>
+      <name>Ricardo Lafuente</name>
+    </author>
+    <source>
+      <id>https://tilde.pt/~rlafuente/blog/index.html</id>
+      <link href="https://tilde.pt/~rlafuente/blog/index.html" rel="alternate" type="text/html"/>
+      <link href="https://tilde.pt/~rlafuente/blog/feed.rss" rel="self" type="application/rss+xml"/>
+      <subtitle>sobre os calos técnicos e as lombas filosóficas que encontro enquanto tento pôr computadores a fazer o que eu quero</subtitle>
+      <title>~rlafuente</title>
+      <updated>2020-05-09T14:04:46Z</updated>
+    </source>
+  </entry>
+</feed>
