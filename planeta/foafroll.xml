@@ -8,7 +8,7 @@
         <foaf:name>~epifanio</foaf:name>
         <foaf:weblog>
           <foaf:Document rdf:about="https://tilde.pt/~epifanio/blog/index.html">
-            <dc:title>o meu tildelog</dc:title>
+            <dc:title>~epifanio/blog</dc:title>
             <rdfs:seeAlso>
               <rss:channel rdf:about="https://tilde.pt/~epifanio/blog/feed.rss"/>
             </rdfs:seeAlso>

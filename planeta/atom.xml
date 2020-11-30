@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:planet="http://planet.intertwingly.net/" xmlns:indexing="urn:atom-extension:indexing" indexing:index="no"><access:restriction xmlns:access="http://www.bloglines.com/about/specs/fac-1.0" relationship="deny"/>
   <title>Planeta Tilde</title>
-  <updated>2020-11-28T22:20:02Z</updated>
+  <updated>2020-11-30T13:20:02Z</updated>
   <generator uri="http://intertwingly.net/code/venus/">Venus</generator>
   <author>
     <name>Marcos Marado</name>
@@ -25,21 +25,30 @@
 
 <p><img alt="homepage tilde.pt" src="https://tilde.pt/~epifanio/img/ibrowse_tilde_pt.jpg" title=""/> </p>
 
-<p>O espaço do <a href="https://tilde.pt/~rlafuente">rlafuente</a> também passou o teste:</p>
+<p>O espaço do <a href="https://tilde.pt/~rlafuente">~rlafuente</a> também passou o teste:</p>
 
 <p><img alt="rlafuente" src="https://tilde.pt/~epifanio/img/ibrowse_rlafuente.jpg" title=""/></p>
 
-<p>E o <a href="https://tilde.pt/~marado">marado</a> provou que usar <em>tables</em> para construir o layout uma página html (em vez de <em>divs</em>) tem as suas vantagens. Vejam:</p>
+<p>E o <a href="https://tilde.pt/~marado">~marado</a> provou que usar <em>tables</em> para construir o layout uma página html (em vez de <em>divs</em>) tem as suas vantagens. Vejam:</p>
 
 <p><img alt="marado" src="https://tilde.pt/~epifanio/img/ibrowse_marado.jpg" title=""/></p>
 
-<p>Como não há milagres, o <a href="https://tilde.pt/~aiscarvalho/users/">Hotel</a> (que é uma bela obra de arte) depende muito de CSS e é apresentado apenas como uma simples lista. Lanço o desafio à <a href="https://tilde.pt/~aiscarvalho/">aiscarvalho</a> para a construção de uma versão em ASCII art.</p>
+<p>Como não há milagres, o <a href="https://tilde.pt/~aiscarvalho/users/">Hotel</a> (que é uma bela obra de arte) depende muito de CSS e é apresentado apenas como uma simples lista. Lanço o desafio à <a href="https://tilde.pt/~aiscarvalho/">~aiscarvalho</a> para a construção de uma versão em ASCII art.</p>
 
 <p><img alt="hotel" src="https://tilde.pt/~epifanio/img/ibrowse_hotel.jpg" title=""/></p>
 
 <p>Uma nota final: o computador usado para este teste foi uma versão "moderna" do Amiga baseada em <a href="https://pt.wikipedia.org/wiki/Field-programmable_gate_array">FPGA</a>, uma <a href="https://www.apollo-accelerators.com/">Vampire V4 Standalone</a>. O sistema operativo é o Amiga OS 3.9 que infelizmente continua a ser proprietário devido a intermináveis guerras sobre a propriedade intelectual do mesmo. Felizmente temos o <a href="https://aros.sourceforge.io/">AROS 68k</a> que está a caminhar a passos largos para se tornar uma séria alternativa open-source ao velhinho Amiga OS.</p>
 
 <p>tags: <a href="https://tilde.pt/~epifanio/blog/tag_tilde.pt.html">tilde.pt</a>, <a href="https://tilde.pt/~epifanio/blog/tag_html.html">html</a>, <a href="https://tilde.pt/~epifanio/blog/tag_css.html">css</a>, <a href="https://tilde.pt/~epifanio/blog/tag_retro.html">retro</a>, <a href="https://tilde.pt/~epifanio/blog/tag_amiga.html">amiga</a></p>
+
+
+
+
+
+
+
+
+
 </div>
     </summary>
     <updated>2020-05-18T23:15:44Z</updated>
@@ -51,8 +60,8 @@
       <link href="https://tilde.pt/~epifanio/blog/index.html" rel="alternate" type="text/html"/>
       <link href="https://tilde.pt/~epifanio/blog/feed.rss" rel="self" type="application/rss+xml"/>
       <subtitle>um blog na tildelândia</subtitle>
-      <title>o meu tildelog</title>
-      <updated>2020-05-18T23:20:54Z</updated>
+      <title>~epifanio/blog</title>
+      <updated>2020-11-30T10:00:29Z</updated>
     </source>
   </entry>
 
@@ -586,6 +595,21 @@ Enjoy!</p>
 </code></p>
 
 <p>tags: <a href="https://tilde.pt/~epifanio/blog/tag_internet.html">internet</a>, <a href="https://tilde.pt/~epifanio/blog/tag_tildeverse.html">tildeverse</a>, <a href="https://tilde.pt/~epifanio/blog/tag_cyberspace.html">cyberspace</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </div>
     </summary>
     <updated>2020-04-08T23:40:34Z</updated>
@@ -597,8 +621,8 @@ Enjoy!</p>
       <link href="https://tilde.pt/~epifanio/blog/index.html" rel="alternate" type="text/html"/>
       <link href="https://tilde.pt/~epifanio/blog/feed.rss" rel="self" type="application/rss+xml"/>
       <subtitle>um blog na tildelândia</subtitle>
-      <title>o meu tildelog</title>
-      <updated>2020-05-18T23:20:54Z</updated>
+      <title>~epifanio/blog</title>
+      <updated>2020-11-30T10:00:29Z</updated>
     </source>
   </entry>
 
