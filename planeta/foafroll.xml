@@ -55,5 +55,18 @@
         </foaf:weblog>
       </foaf:Agent>
     </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>N.S. do Computismo</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/">
+            <dc:title>Nossa Senhora do Computismo</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
   </foaf:Group>
 </rdf:RDF>

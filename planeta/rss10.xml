@@ -15,6 +15,11 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Information-machine" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/dot-matrix-revolution" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/tv-helmet" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/conceptual-vocal-synthesizer" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/hardcore-computing" />
 			<rdf:li rdf:resource="https://tilde.pt/~epifanio/blog/./o-tildept-num-verdadeiro-computador-retro.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./dia-mundial-da-internet.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./contact-tracing.html" />
@@ -35,6 +40,37 @@
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Information-machine">
+	<title>N.S. do Computismo: The Information Machine</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Information-machine</link>
+	<content:encoded>&lt;p&gt;The Information Machine – Charles and Ray Eames (1973)&lt;/p&gt;</content:encoded>
+	<dc:date>2020-12-17T11:20:02+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/dot-matrix-revolution">
+	<title>N.S. do Computismo: Dot Matrix Revolution</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/dot-matrix-revolution</link>
+	<content:encoded>&lt;p&gt;&lt;/p&gt;&lt;div style=&quot;padding: 66.67% 0 0 0;&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/1715202&quot;&gt;DOT MATRIX REVOLUTION&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/superbrothers&quot;&gt;superbrothers&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</content:encoded>
+	<dc:date>2020-12-17T00:20:02+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/tv-helmet">
+	<title>N.S. do Computismo: Walter Pichler's Tv Helmet</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/tv-helmet</link>
+	<content:encoded>&lt;p&gt;&lt;img alt=&quot;tv helmet&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/tv-helmet.jpg&quot; /&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2020-12-17T00:20:02+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/conceptual-vocal-synthesizer">
+	<title>N.S. do Computismo: VOC-25 - A conceptual vocal synthesizer</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/conceptual-vocal-synthesizer</link>
+	<dc:date>2020-12-17T00:20:02+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/hardcore-computing">
+	<title>N.S. do Computismo: Hardcore Computing</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/hardcore-computing</link>
+	<content:encoded>&lt;p&gt;&lt;img alt=&quot;hardcore computing&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/hardcoreComputing.jpg&quot; /&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2020-12-17T00:20:02+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~epifanio/blog/./o-tildept-num-verdadeiro-computador-retro.html">
 	<title>~epifanio: O tilde.pt num verdadeiro computador retro</title>
 	<link>https://tilde.pt/~epifanio/blog/o-tildept-num-verdadeiro-computador-retro.html</link>

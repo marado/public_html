@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:planet="http://planet.intertwingly.net/" xmlns:indexing="urn:atom-extension:indexing" indexing:index="no"><access:restriction xmlns:access="http://www.bloglines.com/about/specs/fac-1.0" relationship="deny"/>
   <title>Planeta Tilde</title>
-  <updated>2020-11-30T13:20:02Z</updated>
+  <updated>2020-12-17T12:20:02Z</updated>
   <generator uri="http://intertwingly.net/code/venus/">Venus</generator>
   <author>
     <name>Marcos Marado</name>
@@ -10,6 +10,106 @@
   <id>http://tilde.pt/~marado/atom.xml</id>
   <link href="http://tilde.pt/~marado/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="http://tilde.pt/~marado/planeta" rel="alternate"/>
+
+  <entry>
+    <id>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Information-machine</id>
+    <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Information-machine" rel="alternate" type="text/html"/>
+    <title>The Information Machine</title>
+    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>The Information Machine – Charles and Ray Eames (1973)</p></div>
+    </summary>
+    <updated>2020-12-17T11:20:02Z</updated>
+    <source>
+      <id>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/</id>
+      <author>
+        <name>N.S. do Computismo</name>
+      </author>
+      <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/" rel="alternate" type="text/html"/>
+      <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
+      <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
+      <title>Nossa Senhora do Computismo</title>
+      <updated>2020-12-17T12:20:02Z</updated>
+    </source>
+  </entry>
+
+  <entry>
+    <id>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/dot-matrix-revolution</id>
+    <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/dot-matrix-revolution" rel="alternate" type="text/html"/>
+    <title>Dot Matrix Revolution</title>
+    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p/><div style="padding: 66.67% 0 0 0;"/><p/>
+
+<p><a href="https://vimeo.com/1715202">DOT MATRIX REVOLUTION</a> from <a href="https://vimeo.com/superbrothers">superbrothers</a> on <a href="https://vimeo.com">Vimeo</a>.</p></div>
+    </summary>
+    <updated>2020-12-17T00:20:02Z</updated>
+    <source>
+      <id>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/</id>
+      <author>
+        <name>N.S. do Computismo</name>
+      </author>
+      <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/" rel="alternate" type="text/html"/>
+      <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
+      <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
+      <title>Nossa Senhora do Computismo</title>
+      <updated>2020-12-17T12:20:02Z</updated>
+    </source>
+  </entry>
+
+  <entry>
+    <id>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/tv-helmet</id>
+    <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/tv-helmet" rel="alternate" type="text/html"/>
+    <title>Walter Pichler's Tv Helmet</title>
+    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p><img alt="tv helmet" src="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/tv-helmet.jpg"/></p></div>
+    </summary>
+    <updated>2020-12-17T00:20:02Z</updated>
+    <source>
+      <id>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/</id>
+      <author>
+        <name>N.S. do Computismo</name>
+      </author>
+      <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/" rel="alternate" type="text/html"/>
+      <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
+      <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
+      <title>Nossa Senhora do Computismo</title>
+      <updated>2020-12-17T12:20:02Z</updated>
+    </source>
+  </entry>
+
+  <entry>
+    <id>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/conceptual-vocal-synthesizer</id>
+    <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/conceptual-vocal-synthesizer" rel="alternate" type="text/html"/>
+    <title>VOC-25 - A conceptual vocal synthesizer</title>
+    <updated>2020-12-17T00:20:02Z</updated>
+    <source>
+      <id>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/</id>
+      <author>
+        <name>N.S. do Computismo</name>
+      </author>
+      <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/" rel="alternate" type="text/html"/>
+      <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
+      <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
+      <title>Nossa Senhora do Computismo</title>
+      <updated>2020-12-17T12:20:02Z</updated>
+    </source>
+  </entry>
+
+  <entry>
+    <id>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/hardcore-computing</id>
+    <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/hardcore-computing" rel="alternate" type="text/html"/>
+    <title>Hardcore Computing</title>
+    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p><img alt="hardcore computing" src="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/hardcoreComputing.jpg"/></p></div>
+    </summary>
+    <updated>2020-12-17T00:20:02Z</updated>
+    <source>
+      <id>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/</id>
+      <author>
+        <name>N.S. do Computismo</name>
+      </author>
+      <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/" rel="alternate" type="text/html"/>
+      <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
+      <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
+      <title>Nossa Senhora do Computismo</title>
+      <updated>2020-12-17T12:20:02Z</updated>
+    </source>
+  </entry>
 
   <entry xml:lang="en">
     <id>https://tilde.pt/~epifanio/blog/./o-tildept-num-verdadeiro-computador-retro.html</id>
