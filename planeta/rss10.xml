@@ -15,6 +15,8 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/The-secret-life-of-the-machines" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Capella" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Information-machine" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/dot-matrix-revolution" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/tv-helmet" />
@@ -40,6 +42,21 @@
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/The-secret-life-of-the-machines">
+	<title>N.S. do Computismo: The Secret Life Of Machines - The Fax Machine</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/The-secret-life-of-the-machines</link>
+	<dc:date>2020-12-18T14:20:03+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Capella">
+	<title>N.S. do Computismo: Cappella 2</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Capella</link>
+	<content:encoded>&lt;p&gt;The all seeing gods.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/Capella-Space-Spot-Image-Tokyo-Japan.png&quot;&gt;&lt;img alt=&quot;Capella 2&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/Capella-Space-Spot-Image-Tokyo-Japan.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;more info: &lt;a href=&quot;https://futurism.com/new-satellite-buildings-day-night&quot;&gt;futurism.com&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2020-12-18T14:20:03+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Information-machine">
 	<title>N.S. do Computismo: The Information Machine</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Information-machine</link>
