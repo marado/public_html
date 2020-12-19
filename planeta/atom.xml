@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:planet="http://planet.intertwingly.net/" xmlns:indexing="urn:atom-extension:indexing" indexing:index="no"><access:restriction xmlns:access="http://www.bloglines.com/about/specs/fac-1.0" relationship="deny"/>
   <title>Planeta Tilde</title>
-  <updated>2020-12-18T21:20:03Z</updated>
+  <updated>2020-12-19T15:20:03Z</updated>
   <generator uri="http://intertwingly.net/code/venus/">Venus</generator>
   <author>
     <name>Marcos Marado</name>
@@ -10,6 +10,29 @@
   <id>http://tilde.pt/~marado/atom.xml</id>
   <link href="http://tilde.pt/~marado/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="http://tilde.pt/~marado/planeta" rel="alternate"/>
+
+  <entry>
+    <id>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Wireless-newspaper</id>
+    <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Wireless-newspaper" rel="alternate" type="text/html"/>
+    <title>The Wireless Newspaper</title>
+    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>«Em 1938 O primeiro jornal wireless foi enviado da estação de rádio WOR em Nova Iorque. A foto mostra crianças a ler a página infantil de um jornal do Missouri.
+via Nationaal Archief (http://www.flickr.com/photos/nationaalarchief/4193509648/)</p>
+
+<p><img alt="wireless newpaper" src="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/wireless-newspaper.jpg"/></p></div>
+    </summary>
+    <updated>2020-12-19T12:20:03Z</updated>
+    <source>
+      <id>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/</id>
+      <author>
+        <name>N.S. do Computismo</name>
+      </author>
+      <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/" rel="alternate" type="text/html"/>
+      <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
+      <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
+      <title>Nossa Senhora do Computismo</title>
+      <updated>2020-12-19T15:20:03Z</updated>
+    </source>
+  </entry>
 
   <entry>
     <id>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/The-secret-life-of-the-machines</id>
@@ -25,7 +48,7 @@
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2020-12-18T21:20:02Z</updated>
+      <updated>2020-12-19T15:20:03Z</updated>
     </source>
   </entry>
 
@@ -49,7 +72,7 @@
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2020-12-18T21:20:02Z</updated>
+      <updated>2020-12-19T15:20:03Z</updated>
     </source>
   </entry>
 
@@ -69,7 +92,7 @@
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2020-12-18T21:20:02Z</updated>
+      <updated>2020-12-19T15:20:03Z</updated>
     </source>
   </entry>
 
@@ -91,7 +114,7 @@
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2020-12-18T21:20:02Z</updated>
+      <updated>2020-12-19T15:20:03Z</updated>
     </source>
   </entry>
 
@@ -111,7 +134,7 @@
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2020-12-18T21:20:02Z</updated>
+      <updated>2020-12-19T15:20:03Z</updated>
     </source>
   </entry>
 
@@ -129,7 +152,7 @@
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2020-12-18T21:20:02Z</updated>
+      <updated>2020-12-19T15:20:03Z</updated>
     </source>
   </entry>
 
@@ -149,7 +172,7 @@
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2020-12-18T21:20:02Z</updated>
+      <updated>2020-12-19T15:20:03Z</updated>
     </source>
   </entry>
 

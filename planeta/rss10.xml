@@ -15,6 +15,7 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Wireless-newspaper" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/The-secret-life-of-the-machines" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Capella" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Information-machine" />
@@ -42,6 +43,15 @@
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Wireless-newspaper">
+	<title>N.S. do Computismo: The Wireless Newspaper</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Wireless-newspaper</link>
+	<content:encoded>&lt;p&gt;«Em 1938 O primeiro jornal wireless foi enviado da estação de rádio WOR em Nova Iorque. A foto mostra crianças a ler a página infantil de um jornal do Missouri.
+via Nationaal Archief (http://www.flickr.com/photos/nationaalarchief/4193509648/)&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;wireless newpaper&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/wireless-newspaper.jpg&quot; /&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2020-12-19T12:20:03+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/The-secret-life-of-the-machines">
 	<title>N.S. do Computismo: The Secret Life Of Machines - The Fax Machine</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/The-secret-life-of-the-machines</link>
