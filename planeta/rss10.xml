@@ -15,6 +15,12 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Obama-is-Checking-your-email" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/How-not-to-be-alone" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/NSA" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/The-kids-guide-to-the-Internet" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Console-cowboys" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Wifi-gestures" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Lies-on-the-internet" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Tetris-printer-algorithm" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Netscape-Mozilla" />
@@ -46,6 +52,49 @@
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Obama-is-Checking-your-email">
+	<title>N.S. do Computismo: Obama is checking your email</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Obama-is-Checking-your-email</link>
+	<content:encoded>&lt;p&gt;&lt;img alt=&quot;Obama is checking your email&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/obama-checking-email.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://obamaischeckingyouremail.tumblr.com/&quot;&gt;Obama is checking your email on Tumblr&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2020-12-30T11:20:03+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/How-not-to-be-alone">
+	<title>N.S. do Computismo: How not to be Alone</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/How-not-to-be-alone</link>
+	<content:encoded>&lt;p&gt;&quot;It is harder to intervene than not to, but it is vastly harder to choose to do either than to retreat into the scrolling names of one’s contact list, or whatever one’s favorite iDistraction happens to be. Technology celebrates connectedness, but encourages retreat. The phone didn’t make me avoid the human connection, but it did make ignoring her easier in that moment, and more likely, by comfortably encouraging me to forget my choice to do so. My daily use of technological communication has been shaping me into someone more likely to forget others. The flow of water carves rock, a little bit at a time. And our personhood is carved, too, by the flow of our habits.&quot;&lt;/p&gt;
+
+&lt;p&gt;more @ &lt;a href=&quot;https://www.rt.com/usa/nsa-prism-classified-data-collection-348/&quot;&gt;New York Times&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2020-12-29T11:20:03+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/NSA">
+	<title>N.S. do Computismo: Classified docs reveal NSA's vast real-time warrantless Web surveillance (2013)</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/NSA</link>
+	<content:encoded>&lt;p&gt;&quot;For seven years, the US National Security Agency (NSA) has been using a congressionally approved warrantless Web surveillance system with a near-limitless ability to spy on Americans’ phone calls, emails, video chats, search history and more.&quot;&lt;/p&gt;
+
+&lt;p&gt;more @ &lt;a href=&quot;https://www.rt.com/usa/nsa-prism-classified-data-collection-348/&quot;&gt;rt&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2020-12-28T11:20:03+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/The-kids-guide-to-the-Internet">
+	<title>N.S. do Computismo: Edward Snowden's initial interview (2013)</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/The-kids-guide-to-the-Internet</link>
+	<content:encoded>&lt;p&gt;more @ &lt;a href=&quot;https://www.theguardian.com/world/2013/jun/09/edward-snowden-nsa-whistleblower-surveillance&quot;&gt;The Guardian&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2020-12-27T12:20:03+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Console-cowboys">
+	<title>N.S. do Computismo: Jam with the console cowboys in cyberspace</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Console-cowboys</link>
+	<dc:date>2020-12-24T11:20:03+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Wifi-gestures">
+	<title>N.S. do Computismo: Wi-Fi signals enable gesture recognition throughout entire home</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Wifi-gestures</link>
+	<content:encoded>&lt;p&gt;&lt;a href=&quot;https://www.washington.edu/news/2013/06/04/wi-fi-signals-enable-gesture-recognition-throughout-entire-home/&quot;&gt;washington.edu&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&quot;Forget to turn off the lights before leaving the apartment? No problem. Just raise your hand, finger-swipe the air, and your lights will power down. Want to change the song playing on your music system in the other room? Move your hand to the right and flip through the songs.&quot;&lt;/p&gt;</content:encoded>
+	<dc:date>2020-12-23T11:20:02+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Lies-on-the-internet">
 	<title>N.S. do Computismo: Lies on the Internet</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Lies-on-the-internet</link>
