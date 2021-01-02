@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:planet="http://planet.intertwingly.net/" xmlns:indexing="urn:atom-extension:indexing" indexing:index="no"><access:restriction xmlns:access="http://www.bloglines.com/about/specs/fac-1.0" relationship="deny"/>
   <title>Planeta Tilde</title>
-  <updated>2020-12-30T19:20:03Z</updated>
+  <updated>2021-01-02T19:20:03Z</updated>
   <generator uri="http://intertwingly.net/code/venus/">Venus</generator>
   <author>
     <name>Marcos Marado</name>
@@ -10,6 +10,28 @@
   <id>http://tilde.pt/~marado/atom.xml</id>
   <link href="http://tilde.pt/~marado/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="http://tilde.pt/~marado/planeta" rel="alternate"/>
+
+  <entry>
+    <id>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/EdwardSnowden</id>
+    <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/EdwardSnowden" rel="alternate" type="text/html"/>
+    <title>Edward Sownden's initial interview (2013)</title>
+    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>"The 29-year-old source behind the biggest intelligence leak in the NSA's history explains his motives, his uncertain future and why he never intended on hiding in the shadows"</p>
+
+<p>@ <a href="https://www.theguardian.com/world/2013/jun/09/edward-snowden-nsa-whistleblower-surveillance">the guardian</a></p></div>
+    </summary>
+    <updated>2020-12-31T11:20:03Z</updated>
+    <source>
+      <id>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/</id>
+      <author>
+        <name>N.S. do Computismo</name>
+      </author>
+      <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/" rel="alternate" type="text/html"/>
+      <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
+      <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
+      <title>Nossa Senhora do Computismo</title>
+      <updated>2021-01-02T19:20:03Z</updated>
+    </source>
+  </entry>
 
   <entry>
     <id>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Obama-is-Checking-your-email</id>
@@ -29,7 +51,7 @@
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2020-12-30T19:20:03Z</updated>
+      <updated>2021-01-02T19:20:03Z</updated>
     </source>
   </entry>
 
@@ -51,7 +73,7 @@
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2020-12-30T19:20:03Z</updated>
+      <updated>2021-01-02T19:20:03Z</updated>
     </source>
   </entry>
 
@@ -73,7 +95,7 @@
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2020-12-30T19:20:03Z</updated>
+      <updated>2021-01-02T19:20:03Z</updated>
     </source>
   </entry>
 
@@ -93,7 +115,7 @@
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2020-12-30T19:20:03Z</updated>
+      <updated>2021-01-02T19:20:03Z</updated>
     </source>
   </entry>
 
@@ -111,7 +133,7 @@
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2020-12-30T19:20:03Z</updated>
+      <updated>2021-01-02T19:20:03Z</updated>
     </source>
   </entry>
 
@@ -133,7 +155,7 @@
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2020-12-30T19:20:03Z</updated>
+      <updated>2021-01-02T19:20:03Z</updated>
     </source>
   </entry>
 
@@ -151,7 +173,7 @@
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2020-12-30T19:20:03Z</updated>
+      <updated>2021-01-02T19:20:03Z</updated>
     </source>
   </entry>
 
@@ -169,7 +191,7 @@
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2020-12-30T19:20:03Z</updated>
+      <updated>2021-01-02T19:20:03Z</updated>
     </source>
   </entry>
 
@@ -187,7 +209,7 @@
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2020-12-30T19:20:03Z</updated>
+      <updated>2021-01-02T19:20:03Z</updated>
     </source>
   </entry>
 
@@ -210,7 +232,7 @@ via Nationaal Archief (http://www.flickr.com/photos/nationaalarchief/4193509648/
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2020-12-30T19:20:03Z</updated>
+      <updated>2021-01-02T19:20:03Z</updated>
     </source>
   </entry>
 
@@ -228,7 +250,7 @@ via Nationaal Archief (http://www.flickr.com/photos/nationaalarchief/4193509648/
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2020-12-30T19:20:03Z</updated>
+      <updated>2021-01-02T19:20:03Z</updated>
     </source>
   </entry>
 
@@ -252,7 +274,7 @@ via Nationaal Archief (http://www.flickr.com/photos/nationaalarchief/4193509648/
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2020-12-30T19:20:03Z</updated>
+      <updated>2021-01-02T19:20:03Z</updated>
     </source>
   </entry>
 
@@ -272,7 +294,7 @@ via Nationaal Archief (http://www.flickr.com/photos/nationaalarchief/4193509648/
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2020-12-30T19:20:03Z</updated>
+      <updated>2021-01-02T19:20:03Z</updated>
     </source>
   </entry>
 
@@ -294,7 +316,7 @@ via Nationaal Archief (http://www.flickr.com/photos/nationaalarchief/4193509648/
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2020-12-30T19:20:03Z</updated>
+      <updated>2021-01-02T19:20:03Z</updated>
     </source>
   </entry>
 
@@ -314,7 +336,7 @@ via Nationaal Archief (http://www.flickr.com/photos/nationaalarchief/4193509648/
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2020-12-30T19:20:03Z</updated>
+      <updated>2021-01-02T19:20:03Z</updated>
     </source>
   </entry>
 
@@ -332,7 +354,7 @@ via Nationaal Archief (http://www.flickr.com/photos/nationaalarchief/4193509648/
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2020-12-30T19:20:03Z</updated>
+      <updated>2021-01-02T19:20:03Z</updated>
     </source>
   </entry>
 
@@ -352,7 +374,7 @@ via Nationaal Archief (http://www.flickr.com/photos/nationaalarchief/4193509648/
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2020-12-30T19:20:03Z</updated>
+      <updated>2021-01-02T19:20:03Z</updated>
     </source>
   </entry>
 

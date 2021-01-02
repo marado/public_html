@@ -15,6 +15,7 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/EdwardSnowden" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Obama-is-Checking-your-email" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/How-not-to-be-alone" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/NSA" />
@@ -52,6 +53,14 @@
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/EdwardSnowden">
+	<title>N.S. do Computismo: Edward Sownden's initial interview (2013)</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/EdwardSnowden</link>
+	<content:encoded>&lt;p&gt;&quot;The 29-year-old source behind the biggest intelligence leak in the NSA's history explains his motives, his uncertain future and why he never intended on hiding in the shadows&quot;&lt;/p&gt;
+
+&lt;p&gt;@ &lt;a href=&quot;https://www.theguardian.com/world/2013/jun/09/edward-snowden-nsa-whistleblower-surveillance&quot;&gt;the guardian&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2020-12-31T11:20:03+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Obama-is-Checking-your-email">
 	<title>N.S. do Computismo: Obama is checking your email</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Obama-is-Checking-your-email</link>
