@@ -15,6 +15,7 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/The-Unix-Operating-System" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/EdwardSnowden" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Obama-is-Checking-your-email" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/How-not-to-be-alone" />
@@ -53,6 +54,11 @@
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/The-Unix-Operating-System">
+	<title>N.S. do Computismo: AT&amp;T Archives: The Unix Operating System</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/The-Unix-Operating-System</link>
+	<dc:date>2021-01-04T11:20:02+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/EdwardSnowden">
 	<title>N.S. do Computismo: Edward Sownden's initial interview (2013)</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/EdwardSnowden</link>
