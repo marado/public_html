@@ -15,6 +15,7 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Microsoft-Clipart-Extra" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Dall-e" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Return-of-the-Obra-Dinn" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/The-Unix-Operating-System" />
@@ -56,6 +57,16 @@
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Microsoft-Clipart-Extra">
+	<title>N.S. do Computismo: Microsoft Clipart Extra</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Microsoft-Clipart-Extra</link>
+	<content:encoded>&lt;p&gt;&lt;img alt=&quot;2 kitties&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/2kitties.svg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Microsoft Clipart Extra: clipart from Microsoft Office 97 Professional (English). SVG.zip contains the Windows Metafiles from the collection, which is most of the images, converted to SVG with wmf2svg.&lt;/p&gt;
+
+&lt;p&gt;@ &lt;a href=&quot;https://archive.org/details/mso97clipart&quot;&gt;archive.org&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2021-01-08T11:20:04+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Dall-e">
 	<title>N.S. do Computismo: DALL·E: Creating Images from Text</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Dall-e</link>
