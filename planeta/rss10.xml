@@ -15,6 +15,8 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/DIY-Robot-Does-Perfect-Backflip" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/The-Mother-of-All-Demos" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Microsoft-Clipart-Extra" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Dall-e" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Return-of-the-Obra-Dinn" />
@@ -57,6 +59,16 @@
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/DIY-Robot-Does-Perfect-Backflip">
+	<title>N.S. do Computismo: DIY Robot doing perfect quadruple backflip</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/DIY-Robot-Does-Perfect-Backflip</link>
+	<dc:date>2021-01-14T12:20:02+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/The-Mother-of-All-Demos">
+	<title>N.S. do Computismo: The Mother Of All Demos</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/The-Mother-of-All-Demos</link>
+	<dc:date>2021-01-14T12:20:02+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Microsoft-Clipart-Extra">
 	<title>N.S. do Computismo: Microsoft Clipart Extra</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Microsoft-Clipart-Extra</link>
