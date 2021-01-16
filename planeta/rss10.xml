@@ -15,6 +15,7 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Perpetual-Energy-Wasting-Machine" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/DIY-Robot-Does-Perfect-Backflip" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/The-Mother-of-All-Demos" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Microsoft-Clipart-Extra" />
@@ -59,6 +60,11 @@
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Perpetual-Energy-Wasting-Machine">
+	<title>N.S. do Computismo: Perpetual Energy Wasting Machine</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Perpetual-Energy-Wasting-Machine</link>
+	<dc:date>2021-01-15T12:20:03+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/DIY-Robot-Does-Perfect-Backflip">
 	<title>N.S. do Computismo: DIY Robot doing perfect quadruple backflip</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/DIY-Robot-Does-Perfect-Backflip</link>
