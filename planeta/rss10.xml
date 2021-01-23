@@ -15,6 +15,8 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Max-Headroom-Incident" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/How-Bitcoin-Works-Under-The-Hood" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/BBC-Micro-Live-1986-Computer-Animation" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Perpetual-Energy-Wasting-Machine" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/DIY-Robot-Does-Perfect-Backflip" />
@@ -61,6 +63,19 @@
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Max-Headroom-Incident">
+	<title>N.S. do Computismo: The Max Headroom Incident</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Max-Headroom-Incident</link>
+	<content:encoded>&lt;p&gt;&lt;img alt=&quot;Max HeadRoom&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/max-headroom.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://thisiscriminal.com/the-max-headroom-incident&quot;&gt;The Max Headroom Incident @ Criminal Podcast&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2021-01-22T11:20:04+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/How-Bitcoin-Works-Under-The-Hood">
+	<title>N.S. do Computismo: How Bitcoin Works Under The Hood</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/How-Bitcoin-Works-Under-The-Hood</link>
+	<dc:date>2021-01-21T11:20:03+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/BBC-Micro-Live-1986-Computer-Animation">
 	<title>N.S. do Computismo: BBC Micro Live 1986 - Computer Animation</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/BBC-Micro-Live-1986-Computer-Animation</link>
