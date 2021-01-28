@@ -15,6 +15,10 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/The-Shortcut" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/WTF-is-going-on-with-gamestop-stock" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2022/01/The-Shortcut" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Paper-Craft" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Max-Headroom-Incident" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/How-Bitcoin-Works-Under-The-Hood" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/BBC-Micro-Live-1986-Computer-Animation" />
@@ -63,6 +67,40 @@
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/The-Shortcut">
+	<title>N.S. do Computismo: The Shortcut</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/The-Shortcut</link>
+	<content:encoded>&lt;p&gt;&lt;img alt=&quot;the shortcut&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/shortcut.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;the shortcut @ &lt;a href=&quot;http://www.bewitched.com/art/shortcut&quot;&gt;bewitched&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2021-01-28T11:20:03+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/WTF-is-going-on-with-gamestop-stock">
+	<title>N.S. do Computismo: WTF is Going on with Gamestop stock</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/WTF-is-going-on-with-gamestop-stock</link>
+	<content:encoded>&lt;p&gt;Social engineering at its finest&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;HOLD HOLD HOLD&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/gamestop.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Indepth article @ &lt;a href=&quot;https://www.vice.com/en/article/pkdvgy/send-this-to-anyone-who-wants-to-know-wtf-is-up-with-gamestop-stock&quot;&gt;vice&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2021-01-28T11:20:03+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2022/01/The-Shortcut">
+	<title>N.S. do Computismo: The Shortcut</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2022/01/The-Shortcut</link>
+	<content:encoded>&lt;p&gt;&lt;img alt=&quot;the shortcut&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/shortcut.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;the shortcut @ &lt;a href=&quot;http://www.bewitched.com/art/shortcut&quot;&gt;bewitched&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2021-01-27T11:20:03+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Paper-Craft">
+	<title>N.S. do Computismo: Old Computers in Paper</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Paper-Craft</link>
+	<content:encoded>&lt;p&gt;&lt;img alt=&quot;papercraft&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/papercraft.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Construct the computer from your childhood or build an entire computer museum at home with these paper models @ &lt;a href=&quot;http://rockybergen.com/papercraft&quot;&gt;Rocky Bergen&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2021-01-26T12:20:04+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Max-Headroom-Incident">
 	<title>N.S. do Computismo: The Max Headroom Incident</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Max-Headroom-Incident</link>
