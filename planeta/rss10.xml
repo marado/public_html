@@ -15,6 +15,7 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/DEFCON-20-Documentary" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/The-Shortcut" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/WTF-is-going-on-with-gamestop-stock" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2022/01/The-Shortcut" />
@@ -67,6 +68,11 @@
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/DEFCON-20-Documentary">
+	<title>N.S. do Computismo: Defcon 20 Documentary By Jason Scott</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/DEFCON-20-Documentary</link>
+	<dc:date>2021-01-29T11:20:03+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/The-Shortcut">
 	<title>N.S. do Computismo: The Shortcut</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/The-Shortcut</link>
