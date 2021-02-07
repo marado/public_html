@@ -15,6 +15,9 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/World" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/John-McCarthy" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/16-colors" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/DEFCON-20-Documentary" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/The-Shortcut" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/WTF-is-going-on-with-gamestop-stock" />
@@ -68,6 +71,31 @@
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/World">
+	<title>N.S. do Computismo: World</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/World</link>
+	<content:encoded>&lt;div id=&quot;world&quot;&gt;&lt;/div&gt;
+
+
+
+&lt;p&gt;source url @ &lt;a href=&quot;http://aem1k.com/world/&quot;&gt;aem1k.com&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2021-02-05T11:20:03+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/John-McCarthy">
+	<title>N.S. do Computismo: John McCarthy</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/John-McCarthy</link>
+	<content:encoded>&lt;p&gt;John McCarthy is best known for having coined the term &quot;Artificial Inteligence&quot; and having created the Lisp programming language
+&lt;img alt=&quot;John McCarthy playing chess&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/JohnMcCarthy.jpg&quot; /&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2021-02-04T11:20:03+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/16-colors">
+	<title>N.S. do Computismo: 16 Colors - ANSI ASCII Art Archive</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/16-colors</link>
+	<content:encoded>&lt;p&gt;&lt;img alt=&quot;16colors&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/16-colors.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;@ &lt;a href=&quot;https://16colo.rs/&quot;&gt;16 colors&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2021-02-03T11:20:04+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/DEFCON-20-Documentary">
 	<title>N.S. do Computismo: Defcon 20 Documentary By Jason Scott</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/DEFCON-20-Documentary</link>
