@@ -15,6 +15,7 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Sword-of-Damocles" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/World" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/John-McCarthy" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/16-colors" />
@@ -71,6 +72,16 @@
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Sword-of-Damocles">
+	<title>N.S. do Computismo: Sword of Damocles</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Sword-of-Damocles</link>
+	<content:encoded>&lt;p&gt;An early Virtual Reality head mounted display&lt;/p&gt;
+
+
+
+&lt;p&gt;more info @ &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Sword_of_Damocles_(virtual_reality)&quot;&gt;wikipedia&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2021-02-08T11:20:03+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/World">
 	<title>N.S. do Computismo: World</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/World</link>
