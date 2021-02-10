@@ -15,6 +15,9 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Halt-and-Catch-Fire-Syllabus" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Spreadsheet-Wars" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Halt-and-Catch-Fire-Syllabyus" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Sword-of-Damocles" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/World" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/John-McCarthy" />
@@ -72,6 +75,37 @@
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Halt-and-Catch-Fire-Syllabus">
+	<title>N.S. do Computismo: Halt and Catch Fire Syllabus</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Halt-and-Catch-Fire-Syllabus</link>
+	<content:encoded>&lt;blockquote&gt;
+  &lt;p&gt;Tell me one thing that will be true about computers ten years from now?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;!(The only interface that makes computer graphics easy as Apple pie)[/~fimdomeio/nossa-senhora-do-computismo/img/apple-pie-ui.jpg]&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/&quot;&gt;Halt and Catch Fire syllabus&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2021-02-10T12:20:03+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Spreadsheet-Wars">
+	<title>N.S. do Computismo: The Spreadsheet Wars</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Spreadsheet-Wars</link>
+	<content:encoded>&lt;p&gt;&lt;img alt=&quot;spreadsheet&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/spreadsheet.jpg&quot; /&gt;
+@ &lt;a href=&quot;https://archive.org/details/CC606_spreadsheet_wars&quot;&gt;archive.org&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2021-02-10T11:20:03+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Halt-and-Catch-Fire-Syllabyus">
+	<title>N.S. do Computismo: Halt and Catch Fire Syllabus</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Halt-and-Catch-Fire-Syllabyus</link>
+	<content:encoded>&lt;blockquote&gt;
+  &lt;p&gt;Tell me one thing that will be true about computers ten years from now?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;![~/fimdomeio/nossa-senhora-do-computismo/img/apple-pie-ui.jpg]&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/&quot;&gt;Halt and Catch Fire syllabus&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2021-02-10T11:20:03+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Sword-of-Damocles">
 	<title>N.S. do Computismo: Sword of Damocles</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Sword-of-Damocles</link>
@@ -202,7 +236,7 @@
 	<dc:date>2021-01-06T11:20:03+00:00</dc:date>
 </item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Return-of-the-Obra-Dinn">
-	<title>N.S. do Computismo: Return of the Obra Dinn</title>
+	<title>N.S. do Computismo: [[Return]] of the Obra Dinn</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Return-of-the-Obra-Dinn</link>
 	<dc:date>2021-01-05T11:20:04+00:00</dc:date>
 </item>
