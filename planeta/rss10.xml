@@ -15,6 +15,7 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Computer-for-Apollo-Computer-for-Laughing" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Halt-and-Catch-Fire-Syllabus" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Spreadsheet-Wars" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Halt-and-Catch-Fire-Syllabyus" />
@@ -75,6 +76,11 @@
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Computer-for-Apollo-Computer-for-Laughing">
+	<title>N.S. do Computismo: A Computer for Apollo or a Computer for Laughing?</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Computer-for-Apollo-Computer-for-Laughing</link>
+	<dc:date>2021-02-11T12:20:03+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Halt-and-Catch-Fire-Syllabus">
 	<title>N.S. do Computismo: Halt and Catch Fire Syllabus</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Halt-and-Catch-Fire-Syllabus</link>
@@ -82,7 +88,7 @@
   &lt;p&gt;Tell me one thing that will be true about computers ten years from now?&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;!(The only interface that makes computer graphics easy as Apple pie)[/~fimdomeio/nossa-senhora-do-computismo/img/apple-pie-ui.jpg]&lt;/p&gt;
+&lt;p&gt;!(The only interface that makes computer graphics easy as Apple pie)[../../~aiscarvalho/img/apple-pie-ui.jpg]&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/&quot;&gt;Halt and Catch Fire syllabus&lt;/a&gt;&lt;/p&gt;</content:encoded>
 	<dc:date>2021-02-10T12:20:03+00:00</dc:date>

@@ -9,6 +9,12 @@
 	<atom:link rel="self" href="http://tilde.pt/~marado/rss20.xml" type="application/rss+xml"/>
 
 <item>
+	<title>N.S. do Computismo: A Computer for Apollo or a Computer for Laughing?</title>
+	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Computer-for-Apollo-Computer-for-Laughing</guid>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Computer-for-Apollo-Computer-for-Laughing</link>
+	<pubDate>Thu, 11 Feb 2021 12:20:03 +0000</pubDate>
+</item>
+<item>
 	<title>N.S. do Computismo: Halt and Catch Fire Syllabus</title>
 	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Halt-and-Catch-Fire-Syllabus</guid>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Halt-and-Catch-Fire-Syllabus</link>
@@ -16,7 +22,7 @@
   &lt;p&gt;Tell me one thing that will be true about computers ten years from now?&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;!(The only interface that makes computer graphics easy as Apple pie)[/~fimdomeio/nossa-senhora-do-computismo/img/apple-pie-ui.jpg]&lt;/p&gt;
+&lt;p&gt;!(The only interface that makes computer graphics easy as Apple pie)[../../~aiscarvalho/img/apple-pie-ui.jpg]&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/&quot;&gt;Halt and Catch Fire syllabus&lt;/a&gt;&lt;/p&gt;</description>
 	<pubDate>Wed, 10 Feb 2021 12:20:03 +0000</pubDate>
