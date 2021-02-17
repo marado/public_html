@@ -15,6 +15,8 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/All-your-base" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/timothy-leary-lost-video-games" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Computer-for-Apollo-Computer-for-Laughing" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Halt-and-Catch-Fire-Syllabus" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Spreadsheet-Wars" />
@@ -76,6 +78,21 @@
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/All-your-base">
+	<title>N.S. do Computismo: All Your Base Are Belong to Us 20 year Aniversary</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/All-your-base</link>
+	<content:encoded>&lt;p&gt;&lt;img alt=&quot;All your Base Animated&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/AllYourBaseAnimated.gif&quot; /&gt;
+O
+@ &lt;a href=&quot;https://arstechnica.com/gaming/2021/02/get-ready-to-feel-old-the-all-your-base-music-video-turns-20-today/&quot;&gt;ArsTechnica.com&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2021-02-17T11:20:03+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/timothy-leary-lost-video-games">
+	<title>N.S. do Computismo: Timothy Leary's Long-Lost Video Games</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/timothy-leary-lost-video-games</link>
+	<content:encoded>&lt;p&gt;&lt;img alt=&quot;neuromancer&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/timothy-leary.jpg&quot; /&gt;
+@ &lt;a href=&quot;https://www.wired.com/2013/10/timothy-leary-video-games/?viewall=true&quot;&gt;wired.com&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2021-02-16T11:20:03+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Computer-for-Apollo-Computer-for-Laughing">
 	<title>N.S. do Computismo: A Computer for Apollo or a Computer for Laughing?</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Computer-for-Apollo-Computer-for-Laughing</link>
