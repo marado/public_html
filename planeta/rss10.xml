@@ -15,6 +15,10 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/ZZT" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Children-of-the-clone" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/BBC-Radiophonic-Workshop" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Discovering-Electronic-Music" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/All-your-base" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/timothy-leary-lost-video-games" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Computer-for-Apollo-Computer-for-Laughing" />
@@ -71,13 +75,35 @@
 			<rdf:li rdf:resource="https://tilde.pt/~gil/blog/./knowing-the-tildeverse.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~rlafuente/blog/./o-zoom-e-um-perigo.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~gil/blog/./setting-up-your-tilde-for-the-first-time.html" />
-			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./from-marado-to-marado.html" />
-			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./my-very-first-blog-post-again.html" />
-			<rdf:li rdf:resource="https://tilde.pt/~rlafuente/blog/./ola-mundo.html" />
 		</rdf:Seq>
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/ZZT">
+	<title>N.S. do Computismo: ZZT</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/ZZT</link>
+	<content:encoded>&lt;p&gt;Epic MegaGames first comercial title (1991)&lt;/p&gt;</content:encoded>
+	<dc:date>2021-02-23T11:20:04+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Children-of-the-clone">
+	<title>N.S. do Computismo: Children of the Clone</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Children-of-the-clone</link>
+	<content:encoded>&lt;p&gt;&lt;/p&gt;&lt;div style=&quot;padding: 75.4% 0 0 0;&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;by superbrothers&lt;/p&gt;</content:encoded>
+	<dc:date>2021-02-22T11:20:04+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/BBC-Radiophonic-Workshop">
+	<title>N.S. do Computismo: BBC Radiophonic Workshop. The Alchemists of Sound</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/BBC-Radiophonic-Workshop</link>
+	<content:encoded>&lt;div style=&quot;padding-bottom: 56.25%; height: 0; overflow: hidden;&quot;&gt;   &lt;/div&gt;</content:encoded>
+	<dc:date>2021-02-22T11:20:04+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Discovering-Electronic-Music">
+	<title>N.S. do Computismo: Discovering Electronic Music</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Discovering-Electronic-Music</link>
+	<dc:date>2021-02-19T15:20:05+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/All-your-base">
 	<title>N.S. do Computismo: All Your Base Are Belong to Us 20 year Aniversary</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/All-your-base</link>
@@ -962,84 +988,6 @@ export TERM=xterm
 &lt;p&gt;Check this space for part II, soon...&lt;/p&gt;</content:encoded>
 	<dc:date>2020-04-04T22:21:16+00:00</dc:date>
 	<dc:creator>~gil</dc:creator>
-</item>
-<item rdf:about="https://tilde.pt/~marado/blog/./from-marado-to-marado.html">
-	<title>~marado: From ~marado to @marado</title>
-	<link>https://tilde.pt/~marado/blog/from-marado-to-marado.html</link>
-	<content:encoded>&lt;p&gt;Speaking yesterday with someone about &lt;a href=&quot;https://tilde.pt&quot;&gt;tilde.pt&lt;/a&gt;, which he
-found out about due to my contributions to
-&lt;a href=&quot;https://github.com/marado/botany&quot;&gt;botany&lt;/a&gt;, it took me a while but I did
-realize that there is a generational issue recognizing a ~, or, in particular,
-recognizing it as a way to refer to someone.&lt;/p&gt;
-
-&lt;p&gt;Once upon a time, before @username was the common way to refer to a person (who
-came with that first? twitter?), ~username was so. UNIX users will still be
-probably used to do things like &lt;code&gt;cd ~&lt;/code&gt; to go to their &lt;code&gt;$HOME&lt;/code&gt;, or even &lt;code&gt;~user&lt;/code&gt;
-to refer to some other person's home. But I do not think that's where the most
-common &lt;code&gt;~&lt;/code&gt; recognition comes from: instead, what people will most remember is
-the number of websites of &quot;white pages&quot; (as some other person refered about
-them to me as), that had, as an address, &lt;code&gt;http://institution/~username&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;So, where does this &lt;code&gt;~&lt;/code&gt; come from? Well, there was a time where every machine
-connected to the web was more or less expected to have &lt;a href=&quot;https://httpd.apache.org/&quot;&gt;Apache's
-httpd&lt;/a&gt; running, and it had a useful module, called
-&lt;code&gt;mod_userdir&lt;/code&gt;. UserDir actually was inherited: Apache's httpd started in 1995
-as a continuation of the NCSA HTTPd webserver, and NCSA not only had the
-UserDir directive, it was actually &lt;a href=&quot;http://www6.uniovi.es/~antonio/ncsa_httpd/setup/srm/UserDir.html&quot;&gt;active by
-default&lt;/a&gt;.
-What does all this means? Well, it means that, by default, UNIX machines with a
-webserver running would probably have NCSA or later Apache's httpd, which, by
-default, would be allowing each of that server's users to have their own
-website, at the address http://server.address/~username , and to have something
-in there they'd just have to put some html pages into their &lt;code&gt;public_html&lt;/code&gt;
-directory.&lt;/p&gt;
-
-&lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_history.html&quot;&gt;history&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_tilde.html&quot;&gt;tilde&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_UNIX.html&quot;&gt;UNIX&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_username.html&quot;&gt;username&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_apache.html&quot;&gt;apache&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_httpd.html&quot;&gt;httpd&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_userdir.html&quot;&gt;userdir&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_en.html&quot;&gt;en&lt;/a&gt;&lt;/p&gt;
-
-
-&lt;p id=&quot;twitter&quot;&gt;&lt;a href=&quot;http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/from-marado-to-marado.html&amp;amp;text=&amp;lt;escreve o comentário aqui mas deixa o URL para outras pessoas poderem seguir os comentários&amp;gt;&amp;amp;via=mind_booster&quot;&gt;comentários? tweetar&lt;/a&gt; 
-&lt;a href=&quot;https://twitter.com/search?q=https://tilde.pt/~marado/blog/from-marado-to-marado.html&quot;&gt;&lt;span id=&quot;count-5236&quot;&gt;&lt;/span&gt;&lt;/a&gt; &lt;/p&gt;</content:encoded>
-	<dc:date>2020-04-04T14:50:42+00:00</dc:date>
-	<dc:creator>~marado</dc:creator>
-</item>
-<item rdf:about="https://tilde.pt/~marado/blog/./my-very-first-blog-post-again.html">
-	<title>~marado: My very first blog post... again</title>
-	<link>https://tilde.pt/~marado/blog/my-very-first-blog-post-again.html</link>
-	<content:encoded>&lt;p&gt;This is not my first blog, so it is also not my first blog post, but... it is
-the first post of my new blog, and, well, it is costumary to make an hello
-world sort of blog post, so here's mine.&lt;/p&gt;
-
-&lt;p&gt;I am not a fan of blogs: I never was, even when I maintained quite regularly a
-personal blog in the past. But it seems that blogs are the new trend on the
-&lt;a href=&quot;https://tildeverse.org/&quot;&gt;tildeverse&lt;/a&gt;, and, well, I guess I'll stop tild'ing
-like it was the nineties, and get do it like it was the 2000's again.&lt;/p&gt;
-
-&lt;p&gt;Do not expect this to be updated very often... or at all. But... well, not even
-I know exactly what I expect this tilde of mine to become, so I guess we'll
-find out together!&lt;/p&gt;
-
-&lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_blog.html&quot;&gt;blog&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_hello-world.html&quot;&gt;hello-world&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_en.html&quot;&gt;en&lt;/a&gt;&lt;/p&gt;
-
-
-
-
-
-
-&lt;p id=&quot;twitter&quot;&gt;&lt;a href=&quot;http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/my-very-first-blog-post-again.html&amp;amp;text=&amp;lt;escreve o comentário aqui mas deixa o URL para outras pessoas poderem seguir os comentários&amp;gt;&amp;amp;via=mind_booster&quot;&gt;comentários? tweetar&lt;/a&gt; 
-&lt;a href=&quot;https://twitter.com/search?q=https://tilde.pt/~marado/blog/my-very-first-blog-post-again.html&quot;&gt;&lt;span id=&quot;count-15319&quot;&gt;&lt;/span&gt;&lt;/a&gt; &lt;/p&gt;</content:encoded>
-	<dc:date>2020-03-22T22:55:51+00:00</dc:date>
-	<dc:creator>~marado</dc:creator>
-</item>
-<item rdf:about="https://tilde.pt/~rlafuente/blog/./ola-mundo.html">
-	<title>~rlafuente: Um olá, mundo</title>
-	<link>https://tilde.pt/~rlafuente/blog/ola-mundo.html</link>
-	<content:encoded>&lt;p&gt;Porque o primeiro post a isso obriga, cá vai disto. Nunca consegui a disciplina e perseverança para tornar a escrita avulsa uma coisa mais regular, mas faço mais uma tentativa. Tenho andado com experimentações e dilemas que exigem alguma documentação, exigência essa amplificada por amigos que insistiram para publicar algumas das minhas impressões.&lt;/p&gt;
-
-&lt;p&gt;Para já, este blogue vai servir principalmente para a documentação das experiências de ensino à distância que a &lt;a href=&quot;https://tilde.pt/~aiscarvalho&quot;&gt;~aiscarvalho&lt;/a&gt; e eu estamos a levar a cabo na ESAP. A confinação obrigou a uma re-definição total das metodologias pedagógicas, e decidimo-nos por uma abordagem que envolvesse o &lt;em&gt;self-hosting&lt;/em&gt; das ferramentas que necessitávamos, e que essas ferramentas sejam livres (&lt;em&gt;open source&lt;/em&gt;). Já vou falar mais disso nos próximos dias.&lt;/p&gt;
-
-&lt;p&gt;Também andava há uns tempos à procura de um poiso para algumas notas mais ou menos técnicas sobre cruzamentos de áreas que vou tocando: F/LOSS, cultura livre, design, tipografia, tildes, a dimensão sócio-política das ferramentas digitais, hacks, sysadmin e por aí. Sem promessas, é um dia de cada vez.&lt;/p&gt;</content:encoded>
-	<dc:date>2020-03-22T22:45:33+00:00</dc:date>
-	<dc:creator>Ricardo Lafuente</dc:creator>
 </item>
 
 </rdf:RDF>
