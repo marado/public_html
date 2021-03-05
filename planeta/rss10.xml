@@ -15,6 +15,11 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/1970/01/" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Preserving-Worlds" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Computer-virus-videos" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Constellaction" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Cubas-DIY-inventions" />
 			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./repo-using-a-local-manifest.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/ZZT" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Children-of-the-clone" />
@@ -70,15 +75,48 @@
 			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./decentralized-privacy-preserving-proximity-tracing----is-it-really.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~rlafuente/blog/./dicionarios-visuais-com-emoji-no-inkscape.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~rlafuente/blog/./relatos-de-pedagogias-remotas.html" />
-			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./multi-aspell-a-treat-for-alpine-users.html" />
-			<rdf:li rdf:resource="https://tilde.pt/~epifanio/blog/./a-declaration-of-the-independence-of-tildespace.html" />
-			<rdf:li rdf:resource="https://tilde.pt/~gil/blog/./i-love-codebbcode.html" />
-			<rdf:li rdf:resource="https://tilde.pt/~gil/blog/./knowing-the-tildeverse.html" />
-			<rdf:li rdf:resource="https://tilde.pt/~rlafuente/blog/./o-zoom-e-um-perigo.html" />
 		</rdf:Seq>
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/1970/01/">
+	<title>N.S. do Computismo: The Writer Automaton, Switzerland</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/1970/01/</link>
+	<content:encoded>&lt;p&gt;A 240 year old doll that can write, a clockwork creation by Pierre Jaquet-Droz, a Swiss watchmaker. The doll is able to write any custom text up to 40 letters long&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;writer doll&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/writer.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;video controls=&quot;controls&quot; width=&quot;100%&quot;&gt;
+  &lt;source src=&quot;https://d3jjfd2pf5wjqc.cloudfront.net/1automatonextraordinaire.mp4?id=0&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;&lt;/p&gt;
+
+&lt;p&gt;@ &lt;a href=&quot;https://www.chonday.com/15454/the-writer-automaton/&quot;&gt;chonday.com&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2021-03-05T11:20:04+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Preserving-Worlds">
+	<title>N.S. do Computismo: Preserving Worlds</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Preserving-Worlds</link>
+	<dc:date>2021-03-04T11:20:03+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Computer-virus-videos">
+	<title>N.S. do Computismo: DOS Era Virus Videos</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Computer-virus-videos</link>
+	<content:encoded>&lt;p&gt;&lt;img alt=&quot;danooct1&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/danooct1.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;check at &lt;a href=&quot;https://www.youtube.com/c/danooct1/videos&quot;&gt;danooct1 youtube channel&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2021-03-03T11:20:04+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Constellaction">
+	<title>N.S. do Computismo: Constellaction</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Constellaction</link>
+	<content:encoded>&lt;p&gt;&lt;/p&gt;&lt;div style=&quot;padding: 56.25% 0 0 0;&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2021-03-02T11:20:03+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Cubas-DIY-inventions">
+	<title>N.S. do Computismo: Cuba's DIY Inventions from 30 Years of Isolation</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Cubas-DIY-inventions</link>
+	<dc:date>2021-03-01T11:20:04+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~marado/blog/./repo-using-a-local-manifest.html">
 	<title>~marado: repo: using a local manifest</title>
 	<link>https://tilde.pt/~marado/blog/repo-using-a-local-manifest.html</link>
@@ -916,160 +954,6 @@ muita presença nos próximos tempos, e temos de falar sobre isso.&lt;/p&gt;
 
 &lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~rlafuente/blog/tag_ensino-%C3%A0-dist%C3%A2ncia.html&quot;&gt;ensino-à-distância&lt;/a&gt;&lt;/p&gt;</content:encoded>
 	<dc:date>2020-04-15T22:14:39+00:00</dc:date>
-	<dc:creator>Ricardo Lafuente</dc:creator>
-</item>
-<item rdf:about="https://tilde.pt/~marado/blog/./multi-aspell-a-treat-for-alpine-users.html">
-	<title>~marado: multi-aspell: a treat for alpine users</title>
-	<link>https://tilde.pt/~marado/blog/multi-aspell-a-treat-for-alpine-users.html</link>
-	<content:encoded>&lt;p&gt;Probably more useful to users of &lt;a href=&quot;https://tilde.pt/tilde.pt&quot;&gt;tilde.pt&lt;/a&gt;, but maybe others
-of the &lt;a href=&quot;https://tildeverse.org/&quot;&gt;tildeverse&lt;/a&gt; who speak more than one language
-and use &lt;a href=&quot;http://alpine.x10host.com/alpine/release/&quot;&gt;alpine&lt;/a&gt; as a mail client,
-today wrote a very small shell script called
-&lt;a href=&quot;https://github.com/marado/multi-aspell&quot;&gt;multi-aspell&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;multi-aspell&lt;/code&gt; is an helper script that shows you a list of (pre-defined)
-language options to run &lt;a href=&quot;http://aspell.net/&quot;&gt;aspell&lt;/a&gt; with.&lt;/p&gt;
-
-&lt;p&gt;It was written with the purpose of replacing the aspell invocation from
-alpine, in order to let you choose which language you want your e-mail to have
-its spell checked (useful if you're used to write mails in more than one
-language).&lt;/p&gt;
-
-&lt;p&gt;Now, before sending an email, alpine will ask me wether I want to spell check
-it in Portuguese or English, and then use that language to check the e-mail
-with.&lt;/p&gt;
-
-&lt;p&gt;Of course, comments, issues, patches or feature requests are more than welcome.
-Enjoy!&lt;/p&gt;
-
-&lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_pine.html&quot;&gt;pine&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_alpine.html&quot;&gt;alpine&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_tilde.pt.html&quot;&gt;tilde.pt&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_tilde.html&quot;&gt;tilde&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_tildeverse.html&quot;&gt;tildeverse&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_aspell.html&quot;&gt;aspell&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_multi-aspell.html&quot;&gt;multi-aspell&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_en.html&quot;&gt;en&lt;/a&gt;&lt;/p&gt;
-
-
-&lt;p id=&quot;twitter&quot;&gt;&lt;a href=&quot;http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/multi-aspell-a-treat-for-alpine-users.html&amp;amp;text=&amp;lt;escreve o comentário aqui mas deixa o URL para outras pessoas poderem seguir os comentários&amp;gt;&amp;amp;via=mind_booster&quot;&gt;comentários? tweetar&lt;/a&gt; 
-&lt;a href=&quot;https://twitter.com/search?q=https://tilde.pt/~marado/blog/multi-aspell-a-treat-for-alpine-users.html&quot;&gt;&lt;span id=&quot;count-17561&quot;&gt;&lt;/span&gt;&lt;/a&gt; &lt;/p&gt;</content:encoded>
-	<dc:date>2020-04-09T22:22:06+00:00</dc:date>
-	<dc:creator>~marado</dc:creator>
-</item>
-<item rdf:about="https://tilde.pt/~epifanio/blog/./a-declaration-of-the-independence-of-tildespace.html">
-	<title>~epifanio: A Declaration of the Independence of Tildespace</title>
-	<link>https://tilde.pt/~epifanio/blog/a-declaration-of-the-independence-of-tildespace.html</link>
-	<content:encoded>&lt;blockquote&gt;
-  &lt;p&gt;Governments of the Industrial World, you weary giants of flesh and steel, I come from Tildeverse, the new home of Mind. On behalf of the future, I ask you of the past to leave us alone. You are not welcome among us. You have no sovereignty where we gather.&lt;/p&gt;
-
-&lt;p&gt;We have no elected government, nor are we likely to have one, so I address you with no greater authority than that with which liberty itself always speaks. I declare the global social space we are building to be naturally independent of the tyrannies you seek to impose on us. You have no moral right to rule us nor do you possess any methods of enforcement we have true reason to fear.&lt;/p&gt;
-
-&lt;p&gt;Governments derive their just powers from the consent of the governed. You have neither solicited nor received ours. We did not invite you. You do not know us, nor do you know our world. Tildeverse does not lie within your borders. Do not think that you can build it, as though it were a public construction project. You cannot. It is an act of nature and it grows itself through our collective actions.&lt;/p&gt;
-
-&lt;p&gt;You have not engaged in our great and gathering conversation, nor did you create the wealth of our marketplaces. You do not know our culture, our ethics, or the unwritten codes that already provide our society more order than could be obtained by any of your impositions.&lt;/p&gt;
-
-&lt;p&gt;You claim there are problems among us that you need to solve. You use this claim as an excuse to invade our precincts. Many of these problems don't exist. Where there are real conflicts, where there are wrongs, we will identify them and address them by our means. We are forming our own Social Contract. This governance will arise according to the conditions of our world, not yours. Our world is different.&lt;/p&gt;
-
-&lt;p&gt;Tildeverse consists of transactions, relationships, and thought itself, arrayed like a standing wave in the web of our communications. Ours is a world that is both everywhere and nowhere, but it is not where bodies live.&lt;/p&gt;
-
-&lt;p&gt;We are creating a world that all may enter without privilege or prejudice accorded by race, economic power, military force, or station of birth.&lt;/p&gt;
-
-&lt;p&gt;We are creating a world where anyone, anywhere may express his or her beliefs, no matter how singular, without fear of being coerced into silence or conformity.&lt;/p&gt;
-
-&lt;p&gt;Your legal concepts of property, expression, identity, movement, and context do not apply to us. They are all based on matter, and there is no matter here.&lt;/p&gt;
-
-&lt;p&gt;Our identities have no bodies, so, unlike you, we cannot obtain order by physical coercion. We believe that from ethics, enlightened self-interest, and the commonweal, our governance will emerge. Our identities may be distributed across many of your jurisdictions. The only law that all our constituent cultures would generally recognize is the Golden Rule. We hope we will be able to build our particular solutions on that basis. But we cannot accept the solutions you are attempting to impose.&lt;/p&gt;
-
-&lt;p&gt;In the United States, you have today created a law, the Telecommunications Reform Act, which repudiates your own Constitution and insults the dreams of Jefferson, Washington, Mill, Madison, DeToqueville, and Brandeis. These dreams must now be born anew in us.&lt;/p&gt;
-
-&lt;p&gt;You are terrified of your own children, since they are natives in a world where you will always be immigrants. Because you fear them, you entrust your bureaucracies with the parental responsibilities you are too cowardly to confront yourselves. In our world, all the sentiments and expressions of humanity, from the debasing to the angelic, are parts of a seamless whole, the global conversation of bits. We cannot separate the air that chokes from the air upon which wings beat.&lt;/p&gt;
-
-&lt;p&gt;In China, Germany, France, Russia, Singapore, Italy and the United States, you are trying to ward off the virus of liberty by erecting guard posts at the frontiers of Tildeverse. These may keep out the contagion for a small time, but they will not work in a world that will soon be blanketed in bit-bearing media.&lt;/p&gt;
-
-&lt;p&gt;Your increasingly obsolete information industries would perpetuate themselves by proposing laws, in America and elsewhere, that claim to own speech itself throughout the world. These laws would declare ideas to be another industrial product, no more noble than pig iron. In our world, whatever the human mind may create can be reproduced and distributed infinitely at no cost. The global conveyance of thought no longer requires your factories to accomplish.&lt;/p&gt;
-
-&lt;p&gt;These increasingly hostile and colonial measures place us in the same position as those previous lovers of freedom and self-determination who had to reject the authorities of distant, uninformed powers. We must declare our virtual selves immune to your sovereignty, even as we continue to consent to your rule over our bodies. We will spread ourselves across the Planet so that no one can arrest our thoughts.&lt;/p&gt;
-
-&lt;p&gt;We will create a civilization of the Mind in Tildeverse. May it be more humane and fair than the world your governments have made before.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Text &quot;adapted&quot; from John Perry Barlow's &lt;a href=&quot;https://www.eff.org/cyberspace-independence&quot;&gt;&quot;A Declaration of the Independence of Cyberspace&quot;&lt;/a&gt;, 1996.&lt;/p&gt;
-
-&lt;p&gt;&quot;Adapted&quot; is a euphemism for this (in vim):&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;
-:%s/Cyberspace/Tildeverse/g
-&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~epifanio/blog/tag_internet.html&quot;&gt;internet&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~epifanio/blog/tag_tildeverse.html&quot;&gt;tildeverse&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~epifanio/blog/tag_cyberspace.html&quot;&gt;cyberspace&lt;/a&gt;&lt;/p&gt;</content:encoded>
-	<dc:date>2020-04-08T23:40:34+00:00</dc:date>
-	<dc:creator>~epifanio</dc:creator>
-</item>
-<item rdf:about="https://tilde.pt/~gil/blog/./i-love-codebbcode.html">
-	<title>~gil: I love bb</title>
-	<link>https://tilde.pt/~gil/blog/i-love-codebbcode.html</link>
-	<content:encoded>&lt;p&gt;It was sooo quick to post the previous (and this) blog post using bb, a simple &lt;code&gt;ssh&lt;/code&gt; into tilde.pt + &lt;code&gt;cd public_html/blog&lt;/code&gt;, &lt;code&gt;bb post&lt;/code&gt;, write it up and it gets posted.&lt;/p&gt;
-
-&lt;p&gt;Slow web perhaps, but not in speed.&lt;/p&gt;</content:encoded>
-	<dc:date>2020-04-07T21:13:23+00:00</dc:date>
-	<dc:creator>~gil</dc:creator>
-</item>
-<item rdf:about="https://tilde.pt/~gil/blog/./knowing-the-tildeverse.html">
-	<title>~gil: Knowing the tildeverse</title>
-	<link>https://tilde.pt/~gil/blog/knowing-the-tildeverse.html</link>
-	<content:encoded>&lt;p&gt;I found this blog post explaining the tildeverse very nicely. Posting here to share: https://thedorkweb.substack.com/p/tales-from-the-dork-web-5&lt;/p&gt;</content:encoded>
-	<dc:date>2020-04-07T21:11:30+00:00</dc:date>
-	<dc:creator>~gil</dc:creator>
-</item>
-<item rdf:about="https://tilde.pt/~rlafuente/blog/./o-zoom-e-um-perigo.html">
-	<title>~rlafuente: O Zoom é um perigo</title>
-	<link>https://tilde.pt/~rlafuente/blog/o-zoom-e-um-perigo.html</link>
-	<content:encoded>&lt;p&gt;&lt;em&gt;Este é um assunto que tem pairado nas comunidades e meios relacionados com a cultura digital, mas fora deles a percepção dos problemas do Zoom tem sido pouca. Alinhei este texto para não ter de repetir argumentos sempre que me vão perguntando porque é que recomendo que não se use o Zoom.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;O Zoom é uma plataforma de videoconferência que está a ganhar ampla atenção graças às novas necessidades de comunicação que a confinação coletiva tem imposto. Universidades, empresas e organismos públicos têm investido em licenças dessa plataforma -- é parte integrante do &lt;a href=&quot;https://videoconf-colibri.zoom.us/&quot;&gt;Colibri&lt;/a&gt;, uma iniciativa pública da &lt;a href=&quot;https://www.fct.pt/&quot;&gt;FCT&lt;/a&gt;. Também tem sido um recurso para amigos e familiares manterem contacto com recurso a um interface fácil e funcionalidades giras.&lt;/p&gt;
-
-&lt;p&gt;No entanto, aparentemente longe dos olhos da grande maioria da imprensa portuguesa e da percepção pública por cá, o Zoom contém um conjunto inaceitável de falhas e más práticas que a tornam um risco enorme. A cada dia têm saído mais notícias sobre os buracos e práticas moralmente questionáveis da empresa.&lt;/p&gt;
-
-&lt;h2&gt;Falhas de segurança deliberadas e imperdoáveis&lt;/h2&gt;
-
-&lt;p&gt;A minha &lt;a href=&quot;http://margaridacarvalho.org/&quot;&gt;brilhante cunhada&lt;/a&gt; partilhou comigo há pouco um pormenor preocupante: até há bem pouco tempo, as reuniões não estavam protegidas por password, sendo apenas necessário um link em que os últimos 10 dígitos eram diferentes. Bastava experimentar números à sorte para ir parar a reuniões de outras pessoas, muitas delas privadas. &lt;/p&gt;
-
-&lt;p&gt;Ao procurar um pouco, encontramos relatos de trolls que exploram falhas de segurança estúpidas como esta para se meterem em reuniões dos Alcoólicos Anónimos &lt;a href=&quot;https://www.businessinsider.com/aa-intergroup-meetings-zoom-bombing-trolls-alcoholics-anonymous-2020-3&quot;&gt;a dizer como beber é que é bom&lt;/a&gt;. A prática já ganhou um nome: &lt;em&gt;zoombombing&lt;/em&gt;, e já há &lt;a href=&quot;https://krebsonsecurity.com/2020/04/war-dialing-tool-exposes-zooms-password-problems/&quot;&gt;relatos de ferramentas&lt;/a&gt; para explorar esta e outras omissões de segurança elementar.&lt;/p&gt;
-
-&lt;p&gt;Se o Zoom falha em proteções tão simples, verdadeiras obrigações elementares dentro da indústria, seria de esperar que ouvíssemos falar de mais casos graves. Pois bem, têm saído a cada dia e foi-se descobrindo que:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Já há &lt;a href=&quot;https://nypost.com/2020/03/31/lawsuit-claims-zoom-illegally-shared-user-data-with-facebook/&quot;&gt;processos em tribunal&lt;/a&gt; contra o Zoom por enviar em massa os dados dos utilizadores para o Facebook, sem qualquer menção do facto ou pedido de autorização aos seus utilizadores, incluindo informação de utilizadores que não têm conta no Facebook.&lt;/li&gt;
-&lt;li&gt;O instalador do Zoom em Mac &lt;a href=&quot;https://www.theverge.com/2020/4/2/21204648/zoom-macos-installer-update-privacy-security-concerns&quot;&gt;tinha uns &lt;em&gt;hacks&lt;/em&gt; muito manhosos&lt;/a&gt; para ultrapassar as seguranças legítimas do sistema, sendo a instalação feita sem autorização do utilizador. &lt;/li&gt;
-&lt;li&gt;Era possível &lt;a href=&quot;https://www.nytimes.com/2020/04/02/technology/zoom-linkedin-data.html&quot;&gt;aceder a links privados e pessoais&lt;/a&gt; de pessoas que estavam anonimamente na reunião, informação essa que era partilhada com membros do programa de prospeção de vendas do Linkedin.&lt;/li&gt;
-&lt;li&gt;Os dados dos utilizadores e as chaves de encriptação &lt;a href=&quot;https://www.ft.com/content/2fc518e0-26cd-4d5f-8419-fe71f5c55c98&quot;&gt;têm passado por servidores na China&lt;/a&gt;, país que se distingue pela vigilância total das suas redes nacionais, sendo-lhe entregues de bandeja as únicas formas de proteção para as nossas mensagens e comunicações permanecerem privadas. Quando se tem acesso a uma chave de encriptação, tudo o que ela protege passa a ser integralmente legível.&lt;/li&gt;
-&lt;li&gt;Um conjunto de peritos &lt;a href=&quot;https://citizenlab.ca/2020/04/move-fast-roll-your-own-crypto-a-quick-look-at-the-confidentiality-of-zoom-meetings/&quot;&gt;investigou a criptografia do Zoom&lt;/a&gt; e foram descobertas numerosas anomalias e implementações incompetentes. Esse artigo também expõe de forma preocupante as implicações das relações da empresa com a China.&lt;/li&gt;
-&lt;li&gt;Numa funcionalidade pensada para chefes controleiros, o Zoom &lt;a href=&quot;https://mobile.twitter.com/Ouren/status/1241398181205889024&quot;&gt;vigia a atividade&lt;/a&gt; do computador dos utilizadores e junta informação sobre os programas a correr e grava a imagem da janela que está aberta. Quem dirige a chamada pode espiar que programas as outras pessoas usam.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Todos estes pontos não são simples falhas de segurança a ser &quot;consertadas&quot;, como tem tentado defender o departamento de relações públicas do Zoom. São funcionalidades deliberadas para contornar as defesas do sistema dos utilizadores e &quot;facilitar&quot; o acesso da aplicação, o que tem a consequência de escancarar as portas dos computadores de cada um de nós e permitir a intrusão por parte de gente pouco escrupulosa. É muito importante destacar este pormenor: o Zoom tem a prática de negligenciar a integridade e segurança de cada um para introduzir riscos desnecessários. Não se tratam de meras &quot;falhas&quot; advindas de programação preguiçosa. Mas também as há:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Um &lt;em&gt;bug&lt;/em&gt; &lt;a href=&quot;https://twitter.com/hackerfantastic/status/1245133371262619654&quot;&gt;permitiu a extração de passwords&lt;/a&gt; no Windows, bastando ter a aplicação aberta para ficarmos vulneráveis a esse ataque.&lt;/li&gt;
-&lt;li&gt;Outra falha, desta vez em Mac OS, &lt;a href=&quot;https://objective-see.com/blog/blog_0x56.html&quot;&gt;tornou possível o acesso não autorizado&lt;/a&gt; à webcam e microfone, abrindo também o risco de termos o nosso computador controlado totalmente por outra pessoa sem o sabermos.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;O Zoom acaba de capitular e fazer um &lt;a href=&quot;https://blog.zoom.us/wordpress/2020/04/01/a-message-to-our-users/&quot;&gt;&lt;em&gt;mea culpa&lt;/em&gt; público algo postiço&lt;/a&gt;, a publicar consertos para as mazelas acima descritas, e a prometer mais cuidado com a segurança das pessoas. Todas estas falhas estiveram na plataforma durante anos até agora, em que o número de pessoas a precisar de soluções semelhantes disparou, e está a ser feito um escrutínio preciso por investigadores de todo o mundo aos buracos de segurança e privacidade do Zoom. É doloroso ver como foi profundamente negligenciada qualquer preocupação com os dados pessoais de milhões de pessoas que usam (e por vezes são obrigadas a usar) esta plataforma. &lt;/p&gt;
-
-&lt;p&gt;Dá para confiar?&lt;/p&gt;
-
-&lt;h2&gt;É um risco enorme continuar a usar o Zoom&lt;/h2&gt;
-
-&lt;p&gt;O Zoom passou de &lt;a href=&quot;https://twitter.com/DKThomp/status/1245681377720352769&quot;&gt;10 milhões para 200 milhões de utilizadores&lt;/a&gt; desde o início da pandemia. Esse número ainda está para crescer bem mais. Ao mesmo tempo, a empresa de exploração espacial de Elon Musk, SpaceX, já &lt;a href=&quot;https://www.reuters.com/article/us-spacex-zoom-video-commn/elon-musks-spacex-bans-zoom-over-privacy-concerns-memo-idUSKBN21J71H&quot;&gt;proibiu totalmente&lt;/a&gt; o uso do Zoom nas suas comunicações internas e externas. Várias &lt;a href=&quot;https://hamodia.com/2020/04/04/school-districts-including-new-york-citys-start-banning-zoom-online-security-issues/&quot;&gt;instituições de ensino&lt;/a&gt; também já estão a re-equacionar a sua adoção. &lt;em&gt;[Mesmo antes de publicar este texto, saiu a notícia de que &lt;a href=&quot;https://techcrunch.com/2020/04/05/zoom-new-york-city-schools/&quot;&gt;Nova Iorque&lt;/a&gt; proibiu as suas escolas de usar o Zoom.]&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Estou convencido de que, mais tarde, veremos correr muita tinta sobre a responsabilidade de entidades que recomendaram -- quando não impuseram mesmo -- o uso do Zoom e as consequências que tal implica para a integridade dos dados e comunicações dos seus trabalhadores, alunos, professores e outros. Todas essas entidades falharam na sua responsabilidade e obrigação de analisar os pormenores de uma plataforma e não apenas ficarem-se pela lista de funcionalidades que encontraram na home page.&lt;/p&gt;
-
-&lt;p&gt;E se formos a argumentar &quot;bom, mas agora já estamos a usar por isso nada a fazer&quot;, só posso dizer que estou bem convencido que em breve vamos receber a notícia de um ataque ao Zoom em que os dados pessoais dos trabalhadores fiquem comprometidos (uma &lt;em&gt;data breach&lt;/em&gt;) e, no pior dos casos, publicados. Com o amadorismo já demonstrado, e a enorme atenção que o Zoom está agora a ter, parece-me um cenário particularmente plausível. Quem quiser aceitar a possibilidade de, mais à frente, dar bastante trabalho ao seu departamento jurídico quando for altura de lidar com as consequências de tal cenário, está à vontade para continuar.&lt;/p&gt;
-
-&lt;p&gt;Enquanto isso, também estamos um pouco órfãos de informação fidedigna sobre as plataformas que estão a ser recomendadas: o Público incluiu o Zoom na sua &lt;a href=&quot;https://www.publico.pt/2020/03/19/tecnologia/noticia/ferramentas-manter-sanidade-trabalho-distancia-1908350&quot;&gt;lista das melhores aplicações para teletrabalho&lt;/a&gt;, elencando a fofinha lista de funcionalidades, que é fácil de encontrar, e sem qualquer menção aos riscos que na altura da publicação da notícia já eram conhecidos. Em boa verdade, cito o Público por ser o jornal diário que assino, e não encontrei qualquer publicação ou entidade em Portugal que já tivesse reportado esses alertas (com a habitual excepção do &lt;a href=&quot;https://shifter.sapo.pt/2020/04/zoom-privacidade-seguranca/&quot;&gt;Shifter&lt;/a&gt;, que costuma estar atento). Mas é nesta altura que precisamos mesmo do jornalismo rigoroso. Já não há a desculpa de que a tecnologia é um universo à parte.&lt;/p&gt;
-
-&lt;p&gt;O Zoom é um perigo. A melhor jogada é parar &lt;strong&gt;agora&lt;/strong&gt; de usar o Zoom.&lt;/p&gt;
-
-&lt;p&gt;Mas nem toda a gente tem a oportunidade de pôr de parte o Zoom, sendo obrigada a tê-la instalada no seu computador pessoal pela sua entidade patronal (aliás, consigo já ouvir o bater dos teclados de advogados sindicais). Para estes casos há duas listas úteis, elaboradas pela &lt;a href=&quot;https://protonmail.com/blog/zoom-privacy-issues/&quot;&gt;ProtonMail&lt;/a&gt; e pela &lt;a href=&quot;https://foundation.mozilla.org/en/blog/tips-make-your-zoom-gatherings-more-private/&quot;&gt;Mozilla Foundation&lt;/a&gt;, que ajudam limitar os riscos do uso desta perigosa plataforma quando não temos mesmo alternativa.&lt;/p&gt;
-
-&lt;p&gt;Decerto que o Zoom apresenta uma enorme conveniência nas funcionalidades que nos dá, e não é uma tarefa simples encontrar bons substitutos em determinados contextos. Mas as alternativas existem. Este texto já tem bem mais caracteres do que gostaria, pelo que me fico por recomendar o &lt;a href=&quot;https://meet.jit.si&quot;&gt;Jitsi Meet&lt;/a&gt; para dar conta de quaisquer necessidades de videochamada ou videoconferência. Há também listas de aplicações livres e &lt;em&gt;open source&lt;/em&gt; para teletrabalho e ensino à distância, como &lt;a href=&quot;https://wiki.fsfe.org/Activities/FreeSoftware4RemoteWorking&quot;&gt;esta da Free Software Foundation Europe&lt;/a&gt; ou &lt;a href=&quot;https://adistancia.ansol.org/&quot;&gt;esta da sua congénere portuguesa ANSOL&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Estes tempos de incerteza obrigam-nos a reações e soluções rápidas, muitas vezes de improviso. Mas não se pode fazer o &lt;em&gt;outsourcing&lt;/em&gt; dessas soluções sem se compreender em que nos estamos a meter. No caso do Zoom, é um risco que ninguém precisa, sejam patrões, assalariados, professores, alunos, amigos, diretores ou funcionários públicos. Já estamos a lidar com perigos que cheguem para agora ter mais um com o Zoom.&lt;/p&gt;</content:encoded>
-	<dc:date>2020-04-06T14:20:41+00:00</dc:date>
 	<dc:creator>Ricardo Lafuente</dc:creator>
 </item>
 
