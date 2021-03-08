@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:planet="http://planet.intertwingly.net/" xmlns:indexing="urn:atom-extension:indexing" indexing:index="no"><access:restriction xmlns:access="http://www.bloglines.com/about/specs/fac-1.0" relationship="deny"/>
   <title>Planeta Tilde</title>
-  <updated>2021-03-07T19:20:05Z</updated>
+  <updated>2021-03-08T19:20:05Z</updated>
   <generator uri="http://intertwingly.net/code/venus/">Venus</generator>
   <author>
     <name>Marcos Marado</name>
@@ -10,6 +10,30 @@
   <id>http://tilde.pt/~marado/atom.xml</id>
   <link href="http://tilde.pt/~marado/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="http://tilde.pt/~marado/planeta" rel="alternate"/>
+
+  <entry>
+    <id>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Ordering-a-pizza</id>
+    <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Ordering-a-pizza" rel="alternate" type="text/html"/>
+    <title>How to avoid talking to humans on the phone</title>
+    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Ordering a pizza in 1974</p>
+
+
+
+<p>Ordering an haircut in 2018</p></div>
+    </summary>
+    <updated>2021-03-08T12:20:05Z</updated>
+    <source>
+      <id>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/</id>
+      <author>
+        <name>N.S. do Computismo</name>
+      </author>
+      <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/" rel="alternate" type="text/html"/>
+      <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
+      <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
+      <title>Nossa Senhora do Computismo</title>
+      <updated>2021-03-08T19:20:04Z</updated>
+    </source>
+  </entry>
 
   <entry>
     <id>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Attacks-in-the-wild</id>
@@ -31,7 +55,7 @@
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-07T19:20:05Z</updated>
+      <updated>2021-03-08T19:20:05Z</updated>
     </source>
   </entry>
 
@@ -59,7 +83,7 @@
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-07T19:20:05Z</updated>
+      <updated>2021-03-08T19:20:05Z</updated>
     </source>
   </entry>
 
@@ -105,7 +129,7 @@
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-07T19:20:04Z</updated>
+      <updated>2021-03-08T19:20:04Z</updated>
     </source>
   </entry>
 
@@ -127,7 +151,7 @@
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-07T19:20:05Z</updated>
+      <updated>2021-03-08T19:20:04Z</updated>
     </source>
   </entry>
 
@@ -147,7 +171,7 @@
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-07T19:20:04Z</updated>
+      <updated>2021-03-08T19:20:04Z</updated>
     </source>
   </entry>
 
@@ -165,7 +189,7 @@
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-07T19:20:04Z</updated>
+      <updated>2021-03-08T19:20:04Z</updated>
     </source>
   </entry>
 
@@ -314,7 +338,7 @@ and so this blog post should be considered licensed under the same terms.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-07T19:20:04Z</updated>
+      <updated>2021-03-08T19:20:04Z</updated>
     </source>
   </entry>
 
@@ -336,7 +360,7 @@ and so this blog post should be considered licensed under the same terms.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-07T19:20:04Z</updated>
+      <updated>2021-03-08T19:20:04Z</updated>
     </source>
   </entry>
 
@@ -356,7 +380,7 @@ and so this blog post should be considered licensed under the same terms.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-07T19:20:04Z</updated>
+      <updated>2021-03-08T19:20:04Z</updated>
     </source>
   </entry>
 
@@ -374,7 +398,7 @@ and so this blog post should be considered licensed under the same terms.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-07T19:20:05Z</updated>
+      <updated>2021-03-08T19:20:05Z</updated>
     </source>
   </entry>
 
@@ -396,7 +420,7 @@ O
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-07T19:20:05Z</updated>
+      <updated>2021-03-08T19:20:04Z</updated>
     </source>
   </entry>
 
@@ -417,7 +441,7 @@ O
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-07T19:20:04Z</updated>
+      <updated>2021-03-08T19:20:04Z</updated>
     </source>
   </entry>
 
@@ -435,7 +459,7 @@ O
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-07T19:20:05Z</updated>
+      <updated>2021-03-08T19:20:05Z</updated>
     </source>
   </entry>
 
@@ -461,7 +485,7 @@ O
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-07T19:20:05Z</updated>
+      <updated>2021-03-08T19:20:04Z</updated>
     </source>
   </entry>
 
@@ -482,7 +506,7 @@ O
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-07T19:20:05Z</updated>
+      <updated>2021-03-08T19:20:05Z</updated>
     </source>
   </entry>
 
@@ -532,7 +556,7 @@ O
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-07T19:20:05Z</updated>
+      <updated>2021-03-08T19:20:04Z</updated>
     </source>
   </entry>
 
@@ -556,7 +580,7 @@ O
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-07T19:20:04Z</updated>
+      <updated>2021-03-08T19:20:04Z</updated>
     </source>
   </entry>
 
@@ -577,7 +601,7 @@ O
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-07T19:20:04Z</updated>
+      <updated>2021-03-08T19:20:04Z</updated>
     </source>
   </entry>
 
@@ -599,7 +623,7 @@ O
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-07T19:20:05Z</updated>
+      <updated>2021-03-08T19:20:05Z</updated>
     </source>
   </entry>
 
@@ -617,7 +641,7 @@ O
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-07T19:20:04Z</updated>
+      <updated>2021-03-08T19:20:04Z</updated>
     </source>
   </entry>
 
@@ -639,7 +663,7 @@ O
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-07T19:20:05Z</updated>
+      <updated>2021-03-08T19:20:04Z</updated>
     </source>
   </entry>
 
@@ -663,7 +687,7 @@ O
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-07T19:20:04Z</updated>
+      <updated>2021-03-08T19:20:04Z</updated>
     </source>
   </entry>
 
@@ -707,7 +731,7 @@ O
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-07T19:20:04Z</updated>
+      <updated>2021-03-08T19:20:04Z</updated>
     </source>
   </entry>
 
@@ -729,7 +753,7 @@ O
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-07T19:20:04Z</updated>
+      <updated>2021-03-08T19:20:04Z</updated>
     </source>
   </entry>
 
@@ -747,7 +771,7 @@ O
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-07T19:20:04Z</updated>
+      <updated>2021-03-08T19:20:04Z</updated>
     </source>
   </entry>
 
@@ -765,7 +789,7 @@ O
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-07T19:20:05Z</updated>
+      <updated>2021-03-08T19:20:05Z</updated>
     </source>
   </entry>
 
@@ -783,7 +807,7 @@ O
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-07T19:20:05Z</updated>
+      <updated>2021-03-08T19:20:05Z</updated>
     </source>
   </entry>
 
@@ -801,7 +825,7 @@ O
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-07T19:20:05Z</updated>
+      <updated>2021-03-08T19:20:05Z</updated>
     </source>
   </entry>
 
@@ -819,7 +843,7 @@ O
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-07T19:20:04Z</updated>
+      <updated>2021-03-08T19:20:04Z</updated>
     </source>
   </entry>
 
@@ -843,7 +867,7 @@ O
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-07T19:20:05Z</updated>
+      <updated>2021-03-08T11:20:05Z</updated>
     </source>
   </entry>
 
@@ -1525,62 +1549,6 @@ aspects of its intended deployment.</p>
       <subtitle>sobre os calos técnicos e as lombas filosóficas que encontro enquanto tento pôr computadores a fazer o que eu quero</subtitle>
       <title>~rlafuente</title>
       <updated>2020-05-09T14:04:46Z</updated>
-    </source>
-  </entry>
-
-  <entry xml:lang="en">
-    <id>https://tilde.pt/~marado/blog/./decentralized-privacy-preserving-proximity-tracing----is-it-really.html</id>
-    <link href="https://tilde.pt/~marado/blog/decentralized-privacy-preserving-proximity-tracing----is-it-really.html" rel="alternate" type="text/html"/>
-    <title>Decentralized Privacy-Preserving Proximity Tracing -- is it really?</title>
-    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>DP-3T, as it is known, stands for Decentralized Privacy-Preserving Proximity Tracing. It tries to be a decentralized, privacy-preserving solution to a problem: to make phone applications help mitigate the current COVID-19 pandemic.</p>
-
-<p>OK, let me take a step back. There have been talks (and in some contries already actions) about having an app to use phones in order to help track down the spread of COVID-19. I am not focused, in this article, to argue that the idea, in general is bad (tip: I think it is, due to privacy concerns), or to point out that relying on big companies like Google or Apple to "take care of it" using closed and opaque methods is a really bad idea (tip: it should be obvious: it is). I also don't plan to discuss what is each country proposing, adopting, or doing: not even the Portuguese case, where the Prime Minister and President announce they are against geolocalization, one week later the same Prime Minister consider it a possible solution, and one other week later the adoption of a platform for that is announced. I am not even focused on the discussion between the adoption of DP-3T or one of the proposals of PEPP-PT: much was already written about it, and if you still don't know that DP-3T is a better design than any of the PEPP-PT endorsed solutions.</p>
-
-<p>Instead, this article is about something I didn't see yet anything making the case for: DP-3T, the best protocol/architecture for a solution out there, claims to be Privacy-Preserving. But is it?</p>
-
-<h3>Not yet</h3>
-
-<p>My first take on this issue is to consider DP-3T as it is right now. It is, we understand, an ever-evolving specification, that, due to the time constraints inherent to the demand for applications of this sort, need to adopt a 'release early, release often' approach. Still, in the moment I am writting this, there are <a href="https://github.com/DP-3T/documents/issues?q=is%3Aissue+is%3Aopen+label%3A%22privacy+risk%22">14 open issues to the spec tagged as 'privacy risks'</a>. Privacy, like security, or life, in certain cases is quite binary: there only needs to be one privacy issue with a certain protocol, format or tool, to make it not be privacy-preserving, so the answer to the question of DP-3T is privacy perserving is... "not yet."</p>
-
-<h3>Not really</h3>
-
-<p>But is that it? If you take a closer look, things get even grimmer. From the "privacy risk" issues previously opened and now closed on the project, we can see that several of them (nine, at this moment) were closed because they stopped having input. While a manual reading of each of them will show a status of them, and most of them were dealt (partially or entirely) one way or another, the struggle of the maintainers of the project to keep the number of issues low is clear, the reference to future versions of the documents leave things unclear of wether the issues have been addressed or not, and the way some things are not solved, but only mitigated shows that there is a "best effort" sort of approach to privacy, the idea that "let's see how privacy-preserving can we be in a rushing development cycle", instead of what it should be: a firm stance that no privacy-risk can exist in a privacy-preserving solution.</p>
-
-<p>I do understand that the critic here so far is vague enough that one could argue that we're still on the 'not yet' field: after all, after all the privacy-related issues are closed, after all the documents still being prepared are published, one can go through all of those issues, check the latest version of the document, and verify if all of the privacy issues were indeed solved. Arguably, they could. But we do not need to stay on the theoretical field here, not when the "best effort" approach, even in partial sacrifice of privacy, is actually documented. My favorite example of this, is the <a href="https://github.com/DP-3T/documents/blob/master/FAQ.md#p5-why-not-use-mixnets-or-other-anonymous-communication-systems-to-query-the-server">FAQ's 5th point</a>, about the use of anonymous communication systems.</p>
-
-<h4>Why not use mixnets or other anonymous communication systems to query the server?</h4>
-
-<p>In the answer to this question, DP-3T stipulates, first, that this is a valid question and concern. Then, they explain that they decided not to for three reasons: a solution would increase complexity, anonymity would cost latency and bandwidth, and it would widen the field of research necessary to take protocol decisions.</p>
-
-<p>In the end, the answer is a claim that there currently is no system ready to use DP-3T could piggy back on and simply use to this purpose, mature enough to the scale DP-3T aims to be deployed -- if there was, they'd use it.</p>
-
-<p>While I do not disagree - such anonymous communication system is a need we, as a society, have for a long time, but an itch we did never focus on scratching, and the solutions so far are far from a stable and consolidated state - I also believe that this is clear proof that DP-3T is, by design, not 'Privacy-Preserving', but only 'as Privacy-Preserving as we can be, with these time constraints'.</p>
-
-<h3>Why does it matter?</h3>
-
-<p>The difference between "private" and "as private as possible" is not small, no matter how tiny it is: it is the difference between a solution that respects your privacy, and a solution that doesn't. While I can understand DP-3T and its interesting properties as an academic project, it is, IMO, a dangerous assumption to think that, because this is the best someone has came up to, that it is good enough for us, and that we should adopt it. In fact, my belief is that, since DP-3T is the best we aim to be able to achieve during this outbreak, it should <em>not</em> be used. On the other hand, this can and should be used as a learning experience, proof that there is a need to serious public investment on the development of <em>real</em> Privacy-Preserving technologies, of which anonymous communication systems are just an example.</p>
-
-<h3>What could have been</h3>
-
-<p>This article is long enough already, and I could go on and on about what can be done, if the serious effort is made to make it happen. The first paper I wrote about <a href="https://gnunet.org/">GNUnet</a> was more than 15 years ago: since then many things have happened, extraordinary developments in many technological fields, a decade and half has passed... but GNUnet seems to me as being still the most promising privacy-centric project out there, and, quite unfortunately, it is still in an early alpha stage. The latest incarnation of its website has a tagline that is quite fitting for this article: "The Internet of tomorrow needs GNUnet today". In 2020, technology failed us in many ways: when a worldwide event like COVID-19 hit, we searched for technological solutions that still did not exist. 2020 was tomorrow, and we did not have GNUnet (or any other solution of choice -- take your pick, there is plenty around to do). My biggest fear on this subject is not to see solutions like DP-3T (or worse) being adopted, affecting the privacy of real lives, real people. My biggest fear that we will step out of the current sittuation, and decide not to learn from the evidences of past mistakes. Let's build the Internet of tomorrow, now.</p>
-
-<p>tags: <a href="https://tilde.pt/~marado/blog/tag_en.html">en</a>, <a href="https://tilde.pt/~marado/blog/tag_DP-3T.html">DP-3T</a>, <a href="https://tilde.pt/~marado/blog/tag_COVID-19.html">COVID-19</a>, <a href="https://tilde.pt/~marado/blog/tag_privacy.html">privacy</a>, <a href="https://tilde.pt/~marado/blog/tag_tracking.html">tracking</a>, <a href="https://tilde.pt/~marado/blog/tag_tracing.html">tracing</a>, <a href="https://tilde.pt/~marado/blog/tag_localization.html">localization</a>, <a href="https://tilde.pt/~marado/blog/tag_PEPP-PT.html">PEPP-PT</a>, <a href="https://tilde.pt/~marado/blog/tag_gnunet.html">gnunet</a></p>
-
-
-<p id="twitter"><a href="http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/decentralized-privacy-preserving-proximity-tracing----is-it-really.html&amp;text=&lt;escreve o coment&#xE1;rio aqui mas deixa o URL para outras pessoas poderem seguir os coment&#xE1;rios&gt;&amp;via=mind_booster">comentários? tweetar</a> 
-<a href="https://twitter.com/search?q=https://tilde.pt/~marado/blog/decentralized-privacy-preserving-proximity-tracing----is-it-really.html"><span id="count-18209"/></a> </p></div>
-    </summary>
-    <updated>2020-04-28T23:51:24Z</updated>
-    <author>
-      <name>~marado</name>
-    </author>
-    <source>
-      <id>https://tilde.pt/~marado/blog/index.html</id>
-      <link href="https://tilde.pt/~marado/blog/index.html" rel="alternate" type="text/html"/>
-      <link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml"/>
-      <subtitle>a tildelog on tildeverse</subtitle>
-      <title>~marado's tildelog</title>
-      <updated>2021-02-28T19:42:36Z</updated>
     </source>
   </entry>
 </feed>
