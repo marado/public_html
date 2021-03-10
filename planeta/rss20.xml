@@ -9,6 +9,12 @@
 	<atom:link rel="self" href="http://tilde.pt/~marado/rss20.xml" type="application/rss+xml"/>
 
 <item>
+	<title>N.S. do Computismo: Houston GoPro Situation</title>
+	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Huston-Go-Pro-Situation</guid>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Huston-Go-Pro-Situation</link>
+	<pubDate>Tue, 09 Mar 2021 13:20:05 +0000</pubDate>
+</item>
+<item>
 	<title>N.S. do Computismo: How to avoid talking to humans on the phone</title>
 	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Ordering-a-pizza</guid>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Ordering-a-pizza</link>
@@ -732,49 +738,6 @@ aspects of its intended deployment.&lt;/p&gt;
 &lt;p id=&quot;twitter&quot;&gt;&lt;a href=&quot;http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/contact-tracing.html&amp;amp;text=&amp;lt;escreve o comentário aqui mas deixa o URL para outras pessoas poderem seguir os comentários&amp;gt;&amp;amp;via=mind_booster&quot;&gt;comentários? tweetar&lt;/a&gt; 
 &lt;a href=&quot;https://twitter.com/search?q=https://tilde.pt/~marado/blog/contact-tracing.html&quot;&gt;&lt;span id=&quot;count-30254&quot;&gt;&lt;/span&gt;&lt;/a&gt; &lt;/p&gt;</description>
 	<pubDate>Sat, 09 May 2020 15:38:30 +0000</pubDate>
-</item>
-<item>
-	<title>~rlafuente: Pensar antes de instalar</title>
-	<guid isPermaLink="false">https://tilde.pt/~rlafuente/blog/./pensar-antes-de-instalar.html</guid>
-	<link>https://tilde.pt/~rlafuente/blog/pensar-antes-de-instalar.html</link>
-	<description>&lt;p&gt;&lt;em&gt;E de repente, uma solução: as apps de rastreamento de contacto estão na ordem do dia. É boa ideia instalar?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Estão a chegar: as apps de rastreamento de contactos (ARCs) são apresentadas como uma possível esperança na luta contra o covid-19, como uma forma de nos prevenirmos coletivamente, e como um meio de reforçar o esforço epidemiológico para analisar o alastramento da doença. No entanto, elas levantam muitas questões que põem seriamente em causa a sua capacidade de corresponder a esses objetivos.&lt;/p&gt;
-
-&lt;p&gt;Uma das primeiras preocupações foi se uma ARC poria em causa a privacidade das pessoas, expondo o seu estado de saúde ou mesmo localização a sabe-se lá quem, e para isto surgiram um conjunto de abordagens com a privacidade como preocupação. Essas abordagens &quot;privacy-first&quot; têm procurado alguma consciência sobre as implicações de privacidade, embora não sejam apenas dessa ordem as consequências nefastas das ARCs. Neste tipo específico de ARCs que têm em conta a privacidade inclui-se &lt;a href=&quot;https://eco.sapo.pt/2020/05/04/esta-app-vai-dizer-lhe-se-esteve-perto-de-alguem-com-covid-19-saiba-como-vai-funcionar/&quot;&gt;a ARC desenvolvida pelo InescTec&lt;/a&gt;, que tudo indica que receberá o aval do governo português. Estas ARCs &quot;amigas da privacidade&quot; correspondem a um esforço genuíno de limitar o seu alcance, face a alternativas grotescas baseadas na geolocalização e cruzamento de dados, como no Reino Unido. Mas mesmo com essa preocupação, elas contêm riscos sérios que não são resolúveis tecnicamente.&lt;/p&gt;
-
-&lt;p&gt;Antes de entrar pelo lado técnico, importa ter o retrato total da problemática à volta das ARCs. É que neste momento as pessoas estão desesperadas por uma solução para o momento em que vivem. Estão desempregadas, com a integridade psicológica em risco, lidando com dramas familiares, sem capacidade de cuidar dos filhos a tempo inteiro ao mesmo tempo que trabalham à distância. O óbvio desespero que tais cenários motivam leva a uma adesão imediata a qualquer réstia de esperança numa solução mágica. As ARCs aparecem aqui como a esperança possível, que irá motivar muita gente a instalar uma app cuja eficácia não está de todo demonstrada e cujas consequências podem ser muito graves.&lt;/p&gt;
-
-&lt;h3&gt;Os falsos positivos e negativos&lt;/h3&gt;
-
-&lt;p&gt;Os modelos de ARC que estão a ser desenvolvidos recorrem ao Bluetooth para evitar o recurso à geolocalização (que exclui o anonimato). São medidos os &quot;contactos&quot; entre telemóveis, ou seja, os momentos em que dois aparelhos estão próximos durante um tempo suficiente para ser considerado um potencial contacto. Mais tarde, quando alguém é marcado como tendo covid-19, as pessoas com quem contactou receberão notificações do facto, sem haver transmissão direta da identidade das pessoas. Mesmo salvaguardando o anonimato, há um pormenor que não há como contornar: o falso positivo ou falso negativo.&lt;/p&gt;
-
-&lt;p&gt;É que o Bluetooth está longe de ser uma tecnologia milimétrica, e não foi desenhada para medir distâncias entre pessoas. Há &quot;contactos&quot; a 5 metros que podem ser registados, e contactos reais de meio metro que não o vão ser. Para complicar, o Bluetooth atravessa barreiras, registando um contacto mesmo quando há uma barreira de plástico, ou mesmo uma parede, entre as pessoas, registando um falso positivo. Será um cenário frequente em apartamentos: quantas vezes já vimos a coluna ou a TV do vizinho quando ligamos o Bluetooth no telemóvel para procurar aparelhos à nossa volta? &lt;/p&gt;
-
-&lt;p&gt;Podemos antever o resultado: uma rede de contactos falsa e incompleta, de utilidade epidemiológica muitíssimo questionável por conter tantos falsos positivos e negativos. Mas há uma consequência muito mais grave: muitas pessoas receberão notificações de contacto que não ocorreu na realidade. Não houve exposição, mas a notificação será enviada. As pessoas ficarão ansiosas, muitas a colocar-se em auto-quarentena até poderem realizar um teste, com implicações psicológicas e familiares que se somam ao tremendo stress que já todos sofremos. Se pensarmos que muitos destes casos serão falsos alarmes, está-se assim a criar uma nova fonte de ansiedade profundamente desnecessária, num momento em que ninguém no país precisa de mais.&lt;/p&gt;
-
-&lt;h3&gt;O uso &quot;voluntário&quot;&lt;/h3&gt;
-
-&lt;p&gt;Quando ligamos à nossa operadora de comunicações para resolver uma questão técnica, a voz automática informa-nos de que a chamada será gravada e, se não consentirmos, que temos de recorrer aos meios de comunicação alternativos. Em tempo de pandemia, o meio de contacto presencial está excluído. Se o nosso problema necessitar de resolução urgente, não confiaremos no e-mail para obter uma resposta célere, e a única forma que temos à disposição de obter uma resposta imediata é consentir na gravação da chamada.&lt;/p&gt;
-
-&lt;p&gt;É assim que algo que surge como uma aparente escolha, com consentimento informado, se torna na verdade uma discreta imposição para aceitar condições que não admitiríamos noutra circunstância. É este fenómeno que também vai ocorrer com as ARCs e o seu carácter de adesão voluntária. É perverso argumentar que quem não quer, não precisa de aderir.&lt;/p&gt;
-
-&lt;p&gt;Olhemos para &lt;a href=&quot;https://www.buzzfeednews.com/article/pranavdixit/for-a-billion-indians-the-governments-voluntary-contact&quot;&gt;o que se passou na Índia&lt;/a&gt;, onde existe uma ARC promovida pelo governo, de uso voluntário. Muita gente está a ver barrada a sua entrada em farmácias, onde só se entra quando se mostra que a app está instalada no telemóvel. Os estafetas de entrega de refeições do Zomato são obrigados a ter a app instalada, senão não podem trabalhar. Alguns condomínios vedam o acesso a serviços aos condóminos que não provam ter a app instalada, e provocam o maldizer de vizinhos em relação a quem prefere não instalar. &lt;/p&gt;
-
-&lt;p&gt;Resumindo: é voluntário, mas obrigação existe de facto, na forma que a app se torna mediadora do acesso que temos a serviços essenciais, trabalho e ao nosso próprio domicílio. Nota-se muito a falta de qualquer contributo sociológico, etnográfico ou filosófico na concepção das ARCs, uma omissão que tem de ser destacada: é mais uma lacuna motivada por uma vontade solucionista de focar o debate nos pormenores técnicos e minimizar o valor de qualquer outro ângulo. Esta leveza na apresentação das ARCs como de uso &quot;voluntário&quot; tem de ser questionada.&lt;/p&gt;
-
-&lt;h3&gt;Big brother? Não é bem isso&lt;/h3&gt;
-
-&lt;p&gt;Vários dos proponentes das ARCs têm avançado o mesmo slogan de que &quot;não se trata de um Big Brother&quot;. Têm razão, e devemos evitar a fácil condenação de que correspondem a uma conspiração por parte do Estado (ou privados) que apenas procuram um pretexto para acumular poder. Tem a ver com o desespero que tanto cidadãos como políticos estão a sentir na falta de qualquer solução mágica. A Comissão Europeia faz parte deste grupo desesperado: estava até há bem pouco tempo sob fortes críticas de não conseguir coordenar uma resposta conjunta à crise, até aparecer o pretexto das ARCs, que estão agora a ser propostas (e quase impostas) sem testes, análises profundas ou sequer uma especificação do valor real dessas apps. Tem de ser e pronto.&lt;/p&gt;
-
-&lt;p&gt;Esta é a &lt;a href=&quot;https://www.theguardian.com/commentisfree/2020/apr/15/tech-coronavirus-surveilance-state-digital-disrupt&quot;&gt;doutrina solucionista&lt;/a&gt;: reduzir os problemas complexos a cenários preto e branco que só podem ser resolvidos com soluções tecnológicas. Essa doutrina reduz o discurso aos pormenores de implementação e descarta qualquer consideração fora dessa esfera. Neste caos em concreto, ela propõe falsamente uma dicotomia entre a app e o confinamento, ou em sentido mais lato, entre a salvação e o marasmo. Podemos recordar que antes de se falar de ARCs, a linha comummente aceite era que até à cura ou vacina não encontraremos soluções mágicas. Agora a solução existe -- uma ARC -- muitas vezes sem qualquer menção concreta das suas vantagens.  Ela é apresentada como algo que tem de ser. A sua introdução contempla pouco ou nenhum debate. Não podemos, mesmo com a ansiedade coletiva em busca de soluções, apressar adoções em massa com implicações sociais fortes.&lt;/p&gt;
-
-&lt;p&gt;Temos ainda demasiado poucas pistas para o que aí vem, considerando que estamos a definir o precedente para o nosso futuro próximo: aceitaremos apps e engenhos tecnológicos como forma de mediação social? O Primeiro-Ministro, na sua entrevista recente na RTP, não sugere uma solução vinda do Estado, mas um ecossistema de apps de uso voluntário. Seria ótimo termos em mãos a informação sobre o que se pretende implementar em Portugal, mas não existe ainda qualquer documento formal a descrever o que se está a preparar, apenas comentário de imprensa. Não pode ser assim, se estamos a falar de uma decisão sócio-política com implicações que ainda não conseguimos quantificar enquanto sociedade, mas cujo desfecho definirá as nossas existências nos tempos que aí vêm.&lt;/p&gt;
-
-&lt;p&gt;Há ainda outros focos de preocupação que o espaço deste artigo não chega para albergar. Estamos na &lt;a href=&quot;https://direitosdigitais.pt&quot;&gt;D3&lt;/a&gt; a preparar um recurso para ajudar cada pessoa a decidir se é boa ideia instalar ou não a app: o &lt;a href=&quot;http://rastreamento.pt&quot;&gt;rastreamento.pt&lt;/a&gt; ainda está a ser montado, mas dá para deixar lá o e-mail para receber um aviso quando estiver pronto, e assim poder ter os factos no sítio na altura de decidir se é boa ideia instalar uma app destas ou não.&lt;/p&gt;
-
-&lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~rlafuente/blog/tag_ARCs.html&quot;&gt;ARCs&lt;/a&gt;&lt;/p&gt;</description>
-	<pubDate>Sat, 09 May 2020 14:04:44 +0000</pubDate>
 </item>
 
 </channel>
