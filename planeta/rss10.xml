@@ -15,6 +15,7 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Iron-Spam-Attack" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Emulating-classic-computers" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Huston-Go-Pro-Situation" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Ordering-a-pizza" />
@@ -74,11 +75,20 @@
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/conceptual-vocal-synthesizer" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/hardcore-computing" />
 			<rdf:li rdf:resource="https://tilde.pt/~epifanio/blog/./o-tildept-num-verdadeiro-computador-retro.html" />
-			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./dia-mundial-da-internet.html" />
 		</rdf:Seq>
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Iron-Spam-Attack">
+	<title>N.S. do Computismo: Russia: Hidden chips 'launch spam attacks from irons'</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Iron-Spam-Attack</link>
+	<content:encoded>&lt;p&gt;&quot;Cyber criminals are planting chips in electric irons and kettles to launch spam attacks, reports in Russia suggest.&quot;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;a disassembled iron&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/iron.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;@&lt;a href=&quot;https://www.bbc.com/news/blogs-news-from-elsewhere-24707337&quot;&gt;bbc.com&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2021-03-15T11:20:04+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Emulating-classic-computers">
 	<title>N.S. do Computismo: Emulating classic computers in the browser</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Emulating-classic-computers</link>
@@ -646,45 +656,6 @@ via Nationaal Archief (http://www.flickr.com/photos/nationaalarchief/4193509648/
 &lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~epifanio/blog/tag_tilde.pt.html&quot;&gt;tilde.pt&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~epifanio/blog/tag_html.html&quot;&gt;html&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~epifanio/blog/tag_css.html&quot;&gt;css&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~epifanio/blog/tag_retro.html&quot;&gt;retro&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~epifanio/blog/tag_amiga.html&quot;&gt;amiga&lt;/a&gt;&lt;/p&gt;</content:encoded>
 	<dc:date>2020-05-18T23:15:44+00:00</dc:date>
 	<dc:creator>~epifanio</dc:creator>
-</item>
-<item rdf:about="https://tilde.pt/~marado/blog/./dia-mundial-da-internet.html">
-	<title>~marado: Dia Mundial da Internet</title>
-	<link>https://tilde.pt/~marado/blog/dia-mundial-da-internet.html</link>
-	<content:encoded>&lt;p&gt;Feliz dia mundial da Internet! Sabias que...&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Há 30 anos atrás (1990) foi organizada a 1ª Convenção Portuguesa de Unix.&lt;/li&gt;
-&lt;li&gt;Há 29 anos atrás (1991) foi montado o &quot;.PT&quot; ...&lt;/li&gt;
-&lt;li&gt;Há 28 anos atrás (1992) o tld &quot;PT&quot; foi reconhecido. O primeiro talker Português foi criado.&lt;/li&gt;
-&lt;li&gt;Há 27 anos atrás (1993) a EUNET &lt;a href=&quot;https://drive.google.com/file/d/1R-7wYRGNRtJmUaY7i_CTgeIrFnvTWCRt/view&quot;&gt;era assim&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Há 26 anos atrás (1994) teve lugar no LNEC, o seminário &quot;Portugal na Internet&quot;. Ligar à internet em Portugal era assim:&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img alt=&quot;ligar à Internet em Portugal, em 1994&quot; src=&quot;https://raw.githubusercontent.com/marado/selva-presentation/master/EUnet.png&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Há 25 anos atrás (1995) foi fundado o SAPO, na Universidade de Aveiro.&lt;/li&gt;
-&lt;li&gt;Há 24 anos atrás (1996) existem 10 entidades com licença para prestação de Serviços de Telecomunicações Complementares Fixos, no âmbito dos quais se pode enquadrar o acesso à Internet.&lt;/li&gt;
-&lt;li&gt;Há 23 anos atrás (1997) a PTNET, a maior rede de IRC Portuguesa, foi criada. Pulhas, Toxyn e KaotiK iniciam a sua campanha de hacktivismo por causa da ocupação a Timor.&lt;/li&gt;
-&lt;li&gt;Há 22 anos atrás (1998) a Saber &amp;amp; Lazer - Informática compra o SAPO.&lt;/li&gt;
-&lt;li&gt;Há 21 anos atrás (1999) a Sonaecom cria a Novis, resultante da compra da IP Global, e a marca Clix para o mercado residencial. A Esoterica é comprada pela VIA NET.WORKS.&lt;/li&gt;
-&lt;li&gt;Há 20 anos atrás (2000) a EUnet Portugal passa a KPNQwest.&lt;/li&gt;
-&lt;li&gt;Há 19 anos atrás (2001) a ANSOL - Associação Nacional para o Software Livre, é anunciada, durante a edição de 2001 do &quot;Porto, Cidade Tecnológica&quot;.&lt;/li&gt;
-&lt;li&gt;Há 18 anos atŕas (2002) tanto o SAPO como o Clix lançam as suas ofertas de ADSL.&lt;/li&gt;
-&lt;li&gt;Há 17 anos atrás (2003) a moda dos blogs chega em força a Portugal, com a criação do serviço SAPO Blogs.&lt;/li&gt;
-&lt;li&gt;Há 16 anos atrás (2004) a Novis adquiriu a KPNQwest Portugal (antiga EUNet Portugal), ficando assim com o legado do primeiro ISP em Portugal (ainda enquanto PUUG).&lt;/li&gt;
-&lt;li&gt;Há 15 anos atrás (2005) o Clix lançou no mercado uma oferta de 16Mbps utilizando a tecnologia ADSL2+.&lt;/li&gt;
-&lt;li&gt;Há 14 anos atrás (2006) o Clix lançou para o público a SmarTV, um serviço de Televisão Digital e Home Video utilizando o sistema IPTV sobre a tecnologia ADSL2+, sendo a primeira oferta em Portugal a utilizar esta tecnologia.&lt;/li&gt;
-&lt;li&gt;Há 13 anos atrás (2007) a marca Novis foi incorporada pela marca Optimus. O evento SAPO Codebits teve a sua primeira edição.&lt;/li&gt;
-&lt;li&gt;Há 12 anos atrás (2008) apareceu a Clix Fibra, a primeira oferta comercial em Portugal de ligação à internet através de fibra óptica.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_pt.html&quot;&gt;pt&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_internet.html&quot;&gt;internet&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_history.html&quot;&gt;history&lt;/a&gt;&lt;/p&gt;
-
-&lt;p id=&quot;twitter&quot;&gt;&lt;a href=&quot;http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/dia-mundial-da-internet.html&amp;amp;text=&amp;lt;escreve o comentário aqui mas deixa o URL para outras pessoas poderem seguir os comentários&amp;gt;&amp;amp;via=mind_booster&quot;&gt;comentários? tweetar&lt;/a&gt; 
-&lt;a href=&quot;https://twitter.com/search?q=https://tilde.pt/~marado/blog/dia-mundial-da-internet.html&quot;&gt;&lt;span id=&quot;count-3408&quot;&gt;&lt;/span&gt;&lt;/a&gt; &lt;/p&gt;</content:encoded>
-	<dc:date>2020-05-17T22:51:27+00:00</dc:date>
-	<dc:creator>~marado</dc:creator>
 </item>
 
 </rdf:RDF>
