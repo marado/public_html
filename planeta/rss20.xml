@@ -9,6 +9,12 @@
 	<atom:link rel="self" href="http://tilde.pt/~marado/rss20.xml" type="application/rss+xml"/>
 
 <item>
+	<title>N.S. do Computismo: The Machines Made To Mimic Humans | Mechanical Marvels: Clockwork Dreams | Spark</title>
+	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Clockwork-Dreams</guid>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Clockwork-Dreams</link>
+	<pubDate>Wed, 17 Mar 2021 11:20:04 +0000</pubDate>
+</item>
+<item>
 	<title>N.S. do Computismo: Russia: Hidden chips 'launch spam attacks from irons'</title>
 	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Iron-Spam-Attack</guid>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Iron-Spam-Attack</link>
@@ -612,37 +618,6 @@ via Nationaal Archief (http://www.flickr.com/photos/nationaalarchief/4193509648/
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/hardcore-computing</link>
 	<description>&lt;p&gt;&lt;img alt=&quot;hardcore computing&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/hardcoreComputing.jpg&quot; /&gt;&lt;/p&gt;</description>
 	<pubDate>Thu, 17 Dec 2020 00:20:02 +0000</pubDate>
-</item>
-<item>
-	<title>~epifanio: O tilde.pt num verdadeiro computador retro</title>
-	<guid isPermaLink="false">https://tilde.pt/~epifanio/blog/./o-tildept-num-verdadeiro-computador-retro.html</guid>
-	<link>https://tilde.pt/~epifanio/blog/o-tildept-num-verdadeiro-computador-retro.html</link>
-	<description>&lt;p&gt;O HTML, quando bem feito e quando não precisa de muito mais do que apresentar informação textual, pode e deve ser feito de forma a que seja de fácil leitura no maior número de browsers e dispositivos: computadores tradicionais, tablets, telemóveis e até mesmo browsers sem suporte para CSS como terminais de texto ou browsers para invisuais.&lt;/p&gt;
-
-&lt;p&gt;A melhor forma de o fazer, tipicamente, é construir o HTML mais simples possível, que consiga ser de fácil leitura em software sem suporte para CSS. Só numa fase posterior é que se deverá dar maior atenção à componente visual, através de CSS e Javascript, para que seja apresentado de uma forma coisa jeitosa num browser mais moderno.&lt;/p&gt;
-
-&lt;p&gt;Quis saber se o tilde.pt seria facilmente navegável na minha plataforma retro preferida: o &lt;a href=&quot;https://pt.wikipedia.org/wiki/Amiga&quot;&gt;Amiga&lt;/a&gt;. Como browser usei o &lt;a href=&quot;https://en.wikipedia.org/wiki/IBrowse&quot;&gt;IBrowse&lt;/a&gt; que, apesar de ter sido lançado há 23 anos atrás, teve uma actualização ainda este ano.&lt;/p&gt;
-
-&lt;p&gt;Foi uma surpresa agradável. O tilde.pt passou com distinção no teste. Vejamos a homepage:&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&quot;homepage tilde.pt&quot; src=&quot;https://tilde.pt/~epifanio/img/ibrowse_tilde_pt.jpg&quot; title=&quot;&quot; /&gt; &lt;/p&gt;
-
-&lt;p&gt;O espaço do &lt;a href=&quot;https://tilde.pt/~rlafuente&quot;&gt;~rlafuente&lt;/a&gt; também passou o teste:&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&quot;rlafuente&quot; src=&quot;https://tilde.pt/~epifanio/img/ibrowse_rlafuente.jpg&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;E o &lt;a href=&quot;https://tilde.pt/~marado&quot;&gt;~marado&lt;/a&gt; provou que usar &lt;em&gt;tables&lt;/em&gt; para construir o layout uma página html (em vez de &lt;em&gt;divs&lt;/em&gt;) tem as suas vantagens. Vejam:&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&quot;marado&quot; src=&quot;https://tilde.pt/~epifanio/img/ibrowse_marado.jpg&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Como não há milagres, o &lt;a href=&quot;https://tilde.pt/~aiscarvalho/users/&quot;&gt;Hotel&lt;/a&gt; (que é uma bela obra de arte) depende muito de CSS e é apresentado apenas como uma simples lista. Lanço o desafio à &lt;a href=&quot;https://tilde.pt/~aiscarvalho/&quot;&gt;~aiscarvalho&lt;/a&gt; para a construção de uma versão em ASCII art.&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&quot;hotel&quot; src=&quot;https://tilde.pt/~epifanio/img/ibrowse_hotel.jpg&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Uma nota final: o computador usado para este teste foi uma versão &quot;moderna&quot; do Amiga baseada em &lt;a href=&quot;https://pt.wikipedia.org/wiki/Field-programmable_gate_array&quot;&gt;FPGA&lt;/a&gt;, uma &lt;a href=&quot;https://www.apollo-accelerators.com/&quot;&gt;Vampire V4 Standalone&lt;/a&gt;. O sistema operativo é o Amiga OS 3.9 que infelizmente continua a ser proprietário devido a intermináveis guerras sobre a propriedade intelectual do mesmo. Felizmente temos o &lt;a href=&quot;https://aros.sourceforge.io/&quot;&gt;AROS 68k&lt;/a&gt; que está a caminhar a passos largos para se tornar uma séria alternativa open-source ao velhinho Amiga OS.&lt;/p&gt;
-
-&lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~epifanio/blog/tag_tilde.pt.html&quot;&gt;tilde.pt&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~epifanio/blog/tag_html.html&quot;&gt;html&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~epifanio/blog/tag_css.html&quot;&gt;css&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~epifanio/blog/tag_retro.html&quot;&gt;retro&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~epifanio/blog/tag_amiga.html&quot;&gt;amiga&lt;/a&gt;&lt;/p&gt;</description>
-	<pubDate>Mon, 18 May 2020 23:15:44 +0000</pubDate>
 </item>
 
 </channel>
