@@ -15,6 +15,7 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/The-Art-Of-Warez" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Clockwork-Dreams" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Iron-Spam-Attack" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Emulating-classic-computers" />
@@ -74,11 +75,16 @@
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/dot-matrix-revolution" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/tv-helmet" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/conceptual-vocal-synthesizer" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/hardcore-computing" />
 		</rdf:Seq>
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/The-Art-Of-Warez">
+	<title>N.S. do Computismo: The Art Of Warez</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/The-Art-Of-Warez</link>
+	<content:encoded>&lt;p&gt;&lt;/p&gt;&lt;div style=&quot;padding: 56.25% 0 0 0;&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2021-03-19T17:20:04+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Clockwork-Dreams">
 	<title>N.S. do Computismo: The Machines Made To Mimic Humans | Mechanical Marvels: Clockwork Dreams | Spark</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Clockwork-Dreams</link>
@@ -623,12 +629,6 @@ via Nationaal Archief (http://www.flickr.com/photos/nationaalarchief/4193509648/
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/conceptual-vocal-synthesizer">
 	<title>N.S. do Computismo: VOC-25 - A conceptual vocal synthesizer</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/conceptual-vocal-synthesizer</link>
-	<dc:date>2020-12-17T00:20:02+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/hardcore-computing">
-	<title>N.S. do Computismo: Hardcore Computing</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/hardcore-computing</link>
-	<content:encoded>&lt;p&gt;&lt;img alt=&quot;hardcore computing&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/hardcoreComputing.jpg&quot; /&gt;&lt;/p&gt;</content:encoded>
 	<dc:date>2020-12-17T00:20:02+00:00</dc:date>
 </item>
 
