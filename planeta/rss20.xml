@@ -9,6 +9,15 @@
 	<atom:link rel="self" href="http://tilde.pt/~marado/rss20.xml" type="application/rss+xml"/>
 
 <item>
+	<title>N.S. do Computismo: Visual Cryptography</title>
+	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Visual-Crypto</guid>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Visual-Crypto</link>
+	<description>&lt;p&gt;&lt;img alt=&quot; Visual Cryptography example&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/visualCrypto.png&quot; /&gt; &lt;/p&gt;
+
+&lt;p&gt;@ &lt;a href=&quot;https://datagenetics.com/blog/november32013/index.html&quot;&gt;datagenics.com&lt;/a&gt;&lt;/p&gt;</description>
+	<pubDate>Tue, 23 Mar 2021 11:20:03 +0000</pubDate>
+</item>
+<item>
 	<title>N.S. do Computismo: The Art Of Warez</title>
 	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/The-Art-Of-Warez</guid>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/The-Art-Of-Warez</link>
@@ -27,7 +36,7 @@
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Iron-Spam-Attack</link>
 	<description>&lt;p&gt;&quot;Cyber criminals are planting chips in electric irons and kettles to launch spam attacks, reports in Russia suggest.&quot;&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt=&quot;a disassembled iron&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/iron.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;disassembled iron&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/iron.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;@&lt;a href=&quot;https://www.bbc.com/news/blogs-news-from-elsewhere-24707337&quot;&gt;bbc.com&lt;/a&gt;&lt;/p&gt;</description>
 	<pubDate>Mon, 15 Mar 2021 11:20:04 +0000</pubDate>
@@ -611,12 +620,6 @@ via Nationaal Archief (http://www.flickr.com/photos/nationaalarchief/4193509648/
 	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/tv-helmet</guid>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/tv-helmet</link>
 	<description>&lt;p&gt;&lt;img alt=&quot;tv helmet&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/tv-helmet.jpg&quot; /&gt;&lt;/p&gt;</description>
-	<pubDate>Thu, 17 Dec 2020 00:20:02 +0000</pubDate>
-</item>
-<item>
-	<title>N.S. do Computismo: VOC-25 - A conceptual vocal synthesizer</title>
-	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/conceptual-vocal-synthesizer</guid>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/conceptual-vocal-synthesizer</link>
 	<pubDate>Thu, 17 Dec 2020 00:20:02 +0000</pubDate>
 </item>
 

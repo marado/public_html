@@ -15,6 +15,7 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Visual-Crypto" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/The-Art-Of-Warez" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Clockwork-Dreams" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Iron-Spam-Attack" />
@@ -74,11 +75,18 @@
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Information-machine" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/dot-matrix-revolution" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/tv-helmet" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/conceptual-vocal-synthesizer" />
 		</rdf:Seq>
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Visual-Crypto">
+	<title>N.S. do Computismo: Visual Cryptography</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Visual-Crypto</link>
+	<content:encoded>&lt;p&gt;&lt;img alt=&quot; Visual Cryptography example&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/visualCrypto.png&quot; /&gt; &lt;/p&gt;
+
+&lt;p&gt;@ &lt;a href=&quot;https://datagenetics.com/blog/november32013/index.html&quot;&gt;datagenics.com&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2021-03-23T11:20:03+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/The-Art-Of-Warez">
 	<title>N.S. do Computismo: The Art Of Warez</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/The-Art-Of-Warez</link>
@@ -95,7 +103,7 @@
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Iron-Spam-Attack</link>
 	<content:encoded>&lt;p&gt;&quot;Cyber criminals are planting chips in electric irons and kettles to launch spam attacks, reports in Russia suggest.&quot;&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt=&quot;a disassembled iron&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/iron.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;disassembled iron&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/iron.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;@&lt;a href=&quot;https://www.bbc.com/news/blogs-news-from-elsewhere-24707337&quot;&gt;bbc.com&lt;/a&gt;&lt;/p&gt;</content:encoded>
 	<dc:date>2021-03-15T11:20:04+00:00</dc:date>
@@ -624,11 +632,6 @@ via Nationaal Archief (http://www.flickr.com/photos/nationaalarchief/4193509648/
 	<title>N.S. do Computismo: Walter Pichler's Tv Helmet</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/tv-helmet</link>
 	<content:encoded>&lt;p&gt;&lt;img alt=&quot;tv helmet&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/tv-helmet.jpg&quot; /&gt;&lt;/p&gt;</content:encoded>
-	<dc:date>2020-12-17T00:20:02+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/conceptual-vocal-synthesizer">
-	<title>N.S. do Computismo: VOC-25 - A conceptual vocal synthesizer</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/conceptual-vocal-synthesizer</link>
 	<dc:date>2020-12-17T00:20:02+00:00</dc:date>
 </item>
 
