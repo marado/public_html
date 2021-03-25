@@ -15,6 +15,7 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Susan-Kare" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Visual-Crypto" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/The-Art-Of-Warez" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Clockwork-Dreams" />
@@ -74,11 +75,15 @@
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Capella" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Information-machine" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/dot-matrix-revolution" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/tv-helmet" />
 		</rdf:Seq>
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Susan-Kare">
+	<title>N.S. do Computismo: Susan Kare Through the Years</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Susan-Kare</link>
+	<dc:date>2021-03-25T10:20:05+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Visual-Crypto">
 	<title>N.S. do Computismo: Visual Cryptography</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Visual-Crypto</link>
@@ -626,12 +631,6 @@ via Nationaal Archief (http://www.flickr.com/photos/nationaalarchief/4193509648/
 	<content:encoded>&lt;p&gt;&lt;/p&gt;&lt;div style=&quot;padding: 66.67% 0 0 0;&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://vimeo.com/1715202&quot;&gt;DOT MATRIX REVOLUTION&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/superbrothers&quot;&gt;superbrothers&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</content:encoded>
-	<dc:date>2020-12-17T00:20:02+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/tv-helmet">
-	<title>N.S. do Computismo: Walter Pichler's Tv Helmet</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/tv-helmet</link>
-	<content:encoded>&lt;p&gt;&lt;img alt=&quot;tv helmet&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/tv-helmet.jpg&quot; /&gt;&lt;/p&gt;</content:encoded>
 	<dc:date>2020-12-17T00:20:02+00:00</dc:date>
 </item>
 
