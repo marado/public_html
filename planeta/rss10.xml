@@ -15,6 +15,8 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Steve-Jobs-Interview" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Ted-Nelson-1979" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Susan-Kare" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Visual-Crypto" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/The-Art-Of-Warez" />
@@ -73,12 +75,22 @@
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Wireless-newspaper" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/The-secret-life-of-the-machines" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Capella" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Information-machine" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/dot-matrix-revolution" />
 		</rdf:Seq>
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Steve-Jobs-Interview">
+	<title>N.S. do Computismo: Steve Jobs Interview 1981-02-18</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Steve-Jobs-Interview</link>
+	<content:encoded>&lt;p&gt;An interview with Steve Jobs filmed on 2/18/1981 about the future of Apple, Computers, the Home &amp;amp; Personal computer markets, video games, and more.&lt;/p&gt;</content:encoded>
+	<dc:date>2021-03-26T11:20:04+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Ted-Nelson-1979">
+	<title>N.S. do Computismo: Ted Nelson struggles with uncomprehending radio interviewer, 1979</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Ted-Nelson-1979</link>
+	<content:encoded>&lt;p&gt;Max Allen of CBC radio asks over and over how a computer could possibly be useful for thinking and visualizing.  He absolutely does not get it.&lt;/p&gt;</content:encoded>
+	<dc:date>2021-03-26T11:20:04+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Susan-Kare">
 	<title>N.S. do Computismo: Susan Kare Through the Years</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Susan-Kare</link>
@@ -618,20 +630,6 @@ via Nationaal Archief (http://www.flickr.com/photos/nationaalarchief/4193509648/
 
 &lt;p&gt;more info: &lt;a href=&quot;https://futurism.com/new-satellite-buildings-day-night&quot;&gt;futurism.com&lt;/a&gt;&lt;/p&gt;</content:encoded>
 	<dc:date>2020-12-18T14:20:03+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Information-machine">
-	<title>N.S. do Computismo: The Information Machine</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Information-machine</link>
-	<content:encoded>&lt;p&gt;The Information Machine – Charles and Ray Eames (1973)&lt;/p&gt;</content:encoded>
-	<dc:date>2020-12-17T11:20:02+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/dot-matrix-revolution">
-	<title>N.S. do Computismo: Dot Matrix Revolution</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/dot-matrix-revolution</link>
-	<content:encoded>&lt;p&gt;&lt;/p&gt;&lt;div style=&quot;padding: 66.67% 0 0 0;&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://vimeo.com/1715202&quot;&gt;DOT MATRIX REVOLUTION&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/superbrothers&quot;&gt;superbrothers&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</content:encoded>
-	<dc:date>2020-12-17T00:20:02+00:00</dc:date>
 </item>
 
 </rdf:RDF>
