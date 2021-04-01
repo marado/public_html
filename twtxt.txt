@@ -494,3 +494,4 @@
 2021-02-14T14:59:43+00:00	It's #ilovefs day! All my <3 to Free Software users, creators and activists. Our movement is more needed than ever, today is our day! ;-)
 2021-02-27T18:50:11+00:00	10 years ago kokori made a song out of Fernando Pessoa's "Miner's Song" poem. Get it here: https://the20th.bandcamp.com/track/miners-song
 2021-02-28T19:43:31+00:00	New blog post - repo: using a local manifest - https://tilde.pt/~marado/blog/repo-using-a-local-manifest.html
+2021-04-01T15:54:13+01:00	Sent: Open Letter to the Presidency of the EU in Defense of the Freedom to Use Secure Encryption - https://tinyurl.com/secure-encryption
