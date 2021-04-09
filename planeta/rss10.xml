@@ -15,6 +15,7 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/What-have-we-lost" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Steve-Jobs-Interview" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Ted-Nelson-1979" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Susan-Kare" />
@@ -74,11 +75,16 @@
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Netscape-Mozilla" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Wireless-newspaper" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/The-secret-life-of-the-machines" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Capella" />
 		</rdf:Seq>
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/What-have-we-lost">
+	<title>N.S. do Computismo: What Have We Lost</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/What-have-we-lost</link>
+	<content:encoded>&lt;p&gt;from rc3 ccc conference&lt;/p&gt;</content:encoded>
+	<dc:date>2021-04-07T14:20:02+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Steve-Jobs-Interview">
 	<title>N.S. do Computismo: Steve Jobs Interview 1981-02-18</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Steve-Jobs-Interview</link>
@@ -619,16 +625,6 @@ via Nationaal Archief (http://www.flickr.com/photos/nationaalarchief/4193509648/
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/The-secret-life-of-the-machines">
 	<title>N.S. do Computismo: The Secret Life Of Machines - The Fax Machine</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/The-secret-life-of-the-machines</link>
-	<dc:date>2020-12-18T14:20:03+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Capella">
-	<title>N.S. do Computismo: Cappella 2</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Capella</link>
-	<content:encoded>&lt;p&gt;The all seeing gods.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/Capella-Space-Spot-Image-Tokyo-Japan.png&quot;&gt;&lt;img alt=&quot;Capella 2&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/Capella-Space-Spot-Image-Tokyo-Japan.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;more info: &lt;a href=&quot;https://futurism.com/new-satellite-buildings-day-night&quot;&gt;futurism.com&lt;/a&gt;&lt;/p&gt;</content:encoded>
 	<dc:date>2020-12-18T14:20:03+00:00</dc:date>
 </item>
 

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:planet="http://planet.intertwingly.net/" xmlns:indexing="urn:atom-extension:indexing" indexing:index="no"><access:restriction xmlns:access="http://www.bloglines.com/about/specs/fac-1.0" relationship="deny"/>
   <title>Planeta Tilde</title>
-  <updated>2021-03-27T14:20:05Z</updated>
+  <updated>2021-04-09T13:20:03Z</updated>
   <generator uri="http://intertwingly.net/code/venus/">Venus</generator>
   <author>
     <name>Marcos Marado</name>
@@ -10,6 +10,26 @@
   <id>http://tilde.pt/~marado/atom.xml</id>
   <link href="http://tilde.pt/~marado/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="http://tilde.pt/~marado/planeta" rel="alternate"/>
+
+  <entry>
+    <id>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/What-have-we-lost</id>
+    <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/What-have-we-lost" rel="alternate" type="text/html"/>
+    <title>What Have We Lost</title>
+    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>from rc3 ccc conference</p></div>
+    </summary>
+    <updated>2021-04-07T14:20:02Z</updated>
+    <source>
+      <id>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/</id>
+      <author>
+        <name>N.S. do Computismo</name>
+      </author>
+      <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/" rel="alternate" type="text/html"/>
+      <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
+      <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
+      <title>Nossa Senhora do Computismo</title>
+      <updated>2021-04-09T13:20:03Z</updated>
+    </source>
+  </entry>
 
   <entry>
     <id>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Steve-Jobs-Interview</id>
@@ -27,7 +47,7 @@
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-27T14:20:05Z</updated>
+      <updated>2021-04-09T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -47,7 +67,7 @@
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-27T14:20:04Z</updated>
+      <updated>2021-04-09T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -65,7 +85,7 @@
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-27T14:20:05Z</updated>
+      <updated>2021-04-09T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -87,7 +107,7 @@
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-27T14:20:04Z</updated>
+      <updated>2021-04-09T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -107,7 +127,7 @@
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-27T14:20:04Z</updated>
+      <updated>2021-04-09T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -125,7 +145,7 @@
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-27T14:20:04Z</updated>
+      <updated>2021-04-09T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -149,7 +169,7 @@
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-27T14:20:04Z</updated>
+      <updated>2021-04-09T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -171,7 +191,7 @@
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-27T14:20:05Z</updated>
+      <updated>2021-04-09T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -189,7 +209,7 @@
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-27T14:20:04Z</updated>
+      <updated>2021-04-09T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -213,7 +233,7 @@
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-27T14:20:04Z</updated>
+      <updated>2021-04-09T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -237,7 +257,7 @@
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-27T14:20:05Z</updated>
+      <updated>2021-04-09T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -265,7 +285,7 @@
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-27T14:20:05Z</updated>
+      <updated>2021-04-09T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -311,7 +331,7 @@
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-27T14:20:04Z</updated>
+      <updated>2021-04-09T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -333,7 +353,7 @@
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-27T14:20:04Z</updated>
+      <updated>2021-04-09T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -353,7 +373,7 @@
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-27T14:20:04Z</updated>
+      <updated>2021-04-09T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -371,7 +391,7 @@
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-27T14:20:04Z</updated>
+      <updated>2021-04-09T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -520,7 +540,7 @@ and so this blog post should be considered licensed under the same terms.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-27T14:20:04Z</updated>
+      <updated>2021-04-09T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -542,7 +562,7 @@ and so this blog post should be considered licensed under the same terms.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-27T14:20:04Z</updated>
+      <updated>2021-04-09T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -562,7 +582,7 @@ and so this blog post should be considered licensed under the same terms.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-27T14:20:04Z</updated>
+      <updated>2021-04-09T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -580,7 +600,7 @@ and so this blog post should be considered licensed under the same terms.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-27T14:20:05Z</updated>
+      <updated>2021-04-09T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -602,7 +622,7 @@ O
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-27T14:20:04Z</updated>
+      <updated>2021-04-09T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -623,7 +643,7 @@ O
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-27T14:20:04Z</updated>
+      <updated>2021-04-09T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -641,7 +661,7 @@ O
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-27T14:20:04Z</updated>
+      <updated>2021-04-09T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -667,7 +687,7 @@ O
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-27T14:20:04Z</updated>
+      <updated>2021-04-09T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -688,7 +708,7 @@ O
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-27T14:20:05Z</updated>
+      <updated>2021-04-09T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -738,7 +758,7 @@ O
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-27T14:20:05Z</updated>
+      <updated>2021-04-09T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -762,7 +782,7 @@ O
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-27T14:20:04Z</updated>
+      <updated>2021-04-09T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -783,7 +803,7 @@ O
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-27T14:20:05Z</updated>
+      <updated>2021-04-09T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -805,7 +825,7 @@ O
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-27T14:20:05Z</updated>
+      <updated>2021-04-09T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -823,7 +843,7 @@ O
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2021-03-27T14:20:04Z</updated>
+      <updated>2021-04-07T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -1355,30 +1375,6 @@ via Nationaal Archief (http://www.flickr.com/photos/nationaalarchief/4193509648/
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
       <updated>2021-02-10T10:20:03Z</updated>
-    </source>
-  </entry>
-
-  <entry>
-    <id>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Capella</id>
-    <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Capella" rel="alternate" type="text/html"/>
-    <title>Cappella 2</title>
-    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>The all seeing gods.</p>
-
-<p><a href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/Capella-Space-Spot-Image-Tokyo-Japan.png"><img alt="Capella 2" src="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/Capella-Space-Spot-Image-Tokyo-Japan.png"/></a></p>
-
-<p>more info: <a href="https://futurism.com/new-satellite-buildings-day-night">futurism.com</a></p></div>
-    </summary>
-    <updated>2020-12-18T14:20:03Z</updated>
-    <source>
-      <id>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/</id>
-      <author>
-        <name>N.S. do Computismo</name>
-      </author>
-      <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/" rel="alternate" type="text/html"/>
-      <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
-      <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
-      <title>Nossa Senhora do Computismo</title>
-      <updated>2021-02-08T10:20:03Z</updated>
     </source>
   </entry>
 </feed>
