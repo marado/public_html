@@ -15,6 +15,7 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/Algorithmic-symphonies" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/What-have-we-lost" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Steve-Jobs-Interview" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Ted-Nelson-1979" />
@@ -74,11 +75,18 @@
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Tetris-printer-algorithm" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Netscape-Mozilla" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Wireless-newspaper" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/The-secret-life-of-the-machines" />
 		</rdf:Seq>
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/Algorithmic-symphonies">
+	<title>N.S. do Computismo: Algorithmic symphonies from one line of code</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/Algorithmic-symphonies</link>
+	<content:encoded>&lt;p&gt;source and more @ &lt;a href=&quot;http://countercomplex.blogspot.com/2011/10/algorithmic-symphonies-from-one-line-of.html&quot;&gt;CounterComplex&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;or the youtube channel @  &lt;a href=&quot;https://www.youtube.com/channel/UCRRqeqAXdCC8GgatzHO3VWA&quot;&gt;Ville-Matias Heikkilä&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2021-04-15T09:20:03+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/What-have-we-lost">
 	<title>N.S. do Computismo: What Have We Lost</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/What-have-we-lost</link>
@@ -621,11 +629,6 @@ via Nationaal Archief (http://www.flickr.com/photos/nationaalarchief/4193509648/
 
 &lt;p&gt;&lt;img alt=&quot;wireless newpaper&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/wireless-newspaper.jpg&quot; /&gt;&lt;/p&gt;</content:encoded>
 	<dc:date>2020-12-19T12:20:03+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/The-secret-life-of-the-machines">
-	<title>N.S. do Computismo: The Secret Life Of Machines - The Fax Machine</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/The-secret-life-of-the-machines</link>
-	<dc:date>2020-12-18T14:20:03+00:00</dc:date>
 </item>
 
 </rdf:RDF>
