@@ -9,6 +9,23 @@
 	<atom:link rel="self" href="http://tilde.pt/~marado/rss20.xml" type="application/rss+xml"/>
 
 <item>
+	<title>N.S. do Computismo: Artscene Ascii Generator with a Neural Network</title>
+	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/NFO-NN-Generator</guid>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/NFO-NN-Generator</link>
+	<description>&lt;p&gt;&lt;img alt=&quot;ascii neural network&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/ascii-nn.png&quot; /&gt; &lt;/p&gt;
+
+&lt;p&gt;@ &lt;a href=&quot;https://rodarmor.com/artnet:&quot;&gt;roadarmor.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;tip from Ricardo Lafuente&lt;/p&gt;</description>
+	<pubDate>Mon, 26 Apr 2021 12:20:03 +0000</pubDate>
+</item>
+<item>
+	<title>N.S. do Computismo: Why Are The Mcdonalds Icecream Machines Always Broken</title>
+	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/Why-are-McDonalds-Icecream-Machines-Always-Broken</guid>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/Why-are-McDonalds-Icecream-Machines-Always-Broken</link>
+	<pubDate>Mon, 26 Apr 2021 11:20:02 +0000</pubDate>
+</item>
+<item>
 	<title>N.S. do Computismo: Millions of Lines of Code</title>
 	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/Milions-of-lines-of-code</guid>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/Milions-of-lines-of-code</link>
@@ -604,18 +621,6 @@ O
 	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Lies-on-the-internet</guid>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Lies-on-the-internet</link>
 	<pubDate>Tue, 22 Dec 2020 11:20:02 +0000</pubDate>
-</item>
-<item>
-	<title>N.S. do Computismo: Tetris Printer Algorithm</title>
-	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Tetris-printer-algorithm</guid>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Tetris-printer-algorithm</link>
-	<pubDate>Mon, 21 Dec 2020 12:20:02 +0000</pubDate>
-</item>
-<item>
-	<title>N.S. do Computismo: Netscape Mozilla Documentary 1998 - 2000 ProJect Code Rush</title>
-	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Netscape-Mozilla</guid>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Netscape-Mozilla</link>
-	<pubDate>Sun, 20 Dec 2020 11:20:02 +0000</pubDate>
 </item>
 
 </channel>

@@ -15,6 +15,8 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/NFO-NN-Generator" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/Why-are-McDonalds-Icecream-Machines-Always-Broken" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/Milions-of-lines-of-code" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/Algorithmic-symphonies" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/What-have-we-lost" />
@@ -73,12 +75,25 @@
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Console-cowboys" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Wifi-gestures" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Lies-on-the-internet" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Tetris-printer-algorithm" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Netscape-Mozilla" />
 		</rdf:Seq>
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/NFO-NN-Generator">
+	<title>N.S. do Computismo: Artscene Ascii Generator with a Neural Network</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/NFO-NN-Generator</link>
+	<content:encoded>&lt;p&gt;&lt;img alt=&quot;ascii neural network&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/ascii-nn.png&quot; /&gt; &lt;/p&gt;
+
+&lt;p&gt;@ &lt;a href=&quot;https://rodarmor.com/artnet:&quot;&gt;roadarmor.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;tip from Ricardo Lafuente&lt;/p&gt;</content:encoded>
+	<dc:date>2021-04-26T12:20:03+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/Why-are-McDonalds-Icecream-Machines-Always-Broken">
+	<title>N.S. do Computismo: Why Are The Mcdonalds Icecream Machines Always Broken</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/Why-are-McDonalds-Icecream-Machines-Always-Broken</link>
+	<dc:date>2021-04-26T11:20:02+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/Milions-of-lines-of-code">
 	<title>N.S. do Computismo: Millions of Lines of Code</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/Milions-of-lines-of-code</link>
@@ -618,16 +633,6 @@ O
 	<title>N.S. do Computismo: Lies on the Internet</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Lies-on-the-internet</link>
 	<dc:date>2020-12-22T11:20:02+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Tetris-printer-algorithm">
-	<title>N.S. do Computismo: Tetris Printer Algorithm</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Tetris-printer-algorithm</link>
-	<dc:date>2020-12-21T12:20:02+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Netscape-Mozilla">
-	<title>N.S. do Computismo: Netscape Mozilla Documentary 1998 - 2000 ProJect Code Rush</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Netscape-Mozilla</link>
-	<dc:date>2020-12-20T11:20:02+00:00</dc:date>
 </item>
 
 </rdf:RDF>
