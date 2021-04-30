@@ -15,6 +15,7 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/Euroboy-playing-graba" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/NFO-NN-Generator" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/Why-are-McDonalds-Icecream-Machines-Always-Broken" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/Milions-of-lines-of-code" />
@@ -74,11 +75,15 @@
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/The-kids-guide-to-the-Internet" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Console-cowboys" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Wifi-gestures" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Lies-on-the-internet" />
 		</rdf:Seq>
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/Euroboy-playing-graba">
+	<title>N.S. do Computismo: Euroboy Playing Graba</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/Euroboy-playing-graba</link>
+	<dc:date>2021-04-30T10:20:03+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/NFO-NN-Generator">
 	<title>N.S. do Computismo: Artscene Ascii Generator with a Neural Network</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/NFO-NN-Generator</link>
@@ -628,11 +633,6 @@ O
 
 &lt;p&gt;&quot;Forget to turn off the lights before leaving the apartment? No problem. Just raise your hand, finger-swipe the air, and your lights will power down. Want to change the song playing on your music system in the other room? Move your hand to the right and flip through the songs.&quot;&lt;/p&gt;</content:encoded>
 	<dc:date>2020-12-23T11:20:02+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Lies-on-the-internet">
-	<title>N.S. do Computismo: Lies on the Internet</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Lies-on-the-internet</link>
-	<dc:date>2020-12-22T11:20:02+00:00</dc:date>
 </item>
 
 </rdf:RDF>
