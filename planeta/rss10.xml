@@ -15,6 +15,8 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/LCD-megademo" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Coastermelt" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Amazon-The-Truth-Behind-The-Click" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/Euroboy-playing-graba" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/NFO-NN-Generator" />
@@ -73,12 +75,21 @@
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Obama-is-Checking-your-email" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/How-not-to-be-alone" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/NSA" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/The-kids-guide-to-the-Internet" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Console-cowboys" />
 		</rdf:Seq>
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/LCD-megademo">
+	<title>N.S. do Computismo: LCD megademo</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/LCD-megademo</link>
+	<content:encoded>&lt;p&gt;more info  &lt;a href=&quot;https://github.com/MisterHW/44780HD&quot;&gt;github.com/MisterHW/44780HD&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2021-05-08T10:20:04+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Coastermelt">
+	<title>N.S. do Computismo: Coastermelt by scanlime</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Coastermelt</link>
+	<dc:date>2021-05-08T10:20:03+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Amazon-The-Truth-Behind-The-Click">
 	<title>N.S. do Computismo: BBC Panorama – Amazon the Truth Behind the Click</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Amazon-The-Truth-Behind-The-Click</link>
@@ -619,17 +630,6 @@ O
 
 &lt;p&gt;more @ &lt;a href=&quot;https://www.rt.com/usa/nsa-prism-classified-data-collection-348/&quot;&gt;rt&lt;/a&gt;&lt;/p&gt;</content:encoded>
 	<dc:date>2020-12-28T11:20:03+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/The-kids-guide-to-the-Internet">
-	<title>N.S. do Computismo: Edward Snowden's initial interview (2013)</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/The-kids-guide-to-the-Internet</link>
-	<content:encoded>&lt;p&gt;more @ &lt;a href=&quot;https://www.theguardian.com/world/2013/jun/09/edward-snowden-nsa-whistleblower-surveillance&quot;&gt;The Guardian&lt;/a&gt;&lt;/p&gt;</content:encoded>
-	<dc:date>2020-12-27T12:20:03+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Console-cowboys">
-	<title>N.S. do Computismo: Jam with the console cowboys in cyberspace</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/Console-cowboys</link>
-	<dc:date>2020-12-24T11:20:03+00:00</dc:date>
 </item>
 
 </rdf:RDF>
