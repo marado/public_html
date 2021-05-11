@@ -9,6 +9,12 @@
 	<atom:link rel="self" href="http://tilde.pt/~marado/rss20.xml" type="application/rss+xml"/>
 
 <item>
+	<title>N.S. do Computismo: Blipverts</title>
+	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Blipverts</guid>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Blipverts</link>
+	<pubDate>Tue, 11 May 2021 11:20:04 +0000</pubDate>
+</item>
+<item>
 	<title>N.S. do Computismo: LCD megademo</title>
 	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/LCD-megademo</guid>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/LCD-megademo</link>
@@ -609,15 +615,6 @@ O
 
 &lt;p&gt;more @ &lt;a href=&quot;https://www.rt.com/usa/nsa-prism-classified-data-collection-348/&quot;&gt;New York Times&lt;/a&gt;&lt;/p&gt;</description>
 	<pubDate>Tue, 29 Dec 2020 11:20:03 +0000</pubDate>
-</item>
-<item>
-	<title>N.S. do Computismo: Classified docs reveal NSA's vast real-time warrantless Web surveillance (2013)</title>
-	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/NSA</guid>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/NSA</link>
-	<description>&lt;p&gt;&quot;For seven years, the US National Security Agency (NSA) has been using a congressionally approved warrantless Web surveillance system with a near-limitless ability to spy on Americans’ phone calls, emails, video chats, search history and more.&quot;&lt;/p&gt;
-
-&lt;p&gt;more @ &lt;a href=&quot;https://www.rt.com/usa/nsa-prism-classified-data-collection-348/&quot;&gt;rt&lt;/a&gt;&lt;/p&gt;</description>
-	<pubDate>Mon, 28 Dec 2020 11:20:03 +0000</pubDate>
 </item>
 
 </channel>
