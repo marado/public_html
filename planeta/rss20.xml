@@ -9,6 +9,19 @@
 	<atom:link rel="self" href="http://tilde.pt/~marado/rss20.xml" type="application/rss+xml"/>
 
 <item>
+	<title>N.S. do Computismo: Chain of Fools</title>
+	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Chain-of-fools</guid>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Chain-of-fools</link>
+	<pubDate>Mon, 17 May 2021 10:20:03 +0000</pubDate>
+</item>
+<item>
+	<title>N.S. do Computismo: Altair 8800</title>
+	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Altair</guid>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Altair</link>
+	<description>&lt;p&gt;&lt;img alt=&quot;altair8800&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/altair8800.jpg&quot; /&gt;&lt;/p&gt;</description>
+	<pubDate>Mon, 17 May 2021 10:20:03 +0000</pubDate>
+</item>
+<item>
 	<title>~marado: O manifesto das cebolas na era da transição digital</title>
 	<guid isPermaLink="false">https://tilde.pt/~marado/blog/./o-manifesto-das-cebolas-na-era-da-transicao-digital.html</guid>
 	<link>https://tilde.pt/~marado/blog/o-manifesto-das-cebolas-na-era-da-transicao-digital.html</link>
@@ -645,21 +658,6 @@ O
 	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Return-of-the-Obra-Dinn</guid>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Return-of-the-Obra-Dinn</link>
 	<pubDate>Tue, 05 Jan 2021 11:20:04 +0000</pubDate>
-</item>
-<item>
-	<title>N.S. do Computismo: AT&amp;T Archives: The Unix Operating System</title>
-	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/The-Unix-Operating-System</guid>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/The-Unix-Operating-System</link>
-	<pubDate>Mon, 04 Jan 2021 11:20:02 +0000</pubDate>
-</item>
-<item>
-	<title>N.S. do Computismo: Edward Sownden's initial interview (2013)</title>
-	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/EdwardSnowden</guid>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/EdwardSnowden</link>
-	<description>&lt;p&gt;&quot;The 29-year-old source behind the biggest intelligence leak in the NSA's history explains his motives, his uncertain future and why he never intended on hiding in the shadows&quot;&lt;/p&gt;
-
-&lt;p&gt;@ &lt;a href=&quot;https://www.theguardian.com/world/2013/jun/09/edward-snowden-nsa-whistleblower-surveillance&quot;&gt;the guardian&lt;/a&gt;&lt;/p&gt;</description>
-	<pubDate>Thu, 31 Dec 2020 11:20:03 +0000</pubDate>
 </item>
 
 </channel>

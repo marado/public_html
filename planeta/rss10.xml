@@ -15,6 +15,8 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Chain-of-fools" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Altair" />
 			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./o-manifesto-das-cebolas-na-era-da-transicao-digital.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./voto-electronico-em-portugal---mais-do-que-um-problema-tecnico-um-problema-legal.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Blipverts" />
@@ -73,12 +75,21 @@
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Microsoft-Clipart-Extra" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Dall-e" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Return-of-the-Obra-Dinn" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/The-Unix-Operating-System" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/EdwardSnowden" />
 		</rdf:Seq>
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Chain-of-fools">
+	<title>N.S. do Computismo: Chain of Fools</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Chain-of-fools</link>
+	<dc:date>2021-05-17T10:20:03+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Altair">
+	<title>N.S. do Computismo: Altair 8800</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Altair</link>
+	<content:encoded>&lt;p&gt;&lt;img alt=&quot;altair8800&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/altair8800.jpg&quot; /&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2021-05-17T10:20:03+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~marado/blog/./o-manifesto-das-cebolas-na-era-da-transicao-digital.html">
 	<title>~marado: O manifesto das cebolas na era da transição digital</title>
 	<link>https://tilde.pt/~marado/blog/o-manifesto-das-cebolas-na-era-da-transicao-digital.html</link>
@@ -661,19 +672,6 @@ O
 	<title>N.S. do Computismo: [[Return]] of the Obra Dinn</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Return-of-the-Obra-Dinn</link>
 	<dc:date>2021-01-05T11:20:04+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/The-Unix-Operating-System">
-	<title>N.S. do Computismo: AT&amp;T Archives: The Unix Operating System</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/The-Unix-Operating-System</link>
-	<dc:date>2021-01-04T11:20:02+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/EdwardSnowden">
-	<title>N.S. do Computismo: Edward Sownden's initial interview (2013)</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2020/12/EdwardSnowden</link>
-	<content:encoded>&lt;p&gt;&quot;The 29-year-old source behind the biggest intelligence leak in the NSA's history explains his motives, his uncertain future and why he never intended on hiding in the shadows&quot;&lt;/p&gt;
-
-&lt;p&gt;@ &lt;a href=&quot;https://www.theguardian.com/world/2013/jun/09/edward-snowden-nsa-whistleblower-surveillance&quot;&gt;the guardian&lt;/a&gt;&lt;/p&gt;</content:encoded>
-	<dc:date>2020-12-31T11:20:03+00:00</dc:date>
 </item>
 
 </rdf:RDF>
