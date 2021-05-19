@@ -9,6 +9,22 @@
 	<atom:link rel="self" href="http://tilde.pt/~marado/rss20.xml" type="application/rss+xml"/>
 
 <item>
+	<title>N.S. do Computismo: DEF CON Radio</title>
+	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/defcon-radio</guid>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/defcon-radio</link>
+	<description>&lt;p&gt;&lt;a href=&quot;https://somafm.com/defcon/songhistory.html&quot;&gt;&lt;img alt=&quot;defcon radio logo&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/defcon-400.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;@ &lt;a href=&quot;https://somafm.com/defcon/songhistory.html&quot;&gt;soma.fm&lt;/a&gt;&lt;/p&gt;</description>
+	<pubDate>Wed, 19 May 2021 10:20:04 +0000</pubDate>
+</item>
+<item>
+	<title>N.S. do Computismo: Out of Season</title>
+	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/asterisk</guid>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/asterisk</link>
+	<description>&lt;p&gt;clear;while :;do echo $LINES $COLUMNS $(($RANDOM%$COLUMNS));sleep 0.1;done|gawk '{a[$3]=0;for(x in a) {o=a[x];a[x]=a[x]+1;printf &quot;\033[%s;%sH &quot;,o,x;printf &quot;\033[%s;%sH*\033[0;0H&quot;,a[x],x;}}']]&quot;]&quot;}}'&lt;/p&gt;</description>
+	<pubDate>Wed, 19 May 2021 10:20:04 +0000</pubDate>
+</item>
+<item>
 	<title>N.S. do Computismo: Chain of Fools</title>
 	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Chain-of-fools</guid>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Chain-of-fools</link>
@@ -639,25 +655,6 @@ O
 
 &lt;p&gt;@ &lt;a href=&quot;https://archive.org/details/mso97clipart&quot;&gt;archive.org&lt;/a&gt;&lt;/p&gt;</description>
 	<pubDate>Fri, 08 Jan 2021 11:20:04 +0000</pubDate>
-</item>
-<item>
-	<title>N.S. do Computismo: DALL·E: Creating Images from Text</title>
-	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Dall-e</guid>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Dall-e</link>
-	<description>&lt;p&gt;A trained a neural network called DALL·E that creates images from text captions for a wide range of concepts expressible in natural language.&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&quot;a store front with openai written on it&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/openai.jpg&quot; /&gt;
-&lt;img alt=&quot;hardcore computing&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/hardcoreComputing.jpg&quot; /&gt;
-&lt;img alt=&quot;hardcore computing&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/hardcoreComputing.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;source @ &lt;a href=&quot;https://openai.com/blog/dall-e/&quot;&gt;openai.com&lt;/a&gt;&lt;/p&gt;</description>
-	<pubDate>Wed, 06 Jan 2021 11:20:03 +0000</pubDate>
-</item>
-<item>
-	<title>N.S. do Computismo: [[Return]] of the Obra Dinn</title>
-	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Return-of-the-Obra-Dinn</guid>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Return-of-the-Obra-Dinn</link>
-	<pubDate>Tue, 05 Jan 2021 11:20:04 +0000</pubDate>
 </item>
 
 </channel>
