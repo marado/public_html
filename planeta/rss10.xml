@@ -15,6 +15,7 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Third-Thumb-project" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/defcon-radio" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/asterisk" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Chain-of-fools" />
@@ -74,11 +75,18 @@
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Perpetual-Energy-Wasting-Machine" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/DIY-Robot-Does-Perfect-Backflip" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/The-Mother-of-All-Demos" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Microsoft-Clipart-Extra" />
 		</rdf:Seq>
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Third-Thumb-project">
+	<title>N.S. do Computismo: Third Thumb Project</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Third-Thumb-project</link>
+	<content:encoded>&lt;p&gt;&lt;/p&gt;&lt;div style=&quot;padding: 66.67% 0 0 0;&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/551468278&quot;&gt;Third Thumb Project&lt;/a&gt; from &lt;a href=&quot;https://www.daniclodedesign.com/thethirdthumb&quot;&gt;Dani CLobe&lt;/a&gt;.&lt;/p&gt;</content:encoded>
+	<dc:date>2021-05-22T20:20:05+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/defcon-radio">
 	<title>N.S. do Computismo: DEF CON Radio</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/defcon-radio</link>
@@ -659,16 +667,6 @@ O
 	<title>N.S. do Computismo: The Mother Of All Demos</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/The-Mother-of-All-Demos</link>
 	<dc:date>2021-01-14T12:20:02+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Microsoft-Clipart-Extra">
-	<title>N.S. do Computismo: Microsoft Clipart Extra</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Microsoft-Clipart-Extra</link>
-	<content:encoded>&lt;p&gt;&lt;img alt=&quot;2 kitties&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/2kitties.svg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Microsoft Clipart Extra: clipart from Microsoft Office 97 Professional (English). SVG.zip contains the Windows Metafiles from the collection, which is most of the images, converted to SVG with wmf2svg.&lt;/p&gt;
-
-&lt;p&gt;@ &lt;a href=&quot;https://archive.org/details/mso97clipart&quot;&gt;archive.org&lt;/a&gt;&lt;/p&gt;</content:encoded>
-	<dc:date>2021-01-08T11:20:04+00:00</dc:date>
 </item>
 
 </rdf:RDF>
