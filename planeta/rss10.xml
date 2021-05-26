@@ -15,6 +15,7 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Mac-Plus-Surfing-The-Web" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Synth-Britannia" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Third-Thumb-project" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/defcon-radio" />
@@ -74,11 +75,16 @@
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/How-Bitcoin-Works-Under-The-Hood" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/BBC-Micro-Live-1986-Computer-Animation" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Perpetual-Energy-Wasting-Machine" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/DIY-Robot-Does-Perfect-Backflip" />
 		</rdf:Seq>
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Mac-Plus-Surfing-The-Web">
+	<title>N.S. do Computismo: Mac Plus Surfing The Web</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Mac-Plus-Surfing-The-Web</link>
+	<content:encoded>&lt;p&gt;article @ &lt;a href=&quot;https://www.keacher.com/1216/how-i-introduced-a-27-year-old-computer-to-the-web/&quot;&gt;keacher.com&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2021-05-26T11:20:03+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Synth-Britannia">
 	<title>N.S. do Computismo: Synth Britannia</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Synth-Britannia</link>
@@ -662,11 +668,6 @@ O
 	<title>N.S. do Computismo: Perpetual Energy Wasting Machine</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Perpetual-Energy-Wasting-Machine</link>
 	<dc:date>2021-01-15T12:20:03+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/DIY-Robot-Does-Perfect-Backflip">
-	<title>N.S. do Computismo: DIY Robot doing perfect quadruple backflip</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/DIY-Robot-Does-Perfect-Backflip</link>
-	<dc:date>2021-01-14T12:20:02+00:00</dc:date>
 </item>
 
 </rdf:RDF>
