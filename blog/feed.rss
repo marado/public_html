@@ -2,9 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>~marado's tildelog</title><link>https://tilde.pt/~marado/blog/index.html</link>
 <description>a tildelog on tildeverse</description><language>en</language>
-<lastBuildDate>Tue, 11 May 2021 16:11:26 +0100</lastBuildDate>
-<pubDate>Tue, 11 May 2021 16:11:26 +0100</pubDate>
+<lastBuildDate>Mon, 31 May 2021 23:22:10 +0100</lastBuildDate>
+<pubDate>Mon, 31 May 2021 23:22:10 +0100</pubDate>
 <atom:link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Are Cassette tapes dead? (again)
+</title><description><![CDATA[
+
+<p>Tired of reading people saying that one or another mature technology was dead,
+ten years ago I decided to act upon one of those claims (saying that cassette
+tapes were dead) and <a href="https://mindboosternoori.blogspot.com/2011/05/stop-claiming-is-dead.html">write a blog
+post</a>,
+where, using the data available on Discogs, I made a graph showing the
+percentage of cassette releases related to all of the releases on that
+database.</p>
+
+<p>That blog post had more success than I thought would have, with some people,
+once in a while, wondering how were things progressing (not only regarding the
+cassette tapes market on current days, but also the growth of discogs' database
+and its knowledge of past releases). I did update the graph a few times since
+the initial blog post, but today, to mark the 10th anniversary of the initial
+post, I decided to <a href="https://github.com/marado/discogs-tape-releases">actually write a script that automatically generates such a
+graphic</a>, and generate one of
+those graphs, once again.</p>
+
+<p>And, guess what!, turns out cassette tapes aren't dead, or even dying.</p>
+
+<p><img src="cassette-2021.png" alt="graph showing the percentage of cassette tape releases" title="" /></p>
+
+<p>tags: <a href='tag_discogs.html'>discogs</a>, <a href='tag_stats.html'>stats</a>, <a href='tag_cassette.html'>cassette</a>, <a href='tag_tape.html'>tape</a>, <a href='tag_compact cassette.html'>compact cassette</a>, <a href='tag_music.html'>music</a>, <a href='tag_data.html'>data</a>, <a href='tag_software.html'>software</a>, <a href='tag_music business.html'>music business</a>, <a href='tag_music market.html'>music market</a>, <a href='tag_en.html'>en</a></p>
+<!-- text end -->
+<p id='twitter'><a href='http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/are-cassette-tapes-dead-again.html&text=&lt;escreve o comentário aqui mas deixa o URL para outras pessoas poderem seguir os comentários&gt;&via=mind_booster'>comentários? tweetar</a> 
+<a href='https://twitter.com/search?q=https://tilde.pt/~marado/blog/are-cassette-tapes-dead-again.html'><span id='count-31330'></span></a>&nbsp;</p>
+]]></description><link>https://tilde.pt/~marado/blog/are-cassette-tapes-dead-again.html</link>
+<guid>https://tilde.pt/~marado/blog/./are-cassette-tapes-dead-again.html</guid>
+<dc:creator>~marado</dc:creator>
+<pubDate>Mon, 31 May 2021 23:22:04 +0100</pubDate></item>
 <item><title>
 O manifesto das cebolas na era da transição digital
 </title><description><![CDATA[
