@@ -15,6 +15,7 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Netiquette" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Mac-Plus-Surfing-The-Web" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Synth-Britannia" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Third-Thumb-project" />
@@ -74,11 +75,18 @@
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Max-Headroom-Incident" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/How-Bitcoin-Works-Under-The-Hood" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/BBC-Micro-Live-1986-Computer-Animation" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Perpetual-Energy-Wasting-Machine" />
 		</rdf:Seq>
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Netiquette">
+	<title>N.S. do Computismo: RFC 1855 - Netiquette Guidelines</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Netiquette</link>
+	<content:encoded>&lt;p&gt;&lt;img alt=&quot;Netiquette&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/netiquette.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;full document @ &lt;a href=&quot;https://datatracker.ietf.org/doc/html/rfc1855&quot;&gt;ieft.org&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2021-05-31T10:20:03+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Mac-Plus-Surfing-The-Web">
 	<title>N.S. do Computismo: Mac Plus Surfing The Web</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Mac-Plus-Surfing-The-Web</link>
@@ -663,11 +671,6 @@ O
 	<title>N.S. do Computismo: BBC Micro Live 1986 - Computer Animation</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/BBC-Micro-Live-1986-Computer-Animation</link>
 	<dc:date>2021-01-20T11:20:03+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Perpetual-Energy-Wasting-Machine">
-	<title>N.S. do Computismo: Perpetual Energy Wasting Machine</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Perpetual-Energy-Wasting-Machine</link>
-	<dc:date>2021-01-15T12:20:03+00:00</dc:date>
 </item>
 
 </rdf:RDF>

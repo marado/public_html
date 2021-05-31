@@ -9,6 +9,15 @@
 	<atom:link rel="self" href="http://tilde.pt/~marado/rss20.xml" type="application/rss+xml"/>
 
 <item>
+	<title>N.S. do Computismo: RFC 1855 - Netiquette Guidelines</title>
+	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Netiquette</guid>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Netiquette</link>
+	<description>&lt;p&gt;&lt;img alt=&quot;Netiquette&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/netiquette.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;full document @ &lt;a href=&quot;https://datatracker.ietf.org/doc/html/rfc1855&quot;&gt;ieft.org&lt;/a&gt;&lt;/p&gt;</description>
+	<pubDate>Mon, 31 May 2021 10:20:03 +0000</pubDate>
+</item>
+<item>
 	<title>N.S. do Computismo: Mac Plus Surfing The Web</title>
 	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Mac-Plus-Surfing-The-Web</guid>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Mac-Plus-Surfing-The-Web</link>
@@ -648,12 +657,6 @@ O
 	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/BBC-Micro-Live-1986-Computer-Animation</guid>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/BBC-Micro-Live-1986-Computer-Animation</link>
 	<pubDate>Wed, 20 Jan 2021 11:20:03 +0000</pubDate>
-</item>
-<item>
-	<title>N.S. do Computismo: Perpetual Energy Wasting Machine</title>
-	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Perpetual-Energy-Wasting-Machine</guid>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Perpetual-Energy-Wasting-Machine</link>
-	<pubDate>Fri, 15 Jan 2021 12:20:03 +0000</pubDate>
 </item>
 
 </channel>
