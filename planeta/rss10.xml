@@ -15,6 +15,7 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./are-cassette-tapes-dead-again.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Netiquette" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Mac-Plus-Surfing-The-Web" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Synth-Britannia" />
@@ -74,11 +75,41 @@
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Paper-Craft" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Max-Headroom-Incident" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/How-Bitcoin-Works-Under-The-Hood" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/BBC-Micro-Live-1986-Computer-Animation" />
 		</rdf:Seq>
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~marado/blog/./are-cassette-tapes-dead-again.html">
+	<title>~marado: Are Cassette tapes dead? (again)</title>
+	<link>https://tilde.pt/~marado/blog/are-cassette-tapes-dead-again.html</link>
+	<content:encoded>&lt;p&gt;Tired of reading people saying that one or another mature technology was dead,
+ten years ago I decided to act upon one of those claims (saying that cassette
+tapes were dead) and &lt;a href=&quot;https://mindboosternoori.blogspot.com/2011/05/stop-claiming-is-dead.html&quot;&gt;write a blog
+post&lt;/a&gt;,
+where, using the data available on Discogs, I made a graph showing the
+percentage of cassette releases related to all of the releases on that
+database.&lt;/p&gt;
+
+&lt;p&gt;That blog post had more success than I thought would have, with some people,
+once in a while, wondering how were things progressing (not only regarding the
+cassette tapes market on current days, but also the growth of discogs' database
+and its knowledge of past releases). I did update the graph a few times since
+the initial blog post, but today, to mark the 10th anniversary of the initial
+post, I decided to &lt;a href=&quot;https://github.com/marado/discogs-tape-releases&quot;&gt;actually write a script that automatically generates such a
+graphic&lt;/a&gt;, and generate one of
+those graphs, once again.&lt;/p&gt;
+
+&lt;p&gt;And, guess what!, turns out cassette tapes aren't dead, or even dying.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;graph showing the percentage of cassette tape releases&quot; src=&quot;https://tilde.pt/~marado/blog/cassette-2021.png&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_discogs.html&quot;&gt;discogs&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_stats.html&quot;&gt;stats&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_cassette.html&quot;&gt;cassette&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_tape.html&quot;&gt;tape&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_compact cassette.html&quot;&gt;compact cassette&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_music.html&quot;&gt;music&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_data.html&quot;&gt;data&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_software.html&quot;&gt;software&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_music business.html&quot;&gt;music business&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_music market.html&quot;&gt;music market&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_en.html&quot;&gt;en&lt;/a&gt;&lt;/p&gt;
+
+&lt;p id=&quot;twitter&quot;&gt;&lt;a href=&quot;http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/are-cassette-tapes-dead-again.html&amp;amp;text=&amp;lt;escreve o comentário aqui mas deixa o URL para outras pessoas poderem seguir os comentários&amp;gt;&amp;amp;via=mind_booster&quot;&gt;comentários? tweetar&lt;/a&gt; 
+&lt;a href=&quot;https://twitter.com/search?q=https://tilde.pt/~marado/blog/are-cassette-tapes-dead-again.html&quot;&gt;&lt;span id=&quot;count-31330&quot;&gt;&lt;/span&gt;&lt;/a&gt; &lt;/p&gt;</content:encoded>
+	<dc:date>2021-05-31T22:22:04+00:00</dc:date>
+	<dc:creator>~marado</dc:creator>
+</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Netiquette">
 	<title>N.S. do Computismo: RFC 1855 - Netiquette Guidelines</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Netiquette</link>
@@ -666,11 +697,6 @@ O
 	<title>N.S. do Computismo: How Bitcoin Works Under The Hood</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/How-Bitcoin-Works-Under-The-Hood</link>
 	<dc:date>2021-01-21T11:20:03+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/BBC-Micro-Live-1986-Computer-Animation">
-	<title>N.S. do Computismo: BBC Micro Live 1986 - Computer Animation</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/BBC-Micro-Live-1986-Computer-Animation</link>
-	<dc:date>2021-01-20T11:20:03+00:00</dc:date>
 </item>
 
 </rdf:RDF>
