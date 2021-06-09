@@ -9,6 +9,17 @@
 	<atom:link rel="self" href="http://tilde.pt/~marado/rss20.xml" type="application/rss+xml"/>
 
 <item>
+	<title>N.S. do Computismo: Code V2</title>
+	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/06/CodeV2</guid>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/06/CodeV2</link>
+	<description>&lt;p&gt;&lt;img alt=&quot;book cover&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/code.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;«From the Preface: &quot;This is a translation of an old book—indeed, in Internet time, it is a translation of an ancient text.&quot; That text is Lessig's &quot;Code and Other Laws of Cyberspace.&quot; The second version of that book is &quot;Code v2.&quot; The aim of Code v2 is to update the earlier work, making its argument more relevant to the current internet.»&lt;/p&gt;
+
+&lt;p&gt;more @ &lt;a href=&quot;https://lessig.org/product/codev2&quot;&gt;lessig.org&lt;/a&gt;&lt;/p&gt;</description>
+	<pubDate>Wed, 09 Jun 2021 10:20:03 +0000</pubDate>
+</item>
+<item>
 	<title>~marado: Are Cassette tapes dead? (again)</title>
 	<guid isPermaLink="false">https://tilde.pt/~marado/blog/./are-cassette-tapes-dead-again.html</guid>
 	<link>https://tilde.pt/~marado/blog/are-cassette-tapes-dead-again.html</link>
@@ -676,12 +687,6 @@ O
 
 &lt;p&gt;&lt;a href=&quot;https://thisiscriminal.com/the-max-headroom-incident&quot;&gt;The Max Headroom Incident @ Criminal Podcast&lt;/a&gt;&lt;/p&gt;</description>
 	<pubDate>Fri, 22 Jan 2021 11:20:04 +0000</pubDate>
-</item>
-<item>
-	<title>N.S. do Computismo: How Bitcoin Works Under The Hood</title>
-	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/How-Bitcoin-Works-Under-The-Hood</guid>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/How-Bitcoin-Works-Under-The-Hood</link>
-	<pubDate>Thu, 21 Jan 2021 11:20:03 +0000</pubDate>
 </item>
 
 </channel>
