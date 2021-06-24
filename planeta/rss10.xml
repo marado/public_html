@@ -15,6 +15,7 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/06/The-Hidden-Politics-of-SimCity" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/06/True-Bugs-Wait" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/06/CodeV2" />
 			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./are-cassette-tapes-dead-again.html" />
@@ -74,11 +75,15 @@
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/The-Shortcut" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/WTF-is-going-on-with-gamestop-stock" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2022/01/The-Shortcut" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Paper-Craft" />
 		</rdf:Seq>
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/06/The-Hidden-Politics-of-SimCity">
+	<title>N.S. do Computismo: The Hidden politics of SimCity</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/06/The-Hidden-Politics-of-SimCity</link>
+	<dc:date>2021-06-22T18:20:03+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/06/True-Bugs-Wait">
 	<title>N.S. do Computismo: True Bugs Wait</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/06/True-Bugs-Wait</link>
@@ -693,14 +698,6 @@ O
 
 &lt;p&gt;the shortcut @ &lt;a href=&quot;http://www.bewitched.com/art/shortcut&quot;&gt;bewitched&lt;/a&gt;&lt;/p&gt;</content:encoded>
 	<dc:date>2021-01-27T11:20:03+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Paper-Craft">
-	<title>N.S. do Computismo: Old Computers in Paper</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/Paper-Craft</link>
-	<content:encoded>&lt;p&gt;&lt;img alt=&quot;papercraft&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/papercraft.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Construct the computer from your childhood or build an entire computer museum at home with these paper models @ &lt;a href=&quot;http://rockybergen.com/papercraft&quot;&gt;Rocky Bergen&lt;/a&gt;&lt;/p&gt;</content:encoded>
-	<dc:date>2021-01-26T12:20:04+00:00</dc:date>
 </item>
 
 </rdf:RDF>
