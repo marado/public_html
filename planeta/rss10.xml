@@ -15,6 +15,7 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/06/Declaration-of-independence-of-cyberspace" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/06/The-Hidden-Politics-of-SimCity" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/06/True-Bugs-Wait" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/06/CodeV2" />
@@ -74,11 +75,18 @@
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/DEFCON-20-Documentary" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/The-Shortcut" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/WTF-is-going-on-with-gamestop-stock" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2022/01/The-Shortcut" />
 		</rdf:Seq>
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/06/Declaration-of-independence-of-cyberspace">
+	<title>N.S. do Computismo: A Declaration of the Independence of Cyberspace</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/06/Declaration-of-independence-of-cyberspace</link>
+	<content:encoded>&lt;p&gt;What Barlow forgot is that any declaration of independence should be followed by the creation of an army of clueless believers willing to die for the cause.&lt;/p&gt;
+
+&lt;p&gt;@ &lt;a href=&quot;https://www.eff.org/cyberspace-independence&quot;&gt;eff.org&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2021-06-28T10:20:04+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/06/The-Hidden-Politics-of-SimCity">
 	<title>N.S. do Computismo: The Hidden politics of SimCity</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/06/The-Hidden-Politics-of-SimCity</link>
@@ -690,14 +698,6 @@ O
 
 &lt;p&gt;Indepth article @ &lt;a href=&quot;https://www.vice.com/en/article/pkdvgy/send-this-to-anyone-who-wants-to-know-wtf-is-up-with-gamestop-stock&quot;&gt;vice&lt;/a&gt;&lt;/p&gt;</content:encoded>
 	<dc:date>2021-01-28T11:20:03+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2022/01/The-Shortcut">
-	<title>N.S. do Computismo: The Shortcut</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2022/01/The-Shortcut</link>
-	<content:encoded>&lt;p&gt;&lt;img alt=&quot;the shortcut&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/shortcut.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;the shortcut @ &lt;a href=&quot;http://www.bewitched.com/art/shortcut&quot;&gt;bewitched&lt;/a&gt;&lt;/p&gt;</content:encoded>
-	<dc:date>2021-01-27T11:20:03+00:00</dc:date>
 </item>
 
 </rdf:RDF>
