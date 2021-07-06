@@ -15,6 +15,7 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Way-Out" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Technology-Trap" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/Technology-Trap" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/06/Declaration-of-independence-of-cyberspace" />
@@ -74,11 +75,16 @@
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/World" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/John-McCarthy" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/16-colors" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/DEFCON-20-Documentary" />
 		</rdf:Seq>
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Way-Out">
+	<title>N.S. do Computismo: You've Found Your Way In, But Is There a Way Out?</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Way-Out</link>
+	<content:encoded>&lt;p&gt;&lt;img alt=&quot;Hacker Magazine cover&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/wayout.jpg&quot; /&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2021-07-05T10:20:04+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Technology-Trap">
 	<title>N.S. do Computismo: Technology Trap</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Technology-Trap</link>
@@ -685,11 +691,6 @@ O
 
 &lt;p&gt;@ &lt;a href=&quot;https://16colo.rs/&quot;&gt;16 colors&lt;/a&gt;&lt;/p&gt;</content:encoded>
 	<dc:date>2021-02-03T11:20:04+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/DEFCON-20-Documentary">
-	<title>N.S. do Computismo: Defcon 20 Documentary By Jason Scott</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/01/DEFCON-20-Documentary</link>
-	<dc:date>2021-01-29T11:20:03+00:00</dc:date>
 </item>
 
 </rdf:RDF>
