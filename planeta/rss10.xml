@@ -15,6 +15,7 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/The-secret-life-of-the-word-processor" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Way-Out" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Technology-Trap" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/Technology-Trap" />
@@ -74,11 +75,15 @@
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Sword-of-Damocles" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/World" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/John-McCarthy" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/16-colors" />
 		</rdf:Seq>
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/The-secret-life-of-the-word-processor">
+	<title>N.S. do Computismo: The Secret Life of the Word Processor</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/The-secret-life-of-the-word-processor</link>
+	<dc:date>2021-07-15T10:20:05+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Way-Out">
 	<title>N.S. do Computismo: You've Found Your Way In, But Is There a Way Out?</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Way-Out</link>
@@ -683,14 +688,6 @@ O
 	<content:encoded>&lt;p&gt;John McCarthy is best known for having coined the term &quot;Artificial Inteligence&quot; and having created the Lisp programming language
 &lt;img alt=&quot;John McCarthy playing chess&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/JohnMcCarthy.jpg&quot; /&gt;&lt;/p&gt;</content:encoded>
 	<dc:date>2021-02-04T11:20:03+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/16-colors">
-	<title>N.S. do Computismo: 16 Colors - ANSI ASCII Art Archive</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/16-colors</link>
-	<content:encoded>&lt;p&gt;&lt;img alt=&quot;16colors&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/16-colors.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;@ &lt;a href=&quot;https://16colo.rs/&quot;&gt;16 colors&lt;/a&gt;&lt;/p&gt;</content:encoded>
-	<dc:date>2021-02-03T11:20:04+00:00</dc:date>
 </item>
 
 </rdf:RDF>
