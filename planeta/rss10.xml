@@ -15,6 +15,8 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Outlandish-HCI-papers" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/game-maps" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/The-secret-life-of-the-word-processor" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Way-Out" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Technology-Trap" />
@@ -73,12 +75,26 @@
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Spreadsheet-Wars" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Halt-and-Catch-Fire-Syllabyus" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Sword-of-Damocles" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/World" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/John-McCarthy" />
 		</rdf:Seq>
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Outlandish-HCI-papers">
+	<title>N.S. do Computismo: Outlandish HCI Papers</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Outlandish-HCI-papers</link>
+	<content:encoded>&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/weird-hci.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;@ &lt;a href=&quot;https://floe.butterbrot.org/matrix/rants/weird/&quot;&gt;floe.butterbrot&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2021-07-22T11:20:05+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/game-maps">
+	<title>N.S. do Computismo: A Museum of Game Maps</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/game-maps</link>
+	<content:encoded>&lt;p&gt;&lt;img alt=&quot;mario kart wii crowd&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/game-maps.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;@ &lt;a href=&quot;https://noclip.website/&quot;&gt;noclip&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2021-07-22T11:20:05+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/The-secret-life-of-the-word-processor">
 	<title>N.S. do Computismo: The Secret Life of the Word Processor</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/The-secret-life-of-the-word-processor</link>
@@ -671,23 +687,6 @@ O
 
 &lt;p&gt;more info @ &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Sword_of_Damocles_(virtual_reality)&quot;&gt;wikipedia&lt;/a&gt;&lt;/p&gt;</content:encoded>
 	<dc:date>2021-02-08T11:20:03+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/World">
-	<title>N.S. do Computismo: World</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/World</link>
-	<content:encoded>&lt;div id=&quot;world&quot;&gt;&lt;/div&gt;
-
-
-
-&lt;p&gt;source url @ &lt;a href=&quot;http://aem1k.com/world/&quot;&gt;aem1k.com&lt;/a&gt;&lt;/p&gt;</content:encoded>
-	<dc:date>2021-02-05T11:20:03+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/John-McCarthy">
-	<title>N.S. do Computismo: John McCarthy</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/John-McCarthy</link>
-	<content:encoded>&lt;p&gt;John McCarthy is best known for having coined the term &quot;Artificial Inteligence&quot; and having created the Lisp programming language
-&lt;img alt=&quot;John McCarthy playing chess&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/JohnMcCarthy.jpg&quot; /&gt;&lt;/p&gt;</content:encoded>
-	<dc:date>2021-02-04T11:20:03+00:00</dc:date>
 </item>
 
 </rdf:RDF>
