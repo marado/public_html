@@ -495,3 +495,4 @@
 2021-02-27T18:50:11+00:00	10 years ago kokori made a song out of Fernando Pessoa's "Miner's Song" poem. Get it here: https://the20th.bandcamp.com/track/miners-song
 2021-02-28T19:43:31+00:00	New blog post - repo: using a local manifest - https://tilde.pt/~marado/blog/repo-using-a-local-manifest.html
 2021-04-01T15:54:13+01:00	Sent: Open Letter to the Presidency of the EU in Defense of the Freedom to Use Secure Encryption - https://tinyurl.com/secure-encryption
+2021-08-27T15:54:20+01:00	Awesome @<prologicnet https://twtxt.net/u/prologic> twtxt feeds service! You can now read my twitter here: https://feeds.twtxt.net/twitter-mind_booster/twtxt.txt
