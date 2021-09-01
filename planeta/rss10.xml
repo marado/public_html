@@ -15,6 +15,8 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Tech-assistance" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Aquarius" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Outlandish-HCI-papers" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/game-maps" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/The-secret-life-of-the-word-processor" />
@@ -73,12 +75,35 @@
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Computer-for-Apollo-Computer-for-Laughing" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Halt-and-Catch-Fire-Syllabus" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Spreadsheet-Wars" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Halt-and-Catch-Fire-Syllabyus" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Sword-of-Damocles" />
 		</rdf:Seq>
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Tech-assistance">
+	<title>N.S. do Computismo: Technical Assistance</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Tech-assistance</link>
+	<content:encoded>&lt;ol&gt;
+&lt;li&gt;The user clicks yes. They might read what they clicked yes to.&lt;/li&gt;
+&lt;li&gt;The user doesn't usually read prompts&lt;/li&gt;
+&lt;li&gt;The user will not read error messages, even if they are to their benefit.&lt;/li&gt;
+&lt;li&gt;The user doesn't know how to &quot;google&quot; problems&lt;/li&gt;
+&lt;li&gt;The user will sometimes even ignore IT professional help even when they call us. This is usually a &quot;bitch session&quot; with no clear resolution.&lt;/li&gt;
+&lt;li&gt;You will tell the user what to do, and they will also say yes. They still don't understand.&lt;/li&gt;
+&lt;li&gt;Users will install software and not understand how to remove said software (control panel/remove software).&lt;/li&gt;
+&lt;li&gt;Users are not curious. What would be obvious to simple reading they will ignore.&lt;/li&gt;
+&lt;li&gt;Only when the computing environment is unbearable, will they call in. Or it will be the simpleton user who wants you to do their work for them.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+&lt;li&gt;not sure what the original source is &lt;/li&gt;
+&lt;/ul&gt;</content:encoded>
+	<dc:date>2021-09-01T10:20:05+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Aquarius">
+	<title>N.S. do Computismo: AQUARIUS from the YMF262 EP by Diode Milliampere, Live in Adlib Tracker II</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Aquarius</link>
+	<dc:date>2021-09-01T10:20:05+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Outlandish-HCI-papers">
 	<title>N.S. do Computismo: Outlandish HCI Papers</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Outlandish-HCI-papers</link>
@@ -665,28 +690,6 @@ O
 	<content:encoded>&lt;p&gt;&lt;img alt=&quot;spreadsheet&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/spreadsheet.jpg&quot; /&gt;
 @ &lt;a href=&quot;https://archive.org/details/CC606_spreadsheet_wars&quot;&gt;archive.org&lt;/a&gt;&lt;/p&gt;</content:encoded>
 	<dc:date>2021-02-10T11:20:03+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Halt-and-Catch-Fire-Syllabyus">
-	<title>N.S. do Computismo: Halt and Catch Fire Syllabus</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Halt-and-Catch-Fire-Syllabyus</link>
-	<content:encoded>&lt;blockquote&gt;
-  &lt;p&gt;Tell me one thing that will be true about computers ten years from now?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;![~/fimdomeio/nossa-senhora-do-computismo/img/apple-pie-ui.jpg]&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/&quot;&gt;Halt and Catch Fire syllabus&lt;/a&gt;&lt;/p&gt;</content:encoded>
-	<dc:date>2021-02-10T11:20:03+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Sword-of-Damocles">
-	<title>N.S. do Computismo: Sword of Damocles</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Sword-of-Damocles</link>
-	<content:encoded>&lt;p&gt;An early Virtual Reality head mounted display&lt;/p&gt;
-
-
-
-&lt;p&gt;more info @ &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Sword_of_Damocles_(virtual_reality)&quot;&gt;wikipedia&lt;/a&gt;&lt;/p&gt;</content:encoded>
-	<dc:date>2021-02-08T11:20:03+00:00</dc:date>
 </item>
 
 </rdf:RDF>
