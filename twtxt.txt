@@ -22,6 +22,8 @@
 # prev_nick = marado-201x
 # prev_url = https://tilde.pt/~marado/twtxt-201x.txt
 # prev_visualizer = https://tilde.pt/~marado/twtxt-201x.php
+# nick_alias = marado-201x
+# url_alias = https://tilde.pt/~marado/twtxt-201x.txt
 #
 # == Content ==
 #
