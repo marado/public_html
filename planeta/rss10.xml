@@ -15,6 +15,7 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/First-Webcam" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Taking-screenshots-in-1983" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Tech-assistance" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Aquarius" />
@@ -74,11 +75,16 @@
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/All-your-base" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/timothy-leary-lost-video-games" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Computer-for-Apollo-Computer-for-Laughing" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Halt-and-Catch-Fire-Syllabus" />
 		</rdf:Seq>
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/First-Webcam">
+	<title>N.S. do Computismo: What was probably the first webcam</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/First-Webcam</link>
+	<content:encoded>&lt;p&gt;via &lt;a href=&quot;https://www.openculture.com/2021/09/the-very-first-webcam-was-invented-to-keep-an-eye-on-a-coffee-pot-at-cambridge-university.html&quot;&gt;openculture.com&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2021-09-15T20:20:04+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Taking-screenshots-in-1983">
 	<title>N.S. do Computismo: Taking screenshots in 1983</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Taking-screenshots-in-1983</link>
@@ -679,18 +685,6 @@ O
 	<title>N.S. do Computismo: A Computer for Apollo or a Computer for Laughing?</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Computer-for-Apollo-Computer-for-Laughing</link>
 	<dc:date>2021-02-11T12:20:03+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Halt-and-Catch-Fire-Syllabus">
-	<title>N.S. do Computismo: Halt and Catch Fire Syllabus</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Halt-and-Catch-Fire-Syllabus</link>
-	<content:encoded>&lt;blockquote&gt;
-  &lt;p&gt;Tell me one thing that will be true about computers ten years from now?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img alt=&quot;The only interface that makes computer graphics easy as Apple pie&quot; src=&quot;https://tilde.pt/~aiscarvalho/img/apple-pie-ui.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/&quot;&gt;Halt and Catch Fire syllabus&lt;/a&gt;&lt;/p&gt;</content:encoded>
-	<dc:date>2021-02-10T12:20:03+00:00</dc:date>
 </item>
 
 </rdf:RDF>

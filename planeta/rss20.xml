@@ -9,6 +9,13 @@
 	<atom:link rel="self" href="http://tilde.pt/~marado/rss20.xml" type="application/rss+xml"/>
 
 <item>
+	<title>N.S. do Computismo: What was probably the first webcam</title>
+	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/First-Webcam</guid>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/First-Webcam</link>
+	<description>&lt;p&gt;via &lt;a href=&quot;https://www.openculture.com/2021/09/the-very-first-webcam-was-invented-to-keep-an-eye-on-a-coffee-pot-at-cambridge-university.html&quot;&gt;openculture.com&lt;/a&gt;&lt;/p&gt;</description>
+	<pubDate>Wed, 15 Sep 2021 20:20:04 +0000</pubDate>
+</item>
+<item>
 	<title>N.S. do Computismo: Taking screenshots in 1983</title>
 	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Taking-screenshots-in-1983</guid>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Taking-screenshots-in-1983</link>
@@ -663,19 +670,6 @@ O
 	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Computer-for-Apollo-Computer-for-Laughing</guid>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Computer-for-Apollo-Computer-for-Laughing</link>
 	<pubDate>Thu, 11 Feb 2021 12:20:03 +0000</pubDate>
-</item>
-<item>
-	<title>N.S. do Computismo: Halt and Catch Fire Syllabus</title>
-	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Halt-and-Catch-Fire-Syllabus</guid>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Halt-and-Catch-Fire-Syllabus</link>
-	<description>&lt;blockquote&gt;
-  &lt;p&gt;Tell me one thing that will be true about computers ten years from now?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img alt=&quot;The only interface that makes computer graphics easy as Apple pie&quot; src=&quot;https://tilde.pt/~aiscarvalho/img/apple-pie-ui.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/&quot;&gt;Halt and Catch Fire syllabus&lt;/a&gt;&lt;/p&gt;</description>
-	<pubDate>Wed, 10 Feb 2021 12:20:03 +0000</pubDate>
 </item>
 
 </channel>
