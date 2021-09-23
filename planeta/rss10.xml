@@ -15,6 +15,7 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Jurassic-systems" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/First-Webcam" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Taking-screenshots-in-1983" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Tech-assistance" />
@@ -74,11 +75,18 @@
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Discovering-Electronic-Music" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/All-your-base" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/timothy-leary-lost-video-games" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Computer-for-Apollo-Computer-for-Laughing" />
 		</rdf:Seq>
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Jurassic-systems">
+	<title>N.S. do Computismo: Jurassic Systems</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Jurassic-systems</link>
+	<content:encoded>&lt;p&gt;&lt;img alt=&quot;os screenshot&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/jurassic-systems.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;@ &lt;a href=&quot;https://www.jurassicsystems.com/&quot;&gt;jurassicsystems.com&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2021-09-23T10:20:04+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/First-Webcam">
 	<title>N.S. do Computismo: What was probably the first webcam</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/First-Webcam</link>
@@ -680,11 +688,6 @@ O
 	<content:encoded>&lt;p&gt;&lt;img alt=&quot;neuromancer&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/timothy-leary.jpg&quot; /&gt;
 @ &lt;a href=&quot;https://www.wired.com/2013/10/timothy-leary-video-games/?viewall=true&quot;&gt;wired.com&lt;/a&gt;&lt;/p&gt;</content:encoded>
 	<dc:date>2021-02-16T11:20:03+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Computer-for-Apollo-Computer-for-Laughing">
-	<title>N.S. do Computismo: A Computer for Apollo or a Computer for Laughing?</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Computer-for-Apollo-Computer-for-Laughing</link>
-	<dc:date>2021-02-11T12:20:03+00:00</dc:date>
 </item>
 
 </rdf:RDF>
