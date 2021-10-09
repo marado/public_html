@@ -15,6 +15,7 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./happy-20th-birthday-ansol.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Jurassic-systems" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/First-Webcam" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Taking-screenshots-in-1983" />
@@ -74,11 +75,50 @@
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/BBC-Radiophonic-Workshop" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Discovering-Electronic-Music" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/All-your-base" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/timothy-leary-lost-video-games" />
 		</rdf:Seq>
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~marado/blog/./happy-20th-birthday-ansol.html">
+	<title>~marado: Happy 20th birthday, ANSOL!</title>
+	<link>https://tilde.pt/~marado/blog/happy-20th-birthday-ansol.html</link>
+	<content:encoded>&lt;p&gt;Today we celebrated the 20th anniversary of &lt;a href=&quot;https://ansol.org&quot;&gt;ANSOL&lt;/a&gt;, the Portuguese Free Software Association. It has been an honor to be part of the history of this still young association, and here's hope for an active 20 years more - I'll gladly celebrate its 40th!&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;Image of the round table where I've participated&quot; src=&quot;https://pbs.twimg.com/media/FBQ8TBoWYAAh7LR?format=jpg&amp;amp;name=large&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In these past 20 years, ANSOL worked on many issues, but if I had to highlight 3, I'd point out:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;the fight &lt;a href=&quot;https://en.wikipedia.org/wiki/Proposed_directive_on_the_patentability_of_computer-implemented_inventions#Opponents_of_the_proposal&quot;&gt;against Software Patents in Europe&lt;/a&gt; - which stopped (or stalled?) software patents;&lt;/li&gt;
+&lt;li&gt;the &lt;a href=&quot;https://www.dn.pt/opiniao/opiniao-dn/convidados/normas-abertas-fantasmas-e-a-formula-midi-1776429.html&quot;&gt;Open Standards Law in Portugal&lt;/a&gt; - ahead of the curve;&lt;/li&gt;
+&lt;li&gt;the &lt;a href=&quot;https://fsfe.org/news/2019/news-20191113-01.en.html&quot;&gt;Portuguese anti-DRM law&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;But there are many more challenges ahead... and our victories aren't closed books.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The Unified Patent Court in Europe is &lt;a href=&quot;https://www.jdsupra.com/legalnews/only-one-more-ratification-needed-4189294/&quot;&gt;about to become a reality&lt;/a&gt;, and with it Software Patents;&lt;/li&gt;
+&lt;li&gt;The Open Standards Law in Portugal exists, but &lt;a href=&quot;https://shifter.pt/2021/02/lei-das-normas-abertas/&quot;&gt;in practice it is isn't being actually applied&lt;/a&gt;;&lt;/li&gt;
+&lt;li&gt;And while we have a good protection against DRM in law (as far as we can within the EU, thanks to InfoSoc), there is now a &lt;a href=&quot;https://twitter.com/mind_booster/status/1443250573147623424&quot;&gt;covert attempt to water it down&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;So, what now? Well, there is plenty to do: we should ensure we don't loose the Freedoms we have achieved, and we should strive to get those we still didn't get.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;There is plenty more to do, and you can help.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;If you're in Portugal, &lt;a href=&quot;https://ansol.org/inscricao&quot;&gt;join ANSOL&lt;/a&gt;. If you're in Europe, FSFE will appreciate your &lt;a href=&quot;https://fsfe.org/contribute/contribute.en.html&quot;&gt;contribution&lt;/a&gt;. If you're in Latin America, &lt;a href=&quot;http://fsfla.org/ikiwiki/about/participate.en.html&quot;&gt;here's your link&lt;/a&gt;. In India, join &lt;a href=&quot;https://fsf.org.in/volunteer/&quot;&gt;here&lt;/a&gt;. Based in North America, with worldwide mission, there's &lt;a href=&quot;https://fsf.org/associate/&quot;&gt;FSF&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Of course, as we could see in those who have joined ANSOL in today's celebration, there is plenty beyond the realm of software. Consider getting to know &lt;a href=&quot;https://pt.wikimedia.org&quot;&gt;Wikimedia Portugal&lt;/a&gt; or the &lt;a href=&quot;https://wikimediafoundation.org/&quot;&gt;Wikimedia Foundation&lt;/a&gt;, &lt;a href=&quot;https://direitosdigitais.pt/&quot;&gt;Direitos Digitais&lt;/a&gt; in Portugal and &lt;a href=&quot;https://edri.org/&quot;&gt;EDRI&lt;/a&gt; in Europe or &lt;a href=&quot;https://www.eff.org/&quot;&gt;EFF&lt;/a&gt; overseas.&lt;/p&gt;
+
+&lt;p&gt;Let's shape the future, together.&lt;/p&gt;
+
+&lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_ANSOL.html&quot;&gt;ANSOL&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_Free Software.html&quot;&gt;Free Software&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_Digital Rights.html&quot;&gt;Digital Rights&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_EN.html&quot;&gt;EN&lt;/a&gt;&lt;/p&gt;
+
+&lt;p id=&quot;twitter&quot;&gt;&lt;a href=&quot;http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/happy-20th-birthday-ansol.html&amp;amp;text=&amp;lt;escreve o comentário aqui mas deixa o URL para outras pessoas poderem seguir os comentários&amp;gt;&amp;amp;via=mind_booster&quot;&gt;comentários? tweetar&lt;/a&gt; 
+&lt;a href=&quot;https://twitter.com/search?q=https://tilde.pt/~marado/blog/happy-20th-birthday-ansol.html&quot;&gt;&lt;span id=&quot;count-3622&quot;&gt;&lt;/span&gt;&lt;/a&gt; &lt;/p&gt;</content:encoded>
+	<dc:date>2021-10-09T19:12:29+00:00</dc:date>
+	<dc:creator>~marado</dc:creator>
+</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Jurassic-systems">
 	<title>N.S. do Computismo: Jurassic Systems</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Jurassic-systems</link>
@@ -681,13 +721,6 @@ and so this blog post should be considered licensed under the same terms.&lt;/p&
 O
 @ &lt;a href=&quot;https://arstechnica.com/gaming/2021/02/get-ready-to-feel-old-the-all-your-base-music-video-turns-20-today/&quot;&gt;ArsTechnica.com&lt;/a&gt;&lt;/p&gt;</content:encoded>
 	<dc:date>2021-02-17T11:20:03+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/timothy-leary-lost-video-games">
-	<title>N.S. do Computismo: Timothy Leary's Long-Lost Video Games</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/timothy-leary-lost-video-games</link>
-	<content:encoded>&lt;p&gt;&lt;img alt=&quot;neuromancer&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/timothy-leary.jpg&quot; /&gt;
-@ &lt;a href=&quot;https://www.wired.com/2013/10/timothy-leary-video-games/?viewall=true&quot;&gt;wired.com&lt;/a&gt;&lt;/p&gt;</content:encoded>
-	<dc:date>2021-02-16T11:20:03+00:00</dc:date>
 </item>
 
 </rdf:RDF>

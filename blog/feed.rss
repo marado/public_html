@@ -2,9 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>~marado's tildelog</title><link>https://tilde.pt/~marado/blog/index.html</link>
 <description>a tildelog on tildeverse</description><language>en</language>
-<lastBuildDate>Mon, 31 May 2021 23:22:10 +0100</lastBuildDate>
-<pubDate>Mon, 31 May 2021 23:22:10 +0100</pubDate>
+<lastBuildDate>Sat, 09 Oct 2021 20:13:37 +0100</lastBuildDate>
+<pubDate>Sat, 09 Oct 2021 20:13:37 +0100</pubDate>
 <atom:link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Happy 20th birthday, ANSOL!
+</title><description><![CDATA[
+
+<p>Today we celebrated the 20th anniversary of <a href="https://ansol.org">ANSOL</a>, the Portuguese Free Software Association. It has been an honor to be part of the history of this still young association, and here's hope for an active 20 years more - I'll gladly celebrate its 40th!</p>
+
+<p><img src="https://pbs.twimg.com/media/FBQ8TBoWYAAh7LR?format=jpg&amp;name=large" alt="Image of the round table where I've participated" title="" /></p>
+
+<p>In these past 20 years, ANSOL worked on many issues, but if I had to highlight 3, I'd point out:</p>
+
+<ul>
+<li>the fight <a href="https://en.wikipedia.org/wiki/Proposed_directive_on_the_patentability_of_computer-implemented_inventions#Opponents_of_the_proposal">against Software Patents in Europe</a> - which stopped (or stalled?) software patents;</li>
+<li>the <a href="https://www.dn.pt/opiniao/opiniao-dn/convidados/normas-abertas-fantasmas-e-a-formula-midi-1776429.html">Open Standards Law in Portugal</a> - ahead of the curve;</li>
+<li>the <a href="https://fsfe.org/news/2019/news-20191113-01.en.html">Portuguese anti-DRM law</a>.</li>
+</ul>
+
+<p>But there are many more challenges ahead... and our victories aren't closed books.</p>
+
+<ul>
+<li>The Unified Patent Court in Europe is <a href="https://www.jdsupra.com/legalnews/only-one-more-ratification-needed-4189294/">about to become a reality</a>, and with it Software Patents;</li>
+<li>The Open Standards Law in Portugal exists, but <a href="https://shifter.pt/2021/02/lei-das-normas-abertas/">in practice it is isn't being actually applied</a>;</li>
+<li>And while we have a good protection against DRM in law (as far as we can within the EU, thanks to InfoSoc), there is now a <a href="https://twitter.com/mind_booster/status/1443250573147623424">covert attempt to water it down</a>.</li>
+</ul>
+
+<p>So, what now? Well, there is plenty to do: we should ensure we don't loose the Freedoms we have achieved, and we should strive to get those we still didn't get.</p>
+
+<p><em>There is plenty more to do, and you can help.</em></p>
+
+<p>If you're in Portugal, <a href="https://ansol.org/inscricao">join ANSOL</a>. If you're in Europe, FSFE will appreciate your <a href="https://fsfe.org/contribute/contribute.en.html">contribution</a>. If you're in Latin America, <a href="http://fsfla.org/ikiwiki/about/participate.en.html">here's your link</a>. In India, join <a href="https://fsf.org.in/volunteer/">here</a>. Based in North America, with worldwide mission, there's <a href="https://fsf.org/associate/">FSF</a>.</p>
+
+<p>Of course, as we could see in those who have joined ANSOL in today's celebration, there is plenty beyond the realm of software. Consider getting to know <a href="https://pt.wikimedia.org">Wikimedia Portugal</a> or the <a href="https://wikimediafoundation.org/">Wikimedia Foundation</a>, <a href="https://direitosdigitais.pt/">Direitos Digitais</a> in Portugal and <a href="https://edri.org/">EDRI</a> in Europe or <a href="https://www.eff.org/">EFF</a> overseas.</p>
+
+<p>Let's shape the future, together.</p>
+
+<p>tags: <a href='tag_ANSOL.html'>ANSOL</a>, <a href='tag_Free Software.html'>Free Software</a>, <a href='tag_Digital Rights.html'>Digital Rights</a>, <a href='tag_EN.html'>EN</a></p>
+<!-- text end -->
+<p id='twitter'><a href='http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/happy-20th-birthday-ansol.html&text=&lt;escreve o comentário aqui mas deixa o URL para outras pessoas poderem seguir os comentários&gt;&via=mind_booster'>comentários? tweetar</a> 
+<a href='https://twitter.com/search?q=https://tilde.pt/~marado/blog/happy-20th-birthday-ansol.html'><span id='count-3622'></span></a>&nbsp;</p>
+]]></description><link>https://tilde.pt/~marado/blog/happy-20th-birthday-ansol.html</link>
+<guid>https://tilde.pt/~marado/blog/./happy-20th-birthday-ansol.html</guid>
+<dc:creator>~marado</dc:creator>
+<pubDate>Sat, 09 Oct 2021 20:12:29 +0100</pubDate></item>
 <item><title>
 Are Cassette tapes dead? (again)
 </title><description><![CDATA[

@@ -500,3 +500,4 @@
 2021-08-27T15:54:20+01:00	Awesome @<prologicnet https://twtxt.net/u/prologic> twtxt feeds service! You can now read my twitter here: https://feeds.twtxt.net/twitter-mind_booster/twtxt.txt
 2021-09-07T15:08:56+01:00	Software Livre na imprensa: https://www.setentaequatro.pt/enfoque/liberdade-partilha-e-resistencia-os-tres-sinonimos-de-comunidade
 2021-10-07T19:13:12+01:00	My second crowdfunding experiement: you can now 'sponsor' my Free Software work, here: https://github.com/sponsors/marado
+2021-10-09T20:17:50+01:00	Today we celebrated the 20th anniversary of @ANSOL https://tilde.pt/~marado/blog/happy-20th-birthday-ansol.html
