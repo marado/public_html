@@ -15,6 +15,7 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/10/Paperwork-Explosion" />
 			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./happy-20th-birthday-ansol.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Jurassic-systems" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/First-Webcam" />
@@ -74,11 +75,15 @@
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Children-of-the-clone" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/BBC-Radiophonic-Workshop" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Discovering-Electronic-Music" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/All-your-base" />
 		</rdf:Seq>
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/10/Paperwork-Explosion">
+	<title>N.S. do Computismo: Paperwork Explosion</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/10/Paperwork-Explosion</link>
+	<dc:date>2021-10-27T10:20:04+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~marado/blog/./happy-20th-birthday-ansol.html">
 	<title>~marado: Happy 20th birthday, ANSOL!</title>
 	<link>https://tilde.pt/~marado/blog/happy-20th-birthday-ansol.html</link>
@@ -713,14 +718,6 @@ and so this blog post should be considered licensed under the same terms.&lt;/p&
 	<title>N.S. do Computismo: Discovering Electronic Music</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Discovering-Electronic-Music</link>
 	<dc:date>2021-02-19T15:20:05+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/All-your-base">
-	<title>N.S. do Computismo: All Your Base Are Belong to Us 20 year Aniversary</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/All-your-base</link>
-	<content:encoded>&lt;p&gt;&lt;img alt=&quot;All your Base Animated&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/AllYourBaseAnimated.gif&quot; /&gt;
-O
-@ &lt;a href=&quot;https://arstechnica.com/gaming/2021/02/get-ready-to-feel-old-the-all-your-base-music-video-turns-20-today/&quot;&gt;ArsTechnica.com&lt;/a&gt;&lt;/p&gt;</content:encoded>
-	<dc:date>2021-02-17T11:20:03+00:00</dc:date>
 </item>
 
 </rdf:RDF>
