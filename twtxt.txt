@@ -501,3 +501,4 @@
 2021-09-07T15:08:56+01:00	Software Livre na imprensa: https://www.setentaequatro.pt/enfoque/liberdade-partilha-e-resistencia-os-tres-sinonimos-de-comunidade
 2021-10-07T19:13:12+01:00	My second crowdfunding experiement: you can now 'sponsor' my Free Software work, here: https://github.com/sponsors/marado
 2021-10-09T20:17:50+01:00	Today we celebrated the 20th anniversary of @ANSOL https://tilde.pt/~marado/blog/happy-20th-birthday-ansol.html
+2021-11-10T15:00:59+00:00	@<marado-yarn https://twtxt.net/user/marado/twtxt.txt> @<prologic https://twtxt.net/user/prologic/twtxt.txt> (#<hfal6kq https://twtxt.net/search?tag=hfal6kq>) Found it: https://dev.twtxt.net/doc/api.html
