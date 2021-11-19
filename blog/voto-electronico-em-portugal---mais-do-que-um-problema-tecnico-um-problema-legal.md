@@ -28,7 +28,7 @@ Tem-se discutido cada vez mais sobre o voto electrónico em Portugal. Contudo, t
 
 ---
 
-(1) eventualmente haverá quem dispute esta afirmação, e julgue que é possível um sistema de voto electrónico que o cidadão comum entenda. Lamento, mas ainda que eu consiga acreditar que uma melhoria da literacia digital possa fazer com que se pare de ter comentadores televisivos a dizer (https://abertoatedemadrugada.com/2020/12/o-blockchain-anti-fakenews-da-miguel-sousa-tavares.html)[barbaridades destas], mas daí até ter o cidadão comum a entender, por exemplo, a matemática por detrás dos algoritmos de verificabilidade(2), ainda precisaremos de muitas décadas de investimento no sistema educativo.
+(1) eventualmente haverá quem dispute esta afirmação, e julgue que é possível um sistema de voto electrónico que o cidadão comum entenda. Lamento, mas ainda que eu consiga acreditar que uma melhoria da literacia digital possa fazer com que se pare de ter comentadores televisivos a dizer [barbaridades destas](https://abertoatedemadrugada.com/2020/12/o-blockchain-anti-fakenews-da-miguel-sousa-tavares.html), mas daí até ter o cidadão comum a entender, por exemplo, a matemática por detrás dos algoritmos de verificabilidade(2), ainda precisaremos de muitas décadas de investimento no sistema educativo.
 
 (2) Um excerto de um desses algoritmos: "Se ⋁𝑒∈𝐸𝑡<𝑁𝐸(𝑒)<𝑛−𝑡, enviar ⊥ (onde ⊥≠∅). Caso contrário, enviar 𝐸−{𝑒∣𝑁𝐸(𝑒)≤𝑡} para ."
 
