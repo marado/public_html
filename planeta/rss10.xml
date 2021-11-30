@@ -15,6 +15,7 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/11/Child-Abuse" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/10/Paperwork-Explosion" />
 			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./happy-20th-birthday-ansol.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Jurassic-systems" />
@@ -74,11 +75,16 @@
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/ZZT" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Children-of-the-clone" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/BBC-Radiophonic-Workshop" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Discovering-Electronic-Music" />
 		</rdf:Seq>
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/11/Child-Abuse">
+	<title>N.S. do Computismo: Facebook Conspiracy</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/11/Child-Abuse</link>
+	<content:encoded>&lt;p&gt;&lt;img alt=&quot;Console view&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/forcingChildren.png&quot; /&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2021-11-29T12:20:04+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/10/Paperwork-Explosion">
 	<title>N.S. do Computismo: Paperwork Explosion</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/10/Paperwork-Explosion</link>
@@ -713,11 +719,6 @@ and so this blog post should be considered licensed under the same terms.&lt;/p&
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/BBC-Radiophonic-Workshop</link>
 	<content:encoded>&lt;div style=&quot;padding-bottom: 56.25%; height: 0; overflow: hidden;&quot;&gt;   &lt;/div&gt;</content:encoded>
 	<dc:date>2021-02-22T11:20:04+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Discovering-Electronic-Music">
-	<title>N.S. do Computismo: Discovering Electronic Music</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/Discovering-Electronic-Music</link>
-	<dc:date>2021-02-19T15:20:05+00:00</dc:date>
 </item>
 
 </rdf:RDF>
