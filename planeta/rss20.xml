@@ -3,10 +3,10 @@
 
 <channel>
 	<title>Planeta Tilde</title>
-	<link>http://tilde.pt/~marado/planeta</link>
+	<link>http://tilde.pt/~marado/planeta/</link>
 	<language>en</language>
-	<description>Planeta Tilde - http://tilde.pt/~marado/planeta</description>
-	<atom:link rel="self" href="http://tilde.pt/~marado/rss20.xml" type="application/rss+xml"/>
+	<description>Planeta Tilde - http://tilde.pt/~marado/planeta/</description>
+	<atom:link rel="self" href="http://tilde.pt/~marado/planeta/rss20.xml" type="application/rss+xml"/>
 
 <item>
 	<title>N.S. do Computismo: Tom Scott Dystopias</title>
@@ -126,21 +126,21 @@
 	<pubDate>Wed, 01 Sep 2021 10:20:05 +0000</pubDate>
 </item>
 <item>
-	<title>N.S. do Computismo: Outlandish HCI Papers</title>
-	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Outlandish-HCI-papers</guid>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Outlandish-HCI-papers</link>
-	<description>&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/weird-hci.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;@ &lt;a href=&quot;https://floe.butterbrot.org/matrix/rants/weird/&quot;&gt;floe.butterbrot&lt;/a&gt;&lt;/p&gt;</description>
-	<pubDate>Thu, 22 Jul 2021 11:20:05 +0000</pubDate>
-</item>
-<item>
 	<title>N.S. do Computismo: A Museum of Game Maps</title>
 	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/game-maps</guid>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/game-maps</link>
 	<description>&lt;p&gt;&lt;img alt=&quot;mario kart wii crowd&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/game-maps.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;@ &lt;a href=&quot;https://noclip.website/&quot;&gt;noclip&lt;/a&gt;&lt;/p&gt;</description>
+	<pubDate>Thu, 22 Jul 2021 11:20:05 +0000</pubDate>
+</item>
+<item>
+	<title>N.S. do Computismo: Outlandish HCI Papers</title>
+	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Outlandish-HCI-papers</guid>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Outlandish-HCI-papers</link>
+	<description>&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/weird-hci.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;@ &lt;a href=&quot;https://floe.butterbrot.org/matrix/rants/weird/&quot;&gt;floe.butterbrot&lt;/a&gt;&lt;/p&gt;</description>
 	<pubDate>Thu, 22 Jul 2021 11:20:05 +0000</pubDate>
 </item>
 <item>
@@ -438,17 +438,17 @@ those graphs, once again.&lt;/p&gt;
 	<pubDate>Wed, 07 Apr 2021 14:20:02 +0000</pubDate>
 </item>
 <item>
-	<title>N.S. do Computismo: Steve Jobs Interview 1981-02-18</title>
-	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Steve-Jobs-Interview</guid>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Steve-Jobs-Interview</link>
-	<description>&lt;p&gt;An interview with Steve Jobs filmed on 2/18/1981 about the future of Apple, Computers, the Home &amp;amp; Personal computer markets, video games, and more.&lt;/p&gt;</description>
-	<pubDate>Fri, 26 Mar 2021 11:20:04 +0000</pubDate>
-</item>
-<item>
 	<title>N.S. do Computismo: Ted Nelson struggles with uncomprehending radio interviewer, 1979</title>
 	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Ted-Nelson-1979</guid>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Ted-Nelson-1979</link>
 	<description>&lt;p&gt;Max Allen of CBC radio asks over and over how a computer could possibly be useful for thinking and visualizing.  He absolutely does not get it.&lt;/p&gt;</description>
+	<pubDate>Fri, 26 Mar 2021 11:20:04 +0000</pubDate>
+</item>
+<item>
+	<title>N.S. do Computismo: Steve Jobs Interview 1981-02-18</title>
+	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Steve-Jobs-Interview</guid>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Steve-Jobs-Interview</link>
+	<description>&lt;p&gt;An interview with Steve Jobs filmed on 2/18/1981 about the future of Apple, Computers, the Home &amp;amp; Personal computer markets, video games, and more.&lt;/p&gt;</description>
 	<pubDate>Fri, 26 Mar 2021 11:20:04 +0000</pubDate>
 </item>
 <item>

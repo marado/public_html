@@ -7,11 +7,11 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns="http://purl.org/rss/1.0/"
 >
-<channel rdf:about="http://tilde.pt/~marado/planeta">
+<channel rdf:about="http://tilde.pt/~marado/planeta/">
 	<title>Planeta Tilde</title>
-	<link>http://tilde.pt/~marado/planeta</link>
-	<description>Planeta Tilde - http://tilde.pt/~marado/planeta</description>
-	<atom:link rel="self" href="http://tilde.pt/~marado/rss10.xml" type="application/rss+xml"/>
+	<link>http://tilde.pt/~marado/planeta/</link>
+	<description>Planeta Tilde - http://tilde.pt/~marado/planeta/</description>
+	<atom:link rel="self" href="http://tilde.pt/~marado/planeta/rss10.xml" type="application/rss+xml"/>
 
 	<items>
 		<rdf:Seq>
@@ -25,8 +25,8 @@
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Taking-screenshots-in-1983" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Tech-assistance" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Aquarius" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Outlandish-HCI-papers" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/game-maps" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Outlandish-HCI-papers" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/The-secret-life-of-the-word-processor" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Way-Out" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Technology-Trap" />
@@ -56,8 +56,8 @@
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/Milions-of-lines-of-code" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/Algorithmic-symphonies" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/What-have-we-lost" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Steve-Jobs-Interview" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Ted-Nelson-1979" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Steve-Jobs-Interview" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Susan-Kare" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Visual-Crypto" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/The-Art-Of-Warez" />
@@ -187,20 +187,20 @@
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Aquarius</link>
 	<dc:date>2021-09-01T10:20:05+00:00</dc:date>
 </item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Outlandish-HCI-papers">
-	<title>N.S. do Computismo: Outlandish HCI Papers</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Outlandish-HCI-papers</link>
-	<content:encoded>&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/weird-hci.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;@ &lt;a href=&quot;https://floe.butterbrot.org/matrix/rants/weird/&quot;&gt;floe.butterbrot&lt;/a&gt;&lt;/p&gt;</content:encoded>
-	<dc:date>2021-07-22T11:20:05+00:00</dc:date>
-</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/game-maps">
 	<title>N.S. do Computismo: A Museum of Game Maps</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/game-maps</link>
 	<content:encoded>&lt;p&gt;&lt;img alt=&quot;mario kart wii crowd&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/game-maps.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;@ &lt;a href=&quot;https://noclip.website/&quot;&gt;noclip&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2021-07-22T11:20:05+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Outlandish-HCI-papers">
+	<title>N.S. do Computismo: Outlandish HCI Papers</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Outlandish-HCI-papers</link>
+	<content:encoded>&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/weird-hci.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;@ &lt;a href=&quot;https://floe.butterbrot.org/matrix/rants/weird/&quot;&gt;floe.butterbrot&lt;/a&gt;&lt;/p&gt;</content:encoded>
 	<dc:date>2021-07-22T11:20:05+00:00</dc:date>
 </item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/The-secret-life-of-the-word-processor">
@@ -471,16 +471,16 @@ those graphs, once again.&lt;/p&gt;
 	<content:encoded>&lt;p&gt;from rc3 ccc conference&lt;/p&gt;</content:encoded>
 	<dc:date>2021-04-07T14:20:02+00:00</dc:date>
 </item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Steve-Jobs-Interview">
-	<title>N.S. do Computismo: Steve Jobs Interview 1981-02-18</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Steve-Jobs-Interview</link>
-	<content:encoded>&lt;p&gt;An interview with Steve Jobs filmed on 2/18/1981 about the future of Apple, Computers, the Home &amp;amp; Personal computer markets, video games, and more.&lt;/p&gt;</content:encoded>
-	<dc:date>2021-03-26T11:20:04+00:00</dc:date>
-</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Ted-Nelson-1979">
 	<title>N.S. do Computismo: Ted Nelson struggles with uncomprehending radio interviewer, 1979</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Ted-Nelson-1979</link>
 	<content:encoded>&lt;p&gt;Max Allen of CBC radio asks over and over how a computer could possibly be useful for thinking and visualizing.  He absolutely does not get it.&lt;/p&gt;</content:encoded>
+	<dc:date>2021-03-26T11:20:04+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Steve-Jobs-Interview">
+	<title>N.S. do Computismo: Steve Jobs Interview 1981-02-18</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Steve-Jobs-Interview</link>
+	<content:encoded>&lt;p&gt;An interview with Steve Jobs filmed on 2/18/1981 about the future of Apple, Computers, the Home &amp;amp; Personal computer markets, video games, and more.&lt;/p&gt;</content:encoded>
 	<dc:date>2021-03-26T11:20:04+00:00</dc:date>
 </item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Susan-Kare">
