@@ -15,6 +15,8 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~tcarrondo/blog/./-olha-eu.html" />
+			<rdf:li rdf:resource="https://tilde.pt/~tcarrondo/blog/./-olha-eu30007.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/12/Tom-Scotts-dystopias" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/12/Ancient-Computer" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/11/Child-Abuse" />
@@ -73,12 +75,22 @@
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Computer-virus-videos" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Constellaction" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Cubas-DIY-inventions" />
-			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./repo-using-a-local-manifest.html" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/ZZT" />
 		</rdf:Seq>
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~tcarrondo/blog/./-olha-eu.html">
+	<title>~tcarrondo: # Olha eu!</title>
+	<link>https://tilde.pt/~tcarrondo/blog/-olha-eu.html</link>
+	<dc:date>2021-12-31T01:05:20+00:00</dc:date>
+	<dc:creator>~tcarrondo</dc:creator>
+</item>
+<item rdf:about="https://tilde.pt/~tcarrondo/blog/./-olha-eu30007.html">
+	<title>~tcarrondo: # Olha eu!</title>
+	<link>https://tilde.pt/~tcarrondo/blog/-olha-eu30007.html</link>
+	<dc:date>2021-12-31T00:53:50+00:00</dc:date>
+	<dc:creator>~tcarrondo</dc:creator>
+</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/12/Tom-Scotts-dystopias">
 	<title>N.S. do Computismo: Tom Scott Dystopias</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/12/Tom-Scotts-dystopias</link>
@@ -593,128 +605,6 @@ those graphs, once again.&lt;/p&gt;
 	<title>N.S. do Computismo: Cuba's DIY Inventions from 30 Years of Isolation</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Cubas-DIY-inventions</link>
 	<dc:date>2021-03-01T11:20:04+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~marado/blog/./repo-using-a-local-manifest.html">
-	<title>~marado: repo: using a local manifest</title>
-	<link>https://tilde.pt/~marado/blog/repo-using-a-local-manifest.html</link>
-	<content:encoded>&lt;p&gt;One of the useful and rarely mentioned configurations of
-&lt;a href=&quot;https://gerrit.googlesource.com/git-repo/+/refs/heads/master/README.md&quot;&gt;repo&lt;/a&gt;
-is the use of local manifests.&lt;/p&gt;
-
-&lt;p&gt;See, &lt;code&gt;repo&lt;/code&gt; is a powerful tool when you need to deal with a project that uses
-several git repositories at the same time, and those are controled by a
-manifest file. However, on your local development environment, you will often
-want to extend or change something on the environment described on the
-manifest, either by removing, adding or more often replacing one of the entries
-with a slightly different configuration.&lt;/p&gt;
-
-&lt;p&gt;You can do that by using a local manifest, that will be applied on the top of
-the other manifest files. The CyanogenMod project used to have a pretty nice
-documentation about this, but that's one of the contents that were not migrated
-into Lineage OS's wiki, so I decided to make this blog post, reproducing the
-old wiki's content.&lt;/p&gt;
-
-&lt;h2&gt;The local manifest&lt;/h2&gt;
-
-&lt;p&gt;Creating a &lt;em&gt;local manifest&lt;/em&gt; allows you to customize the list of repositories
-used in your copy of the source code by overriding or supplementing the default
-manifest. In this way, you can add, remove, or replace source code in the
-official manifest with your own. By including repositories (which need not even
-reside on GitHub) in a local manifest, you can continue to synchronize with the
-&lt;code&gt;repo sync&lt;/code&gt; command just as you would have previously. Only now, both the
-official repositories from the default manifest and the additional repositories
-you specify will be checked for updates. &lt;/p&gt;
-
-&lt;h2&gt;Adding and replacing repositories&lt;/h2&gt;
-
-&lt;p&gt;To add to the contents of the default manifest, create a folder called
-&lt;code&gt;local_manifests&lt;/code&gt; under the &lt;code&gt;.repo&lt;/code&gt; directory, then create an XML file (text
-file with .xml extension) inside that directory. You can call the XML file
-anything you like, as long as it ends in &lt;code&gt;.xml&lt;/code&gt;. The default however is
-&lt;code&gt;roomservice.xml&lt;/code&gt;. Also, you can create separate XML files for different groups
-of repositories. e.g. mako.xml for Google Nexus 4 related repositories and
-cat-eater.xml for an unofficial device on which you're working.&lt;/p&gt;
-
-&lt;p&gt;Let's start with an example which we can use to describe the syntax:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;code&gt;&amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;gt;&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;&amp;lt;manifest&amp;gt;&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;&amp;lt;remote name=&quot;omap&quot; fetch=&quot;git://git.omapzoom.org/&quot; /&amp;gt;&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;&amp;lt;remove-project name=&quot;CyanogenMod/android_hardware_ti_omap3&quot; /&amp;gt;&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;&amp;lt;project path=&quot;hardware/ti/omap3&quot; name=&quot;platform/hardware/ti/omap3&quot; remote=&quot;omap&quot; revision=&quot;jb-dev&quot;/&amp;gt;&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;&amp;lt;/manifest&amp;gt;&lt;/code&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The first line containing &lt;code&gt;&amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;gt;&lt;/code&gt; is a
-standard XML declaration, telling interpreters this is an eXtensible Markup
-Language file. Once this is established, the &lt;code&gt;&amp;lt;manifest&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;/manifest&amp;gt;&lt;/code&gt;
-tags enclose some contents which the &lt;code&gt;repo&lt;/code&gt; command will recognize.&lt;/p&gt;
-
-&lt;p&gt;First, a &lt;em&gt;remote&lt;/em&gt; for git is declared and given the name &quot;omap&quot;. In git, a
-remote essentially refers to a place and method for accessing a git repository.
-In this case, omapzoom.org is a site that contains special up-to-date
-repositories for Texas Instrument's OMAP platform. This is equivalent to the
-following &lt;code&gt;git&lt;/code&gt; command:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;git remote add omap git://git.omapzoom.org/&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The next line removes a project (specifically,
-&lt;code&gt;cyanogenmod/android_hardware_ti_omap3&lt;/code&gt;) declared in the default manifest.
-After running &lt;code&gt;repo sync&lt;/code&gt;, it will no longer be available in the source tree.&lt;/p&gt;
-
-&lt;p&gt;The next line defines a &lt;em&gt;new&lt;/em&gt; project. In this case, it replaces the removed
-project &lt;code&gt;android_hardware_ti_omap3&lt;/code&gt; with one from Texas Instruments, using the
-&quot;omap&quot; remote that was defined above.&lt;/p&gt;
-
-&lt;p&gt;When adding a new project that replaces an existing project, you should always
-remove that project before defining the replacement. However, not every new
-project need replace an existing cyanogenmod project. You can simply add a new
-project to the source code, such as when you want to add your own app to the
-build.&lt;/p&gt;
-
-&lt;p&gt;Note that when adding new projects, there are at least three parts defined:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;remote&lt;/em&gt; -- the name of the remote. this can be one that was defined in either the default &lt;code&gt;manifest&lt;/code&gt; or &lt;code&gt;local_manifest.xml&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;name&lt;/em&gt; -- the name of the git project-- for github it has the format &lt;code&gt;account_name/project_name&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;path&lt;/em&gt; -- where the git repository should go in your local copy of the source code.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;revision&lt;/em&gt; -- &lt;em&gt;(optional)&lt;/em&gt; which branch or tag to use in the repository. If this attribute is omitted, &lt;code&gt;repo sync&lt;/code&gt; will use the revision specified by the &lt;code&gt;&amp;lt;default ... /&amp;gt;&lt;/code&gt; tag in the default manifest.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;After creating &lt;code&gt;.repo/local_manifests/your_file.xml&lt;/code&gt;, you should be able to
-&lt;code&gt;repo sync&lt;/code&gt; and the source code will be updated accordingly.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; You can use local repositories in the manifest by creating a remote
-that points to &lt;code&gt;file:///path/to/source&lt;/code&gt;. For example: &lt;code&gt;&amp;lt;remote
-name=&quot;local-omap&quot; fetch=&quot;file:///home/username/myomap&quot; /&amp;gt;&lt;/code&gt;&lt;/p&gt;
-
-&lt;h4&gt;License&lt;/h4&gt;
-
-&lt;p&gt;All textual content of the CyanogenMod Wiki was released under the &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/3.0/&quot;&gt;Creative
-Commons Attribution-Share Alike 3.0
-Unported&lt;/a&gt; license (CC-BY-SA),
-and so this blog post should be considered licensed under the same terms.&lt;/p&gt;
-
-&lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_repo.html&quot;&gt;repo&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_manifest.html&quot;&gt;manifest&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_local-manifest.html&quot;&gt;local-manifest&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_local_manifests.html&quot;&gt;local_manifests&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_git.html&quot;&gt;git&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_en.html&quot;&gt;en&lt;/a&gt;&lt;/p&gt;
-
-&lt;p id=&quot;twitter&quot;&gt;&lt;a href=&quot;http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/repo-using-a-local-manifest.html&amp;amp;text=&amp;lt;escreve o comentário aqui mas deixa o URL para outras pessoas poderem seguir os comentários&amp;gt;&amp;amp;via=mind_booster&quot;&gt;comentários? tweetar&lt;/a&gt; 
-&lt;a href=&quot;https://twitter.com/search?q=https://tilde.pt/~marado/blog/repo-using-a-local-manifest.html&quot;&gt;&lt;span id=&quot;count-4673&quot;&gt;&lt;/span&gt;&lt;/a&gt; &lt;/p&gt;</content:encoded>
-	<dc:date>2021-02-28T19:42:11+00:00</dc:date>
-	<dc:creator>~marado</dc:creator>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/ZZT">
-	<title>N.S. do Computismo: ZZT</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/02/ZZT</link>
-	<content:encoded>&lt;p&gt;Epic MegaGames first comercial title (1991)&lt;/p&gt;</content:encoded>
-	<dc:date>2021-02-23T11:20:04+00:00</dc:date>
 </item>
 
 </rdf:RDF>
