@@ -9,6 +9,32 @@
 	<atom:link rel="self" href="http://tilde.pt/~marado/planeta/rss20.xml" type="application/rss+xml"/>
 
 <item>
+	<title>~tcarrondo: Artigo de teste</title>
+	<guid isPermaLink="false">https://tilde.pt/~tcarrondo/blog/./artigo-de-teste.html</guid>
+	<link>https://tilde.pt/~tcarrondo/blog/artigo-de-teste.html</link>
+	<description>&lt;h2&gt;sub-título&lt;/h2&gt;
+
+&lt;h3&gt;sub-sub-título&lt;/h3&gt;
+
+&lt;p&gt;The rest of the text file is a &lt;strong&gt;Markdown&lt;/strong&gt; blog post. The process will continue
+as soon as you exit your editor.&lt;/p&gt;
+
+&lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~tcarrondo/blog/tag_keep-this-tag-format.html&quot;&gt;keep-this-tag-format&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~tcarrondo/blog/tag_tags-are-optional.html&quot;&gt;tags-are-optional&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~tcarrondo/blog/tag_beware-with-underscores-in-markdown.html&quot;&gt;beware-with-underscores-in-markdown&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~tcarrondo/blog/tag_example.html&quot;&gt;example&lt;/a&gt;&lt;/p&gt;</description>
+	<pubDate>Sun, 02 Jan 2022 13:36:47 +0000</pubDate>
+</item>
+<item>
+	<title>~tcarrondo: # Title on this line</title>
+	<guid isPermaLink="false">https://tilde.pt/~tcarrondo/blog/./-title-on-this-line8872.html</guid>
+	<link>https://tilde.pt/~tcarrondo/blog/-title-on-this-line8872.html</link>
+	<pubDate>Sun, 02 Jan 2022 13:18:29 +0000</pubDate>
+</item>
+<item>
+	<title>~tcarrondo: # Title on this line</title>
+	<guid isPermaLink="false">https://tilde.pt/~tcarrondo/blog/./-title-on-this-line.html</guid>
+	<link>https://tilde.pt/~tcarrondo/blog/-title-on-this-line.html</link>
+	<pubDate>Sun, 02 Jan 2022 13:17:19 +0000</pubDate>
+</item>
+<item>
 	<title>~tcarrondo: # Olha eu!</title>
 	<guid isPermaLink="false">https://tilde.pt/~tcarrondo/blog/./-olha-eu.html</guid>
 	<link>https://tilde.pt/~tcarrondo/blog/-olha-eu.html</link>
@@ -566,28 +592,6 @@ those graphs, once again.&lt;/p&gt;
 	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Preserving-Worlds</guid>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Preserving-Worlds</link>
 	<pubDate>Thu, 04 Mar 2021 11:20:03 +0000</pubDate>
-</item>
-<item>
-	<title>N.S. do Computismo: DOS Era Virus Videos</title>
-	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Computer-virus-videos</guid>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Computer-virus-videos</link>
-	<description>&lt;p&gt;&lt;img alt=&quot;danooct1&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/danooct1.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;check at &lt;a href=&quot;https://www.youtube.com/c/danooct1/videos&quot;&gt;danooct1 youtube channel&lt;/a&gt;&lt;/p&gt;</description>
-	<pubDate>Wed, 03 Mar 2021 11:20:04 +0000</pubDate>
-</item>
-<item>
-	<title>N.S. do Computismo: Constellaction</title>
-	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Constellaction</guid>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Constellaction</link>
-	<description>&lt;p&gt;&lt;/p&gt;&lt;div style=&quot;padding: 56.25% 0 0 0;&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;</description>
-	<pubDate>Tue, 02 Mar 2021 11:20:03 +0000</pubDate>
-</item>
-<item>
-	<title>N.S. do Computismo: Cuba's DIY Inventions from 30 Years of Isolation</title>
-	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Cubas-DIY-inventions</guid>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Cubas-DIY-inventions</link>
-	<pubDate>Mon, 01 Mar 2021 11:20:04 +0000</pubDate>
 </item>
 
 </channel>
