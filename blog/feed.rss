@@ -2,9 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>~marado's tildelog</title><link>https://tilde.pt/~marado/blog/index.html</link>
 <description>a tildelog on tildeverse</description><language>en</language>
-<lastBuildDate>Fri, 19 Nov 2021 15:28:31 +0000</lastBuildDate>
-<pubDate>Fri, 19 Nov 2021 15:28:31 +0000</pubDate>
+<lastBuildDate>Sat, 08 Jan 2022 19:48:24 +0000</lastBuildDate>
+<pubDate>Sat, 08 Jan 2022 19:48:24 +0000</pubDate>
 <atom:link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+O Voto Eletrónico e o Solucionismo Tecnológico
+</title><description><![CDATA[
+
+<p>"No estrangeiro, os portugueses votam principalmente por voto postal", diz a <a href="https://comunidadeslusofonas.pt/associacao-tsp-defende-que-voto-digital-e-a-solucao-para-os-problemas-do-atual-sistema-eleitoral/">TSP</a>, sublinhando que "este sistema já funcionava mal em vários países", mas que nas últimas eleições "não chegou praticamente nenhum voto da África do Sul", e que agora com a pandemia "o sistema postal está próximo do colapso em países tão evoluídos como o Reino Unido".</p>
+
+<p>Então: nós que andamos nisto da democracia já há alguns aninhos, ainda não conseguimos fazer um sistema de voto por correspondência a funcionar decentemente. Um problema que tem, como solução, corrigir os problemas do sistema de voto postal, certo? Errado! Para a TSP - que aproveita para nos dar mais alguns detalhes sobre o que se passa com a proposta do voto electrónico remoto para as eleicões do CCP (agora sabemos que está a ser um trabalho conjunto do MAI, a AMA e o MNE) - a solução não é corrigir um sistema de fácil compreensão e tecnologia provada como o sistema de voto por correspondência, mas sim o voto eletrónico remoto.</p>
+
+<p>Defendem que "Portugal é um país inovador e com técnicos de nível mundial, que podem produzir um sistema de voto eletrónico remoto seguro, testado e auditável", (sem dizer onde se basearam para fazer tal afirmação). Ficamos sem entender porque é que, se temos assim tão boas capacidades técnicas, como é que o voto por correspondência funciona tão mal - como é que <a href="https://www.publico.pt/2019/09/27/politica/noticia/cerca-39-mil-boletins-voto-devolvidos-estrangeiro-votacao-1888153">não temos a morada certa dos eleitores</a>, <a href="https://observador.pt/2019/10/17/35-mil-votos-nulos-no-estrangeiro-mudancas-no-voto-postal-baralharam-emigrantes/">não sabemos explicar como se vota</a> e nem sequer <a href="https://www.jn.pt/nacional/canal/legislativas-2019/emigrantes-alertam-boletim-de-voto-nao-cabe-no-envelope-11318936.html">preparar boletins que caibam nos envelopes</a>. Mas sim, vamos entregar-lhes a preparação de um sistema de voto electrónico, remoto, seguro, anónimo, fiável. O que pode correr mal?</p>
+
+<p>tags: <a href='tag_voto.html'>voto</a>, <a href='tag_electrónico.html'>electrónico</a>, <a href='tag_voto-electrónico.html'>voto-electrónico</a>, <a href='tag_vote.html'>vote</a>, <a href='tag_e-vote.html'>e-vote</a>, <a href='tag_TSP.html'>TSP</a>, <a href='tag_correspondência.html'>correspondência</a>, <a href='tag_voto-correspondência.html'>voto-correspondência</a>, <a href='tag_PT.html'>PT</a></p>
+<!-- text end -->
+<p id='twitter'><a href='http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/o-voto-eletronico-e-o-solucionismo-tecnologico.html&text=&lt;escreve o comentário aqui mas deixa o URL para outras pessoas poderem seguir os comentários&gt;&via=mind_booster'>comentários? tweetar</a> 
+<a href='https://twitter.com/search?q=https://tilde.pt/~marado/blog/o-voto-eletronico-e-o-solucionismo-tecnologico.html'><span id='count-31788'></span></a>&nbsp;</p>
+]]></description><link>https://tilde.pt/~marado/blog/o-voto-eletronico-e-o-solucionismo-tecnologico.html</link>
+<guid>https://tilde.pt/~marado/blog/./o-voto-eletronico-e-o-solucionismo-tecnologico.html</guid>
+<dc:creator>~marado</dc:creator>
+<pubDate>Sat, 08 Jan 2022 19:47:14 +0000</pubDate></item>
 <item><title>
 Happy 20th birthday, ANSOL!
 </title><description><![CDATA[
@@ -46,7 +64,7 @@ Happy 20th birthday, ANSOL!
 ]]></description><link>https://tilde.pt/~marado/blog/happy-20th-birthday-ansol.html</link>
 <guid>https://tilde.pt/~marado/blog/./happy-20th-birthday-ansol.html</guid>
 <dc:creator>~marado</dc:creator>
-<pubDate>Sat, 09 Oct 2021 20:12:29 +0100</pubDate></item>
+<pubDate>Sat, 09 Oct 2021 19:12:29 +0000</pubDate></item>
 <item><title>
 Are Cassette tapes dead? (again)
 </title><description><![CDATA[
@@ -79,7 +97,7 @@ those graphs, once again.</p>
 ]]></description><link>https://tilde.pt/~marado/blog/are-cassette-tapes-dead-again.html</link>
 <guid>https://tilde.pt/~marado/blog/./are-cassette-tapes-dead-again.html</guid>
 <dc:creator>~marado</dc:creator>
-<pubDate>Mon, 31 May 2021 23:22:04 +0100</pubDate></item>
+<pubDate>Mon, 31 May 2021 22:22:04 +0000</pubDate></item>
 <item><title>
 O manifesto das cebolas na era da transição digital
 </title><description><![CDATA[
@@ -111,7 +129,7 @@ O manifesto das cebolas na era da transição digital
 ]]></description><link>https://tilde.pt/~marado/blog/o-manifesto-das-cebolas-na-era-da-transicao-digital.html</link>
 <guid>https://tilde.pt/~marado/blog/./o-manifesto-das-cebolas-na-era-da-transicao-digital.html</guid>
 <dc:creator>~marado</dc:creator>
-<pubDate>Tue, 11 May 2021 16:01:44 +0100</pubDate></item>
+<pubDate>Tue, 11 May 2021 15:01:44 +0000</pubDate></item>
 <item><title>
 Voto electrónico em Portugal - mais do que um problema técnico, um problema legal
 </title><description><![CDATA[
@@ -154,7 +172,7 @@ Voto electrónico em Portugal - mais do que um problema técnico, um problema le
 ]]></description><link>https://tilde.pt/~marado/blog/voto-electronico-em-portugal---mais-do-que-um-problema-tecnico-um-problema-legal.html</link>
 <guid>https://tilde.pt/~marado/blog/./voto-electronico-em-portugal---mais-do-que-um-problema-tecnico-um-problema-legal.html</guid>
 <dc:creator>~marado</dc:creator>
-<pubDate>Tue, 11 May 2021 13:45:43 +0100</pubDate></item>
+<pubDate>Tue, 11 May 2021 12:45:43 +0000</pubDate></item>
 <item><title>
 repo: using a local manifest
 </title><description><![CDATA[
@@ -313,7 +331,7 @@ Dia Mundial da Internet
 ]]></description><link>https://tilde.pt/~marado/blog/dia-mundial-da-internet.html</link>
 <guid>https://tilde.pt/~marado/blog/./dia-mundial-da-internet.html</guid>
 <dc:creator>~marado</dc:creator>
-<pubDate>Sun, 17 May 2020 23:51:27 +0100</pubDate></item>
+<pubDate>Sun, 17 May 2020 22:51:27 +0000</pubDate></item>
 <item><title>
 Contact Tracing
 </title><description><![CDATA[
@@ -391,7 +409,7 @@ aspects of its intended deployment.</p>
 ]]></description><link>https://tilde.pt/~marado/blog/contact-tracing.html</link>
 <guid>https://tilde.pt/~marado/blog/./contact-tracing.html</guid>
 <dc:creator>~marado</dc:creator>
-<pubDate>Sat, 09 May 2020 16:38:30 +0100</pubDate></item>
+<pubDate>Sat, 09 May 2020 15:38:30 +0000</pubDate></item>
 <item><title>
 Decentralized Privacy-Preserving Proximity Tracing -- is it really?
 </title><description><![CDATA[
@@ -436,7 +454,7 @@ Decentralized Privacy-Preserving Proximity Tracing -- is it really?
 ]]></description><link>https://tilde.pt/~marado/blog/decentralized-privacy-preserving-proximity-tracing----is-it-really.html</link>
 <guid>https://tilde.pt/~marado/blog/./decentralized-privacy-preserving-proximity-tracing----is-it-really.html</guid>
 <dc:creator>~marado</dc:creator>
-<pubDate>Wed, 29 Apr 2020 00:51:24 +0100</pubDate></item>
+<pubDate>Tue, 28 Apr 2020 23:51:24 +0000</pubDate></item>
 <item><title>
 multi-aspell: a treat for alpine users
 </title><description><![CDATA[
@@ -470,7 +488,7 @@ Enjoy!</p>
 ]]></description><link>https://tilde.pt/~marado/blog/multi-aspell-a-treat-for-alpine-users.html</link>
 <guid>https://tilde.pt/~marado/blog/./multi-aspell-a-treat-for-alpine-users.html</guid>
 <dc:creator>~marado</dc:creator>
-<pubDate>Thu, 09 Apr 2020 23:22:06 +0100</pubDate></item>
+<pubDate>Thu, 09 Apr 2020 22:22:06 +0000</pubDate></item>
 <item><title>
 From ~marado to @marado
 </title><description><![CDATA[
@@ -511,7 +529,7 @@ directory.</p>
 ]]></description><link>https://tilde.pt/~marado/blog/from-marado-to-marado.html</link>
 <guid>https://tilde.pt/~marado/blog/./from-marado-to-marado.html</guid>
 <dc:creator>~marado</dc:creator>
-<pubDate>Sat, 04 Apr 2020 15:50:42 +0100</pubDate></item>
+<pubDate>Sat, 04 Apr 2020 14:50:42 +0000</pubDate></item>
 <item><title>
 My very first blog post... again
 </title><description><![CDATA[
