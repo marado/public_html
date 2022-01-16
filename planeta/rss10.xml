@@ -15,6 +15,7 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~maria/blog/./convite.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./o-voto-eletronico-e-o-solucionismo-tecnologico.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~tcarrondo/blog/./artigo-de-teste.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~tcarrondo/blog/./-title-on-this-line8872.html" />
@@ -74,11 +75,25 @@
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Ordering-a-pizza" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Attacks-in-the-wild" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Writer-Automation" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/1970/01/" />
 		</rdf:Seq>
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~maria/blog/./convite.html">
+	<title>~maria: Convite</title>
+	<link>https://tilde.pt/~maria/blog/convite.html</link>
+	<content:encoded>&lt;p&gt;Olá!&lt;/p&gt;
+
+&lt;p&gt;Queria convidar-te para a minha festa de aniversário, no dia 29 de janeiro em minha casa às 11:00, termina às 17:00, vai ter churrasco (se o tempo ajudar) e outras atividades e também vai ter lanche, que vou ser eu a preparar.&lt;/p&gt;
+
+&lt;p&gt;E se tiverem tragam computador para jogar minecraft e o skate.  &lt;/p&gt;
+
+&lt;p&gt;Peçam aos vossos pais para confirmarem a vossa presença ao meu pai :) &lt;/p&gt;
+
+&lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~maria/blog/tag_anivers%C3%A1rio.html&quot;&gt;aniversário&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~maria/blog/tag_convite.html&quot;&gt;convite&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2022-01-16T17:26:36+00:00</dc:date>
+	<dc:creator>~maria</dc:creator>
+</item>
 <item rdf:about="https://tilde.pt/~marado/blog/./o-voto-eletronico-e-o-solucionismo-tecnologico.html">
 	<title>~marado: O Voto Eletrónico e o Solucionismo Tecnológico</title>
 	<link>https://tilde.pt/~marado/blog/o-voto-eletronico-e-o-solucionismo-tecnologico.html</link>
@@ -617,12 +632,6 @@ those graphs, once again.&lt;/p&gt;
 
 &lt;p&gt;@ &lt;a href=&quot;https://www.chonday.com/15454/the-writer-automaton/&quot;&gt;chonday.com&lt;/a&gt;&lt;/p&gt;</content:encoded>
 	<dc:date>2021-03-06T10:20:04+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/1970/01/">
-	<title>N.S. do Computismo: Altair 8800</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/1970/01/</link>
-	<content:encoded>&lt;p&gt;&lt;img alt=&quot;altair8800&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/altair8800.jpg&quot; /&gt;&lt;/p&gt;</content:encoded>
-	<dc:date>2021-03-05T11:20:04+00:00</dc:date>
 </item>
 
 </rdf:RDF>
