@@ -503,3 +503,5 @@
 2021-10-09T20:17:50+01:00	Today we celebrated the 20th anniversary of @ANSOL https://tilde.pt/~marado/blog/happy-20th-birthday-ansol.html
 2021-11-10T15:00:59+00:00	@<marado-yarn https://twtxt.net/user/marado/twtxt.txt> @<prologic https://twtxt.net/user/prologic/twtxt.txt> (#<hfal6kq https://twtxt.net/search?tag=hfal6kq>) Found it: https://dev.twtxt.net/doc/api.html
 2022-01-23T23:40:11+00:00	Wondering what (non-pod) twtxt clients are being used out there. twtxt doesn't work on modern python versions, txtnish is no longer maintained. I've thinking of becoming a tt user, but it still has so many features missing...
+2022-01-25T11:39:00+00:00	@<jlj https://twt.nfld.uk/user/jlj/twtxt.txt> (#<gwuaznq https://twt.nfld.uk/search?tag=gwuaznq>) Don't forget about it this year, then! https://registration.fsfe.org/ilovefs
+2022-01-25T11:40:00+00:00	@<darch https://twtxt.net/user/darch/twtxt.txt> (#2gyqgsa) Thanks! I was unaware of @<~duriny https://envs.net/~duriny/twtxt.txt>'s [twtr](https://git.envs.net/duriny/twtr), will give it a try!
