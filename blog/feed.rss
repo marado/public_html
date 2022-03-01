@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>~marado's tildelog</title><link>https://tilde.pt/~marado/blog/index.html</link>
 <description>a tildelog on tildeverse</description><language>en</language>
-<lastBuildDate>Sat, 08 Jan 2022 19:48:24 +0000</lastBuildDate>
-<pubDate>Sat, 08 Jan 2022 19:48:24 +0000</pubDate>
+<lastBuildDate>Tue, 01 Mar 2022 18:57:06 +0000</lastBuildDate>
+<pubDate>Tue, 01 Mar 2022 18:57:06 +0000</pubDate>
 <atom:link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 O Voto Eletrónico e o Solucionismo Tecnológico
@@ -301,7 +301,12 @@ Dia Mundial da Internet
 <li>Há 30 anos atrás (1990) foi organizada a 1ª Convenção Portuguesa de Unix.</li>
 <li>Há 29 anos atrás (1991) foi montado o ".PT" ...</li>
 <li>Há 28 anos atrás (1992) o tld "PT" foi reconhecido. O primeiro talker Português foi criado.</li>
-<li>Há 27 anos atrás (1993) a EUNET <a href="https://drive.google.com/file/d/1R-7wYRGNRtJmUaY7i_CTgeIrFnvTWCRt/view">era assim</a>.</li>
+<li>Há 27 anos atrás (1993) a EUNET era assim:</li>
+</ul>
+
+<p><img src="https://legatheaux.eu/internet-pt/images/EUnet-1993.jpg" alt="a EUNET em 1993" title="" /></p>
+
+<ul>
 <li>Há 26 anos atrás (1994) teve lugar no LNEC, o seminário "Portugal na Internet". Ligar à internet em Portugal era assim:</li>
 </ul>
 
@@ -327,7 +332,7 @@ Dia Mundial da Internet
 <p>tags: <a href='tag_pt.html'>pt</a>, <a href='tag_internet.html'>internet</a>, <a href='tag_history.html'>history</a></p>
 <!-- text end -->
 <p id='twitter'><a href='http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/dia-mundial-da-internet.html&text=&lt;escreve o comentário aqui mas deixa o URL para outras pessoas poderem seguir os comentários&gt;&via=mind_booster'>comentários? tweetar</a> 
-<a href='https://twitter.com/search?q=https://tilde.pt/~marado/blog/dia-mundial-da-internet.html'><span id='count-3408'></span></a>&nbsp;</p>
+<a href='https://twitter.com/search?q=https://tilde.pt/~marado/blog/dia-mundial-da-internet.html'><span id='count-9670'></span></a>&nbsp;</p>
 ]]></description><link>https://tilde.pt/~marado/blog/dia-mundial-da-internet.html</link>
 <guid>https://tilde.pt/~marado/blog/./dia-mundial-da-internet.html</guid>
 <dc:creator>~marado</dc:creator>

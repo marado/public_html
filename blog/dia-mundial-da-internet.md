@@ -5,7 +5,10 @@ Feliz dia mundial da Internet! Sabias que...
 * Há 30 anos atrás (1990) foi organizada a 1ª Convenção Portuguesa de Unix.
 * Há 29 anos atrás (1991) foi montado o ".PT" ...
 * Há 28 anos atrás (1992) o tld "PT" foi reconhecido. O primeiro talker Português foi criado.
-* Há 27 anos atrás (1993) a EUNET [era assim](https://drive.google.com/file/d/1R-7wYRGNRtJmUaY7i_CTgeIrFnvTWCRt/view).
+* Há 27 anos atrás (1993) a EUNET era assim:
+
+![a EUNET em 1993](https://legatheaux.eu/internet-pt/images/EUnet-1993.jpg)
+
 * Há 26 anos atrás (1994) teve lugar no LNEC, o seminário "Portugal na Internet". Ligar à internet em Portugal era assim:
 
 ![ligar à Internet em Portugal, em 1994](https://raw.githubusercontent.com/marado/selva-presentation/master/EUnet.png)
