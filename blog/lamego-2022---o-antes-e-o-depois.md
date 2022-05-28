@@ -15,4 +15,4 @@ O lançamento deste livro vai ser já no próximo dia 5 de Junho, enquadrado no 
 </tr>
 </table>
 
-tags: livro, escrita, Lamego, SciFi, PT
+tags: livro, escrita, Lamego, SciFi, pt

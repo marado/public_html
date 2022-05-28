@@ -33,4 +33,4 @@ Tem-se discutido cada vez mais sobre o voto electrónico em Portugal. Contudo, t
 (2) Um excerto de um desses algoritmos: "Se ⋁𝑒∈𝐸𝑡<𝑁𝐸(𝑒)<𝑛−𝑡, enviar ⊥ (onde ⊥≠∅). Caso contrário, enviar 𝐸−{𝑒∣𝑁𝐸(𝑒)≤𝑡} para ."
 
 
-tags: voto, electrónico, voto-electrónico, vote, e-vote, CNPD, D3, CNE, PT
+tags: voto, electrónico, voto-electrónico, vote, e-vote, CNPD, D3, CNE, pt

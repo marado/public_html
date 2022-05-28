@@ -19,4 +19,4 @@ Mas, convém sublinhar, também diz o manifesto das cebolas, "quem paga somos n�
 Estes milhões são nossos. Até quando estaremos dispostos a esbanjá-los assim?
 
 
-tags: PT, ANSOL, ESOP, SNS, Microsoft, Licenças, Office-365, Office, manifesto, contratos, públicos, ilegais, contratos-públicos, contratos-ilegais, transição, digital, transição-digital
+tags: pt, ANSOL, ESOP, SNS, Microsoft, Licenças, Office-365, Office, manifesto, contratos, públicos, ilegais, contratos-públicos, contratos-ilegais, transição, digital, transição-digital

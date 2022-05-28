@@ -26,4 +26,4 @@ Of course, as we could see in those who have joined ANSOL in today's celebration
 
 Let's shape the future, together.
 
-tags: ANSOL, Free Software, Digital Rights, EN
+tags: ANSOL, Free-Software, Digital-Rights, en
