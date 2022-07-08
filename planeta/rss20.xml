@@ -9,6 +9,13 @@
 	<atom:link rel="self" href="http://tilde.pt/~marado/planeta/rss20.xml" type="application/rss+xml"/>
 
 <item>
+	<title>N.S. do Computismo: IBM 604 no LNEC</title>
+	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2022/07/IBM-604-no-LNEC</guid>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2022/07/IBM-604-no-LNEC</link>
+	<description>&lt;p&gt;&lt;a href=&quot;https://arquivos.rtp.pt/conteudos/conferencia-de-gustavo-de-castro-no-lnec/&quot;&gt;&lt;img alt=&quot;IBM 604 no LNEC&quot; src=&quot;https://cdn-images.rtp.pt/arquivo/2022/04/gust.png?crop=top&amp;amp;fit=crop&amp;amp;h=461&amp;amp;ixlib=php-1.1.0&amp;amp;w=860&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+	<pubDate>Fri, 08 Jul 2022 18:51:58 +0000</pubDate>
+</item>
+<item>
 	<title>~marado: Lamego 2022 - o antes e o depois</title>
 	<guid isPermaLink="false">https://tilde.pt/~marado/blog/./lamego-2022---o-antes-e-o-depois.html</guid>
 	<link>https://tilde.pt/~marado/blog/lamego-2022---o-antes-e-o-depois.html</link>
@@ -609,17 +616,6 @@ those graphs, once again.&lt;/p&gt;
 
 &lt;p&gt;Ordering an haircut in 2018&lt;/p&gt;</description>
 	<pubDate>Mon, 08 Mar 2021 12:20:05 +0000</pubDate>
-</item>
-<item>
-	<title>N.S. do Computismo: Attacks in the Wild</title>
-	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Attacks-in-the-wild</guid>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Attacks-in-the-wild</link>
-	<description>&lt;p&gt;&quot;We refer to these attacks as typographic attacks. We believe attacks such as those described above are far from simply an academic concern. By exploiting the model’s ability to read text robustly, we find that even photographs of hand-written text can often fool the model. Like the Adversarial Patch,22 this attack works in the wild; but unlike such attacks, it requires no more technology than pen and paper.&quot;&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&quot;attacks in the wild&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/attacks-in-the-wild.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;paper @ &lt;a href=&quot;https://openai.com/blog/multimodal-neurons/&quot;&gt;openai.com&lt;/a&gt;&lt;/p&gt;</description>
-	<pubDate>Sat, 06 Mar 2021 10:20:05 +0000</pubDate>
 </item>
 
 </channel>
