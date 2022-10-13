@@ -15,6 +15,7 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./breve-introducao-ao-git-gitlab-e-github.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2022/07/IBM-604-no-LNEC" />
 			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./lamego-2022---o-antes-e-o-depois.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~maria/blog/./convite.html" />
@@ -74,11 +75,42 @@
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Iron-Spam-Attack" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Emulating-classic-computers" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Huston-Go-Pro-Situation" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Ordering-a-pizza" />
 		</rdf:Seq>
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~marado/blog/./breve-introducao-ao-git-gitlab-e-github.html">
+	<title>~marado: Breve Introdução ao git, gitlab e github</title>
+	<link>https://tilde.pt/~marado/blog/breve-introducao-ao-git-gitlab-e-github.html</link>
+	<content:encoded>&lt;p&gt;Todos os anos em Outubro acontece o
+&lt;a href=&quot;https://hacktoberfest.com/&quot;&gt;Hacktoberfest&lt;/a&gt;: um evento que funciona como um
+concurso, em que se incentiva e promove a colaboração em projectos de Software
+Livre.&lt;/p&gt;
+
+&lt;p&gt;Tal como no ano passado, a &lt;a href=&quot;https://ansol.org&quot;&gt;ANSOL&lt;/a&gt; está a promover e
+facilitar a participação ao Hacktoberfest, apoio esse que vai ser pontuado com
+alguns eventos ao longo do mês.&lt;/p&gt;
+
+&lt;p&gt;Para começar, vou amanhã (dia 13 de Outubro, às 22h) fazer uma apresentação
+introdutória sobre &lt;a href=&quot;https://git-scm.com/&quot;&gt;git&lt;/a&gt;, ferramenta que é utilizada no
+Hacktoberfest, ainda que maioritariamente focando na sua utilização nas
+plataformas &lt;a href=&quot;https://gitlab.com&quot;&gt;gitlab&lt;/a&gt; ou &lt;a href=&quot;https://github.com&quot;&gt;github&lt;/a&gt; - que
+são as usadas no evento.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;cartaz do evento&quot; src=&quot;https://ansol.org/eventos/2022-10-13-hacktoberfest/poster.png&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Assim, estão todos convidados a
+&lt;a href=&quot;https://matrix.to/#/#hacktoberfest:ansol.org&quot;&gt;assistir&lt;/a&gt; a esta pequena
+apresentação online e gratuita, mesmo que não tenham interesse em depois
+participar no Hacktoberfest.&lt;/p&gt;
+
+&lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_ANSOL.html&quot;&gt;ANSOL&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_git.html&quot;&gt;git&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_gitlab.html&quot;&gt;gitlab&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_github.html&quot;&gt;github&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_hactoberfest.html&quot;&gt;hactoberfest&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_presentation.html&quot;&gt;presentation&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_Free-Software.html&quot;&gt;Free-Software&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_pt.html&quot;&gt;pt&lt;/a&gt;&lt;/p&gt;
+
+&lt;p id=&quot;twitter&quot;&gt;&lt;a href=&quot;http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/breve-introducao-ao-git-gitlab-e-github.html&amp;amp;text=&amp;lt;escreve o comentário aqui mas deixa o URL para outras pessoas poderem seguir os comentários&amp;gt;&amp;amp;via=mind_booster&quot;&gt;comentários? tweetar&lt;/a&gt; 
+&lt;a href=&quot;https://twitter.com/search?q=https://tilde.pt/~marado/blog/breve-introducao-ao-git-gitlab-e-github.html&quot;&gt;&lt;span id=&quot;count-31502&quot;&gt;&lt;/span&gt;&lt;/a&gt; &lt;/p&gt;</content:encoded>
+	<dc:date>2022-10-12T17:26:29+00:00</dc:date>
+	<dc:creator>~marado</dc:creator>
+</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2022/07/IBM-604-no-LNEC">
 	<title>N.S. do Computismo: IBM 604 no LNEC</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2022/07/IBM-604-no-LNEC</link>
@@ -629,16 +661,6 @@ those graphs, once again.&lt;/p&gt;
 	<title>N.S. do Computismo: Houston GoPro Situation</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Huston-Go-Pro-Situation</link>
 	<dc:date>2021-03-09T13:20:05+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Ordering-a-pizza">
-	<title>N.S. do Computismo: How to avoid talking to humans on the phone</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Ordering-a-pizza</link>
-	<content:encoded>&lt;p&gt;Ordering a pizza in 1974&lt;/p&gt;
-
-
-
-&lt;p&gt;Ordering an haircut in 2018&lt;/p&gt;</content:encoded>
-	<dc:date>2021-03-08T12:20:05+00:00</dc:date>
 </item>
 
 </rdf:RDF>
