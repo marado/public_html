@@ -9,6 +9,19 @@
 	<atom:link rel="self" href="http://tilde.pt/~marado/planeta/rss20.xml" type="application/rss+xml"/>
 
 <item>
+	<title>~rlafuente: Novo post</title>
+	<guid isPermaLink="false">https://tilde.pt/~rlafuente/blog/./novo-post.html</guid>
+	<link>https://tilde.pt/~rlafuente/blog/novo-post.html</link>
+	<description>&lt;p&gt;Já ao tempo que quero tirar o pó a este blog e voltar à prática de escrever
+publicamente sem complexos.&lt;/p&gt;
+
+&lt;p&gt;E claro, já vão meses desde que a vontade está aí, mas já explorei meia dúzia
+de estruturas de post e terminar algo fica sempre para o dia seguinte.&lt;/p&gt;
+
+&lt;p&gt;Por isso zás, segue este post para desbloquear e espero que resulte.&lt;/p&gt;</description>
+	<pubDate>Mon, 24 Oct 2022 15:46:11 +0000</pubDate>
+</item>
+<item>
 	<title>~marado: Breve Introdução ao git, gitlab e github</title>
 	<guid isPermaLink="false">https://tilde.pt/~marado/blog/./breve-introducao-ao-git-gitlab-e-github.html</guid>
 	<link>https://tilde.pt/~marado/blog/breve-introducao-ao-git-gitlab-e-github.html</link>
@@ -631,12 +644,6 @@ those graphs, once again.&lt;/p&gt;
 
 &lt;p&gt;@ &lt;a href=&quot;http://jamesfriend.com.au/pce-js/&quot;&gt;jamesfriend.com.au&lt;/a&gt;&lt;/p&gt;</description>
 	<pubDate>Thu, 11 Mar 2021 10:20:05 +0000</pubDate>
-</item>
-<item>
-	<title>N.S. do Computismo: Houston GoPro Situation</title>
-	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Huston-Go-Pro-Situation</guid>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Huston-Go-Pro-Situation</link>
-	<pubDate>Tue, 09 Mar 2021 13:20:05 +0000</pubDate>
 </item>
 
 </channel>
