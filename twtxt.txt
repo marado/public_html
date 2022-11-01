@@ -4,16 +4,16 @@
 #
 # Learn more about twtxt at  https://github.com/buckket/twtxt
 #
-# This is hosted by a Yarn.social pod twtxt.net running yarnd edge@27b03a1b
+# This is hosted by a Yarn.social pod twtxt.net running yarnd edge@2051fb40
 # Learn more about Yarn.social at https://yarn.social
 #
 # nick        = marado
 # url         = https://twtxt.net/user/marado/twtxt.txt
 # avatar      = https://twtxt.net/user/marado/avatar#ryd3lwrkaujef7nemdf3jt6ggzb2rarlcsrsttbxltuxi7alg43q
-# description = This isn't me, I'm actually here: https://tilde.pt/~marado/twtxt.txt
+# description = https://tilde.pt/~marado
 #
 # followers   = 9
-# following   = 82
+# following   = 81
 ##
 # follow = 71m https://timmorgan.org/twtxt.txt
 # follow = 8ball https://domgoergen.com/twtxt/8ball.txt
@@ -59,7 +59,6 @@
 # follow = lucidiot https://tilde.town/~lucidiot/twtxt.txt
 # follow = marado https://twtxt.net/user/marado/twtxt.txt
 # follow = marado@twitter https://feeds.twtxt.net/marcos-marado-atmind_booster/twtxt.txt
-# follow = marado@twtxt.net https://twtxt.net/user/marado/twtxt.txt
 # follow = mckinley https://twtxt.net/user/mckinley/twtxt.txt
 # follow = mdom https://domgoergen.com/twtxt/mdom.txt
 # follow = mdosch https://mdosch.de/twtxt.txt
@@ -167,3 +166,21 @@
 2022-10-30T15:47:48Z	For those that might be a little bit lost regarding my twtxt presence: * I host my own twtxt feed [here](https://tilde.pt/~marado/twtxt.txt) so I can remain independent of 3rd party providers, and "owner of my own feed". However; * Currently my feed is being generated and managed at [twtxt.net](https://twtxt.net/user/marado), which allows me, amongst other things, to use [goryon](https://git.mills.io/yarnsocial/app), a nice mobile app, to manage my feed (even if twtxt.net's web interface works pretty well on mobile); * On a geeky sidenote, I haven't still set aside the idea of running my own single-user yarn pod instead of relying on twtxt.net, but I didn't want to postpone this movement any longer, now that there's a new twitter exodus; * For historic purposes, you can still find my old twtxts on the old feed, now rotated into a [new address](https://tilde.pt/~marado/twtxt-2021.txt); * Finally, there's still a twtxt feed of [my tweets](https://feeds.twtxt.net/marcos-marado-atmind_booster/twtxt.txt).
 2022-10-30T15:56:31Z	(#e2ddupa) @<prologic https://twtxt.net/user/prologic/twtxt.txt> I'm listening... what does that provide beyond what I can get with a cron'd wget?
 2022-10-30T16:02:07Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (#e2ddupa) not a priority for me right now, but that's useful, thanks for the tip!
+2022-10-30T19:36:06Z	Hey @<prologic https://twtxt.net/user/prologic/twtxt.txt> , [yarn's deployment documentation](https://git.mills.io/yarnsocial/yarn/src/branch/main/deployment) refers to cloudflare, but it isn't really a requirement, is it? If not, should we enhance this doc to have 'without cloudflare' steps?
+2022-10-31T02:53:27Z	@<abucci https://anthony.buc.ci/user/abucci/twtxt.txt> @<prologic https://twtxt.net/user/prologic/twtxt.txt> (#f45oiqq) we had a conversation about this a few months ago... While the redirect option is nice to have, I still feel it might not be enough, specially since it depends on the support of the poderator. Having the possibility to point a new feed to a specific old one would help (ie, prev allowing full URIs instead of relative paths, and pods letting users define their feeds prev).  Sorry I'm pulling this topic into an already complex thread ;-), specially when I was supposed to write a proposal for this change, and never did (yet?)...
+2022-10-31T03:36:57Z	@<movq https://www.uninformativ.de/twtxt.txt> @<prologic https://twtxt.net/user/prologic/twtxt.txt> (#f45oiqq) Redirects will work for on feed removals, *if* the poderator is interested in providing them - it depends on its benevolence and good will. In any case, removals must be implemented somehow (at least in pods operating under EU law), so there's no downside in implementing it with a redirect option.  Regarding `# prev`, maybe it is best to recover the old thread (which I think was (#<opev6mq https://twtxt.net/search?tag=opev6mq>)).
+2022-10-31T10:57:55Z	From FSFE: [If enforced, EU chat control will limit Free Software](https://fsfe.org/news/2022/news-20221026-02.en.html)
+2022-10-31T11:04:57Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (#f45oiqq) I suppose [https://search.twtxt.net/search?q=%23opev6mq&t=term&f=conv](this) is the right link...
+2022-10-31T11:06:31Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (#f45oiqq) good link: https://search.twtxt.net/search?q=%23opev6mq&t=term&f=conv
+2022-10-31T11:12:07Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (#f45oiqq) well, this is embarrassing, I manage to reach the result on the web interface, but not to find an URL that will point to them...
+2022-10-31T11:15:05Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (#f45oiqq) assuming the pod is running a recent version of yarn, unmodified. But we can assume that...
+2022-10-31T11:18:49Z	As in standards,  it would actually be healthy for the twtxt network if it became heterogeneous, with pods running competing implementations (yarn and something else) of the protocol. Perhaps we're not there yet, but I suppose we should design taking that into account...
+2022-10-31T13:03:45Z	![Mappy screenshot](https://twtxt.net/media/8rVnkwTGrApWYxCFLxzM9Y.png)  Mappy is a game from 1983, but it was 30 years ago that I've seen it for the first time, in a neighbor's NES.  Three decades later, but at least now I get to play it for as long as I want 😇
+2022-10-31T14:07:29Z	(#rsgai5a) ![](https://twtxt.net/media/FwiuHprXBp2e9cjqHbH5cC.png)   At least we can try and try again! ;-)
+2022-10-31T14:08:17Z	(#rsgai5a) ![](https://twtxt.net/media/vuKMf7Q6bmuQhVHrqEZvnE.png)  Oops, this was the picture I wanted to send ;-)
+2022-11-01T00:04:29Z	@<lyse https://lyse.isobeef.org/twtxt.txt> @<tkanos https://twtxt.net/user/tkanos/twtxt.txt> (#aijkcdq) An interesting setting for an alternative reality fiction novel!
+2022-11-01T13:40:27Z	@<hacker-news https://feeds.twtxt.net/hacker-news/twtxt.txt> (#xnulrbq) Uh-oh. Will we finally start focusing on RISC-V?
+2022-11-01T15:00:05Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (#wfhaqxa) oh, yes, they'll remain the same (tilde's being a backup).
+2022-11-01T15:03:04Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> @<movq https://www.uninformativ.de/twtxt.txt> (#f45oiqq) I'll need to re isit the old thread to be sure if there isn't more to it than that, but if multiprotocol is the only reason, then we can allow "relative or full", so both scenarios are catered for, right?
+2022-11-01T17:50:01Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> @<movq https://www.uninformativ.de/twtxt.txt> (#f45oiqq):  Thanks!, reading that was useful.  It seems to me that the choice of 'relative' was meant to consider users' use cases (multi-protocol, moving the feeds from one place to another, etc.), without any added convenience to the clients, specifically. Thus, I'd argue that there is nothing against extending the spec to also allow full paths: current users are unnafected, and we'd be catering for new/other use cases.  Yes, I do realize that would mean this would have to go into a new version of the spec, and clients would have to implement it in order to comply with the new version of the spec.
+2022-11-01T17:58:15Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> @<movq https://www.uninformativ.de/twtxt.txt> (#f45oiqq) I created [an issue](https://git.mills.io/yarnsocial/yarn/issues/1057) so we can have this conversation outside of twtxt.
