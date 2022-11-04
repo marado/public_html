@@ -12,8 +12,8 @@
 # avatar      = https://twtxt.net/user/marado/avatar#ryd3lwrkaujef7nemdf3jt6ggzb2rarlcsrsttbxltuxi7alg43q
 # description = https://tilde.pt/~marado
 #
-# followers   = 9
-# following   = 81
+# followers   = 11
+# following   = 82
 ##
 # follow = 71m https://timmorgan.org/twtxt.txt
 # follow = 8ball https://domgoergen.com/twtxt/8ball.txt
@@ -38,6 +38,7 @@
 # follow = dave https://davebucklin.com/twtxt.txt
 # follow = deepend https://yourtilde.com/~deepend/twtxt.txt
 # follow = dgold https://dgold.eu/twtxt.txt
+# follow = eaplmx https://twtxt.net/user/eaplmx/twtxt.txt
 # follow = edsu http://edsu.github.io/twtxt/twtxt.txt
 # follow = epifanio https://tilde.pt/~epifanio/twtxt.txt
 # follow = esc http://escowles.github.io/tw.txt
@@ -184,3 +185,7 @@
 2022-11-01T15:03:04Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> @<movq https://www.uninformativ.de/twtxt.txt> (#f45oiqq) I'll need to re isit the old thread to be sure if there isn't more to it than that, but if multiprotocol is the only reason, then we can allow "relative or full", so both scenarios are catered for, right?
 2022-11-01T17:50:01Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> @<movq https://www.uninformativ.de/twtxt.txt> (#f45oiqq):  Thanks!, reading that was useful.  It seems to me that the choice of 'relative' was meant to consider users' use cases (multi-protocol, moving the feeds from one place to another, etc.), without any added convenience to the clients, specifically. Thus, I'd argue that there is nothing against extending the spec to also allow full paths: current users are unnafected, and we'd be catering for new/other use cases.  Yes, I do realize that would mean this would have to go into a new version of the spec, and clients would have to implement it in order to comply with the new version of the spec.
 2022-11-01T17:58:15Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> @<movq https://www.uninformativ.de/twtxt.txt> (#f45oiqq) I created [an issue](https://git.mills.io/yarnsocial/yarn/issues/1057) so we can have this conversation outside of twtxt.
+2022-11-02T15:03:10Z	Portuguese Prime Minister: In September, he wants a [new airport](https://www.dn.pt/politica/reuniao-entre-antonio-costa-e-luis-montenegro-chegou-ao-fim-15192503.html), in October he wants a [new gas pipeline](), in November he'll go to #<COP27 https://twtxt.net/search?tag=COP27> to claim Portugal is [in the frontline in the decarbonization process](https://www.publico.pt/2022/11/02/azul/noticia/antonio-costa-vai-defender-transicao-ambiental-inclusiva-cop27-2026150). :shrug:
+2022-11-04T00:17:04Z	![](https://upload.wikimedia.org/wikipedia/en/8/8e/Worms2-cover.jpg) **Worms 2** was released a quarter of century ago. A game I've played countless hours, many of them with a Moonspell CD on the drive, which would make the game play songs from it (specially "Opium").
+2022-11-04T02:06:46Z	@<eaplmx https://twtxt.net/user/eaplmx/twtxt.txt> (#xucdwea) Well, wow! Only now I am learning about [Microsoft Game Shop](https://www.betaarchive.com/forum/viewtopic.php?t=38315)... But I was a Nibbles player! ![](https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Nibbles_screenshot.png/220px-Nibbles_screenshot.png)
+2022-11-04T10:35:32Z	[SIMON KOFE: “EMBORA EXISTAM VÁRIOS FUNDOS CLIMÁTICOS, TEMOS MUITA DIFICULDADE EM ACEDER-LHES”](https://www.setentaequatro.pt/entrevista/simon-kofe-embora-existam-varios-fundos-climaticos-temos-muita-dificuldade-em-aceder), uma entrevista ao Governo de um país cuja terra está a desaparecer.
