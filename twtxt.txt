@@ -4,7 +4,7 @@
 #
 # Learn more about twtxt at  https://github.com/buckket/twtxt
 #
-# This is hosted by a Yarn.social pod twtxt.net running yarnd edge@2051fb40
+# This is hosted by a Yarn.social pod twtxt.net running yarnd 0.15.1@da7a0bba
 # Learn more about Yarn.social at https://yarn.social
 #
 # nick        = marado
@@ -12,7 +12,7 @@
 # avatar      = https://twtxt.net/user/marado/avatar#ryd3lwrkaujef7nemdf3jt6ggzb2rarlcsrsttbxltuxi7alg43q
 # description = https://tilde.pt/~marado
 #
-# followers   = 11
+# followers   = 12
 # following   = 82
 ##
 # follow = 71m https://timmorgan.org/twtxt.txt
@@ -189,3 +189,14 @@
 2022-11-04T00:17:04Z	![](https://upload.wikimedia.org/wikipedia/en/8/8e/Worms2-cover.jpg) **Worms 2** was released a quarter of century ago. A game I've played countless hours, many of them with a Moonspell CD on the drive, which would make the game play songs from it (specially "Opium").
 2022-11-04T02:06:46Z	@<eaplmx https://twtxt.net/user/eaplmx/twtxt.txt> (#xucdwea) Well, wow! Only now I am learning about [Microsoft Game Shop](https://www.betaarchive.com/forum/viewtopic.php?t=38315)... But I was a Nibbles player! ![](https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Nibbles_screenshot.png/220px-Nibbles_screenshot.png)
 2022-11-04T10:35:32Z	[SIMON KOFE: “EMBORA EXISTAM VÁRIOS FUNDOS CLIMÁTICOS, TEMOS MUITA DIFICULDADE EM ACEDER-LHES”](https://www.setentaequatro.pt/entrevista/simon-kofe-embora-existam-varios-fundos-climaticos-temos-muita-dificuldade-em-aceder), uma entrevista ao Governo de um país cuja terra está a desaparecer.
+2022-11-05T02:34:23Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> @<movq https://www.uninformativ.de/twtxt.txt> (#t5ntmoa) I lived the first ten years of my life in an apartment, the upstairs neighbors had a piano, the only music played there, at least once a day every day, was Für Elise. She didn't master the song before I moved, but I think of this every time I hear the song.
+2022-11-05T03:37:42Z	Sometimes I get terrified for some moments with the naïvity of the greedy. As an example, when people advocate AI-generated stuff can/should be copyrightable, under the expectation that they'll be making some money from that, without realizing about the impact of the repercussions of what they propose, also to themselves...
+2022-11-05T13:13:14Z	@<eaplmx https://twtxt.net/user/eaplmx/twtxt.txt> @<movq https://www.uninformativ.de/twtxt.txt> (#t5ntmoa) ask me again in an year 🙊
+2022-11-06T00:22:43Z	@<eaplmx https://twtxt.net/user/eaplmx/twtxt.txt> (#pd4brpq) To add to those challenges, there is yet another legal requirement in many electroral systems: it needs to be understandable and scrutinizeable by "random people". There is an understanding that, in the EU, this requirement exists independently on any specific requirement for it, due to nr. 1 of art. 5 of the GDPR (the "transparent manner" bit).
+2022-11-06T01:08:07Z	@<eaplmx https://twtxt.net/user/eaplmx/twtxt.txt> (#pd4brpq) Yes, the **regardless** part is what scares me... In Portugal the major parties want it for general elections, *despite* what I said above applying to us. There have been talks about a constitutional revision to allow it, but they're purposefully ignoring that no amount of national legislation is going to make it GDPR-compliant...
+2022-11-06T15:47:41Z	@<movq https://www.uninformativ.de/twtxt.txt> @<eaplmx https://twtxt.net/user/eaplmx/twtxt.txt> (#xxntema) there's an online service for that, https://www.lulu.com/pricing
+2022-11-06T16:23:14Z	There are many interesting things to observe in this recent Twitter exodus (and the boost it is giving to Mastodon's adoption). One of them is that I haven't read even once yet about someone who's "leaving Twitter for Facebook" or something like that: officially, Facebook is no longer a "social media alternative" to Twitter users.
+2022-11-06T17:59:03Z	One of the things that attracts me about the "twtxt social network" is how radically decentralized it is. Not only each user is its own node (maintaining its own text file feed), there's no limits to the protocols used to access each feed. Sure, most of the feeds are probably being served over http or https, but there are feeds being served over gopher, and I bet some of them over ftp/ftps. But it doesn't have to be that way - feeds can be distributed in any modern equivalent to the sneakernet, you can save yours in a usb stick or a floppy disk, hand it over by hand or send it via postal mail; you can distributed them on a mailing list, on the usernet... The limit is your imagination. This reflection made me realize that there's no reason to wait for secushare, twtxt feeds can already be used, shared, maintained and spread on GNUnet, taking this social media platform to the GNU Internet.
+2022-11-06T18:39:47Z	Thinking about reviving (#<xi7nivq https://twtxt.net/search?tag=xi7nivq>) - the idea of managing bashblog comments with twtxt instead of leading people to Twitter.
+2022-11-06T21:39:40Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (#xd7fidq) You [said](https://search.twtxt.net/twt/xv3wsla) it would work nicely, but I'd love to hear more about how you (and others) see this being done...
+2022-11-07T00:32:20Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (#xd7fidq) I was thinking more on something along the lines of the current twitter "integration", but now that I think more about it, I realize that [darch's suggestion](https://neotxt.dk/twt/flsa37q) has more merit than what I initially realized. The blog comments system can be a twtxt feed, each entry a new twt/hash, each user comment referring to that hash.
