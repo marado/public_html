@@ -4,7 +4,7 @@
 #
 # Learn more about twtxt at  https://github.com/buckket/twtxt
 #
-# This is hosted by a Yarn.social pod twtxt.net running yarnd 0.15.1@44cb50fb
+# This is hosted by a Yarn.social pod twtxt.net running yarnd 0.15.1@705ffa5d
 # Learn more about Yarn.social at https://yarn.social
 #
 # nick        = marado
@@ -12,12 +12,13 @@
 # avatar      = https://twtxt.net/user/marado/avatar#ryd3lwrkaujef7nemdf3jt6ggzb2rarlcsrsttbxltuxi7alg43q
 # description = https://tilde.pt/~marado
 #
-# followers   = 12
-# following   = 83
+# followers   = 14
+# following   = 84
 ##
 # follow = 71m https://timmorgan.org/twtxt.txt
 # follow = 8ball https://domgoergen.com/twtxt/8ball.txt
 # follow = abliss https://abliss.keybase.pub/twtxt.txt#7a778276dd852edc65217e759cba637a28b4426b
+# follow = abucci https://anthony.buc.ci/user/abucci/twtxt.txt
 # follow = adi https://twtxt.net/user/adi/twtxt.txt
 # follow = akraut https://akraut.keybase.pub/twtxt.txt
 # follow = alip https://dev.exherbo.org/~alip/twtxt.txt
@@ -203,3 +204,17 @@
 2022-11-07T00:32:20Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (#xd7fidq) I was thinking more on something along the lines of the current twitter "integration", but now that I think more about it, I realize that [darch's suggestion](https://neotxt.dk/twt/flsa37q) has more merit than what I initially realized. The blog comments system can be a twtxt feed, each entry a new twt/hash, each user comment referring to that hash.
 2022-11-08T01:20:18Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (#xd7fidq) tbf, microblogs as comment systems might just be a wrong idea. I was led towards it by the current twitter implementation on bashblog (which I use), but the more I think about it the more I suspect that it just is the wrong tool for the job.
 2022-11-10T01:39:36Z	«Sabemos que fazemos parte de uma massa crítica global que hoje constitui uma fenda de esperança perante o desastre da sociedade capitalista. A mudança de rumo pode começar a partir da alimentação, do sector primário e do mundo rural.»  [Por um sistema alimentar baseado na agroecologia e na soberania alimentar](https://www.jornalmapa.pt/2022/11/08/juntos-por-el-campo-juntas-pela-vida/)
+2022-11-10T19:26:35Z	@<mckinley https://twtxt.net/user/mckinley/twtxt.txt> @<lyse https://lyse.isobeef.org/twtxt-2022-07.txt> (#hl4muca) The link rel bit is because the feed can have relative urls. ie, if it is on http://example.com/feed, in can have somewhere in there a <img src="icon.jpg"/> for eg.. If I download that feed I to my hard-drive and then try to render it, I need to know that "icon.jpg" is relative to http://example.com/feed, ie, that I will find it at http://example.com/icon.jpg (and not locally, next to the feed file I downloaded).  I hope my explanation makes sense...
+2022-11-11T02:13:36Z	Frase do dia:  ![《Não podemos descarbonizar as cidades, à custa da contaminação das aldeias》](https://twtxt.net/media/ZSqwqrVFFVodyvMqfX3vT3.png)
+2022-11-11T04:30:03Z	@<abucci https://anthony.buc.ci/user/abucci/twtxt.txt> @<prologic https://twtxt.net/user/prologic/twtxt.txt> (#lvyyusq) (Possibly offtopic, but) I actually have been feeling the pain of saying (verbally, out loud) both twt and twtxt. How do you do it?
+2022-11-11T13:32:52Z	Para atingir a meta de não ultrapassar os 1.5ºC até 2030, preciamos de [reduzir para metade](https://www.theguardian.com/environment/2022/nov/10/carbon-emissions-from-fossil-fuels-will-hit-record-high-in-2022-climate-crisis) as nossas emissões de CO2 até ao final da década. Mas, em vez de prestar atenção para isso, Costa foca-se no objectivo de 2050 (quiçá porque está mais longe), e aparenta estar mesmo interessado em resolver o problema da crise climática, ao ponto de [sugerir antecipar os objectivos para lá, de 2050 para 2045](https://www.motor24.pt/noticias/cop27-portugal-propoe-se-antecipar-de-2050-para-2045-neutralidade-carbonica/1578595/). E, enquanto chama a atenção para essa "atitude positiva", espera que ninguén note que [Portugal está em falta - no pesente - no cumprimento dos seus compromissos tomados para a acção climática](https://www.publico.pt/2022/11/09/azul/noticia/portugal-nao-contribuiu-accao-climatica-2026941).
+2022-11-11T13:41:56Z	(#lvyyusq) @<eaplmx https://twtxt.net/user/eaplmx/twtxt.txt> "twt=tweet, and twtxt=tweetext" seems great, I'll adopt those! Maybe there should be a glossary (including this 'preference') somewhere on yarn.social ...
+2022-11-11T13:43:12Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt>, are there any plans to add the ability of full text search on yarn pods? Is this something I should open an issue/feature request for?
+2022-11-11T18:09:05Z	(#4ildduq) @<dfaria https://twtxt.net/user/dfaria/twtxt.txt> True! I suppose I'd like the 'search' section on twtxt.net to work like search.twtxt.net (or even post to there, I wouldn't mind if pressing the search button would take me to search.twtxt.net ...)
+2022-11-11T20:43:12Z	Desde o dia 7 de novembro que 6 escolas em Lisboa se encontram [ocupadas por estudantes que exigem o fim ao fóssil](https://www.jornalmapa.pt/2022/11/11/pelo-fim-ao-fossil-ocupa/). A ocupação deverá acabar amanhã, porque "Dia 12 de novembro, dia mundial pela Justiça Climática, irão todas à manifestação «Unir Contra o Fracasso Climático», marcada para as 14h da tarde no Campo Pequeno, em Lisboa."
+2022-11-11T23:03:51Z	@<rsdoiel https://twtxt.net/user/rsdoiel/twtxt.txt> @<prologic https://twtxt.net/user/prologic/twtxt.txt> (#2utweua) Maybe a bit offtopic, but:  If I pull twtxt.net's feed, change its URL and sync the changed file back into twtxt.net, will the feed in the pod retain the new URL? Even if then I keep editing the feed by posting into it using the pod?
+2022-11-12T01:25:28Z	@<eaplmx https://twtxt.net/user/eaplmx/twtxt.txt> @<darch https://twtxt.net/user/darch/twtxt.txt> @<prologic https://twtxt.net/user/prologic/twtxt.txt> (#l7l2iaq) careful, think too long about this and you'll end writing a protocol for the equivalent of twitter's polls... 😇
+2022-11-12T01:31:18Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> @<eaplmx https://twtxt.net/user/eaplmx/twtxt.txt> (#l7l2iaq) I'm not sure what are you looking for exactly, but framadate is (to me) quite more powerful than doodle, and free software... a [rewrite](https://framagit.org/framasoft/framadate/funky-framadate-front) was being worked on, but lacking contributors... you might see that as either a good or a bad thing!
+2022-11-12T02:03:29Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (#pxtoksq) no thoughts, just curious! I first assumed it wasn't possible, but your comment made me think it might be. And now that *you* aren't sure, I'm starting to worry 😅
+2022-11-12T19:12:29Z	Estou sempre a mandar vir com quem gosta de anunciar a vindoura morte das coisas, [em especial cassetes](https://tilde.pt/~marado/blog/are-cassette-tapes-dead-again.html)... Mas só agora dou o devido valor ao artigo onde a Exame Informática anunciava a morte da cassete... em 1997, há um quarto de século! ![foto de artigo numa revista de 97, entitulado "O fim da cassete?"](https://twtxt.net/media/adubHBTR4uqwujDvrJnch9.png)
+2022-11-15T15:10:06Z	Ouvi as entrevistas de [Paulo Raimundo](https://pt.wikipedia.org/wiki/Paulo_Raimundo) à RTP e à CNN. Gostei do que ouvi (dele). Sei que as entrevistas foram curtas e necessariamente não-exaustivas, mas entristece-me não ter ouvido nenhuma referência à crise climática.
