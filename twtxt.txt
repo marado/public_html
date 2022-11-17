@@ -4,7 +4,7 @@
 #
 # Learn more about twtxt at  https://github.com/buckket/twtxt
 #
-# This is hosted by a Yarn.social pod twtxt.net running yarnd 0.15.1@705ffa5d
+# This is hosted by a Yarn.social pod twtxt.net running yarnd 0.15.1@38f05adb
 # Learn more about Yarn.social at https://yarn.social
 #
 # nick        = marado
@@ -12,8 +12,8 @@
 # avatar      = https://twtxt.net/user/marado/avatar#ryd3lwrkaujef7nemdf3jt6ggzb2rarlcsrsttbxltuxi7alg43q
 # description = https://tilde.pt/~marado
 #
-# followers   = 14
-# following   = 84
+# followers   = 15
+# following   = 85
 ##
 # follow = 71m https://timmorgan.org/twtxt.txt
 # follow = 8ball https://domgoergen.com/twtxt/8ball.txt
@@ -71,6 +71,7 @@
 # follow = nblade http://nblade.sdf.org/twtxt/twtxt.txt
 # follow = news https://twtxt.net/user/news/twtxt.txt
 # follow = news@yarn.andrewjvpowell.com https://yarn.andrewjvpowell.com/user/news/twtxt.txt
+# follow = paulasimoes@mastodon.social https://feeds.twtxt.net/paulasimoes@mastodon.social/twtxt.txt
 # follow = pelmel http://pelmel.org/twtxt.txt
 # follow = prologic https://twtxt.net/user/prologic/twtxt.txt
 # follow = quite https://lublin.se/twtxt.txt
@@ -221,3 +222,7 @@
 2022-11-16T01:07:38Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (#nkrwwha) plannning a new feature for feeds.twtxt.net ?
 2022-11-16T10:42:04Z	Who could have seen this coming... According to The [Spiegel](https://www.spiegel.de/politik/deutschland/berlin-abgeordnetenhauswahl-muss-wiederholt-werden-a-a1073aa1-6f5d-49cc-be2c-40a5fd9f0971):  "After election mishaps and massive organizational problems in the elections in Berlin on September 26, 2021, the Berlin Constitutional Court declared the elections to the House of Representatives and the district assemblies to be invalid. They have to be repeated in their entirety."
 2022-11-16T15:50:24Z	O [sumário mais lúcido](https://www.dn.pt/opiniao/paulo-raimundo-descobriu-os-culpados-da-guerra-15356073.html) que já li até hoje sobre a posição do PCP quanto à guerra na Ucrânia.
+2022-11-17T01:32:40Z	(#nkrwwha) @<prologic https://twtxt.net/user/prologic/twtxt.txt>  ![screenshot of error while testing](https://twtxt.net/media/5Vr643fRYGdNWUuUhctJWm.png)
+2022-11-17T01:35:35Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (#nkrwwha) oh, I see ejat I did wrong, extra @
+2022-11-17T01:37:59Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (#nkrwwha) I don't know enough about mastodon to be sure
+2022-11-17T01:42:20Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (#nkrwwha) Well, I just went to confirm, and people are referring to their presence on mastodon with the initial @, so... yes, better support both formats!
