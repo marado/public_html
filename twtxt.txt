@@ -4,19 +4,22 @@
 #
 # Learn more about twtxt at  https://github.com/buckket/twtxt
 #
-# This is hosted by a Yarn.social pod twtxt.net running yarnd 0.15.1@38f05adb
+# This is hosted by a Yarn.social pod twtxt.net running yarnd edge@f5a9213e
 # Learn more about Yarn.social at https://yarn.social
 #
 # nick        = marado
 # url         = https://twtxt.net/user/marado/twtxt.txt
 # avatar      = https://twtxt.net/user/marado/avatar#ryd3lwrkaujef7nemdf3jt6ggzb2rarlcsrsttbxltuxi7alg43q
-# description = https://tilde.pt/~marado
+# description = Systems Engineer, Free Software advocate, Musician, Virtual World God.
 #
 # followers   = 15
 # following   = 85
-##
+#
+# link = my website https://tilde.pt/~marado
+#
 # follow = 71m https://timmorgan.org/twtxt.txt
 # follow = 8ball https://domgoergen.com/twtxt/8ball.txt
+# follow = @gretathunberg@mastodon.nu https://feeds.twtxt.net/@gretathunberg@mastodon.nu/twtxt.txt
 # follow = abliss https://abliss.keybase.pub/twtxt.txt#7a778276dd852edc65217e759cba637a28b4426b
 # follow = abucci https://anthony.buc.ci/user/abucci/twtxt.txt
 # follow = adi https://twtxt.net/user/adi/twtxt.txt
@@ -48,7 +51,6 @@
 # follow = fundor333 https://fundor333.com/twtxt.txt
 # follow = gbmor https://gbmor.dev/twtxt.txt
 # follow = gil https://tilde.pt/~gil/twtxt.txt
-# follow = hacker-news https://feeds.twtxt.net/hacker-news/twtxt.txt
 # follow = hjertnes https://hjertnes.social/twtxt.txt
 # follow = jb55 https://jb55.com/twtxt.txt
 # follow = jcolag https://john.colagioia.net/twtxt.txt
@@ -226,3 +228,9 @@
 2022-11-17T01:35:35Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (#nkrwwha) oh, I see ejat I did wrong, extra @
 2022-11-17T01:37:59Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (#nkrwwha) I don't know enough about mastodon to be sure
 2022-11-17T01:42:20Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (#nkrwwha) Well, I just went to confirm, and people are referring to their presence on mastodon with the initial @, so... yes, better support both formats!
+2022-11-18T10:33:39Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (#mquslkq) it works, but Collabora Office works better (or did?). Both have integration with nextcloud which makes hosting it way easier.
+2022-11-18T11:29:21Z	(#d2jih3q) @<abucci https://anthony.buc.ci/user/abucci/twtxt.txt> ![a screenshot of twitter's trending hashtags](https://twtxt.net/media/hC6kSizNMjvXMMYPeZC8nZ.png)
+2022-11-18T15:39:07Z	No ano passado falava-se em termos o [comboio a chegar a todas as cidades com mais e 20 mil habitantes](https://www.dn.pt/dinheiro/comboio-devera-chegar-a-todos-os-distritos-e-cidades-com-mais-de-20-mil-habitantes-13589596.html), mas ontem o documento aprovado para ir para consulta pública fala só em [28 centros urbanos](https://adfersit.pt/docs/pfn-apresentacao-17-11-2022.pdf), num projecto "sem fixação de prazo, mas com um horizonte indicativo de 2050". Para que conste, [em 2021 havia 120 municípios com mais de 20 mil habitantes](https://pt.wikipedia.org/wiki/Lista_de_munic%C3%ADpios_de_Portugal_por_popula%C3%A7%C3%A3o).
+2022-11-19T23:33:16Z	(#bawug6q) @<eaplmx https://twtxt.net/user/eaplmx/twtxt.txt> Tough, I like it! ![a screenshot of the game's stats: lost with only 7 lines made](https://twtxt.net/media/y3Seaa79PRjWFfwytvdUEQ.png)
+2022-11-19T23:55:38Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (#u7lvl4q) Well, basically I refer to a "radical decentralization", with twtxt you don't *need* to host a pod or maintain any software, nor rely on any 3rd parties, you can simply manage a text file, and make it available however works best for you. It provides a quite refreshing sort of independence I mostly miss from the internet of decades ago. Mastodon is nice, but it doesn't give you /that/.
+2022-11-20T01:03:13Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (#u7lvl4q) yup, I have nothing but ❤️ for all the work you have been doing around it!👍
