@@ -4,7 +4,7 @@
 #
 # Learn more about twtxt at  https://github.com/buckket/twtxt
 #
-# This is hosted by a Yarn.social pod twtxt.net running yarnd edge@f5a9213e
+# This is hosted by a Yarn.social pod twtxt.net running yarnd edge@2741a059
 # Learn more about Yarn.social at https://yarn.social
 #
 # nick        = marado
@@ -13,7 +13,7 @@
 # description = Systems Engineer, Free Software advocate, Musician, Virtual World God.
 #
 # followers   = 15
-# following   = 85
+# following   = 86
 #
 # link = my website https://tilde.pt/~marado
 #
@@ -60,6 +60,7 @@
 # follow = kevin https://txt.om.gay/twtxt.txt
 # follow = lahvak http://lahvak.github.io/twtxt/twtxt.txt
 # follow = leo https://www.gkbrk.com/twtxt.txt
+# follow = logout http://i-logout.cz/twtxt.txt
 # follow = lucidiot https://tilde.town/~lucidiot/twtxt.txt
 # follow = marado https://twtxt.net/user/marado/twtxt.txt
 # follow = marado@twitter https://feeds.twtxt.net/marcos-marado-atmind_booster/twtxt.txt
@@ -241,3 +242,7 @@
 2022-11-23T21:32:57Z	@<slashdot https://feeds.twtxt.net/slashdot/twtxt.txt> @<eaplmx https://twtxt.net/user/eaplmx/twtxt.txt> (#we6if3q) we're getting more limited in what we can do on a consumer level (boycotting is not always an option, for eg. all cars in the EU *must* have software, and no options exist in the market where it is free software), but beyond voting with the wallet, we can also vote in politics and policies, as much more can be done in a regulatory level. in Europe [it is possible to protect users a bit from DRM](https://fsfe.org/news/2019/news-20191113-01.en.html), and [we now want the right to install whatever we want on our devices](https://fsfe.org/news/2022/news-20221121-01.en.html), just to give a couple of examples.
 2022-11-24T00:40:46Z	@<mckinley https://twtxt.net/user/mckinley/twtxt.txt> @<eaplmx https://twtxt.net/user/eaplmx/twtxt.txt> (#zffutwq) There's zero evidence that DRM hinders piracy, plenty of evidence that it harms both consumers and artists. There's plenty of good stuff written about it, Doctorow is a personal favorite author of mine. Here's [one sort of random text of his about DRM](https://locusmag.com/2019/09/cory-doctorow-drm-broke-its-promise/).
 2022-11-24T00:43:03Z	@<eaplmx https://twtxt.net/user/eaplmx/twtxt.txt> @<mckinley https://twtxt.net/user/mckinley/twtxt.txt> (#zffutwq) To be fair, tapes have a better longevity than CDs, and nothing compared to vinyl. But I do agree with what you said (and also have a mild collector addiction to music in all those formats).
+2022-11-26T03:20:58Z	@<paulasimoes https://feeds.twtxt.net/paulasimoes@mastodon.social/twtxt.txt> (#tlsbr5a) signed!
+2022-11-26T03:23:31Z	@<slashdot https://feeds.twtxt.net/slashdot/twtxt.txt> @<eaplmx https://twtxt.net/user/eaplmx/twtxt.txt> (#we6if3q) Still to reply to the "what can be done?" question, here's one thing: each of us can sign [this open letter](https://twtxt.net/twt/tlsbr5a)
+2022-11-26T03:39:25Z	@<abucci https://anthony.buc.ci/user/abucci/twtxt.txt> (#rqifctq) Definitely going into my bag of tools!
+2022-11-26T04:08:04Z	@<eaplmx https://twtxt.net/user/eaplmx/twtxt.txt> @<prologic https://twtxt.net/user/prologic/twtxt.txt> (#c7ky5ya) Only 30C more than here, no biggie!
