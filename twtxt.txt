@@ -4,7 +4,7 @@
 #
 # Learn more about twtxt at  https://github.com/buckket/twtxt
 #
-# This is hosted by a Yarn.social pod twtxt.net running yarnd edge@5923078e
+# This is hosted by a Yarn.social pod twtxt.net running yarnd edge@cc328e9e
 # Learn more about Yarn.social at https://yarn.social
 #
 # nick        = marado
@@ -247,3 +247,4 @@
 2022-11-26T03:39:25Z	@<abucci https://anthony.buc.ci/user/abucci/twtxt.txt> (#rqifctq) Definitely going into my bag of tools!
 2022-11-26T04:08:04Z	@<eaplmx https://twtxt.net/user/eaplmx/twtxt.txt> @<prologic https://twtxt.net/user/prologic/twtxt.txt> (#c7ky5ya) Only 30C more than here, no biggie!
 2022-11-28T00:08:29Z	Faz hoje 15 anos que se tentou trazer a ideia de "three strikes and you're out" para o [combate à pirataria em Portugal](https://tilde.pt/~marado/pelaarte.html).
+2022-11-28T12:37:36Z	[COP27 e a competição de narrativas: O pior da COP27 é estar cara a cara com as consequências”](https://shifter.pt/2022/11/cop27-competicao-narrativas/)
