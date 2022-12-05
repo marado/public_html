@@ -4,7 +4,7 @@
 #
 # Learn more about twtxt at  https://github.com/buckket/twtxt
 #
-# This is hosted by a Yarn.social pod twtxt.net running yarnd edge@cc328e9e
+# This is hosted by a Yarn.social pod twtxt.net running yarnd 0.15.1@3b12663b
 # Learn more about Yarn.social at https://yarn.social
 #
 # nick        = marado
@@ -13,13 +13,14 @@
 # description = Systems Engineer, Free Software advocate, Musician, Virtual World God.
 #
 # followers   = 15
-# following   = 86
+# following   = 87
 #
 # link = my website https://tilde.pt/~marado
 #
 # follow = 71m https://timmorgan.org/twtxt.txt
 # follow = 8ball https://domgoergen.com/twtxt/8ball.txt
 # follow = @gretathunberg@mastodon.nu https://feeds.twtxt.net/@gretathunberg@mastodon.nu/twtxt.txt
+# follow = Gopher Chat http://magical.fish:70/feeds/twtxt/twtxt.txt
 # follow = abliss https://abliss.keybase.pub/twtxt.txt#7a778276dd852edc65217e759cba637a28b4426b
 # follow = abucci https://anthony.buc.ci/user/abucci/twtxt.txt
 # follow = adi https://twtxt.net/user/adi/twtxt.txt
@@ -248,3 +249,10 @@
 2022-11-26T04:08:04Z	@<eaplmx https://twtxt.net/user/eaplmx/twtxt.txt> @<prologic https://twtxt.net/user/prologic/twtxt.txt> (#c7ky5ya) Only 30C more than here, no biggie!
 2022-11-28T00:08:29Z	Faz hoje 15 anos que se tentou trazer a ideia de "three strikes and you're out" para o [combate à pirataria em Portugal](https://tilde.pt/~marado/pelaarte.html).
 2022-11-28T12:37:36Z	[COP27 e a competição de narrativas: O pior da COP27 é estar cara a cara com as consequências”](https://shifter.pt/2022/11/cop27-competicao-narrativas/)
+2022-11-30T00:19:08Z	@<marcos-marado-atmind_booster https://feeds.twtxt.net/marcos-marado-atmind_booster/twtxt.txt> (#q4rzyea) What's going on with Nitter? Musk's twitter changes breaking it?
+2022-12-01T01:56:41Z	@<slashdot https://feeds.twtxt.net/slashdot/twtxt.txt> (#qmq3rxq) Finally, an alternative to Samsung on five-year security updates. Hoping others will follow.
+2022-12-01T15:21:01Z	(#nepm7va) @<prologic https://twtxt.net/user/prologic/twtxt.txt> I suppose that should be noted both on the spec and client implementations. At least your client doesn't deal very well with it...
+2022-12-01T20:28:37Z	My "Spotify Wrap" of 2022 is that I didn't use Spotify during the year. 🥳✌️
+2022-12-02T00:51:53Z	@<xuu https://txt.sour.is/user/xuu/twtxt.txt> @<eaplmx https://twtxt.net/user/eaplmx/twtxt.txt> (#lwj2rdq) That would be 28800, before the 33600 bps modems.
+2022-12-03T09:59:06Z	Em Portugal, [agricultura não cumpre a meta climática para 2020 e está em risco de falhar a meta para 2030](https://zero.ong/agricultura-nao-cumpre-a-meta-climatica-para-2020-e-esta-em-risco-de-falhar-a-meta-para-2030/).
+2022-12-03T10:40:46Z	Hurricane, Red Hat 5.0, was released 25 years ago ([december 1st, 1997](https://en.m.wikipedia.org/wiki/Red_Hat_Linux)). It came out as a 2CD installation, even if it was quite common to find one-CD editions of it being shipped with magazines and used all around. You'd need to have at least 8Mb of RAM in order to indulge in this release, which marked a milestone for many of us.
