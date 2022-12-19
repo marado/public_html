@@ -4,7 +4,7 @@
 #
 # Learn more about twtxt at  https://github.com/buckket/twtxt
 #
-# This is hosted by a Yarn.social pod twtxt.net running yarnd edge@1c10cf95
+# This is hosted by a Yarn.social pod twtxt.net running yarnd edge@1103937e
 # Learn more about Yarn.social at https://yarn.social
 #
 # nick        = marado
@@ -13,7 +13,7 @@
 # description = Systems Engineer, Free Software advocate, Musician, Virtual World God.
 #
 # followers   = 15
-# following   = 87
+# following   = 88
 #
 # link = my website https://tilde.pt/~marado
 #
@@ -75,6 +75,7 @@
 # follow = nblade http://nblade.sdf.org/twtxt/twtxt.txt
 # follow = news https://twtxt.net/user/news/twtxt.txt
 # follow = news@yarn.andrewjvpowell.com https://yarn.andrewjvpowell.com/user/news/twtxt.txt
+# follow = paulasimoes-toots https://feeds.twtxt.net/paulasimoes@ciberlandia.pt/twtxt.txt
 # follow = paulasimoes@mastodon.social https://feeds.twtxt.net/paulasimoes@mastodon.social/twtxt.txt
 # follow = pelmel http://pelmel.org/twtxt.txt
 # follow = prologic https://twtxt.net/user/prologic/twtxt.txt
@@ -263,3 +264,8 @@
 2022-12-12T14:06:25Z	2022 is about to end, and there are still official services that send SMS texts to people telling them to follow links to https://bit.ly/somewhere . Educating people against phishing gets hard, when services' customers are educated like this...
 2022-12-13T02:17:08Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (#og2tesq) they actually have a [nice write-up](https://machdyne.com/2022/01/12/timeless-computing/) about the "why's". And you know what? Now I'm sort of wishing I had one...
 2022-12-16T01:17:44Z	[Cerca de 40 ativistas climáticos concentrados junto à Faculdade de Letras da Universidade de Lisboa](https://observador.pt/2022/12/16/cerca-de-40-ativistas-climaticos-concentrados-junto-a-faculdade-de-letras-da-universidade-de-lisboa/), "pretendem passar a noite à porta da Faculdade de Letras da Universidade de Lisboa em solidariedade pelas colegas detidas que serão julgadas esta sexta-feira por desobediência civil."
+2022-12-16T22:20:26Z	Today is #<DayAgainstDRM https://twtxt.net/search?tag=DayAgainstDRM>! Since this year's topic is #<FreedomtoShare, https://twtxt.net/search?tag=FreedomtoShare,> I'll celebrate it by starting to read a book from the local library! ![A picture of a library book](https://twtxt.net/media/MxeUnbe5e34UUVMyxomHYA.png) And you, what are your plans for [Day Against DRM](https://www.defectivebydesign.org/dayagainstdrm)?
+2022-12-17T18:58:09Z	@<eaplmx https://twtxt.net/user/eaplmx/twtxt.txt> (#hwp4cqa) is the [guide to a DRM-free living](https://www.defectivebydesign.org/guide) useful?
+2022-12-18T00:56:35Z	Nothing like a deadline to force you to do something... this year I'll be celebrating the Winter Solstice by playing at [Tidal Club's Night Stream](https://sun.tidalcycles.org/) (under the Merankorii moniker).  Now I just need to learn TidalCycles! 😇
+2022-12-18T18:19:42Z	[Twitter has a new "social platforms" policy](https://help.twitter.com/en/rules-and-policies/social-platforms-policy)... is it maddening? Hilarious? Ridiculous? All of the above? I laughed, but to be clear, I don't think 'funny' is a good way to describe it.
+2022-12-19T16:49:37Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (#2u3rigq) Well, the devil is in the details: what did he meant by that? Maybe [nothing good](https://twitter.com/elonmusk/status/1604628761395138561?t=0jHvVFbjHerbQuu-nA4dcw&s=19)...
