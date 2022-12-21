@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:planet="http://planet.intertwingly.net/" xmlns:indexing="urn:atom-extension:indexing" indexing:index="no"><access:restriction xmlns:access="http://www.bloglines.com/about/specs/fac-1.0" relationship="deny"/>
   <title>Planeta Tilde</title>
-  <updated>2022-10-27T12:20:02Z</updated>
+  <updated>2022-12-21T13:20:03Z</updated>
   <generator uri="http://intertwingly.net/code/venus/">Venus</generator>
   <author>
     <name>Marcos Marado</name>
@@ -10,6 +10,45 @@
   <id>http://tilde.pt/~marado/planeta/atom.xml</id>
   <link href="http://tilde.pt/~marado/planeta/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="http://tilde.pt/~marado/planeta/" rel="alternate"/>
+
+  <entry xml:lang="en">
+    <id>https://tilde.pt/~marado/blog/./merankorii-live-at-club-tidals-night-stream.html</id>
+    <link href="https://tilde.pt/~marado/blog/merankorii-live-at-club-tidals-night-stream.html" rel="alternate" type="text/html"/>
+    <title>Merankorii Live at Club Tidal's Night Stream</title>
+    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p><img alt="Poster image for the festival" src="https://tilde.pt/~marado/blog/longestnight-sunset.svg" title=""/></p>
+
+<p>Celebrating the shortest?/longest? night (depending on where you are in the
+world), this year's Club Tidal solsice party is going to be a
+<a href="https://sun.tidalcycles.org/">24 hours festival</a>, and my solo musical project
+<a href="https://merankorii.blogspot.com/">Merankorii</a> is going to participate by
+playing Cycle #35 (if you're in Portugal, that will be at 21:20, on December
+21).</p>
+
+<p>As some of you know, Yule is when my birthday also is, so this is a special
+celebration for me...</p>
+
+<p>This online festival is going to be live streamed, so make sure to tune in
+during this 24h period and celebrate the Solstice by witnessing to people from
+all over the world livecoding sounds for your pleasure! </p>
+
+<p>tags: <a href="https://tilde.pt/~marado/blog/tag_Merankorii.html">Merankorii</a>, <a href="https://tilde.pt/~marado/blog/tag_live.html">live</a>, <a href="https://tilde.pt/~marado/blog/tag_music.html">music</a>, <a href="https://tilde.pt/~marado/blog/tag_tidalcycles.html">tidalcycles</a>, <a href="https://tilde.pt/~marado/blog/tag_algorave.html">algorave</a>, <a href="https://tilde.pt/~marado/blog/tag_concert.html">concert</a>, <a href="https://tilde.pt/~marado/blog/tag_en.html">en</a></p>
+
+<p id="twitter"><a href="http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/merankorii-live-at-club-tidals-night-stream.html&amp;text=&lt;escreve o coment&#xE1;rio aqui mas deixa o URL para outras pessoas poderem seguir os coment&#xE1;rios&gt;&amp;via=mind_booster">comentários? tweetar</a> 
+<a href="https://twitter.com/search?q=https://tilde.pt/~marado/blog/merankorii-live-at-club-tidals-night-stream.html"><span id="count-25153"/></a> </p></div>
+    </summary>
+    <updated>2022-12-19T23:37:40Z</updated>
+    <author>
+      <name>~marado</name>
+    </author>
+    <source>
+      <id>https://tilde.pt/~marado/blog/index.html</id>
+      <link href="https://tilde.pt/~marado/blog/index.html" rel="alternate" type="text/html"/>
+      <link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml"/>
+      <subtitle>a tildelog on tildeverse</subtitle>
+      <title>~marado's tildelog</title>
+      <updated>2022-12-19T23:38:35Z</updated>
+    </source>
+  </entry>
 
   <entry xml:lang="en">
     <id>https://tilde.pt/~rlafuente/blog/./novo-post.html</id>
@@ -80,7 +119,7 @@ participar no Hacktoberfest.</p>
       <link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml"/>
       <subtitle>a tildelog on tildeverse</subtitle>
       <title>~marado's tildelog</title>
-      <updated>2022-10-12T17:27:13Z</updated>
+      <updated>2022-12-19T23:38:35Z</updated>
     </source>
   </entry>
 
@@ -100,7 +139,7 @@ participar no Hacktoberfest.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2022-10-27T12:20:02Z</updated>
+      <updated>2022-12-21T13:20:02Z</updated>
     </source>
   </entry>
 
@@ -138,7 +177,7 @@ O lançamento deste livro vai ser já no próximo dia 5 de Junho, enquadrado no 
       <link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml"/>
       <subtitle>a tildelog on tildeverse</subtitle>
       <title>~marado's tildelog</title>
-      <updated>2022-10-12T17:27:13Z</updated>
+      <updated>2022-12-19T23:38:35Z</updated>
     </source>
   </entry>
 
@@ -196,7 +235,7 @@ O lançamento deste livro vai ser já no próximo dia 5 de Junho, enquadrado no 
       <link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml"/>
       <subtitle>a tildelog on tildeverse</subtitle>
       <title>~marado's tildelog</title>
-      <updated>2022-10-12T17:27:13Z</updated>
+      <updated>2022-12-19T23:38:35Z</updated>
     </source>
   </entry>
 
@@ -315,7 +354,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2022-10-27T12:20:02Z</updated>
+      <updated>2022-12-21T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -333,7 +372,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2022-10-27T12:20:02Z</updated>
+      <updated>2022-12-21T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -353,7 +392,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2022-10-27T12:20:02Z</updated>
+      <updated>2022-12-21T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -371,7 +410,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2022-10-27T12:20:02Z</updated>
+      <updated>2022-12-21T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -424,7 +463,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml"/>
       <subtitle>a tildelog on tildeverse</subtitle>
       <title>~marado's tildelog</title>
-      <updated>2022-10-12T17:27:13Z</updated>
+      <updated>2022-12-19T23:38:35Z</updated>
     </source>
   </entry>
 
@@ -446,7 +485,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2022-10-27T12:20:02Z</updated>
+      <updated>2022-12-21T13:20:02Z</updated>
     </source>
   </entry>
 
@@ -466,7 +505,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2022-10-27T12:20:02Z</updated>
+      <updated>2022-12-21T13:20:02Z</updated>
     </source>
   </entry>
 
@@ -488,7 +527,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2022-10-27T12:20:02Z</updated>
+      <updated>2022-12-21T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -522,7 +561,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2022-10-27T12:20:02Z</updated>
+      <updated>2022-12-21T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -540,7 +579,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2022-10-27T12:20:02Z</updated>
+      <updated>2022-12-21T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -562,7 +601,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2022-10-27T12:20:02Z</updated>
+      <updated>2022-12-21T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -584,7 +623,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2022-10-27T12:20:02Z</updated>
+      <updated>2022-12-21T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -602,7 +641,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2022-10-27T12:20:02Z</updated>
+      <updated>2022-12-21T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -622,7 +661,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2022-10-27T12:20:02Z</updated>
+      <updated>2022-12-21T13:20:02Z</updated>
     </source>
   </entry>
 
@@ -640,7 +679,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2022-10-27T12:20:02Z</updated>
+      <updated>2022-12-21T13:20:02Z</updated>
     </source>
   </entry>
 
@@ -680,7 +719,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2022-10-27T12:20:02Z</updated>
+      <updated>2022-12-21T13:20:02Z</updated>
     </source>
   </entry>
 
@@ -698,7 +737,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2022-10-27T12:20:02Z</updated>
+      <updated>2022-12-21T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -719,7 +758,7 @@ more at <a href="http://natashenka.ca/wp-content/uploads/2014/01/truebugswait8x1
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2022-10-27T12:20:02Z</updated>
+      <updated>2022-12-21T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -743,7 +782,7 @@ more at <a href="http://natashenka.ca/wp-content/uploads/2014/01/truebugswait8x1
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2022-10-27T12:20:02Z</updated>
+      <updated>2022-12-21T13:20:02Z</updated>
     </source>
   </entry>
 
@@ -787,7 +826,7 @@ those graphs, once again.</p>
       <link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml"/>
       <subtitle>a tildelog on tildeverse</subtitle>
       <title>~marado's tildelog</title>
-      <updated>2022-10-12T17:27:13Z</updated>
+      <updated>2022-12-19T23:38:35Z</updated>
     </source>
   </entry>
 
@@ -809,7 +848,7 @@ those graphs, once again.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2022-10-27T12:20:02Z</updated>
+      <updated>2022-12-21T13:20:02Z</updated>
     </source>
   </entry>
 
@@ -829,7 +868,7 @@ those graphs, once again.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2022-10-27T12:20:02Z</updated>
+      <updated>2022-12-21T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -847,7 +886,7 @@ those graphs, once again.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2022-10-27T12:20:02Z</updated>
+      <updated>2022-12-21T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -869,7 +908,7 @@ those graphs, once again.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2022-10-27T12:20:02Z</updated>
+      <updated>2022-12-21T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -891,7 +930,7 @@ those graphs, once again.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2022-10-27T12:20:02Z</updated>
+      <updated>2022-12-21T13:20:02Z</updated>
     </source>
   </entry>
 
@@ -911,7 +950,7 @@ those graphs, once again.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2022-10-27T12:20:02Z</updated>
+      <updated>2022-12-21T13:20:02Z</updated>
     </source>
   </entry>
 
@@ -929,7 +968,7 @@ those graphs, once again.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2022-10-27T12:20:02Z</updated>
+      <updated>2022-12-21T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -949,7 +988,7 @@ those graphs, once again.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2022-10-27T12:20:02Z</updated>
+      <updated>2022-12-21T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -992,7 +1031,7 @@ those graphs, once again.</p>
       <link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml"/>
       <subtitle>a tildelog on tildeverse</subtitle>
       <title>~marado's tildelog</title>
-      <updated>2022-10-12T17:27:13Z</updated>
+      <updated>2022-12-19T23:38:35Z</updated>
     </source>
   </entry>
 
@@ -1046,7 +1085,7 @@ those graphs, once again.</p>
       <link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml"/>
       <subtitle>a tildelog on tildeverse</subtitle>
       <title>~marado's tildelog</title>
-      <updated>2022-10-12T17:27:13Z</updated>
+      <updated>2022-12-19T23:38:35Z</updated>
     </source>
   </entry>
 
@@ -1064,7 +1103,7 @@ those graphs, once again.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2022-10-27T12:20:02Z</updated>
+      <updated>2022-12-21T13:20:02Z</updated>
     </source>
   </entry>
 
@@ -1084,7 +1123,7 @@ those graphs, once again.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2022-10-27T12:20:02Z</updated>
+      <updated>2022-12-21T13:20:03Z</updated>
     </source>
   </entry>
 
@@ -1102,7 +1141,7 @@ those graphs, once again.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2022-10-27T12:20:02Z</updated>
+      <updated>2022-12-21T13:20:02Z</updated>
     </source>
   </entry>
 
@@ -1387,28 +1426,6 @@ those graphs, once again.</p>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
       <updated>2021-07-05T09:20:04Z</updated>
-    </source>
-  </entry>
-
-  <entry>
-    <id>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Emulating-classic-computers</id>
-    <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Emulating-classic-computers" rel="alternate" type="text/html"/>
-    <title>Emulating classic computers in the browser</title>
-    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p><img alt="Classic macistosh running in the browser" src="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/classicComputers.jpg"/></p>
-
-<p>@ <a href="http://jamesfriend.com.au/pce-js/">jamesfriend.com.au</a></p></div>
-    </summary>
-    <updated>2021-03-11T10:20:05Z</updated>
-    <source>
-      <id>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/</id>
-      <author>
-        <name>N.S. do Computismo</name>
-      </author>
-      <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/" rel="alternate" type="text/html"/>
-      <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
-      <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
-      <title>Nossa Senhora do Computismo</title>
-      <updated>2021-07-04T09:20:05Z</updated>
     </source>
   </entry>
 </feed>

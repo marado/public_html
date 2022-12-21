@@ -15,6 +15,7 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./merankorii-live-at-club-tidals-night-stream.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~rlafuente/blog/./novo-post.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./breve-introducao-ao-git-gitlab-e-github.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2022/07/IBM-604-no-LNEC" />
@@ -74,11 +75,36 @@
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/The-Art-Of-Warez" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Clockwork-Dreams" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Iron-Spam-Attack" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Emulating-classic-computers" />
 		</rdf:Seq>
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~marado/blog/./merankorii-live-at-club-tidals-night-stream.html">
+	<title>~marado: Merankorii Live at Club Tidal's Night Stream</title>
+	<link>https://tilde.pt/~marado/blog/merankorii-live-at-club-tidals-night-stream.html</link>
+	<content:encoded>&lt;p&gt;&lt;img alt=&quot;Poster image for the festival&quot; src=&quot;https://tilde.pt/~marado/blog/longestnight-sunset.svg&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Celebrating the shortest?/longest? night (depending on where you are in the
+world), this year's Club Tidal solsice party is going to be a
+&lt;a href=&quot;https://sun.tidalcycles.org/&quot;&gt;24 hours festival&lt;/a&gt;, and my solo musical project
+&lt;a href=&quot;https://merankorii.blogspot.com/&quot;&gt;Merankorii&lt;/a&gt; is going to participate by
+playing Cycle #35 (if you're in Portugal, that will be at 21:20, on December
+21).&lt;/p&gt;
+
+&lt;p&gt;As some of you know, Yule is when my birthday also is, so this is a special
+celebration for me...&lt;/p&gt;
+
+&lt;p&gt;This online festival is going to be live streamed, so make sure to tune in
+during this 24h period and celebrate the Solstice by witnessing to people from
+all over the world livecoding sounds for your pleasure! &lt;/p&gt;
+
+&lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_Merankorii.html&quot;&gt;Merankorii&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_live.html&quot;&gt;live&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_music.html&quot;&gt;music&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_tidalcycles.html&quot;&gt;tidalcycles&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_algorave.html&quot;&gt;algorave&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_concert.html&quot;&gt;concert&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_en.html&quot;&gt;en&lt;/a&gt;&lt;/p&gt;
+
+&lt;p id=&quot;twitter&quot;&gt;&lt;a href=&quot;http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/merankorii-live-at-club-tidals-night-stream.html&amp;amp;text=&amp;lt;escreve o comentário aqui mas deixa o URL para outras pessoas poderem seguir os comentários&amp;gt;&amp;amp;via=mind_booster&quot;&gt;comentários? tweetar&lt;/a&gt; 
+&lt;a href=&quot;https://twitter.com/search?q=https://tilde.pt/~marado/blog/merankorii-live-at-club-tidals-night-stream.html&quot;&gt;&lt;span id=&quot;count-25153&quot;&gt;&lt;/span&gt;&lt;/a&gt; &lt;/p&gt;</content:encoded>
+	<dc:date>2022-12-19T23:37:40+00:00</dc:date>
+	<dc:creator>~marado</dc:creator>
+</item>
 <item rdf:about="https://tilde.pt/~rlafuente/blog/./novo-post.html">
 	<title>~rlafuente: Novo post</title>
 	<link>https://tilde.pt/~rlafuente/blog/novo-post.html</link>
@@ -661,14 +687,6 @@ those graphs, once again.&lt;/p&gt;
 
 &lt;p&gt;@&lt;a href=&quot;https://www.bbc.com/news/blogs-news-from-elsewhere-24707337&quot;&gt;bbc.com&lt;/a&gt;&lt;/p&gt;</content:encoded>
 	<dc:date>2021-03-15T11:20:04+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Emulating-classic-computers">
-	<title>N.S. do Computismo: Emulating classic computers in the browser</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Emulating-classic-computers</link>
-	<content:encoded>&lt;p&gt;&lt;img alt=&quot;Classic macistosh running in the browser&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/classicComputers.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;@ &lt;a href=&quot;http://jamesfriend.com.au/pce-js/&quot;&gt;jamesfriend.com.au&lt;/a&gt;&lt;/p&gt;</content:encoded>
-	<dc:date>2021-03-11T10:20:05+00:00</dc:date>
 </item>
 
 </rdf:RDF>
