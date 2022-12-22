@@ -5,6 +5,19 @@
     <foaf:homepage/>
     <foaf:member>
       <foaf:Agent>
+        <foaf:name>~budd</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="https://tilde.pt/~budd/blog/index.html">
+            <dc:title>o meu tildelog</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="https://tilde.pt/~budd/blog/feed.rss"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
         <foaf:name>~epifanio</foaf:name>
         <foaf:weblog>
           <foaf:Document rdf:about="https://tilde.pt/~epifanio/blog/index.html">

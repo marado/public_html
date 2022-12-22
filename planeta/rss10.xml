@@ -16,6 +16,9 @@
 	<items>
 		<rdf:Seq>
 			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./merankorii-live-at-club-tidals-night-stream.html" />
+			<rdf:li rdf:resource="https://tilde.pt/~budd/blog/./obrigado.html" />
+			<rdf:li rdf:resource="https://tilde.pt/~budd/blog/./titulo-nova-entrada.html" />
+			<rdf:li rdf:resource="https://tilde.pt/~budd/blog/./budd-has-checked-in.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~rlafuente/blog/./novo-post.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./breve-introducao-ao-git-gitlab-e-github.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2022/07/IBM-604-no-LNEC" />
@@ -72,9 +75,6 @@
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Steve-Jobs-Interview" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Susan-Kare" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Visual-Crypto" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/The-Art-Of-Warez" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Clockwork-Dreams" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Iron-Spam-Attack" />
 		</rdf:Seq>
 	</items>
 </channel>
@@ -104,6 +104,39 @@ all over the world livecoding sounds for your pleasure! &lt;/p&gt;
 &lt;a href=&quot;https://twitter.com/search?q=https://tilde.pt/~marado/blog/merankorii-live-at-club-tidals-night-stream.html&quot;&gt;&lt;span id=&quot;count-25153&quot;&gt;&lt;/span&gt;&lt;/a&gt; &lt;/p&gt;</content:encoded>
 	<dc:date>2022-12-19T23:37:40+00:00</dc:date>
 	<dc:creator>~marado</dc:creator>
+</item>
+<item rdf:about="https://tilde.pt/~budd/blog/./obrigado.html">
+	<title>~budd: Obrigado</title>
+	<link>https://tilde.pt/~budd/blog/obrigado.html</link>
+	<content:encoded>&lt;p&gt;Obrigado aos administradores e usários pela existência,manutenção e uso deste espaço online.&lt;/p&gt;
+
+&lt;p&gt;Pude ter o meu cantinho online e fui bem recebido.&lt;/p&gt;
+
+&lt;p&gt;Quero contribuir para este espaço da melhor forma, usufruindo do que tem para oferecer e se possível deixar mais e melhor.&lt;/p&gt;
+
+&lt;p&gt;Obrigado e até breve.
+budd &lt;/p&gt;
+
+&lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~budd/blog/tag_obrigado.html&quot;&gt;obrigado&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2022-12-12T22:10:40+00:00</dc:date>
+	<dc:creator>~budd</dc:creator>
+</item>
+<item rdf:about="https://tilde.pt/~budd/blog/./titulo-nova-entrada.html">
+	<title>~budd: Título nova entrada</title>
+	<link>https://tilde.pt/~budd/blog/titulo-nova-entrada.html</link>
+	<content:encoded>&lt;p&gt;texto nova entrada&lt;/p&gt;</content:encoded>
+	<dc:date>2022-12-11T21:48:14+00:00</dc:date>
+	<dc:creator>~budd</dc:creator>
+</item>
+<item rdf:about="https://tilde.pt/~budd/blog/./budd-has-checked-in.html">
+	<title>~budd: budd has checked-in</title>
+	<link>https://tilde.pt/~budd/blog/budd-has-checked-in.html</link>
+	<content:encoded>&lt;p&gt;The rest of the text file is a &lt;strong&gt;Markdown&lt;/strong&gt; blog post. The process will continue
+as soon as you exit your editor. .... hummm what? &lt;strong&gt;searchThis&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~budd/blog/tag_keep-this-tag-format.html&quot;&gt;keep-this-tag-format&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~budd/blog/tag_tags-are-optional.html&quot;&gt;tags-are-optional&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~budd/blog/tag_beware-with-underscores-in-markdown.html&quot;&gt;beware-with-underscores-in-markdown&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~budd/blog/tag_example.html&quot;&gt;example&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~budd/blog/tag_whats.html&quot;&gt;whats&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~budd/blog/tag_the_problem.html&quot;&gt;the_problem&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~budd/blog/tag_of-a-underscore.html&quot;&gt;of-a-underscore&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2022-12-10T18:54:12+00:00</dc:date>
+	<dc:creator>~budd</dc:creator>
 </item>
 <item rdf:about="https://tilde.pt/~rlafuente/blog/./novo-post.html">
 	<title>~rlafuente: Novo post</title>
@@ -666,27 +699,6 @@ those graphs, once again.&lt;/p&gt;
 
 &lt;p&gt;@ &lt;a href=&quot;https://datagenetics.com/blog/november32013/index.html&quot;&gt;datagenics.com&lt;/a&gt;&lt;/p&gt;</content:encoded>
 	<dc:date>2021-03-23T11:20:03+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/The-Art-Of-Warez">
-	<title>N.S. do Computismo: The Art Of Warez</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/The-Art-Of-Warez</link>
-	<content:encoded>&lt;p&gt;&lt;/p&gt;&lt;div style=&quot;padding: 56.25% 0 0 0;&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;</content:encoded>
-	<dc:date>2021-03-19T17:20:04+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Clockwork-Dreams">
-	<title>N.S. do Computismo: The Machines Made To Mimic Humans | Mechanical Marvels: Clockwork Dreams | Spark</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Clockwork-Dreams</link>
-	<dc:date>2021-03-17T11:20:04+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Iron-Spam-Attack">
-	<title>N.S. do Computismo: Russia: Hidden chips 'launch spam attacks from irons'</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Iron-Spam-Attack</link>
-	<content:encoded>&lt;p&gt;&quot;Cyber criminals are planting chips in electric irons and kettles to launch spam attacks, reports in Russia suggest.&quot;&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&quot;disassembled iron&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/iron.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;@&lt;a href=&quot;https://www.bbc.com/news/blogs-news-from-elsewhere-24707337&quot;&gt;bbc.com&lt;/a&gt;&lt;/p&gt;</content:encoded>
-	<dc:date>2021-03-15T11:20:04+00:00</dc:date>
 </item>
 
 </rdf:RDF>
