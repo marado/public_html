@@ -15,6 +15,7 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~budd/blog/./quote.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./merankorii-live-at-club-tidals-night-stream.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~budd/blog/./obrigado.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~budd/blog/./titulo-nova-entrada.html" />
@@ -74,11 +75,19 @@
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Ted-Nelson-1979" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Steve-Jobs-Interview" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Susan-Kare" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Visual-Crypto" />
 		</rdf:Seq>
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~budd/blog/./quote.html">
+	<title>~budd: Quote</title>
+	<link>https://tilde.pt/~budd/blog/quote.html</link>
+	<content:encoded>&lt;p&gt;Kill off all my demons and my angels might die too.&lt;/p&gt;
+
+&lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~budd/blog/tag_Quote.html&quot;&gt;Quote&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2022-12-23T23:41:55+00:00</dc:date>
+	<dc:creator>~budd</dc:creator>
+</item>
 <item rdf:about="https://tilde.pt/~marado/blog/./merankorii-live-at-club-tidals-night-stream.html">
 	<title>~marado: Merankorii Live at Club Tidal's Night Stream</title>
 	<link>https://tilde.pt/~marado/blog/merankorii-live-at-club-tidals-night-stream.html</link>
@@ -691,14 +700,6 @@ those graphs, once again.&lt;/p&gt;
 	<title>N.S. do Computismo: Susan Kare Through the Years</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Susan-Kare</link>
 	<dc:date>2021-03-25T10:20:05+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Visual-Crypto">
-	<title>N.S. do Computismo: Visual Cryptography</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Visual-Crypto</link>
-	<content:encoded>&lt;p&gt;&lt;img alt=&quot; Visual Cryptography example&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/visualCrypto.png&quot; /&gt; &lt;/p&gt;
-
-&lt;p&gt;@ &lt;a href=&quot;https://datagenetics.com/blog/november32013/index.html&quot;&gt;datagenics.com&lt;/a&gt;&lt;/p&gt;</content:encoded>
-	<dc:date>2021-03-23T11:20:03+00:00</dc:date>
 </item>
 
 </rdf:RDF>
