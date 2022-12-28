@@ -13,7 +13,7 @@
 # description = Systems Engineer, Free Software advocate, Musician, Virtual World God.
 #
 # followers   = 15
-# following   = 88
+# following   = 90
 #
 # link = my website https://tilde.pt/~marado
 #
@@ -83,6 +83,7 @@
 # follow = reednj http://twtxt.xyz/user/8c2b4bbfa328944ba.txt
 # follow = retrocrash https://neotxt.dk/user/retrocrash/twtxt.txt
 # follow = retrocrash@twtxt.net https://twtxt.net/user/retrocrash/twtxt.txt
+# follow = reviravolta https://reviravolta.digital/twtxt.txt
 # follow = ruebot http://ruebot.github.io/twtxt/twtxt.txt
 # follow = sdk https://codevoid.de/tw.txt
 # follow = sixbitproxywax https://sixbitproxywax.com/twtxt.txt
@@ -93,6 +94,7 @@
 # follow = tca https://twtxt.net/user/tca/twtxt.txt
 # follow = tfurrows https://grex.org/~tfurrows/twtxt.txt
 # follow = tildebeast https://tilde.team/~tildebeast/twtxt/twtxt.txt
+# follow = tildept https://feeds.twtxt.net/tilde@ciberlandia.pt/twtxt.txt
 # follow = tolstoevsky https://tolstoevsky.ml/twtxt.txt
 # follow = tux0r https://twtxt.rosaelefanten.org
 # follow = twitter-mind_booster https://feeds.twtxt.net/twitter-mind_booster/twtxt.txt
@@ -280,3 +282,10 @@
 2022-12-22T22:24:29Z	So, it is done: Iearned #tidalcycles over the weekend, and used it to give a concert yesterday. If you want to see it, [it has been published here](https://youtu.be/NSjgJyNJl4M).
 2022-12-22T23:35:43Z	@<darch https://twtxt.net/user/darch/twtxt.txt> (#5n7dlra) I'm still very new to it, but certainly interested in diving deeper!
 2022-12-22T23:42:47Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (#5n7dlra) to be fair, I don't have a particular horse in that race, all seem interesting to me, what pulled me into tidal was the community, really. There is an advantage on using it as I did: I skipped all the instalation/configuration and just used estuary, which is a web interface for tidal (and other things). I didn't even have to launch my own instance, there's a [free/public one](https://estuary.mcmaster.ca/) you can just open your browser at and use: cool to give your first steps with no pressure.
+2022-12-24T09:06:41Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (#4f4qrja) Seems cool! What in it are you not liking?
+2022-12-24T11:34:41Z	Leaving home without carrying the book you're reading? No problem*, just grab a copy of it on OpenLibrary! * sure, "if it is there", which many  recent books aren't, but it worked for me just now ;-)
+2022-12-25T12:05:27Z	@<lyse https://lyse.isobeef.org/twtxt.txt> (#ztuvqya) [Hothouse](https://en.m.wikipedia.org/wiki/Hothouse_(novel)), from Brian Aldiss
+2022-12-25T18:26:15Z	@<lyse https://lyse.isobeef.org/twtxt.txt> (#ztuvqya) To be fair, thischas been a go/don't-go to me for a while. I have wanted to read some Aldiss for a good while, but the first of his books I've read ([Cryptozoic!](https://en.m.wikipedia.org/wiki/An_Age)), while an entertaining reading, didn't really convince me to the point of making me want to seek more of his books. But now, several years later, I was browsing a book called [501 Must Read Books](https://www.librarything.com/work/1888246/book/231625245) and Hothouse was there... at the spur of the moment I checked on the local library's catalog and the book was there so I decided to grab it, then I've read it's wikipedia page and started second guessing the decision... and now that I've started reading it, I'm quite enjoying it. Who knows if my thoughts will change again before I finish it!
+2022-12-26T11:00:33Z	@<justamoment https://twtxt.net/user/justamoment/twtxt.txt> @<prologic https://twtxt.net/user/prologic/twtxt.txt> (#hgvenxq) tbf, `format-patch` numbers your patches so that you can apply them with an one liner, no matter if they're 1 or 9999. As for identity leakage, do notice that only author patch info is present - a name (that can be a pseudonym) and an address field that can be empty. Other then that you only have the transport means, but you don't really need to use e-mail if that is your concern, you can for eg. set up an anonymous ftp... you just need to get the formatted patches, git not having its own transport is not a limitation but the freedom to let you get patches in any way you want! ;-)
+2022-12-27T02:53:23Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (#hgvenxq) You mean like a `git log --pretty=twtxt` that someone can get for every branch of every repo on your new git web interface?
+2022-12-27T02:56:40Z	[14 years married](http://marado.github.io/friendfeed-backup/entry.html?id=e6459d61).
