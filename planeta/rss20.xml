@@ -9,6 +9,148 @@
 	<atom:link rel="self" href="http://tilde.pt/~marado/planeta/rss20.xml" type="application/rss+xml"/>
 
 <item>
+	<title>~rlafuente: Bots de Mastodon: o que são, como fazer, e a botiqueta</title>
+	<guid isPermaLink="false">https://tilde.pt/~rlafuente/blog/./bots-de-mastodon-o-que-sao-como-fazer-e-a-botiqueta.html</guid>
+	<link>https://tilde.pt/~rlafuente/blog/bots-de-mastodon-o-que-sao-como-fazer-e-a-botiqueta.html</link>
+	<description>&lt;p&gt;Tecnicamente, um bot é uma conta que publica toots automaticamente, seja de
+forma regular ou em reacção a determinados sinais.&lt;/p&gt;
+
+&lt;p&gt;Na prática, são tão mais do que isso. A possibilidade de fazermos
+mini-máquinas de publicação automática veio mostrar-nos o seu potencial
+prático, humorístico, artístico, humano e até poético. Existe até &lt;a href=&quot;https://botsin.space&quot;&gt;uma
+instância&lt;/a&gt; dedicada exclusivamente a bots.&lt;/p&gt;
+
+&lt;h2&gt;Os que por aí andam&lt;/h2&gt;
+
+&lt;p&gt;Há os bots ferramenta que podemos mencionar para fazerem algo por nós, como
+imortalizar citações, reconhecer o texto de uma imagem ou aplicar filtros em
+fotografias.&lt;/p&gt;
+
+&lt;p&gt;Existem também bots que publicam regularmente textos gerados de forma mais ou
+menos aleatória, que vão das experiências mais simples até demonstrações
+notáveis de criatividade e escrita conceptual -- sobre isto, as obras da
+&lt;a href=&quot;https://www.vice.com/en/article/8x8ppp/poetry-twitter-bots-best-twitter-bots-art-allison-parrish-everyword&quot;&gt;Allison
+Parrish&lt;/a&gt;
+e do &lt;a href=&quot;https://tinysubversions.com&quot;&gt;Darius
+Kazemi&lt;/a&gt;
+são imperdíveis. E se formos para além do texto, há &lt;a href=&quot;https://botsin.space/@tinymazes/109559792625314084&quot;&gt;resultados
+deliciosos&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Finalmente há os bots que publicam de acordo com fontes externas, re-publicando
+&lt;a href=&quot;https://botsin.space/@skcfdispatches&quot;&gt;alertas e emergências&lt;/a&gt;, &lt;a href=&quot;https://botsin.space/@ValeWeather/109559792640324813&quot;&gt;previsões do
+tempo&lt;/a&gt;; ou então, ligados
+a API mais sofisticadas, dá para jogar &lt;a href=&quot;https://botsin.space/@VoteChess/109559765073122881&quot;&gt;xadrez por
+votação&lt;/a&gt; ou &lt;a href=&quot;https://botsin.space/@AboveSigingstone/109559732702433116&quot;&gt;detectar
+aviões&lt;/a&gt; a passar por
+cima de uma certa localidade.&lt;/p&gt;
+
+&lt;p&gt;(esta não é de todo uma taxonomia formal ou sequer séria; se tiveres outras
+ideias sobre como discriminar entre tipos de bots, gostava de ouvir)&lt;/p&gt;
+
+&lt;h2&gt;Como fazer um&lt;/h2&gt;
+
+&lt;p&gt;Existem recursos para criar bots sem recorrer a código; no Twitter havia vários
+que nunca realmente explorei, porque com Python dá para fazer tudo. No Mastodon
+ainda não me sentei para andar à procura, mas gostava de saber o que por aí há.&lt;/p&gt;
+
+&lt;p&gt;Sujar as mãos com código dá-nos outro tipo de superpoderes. Para pôr a
+rolar um bot, precisas de acesso a uma shell; podes aproveitar um computador
+que tenhas sempre ligado, ou então usar um serviço que te dê acesso a uma shell
+SSH. Os comandos aqui destinam-se a sistemas GNU/Linux, mas devem também
+funcionar em Mac (não me perguntem pelo Windows).&lt;/p&gt;
+
+&lt;p&gt;Começamos por instalar localmente o módulo que nos dá os poderes de interagir
+com a API da tua instância. Há várias formas de instalar o &lt;a href=&quot;https://mastodonpy.readthedocs.io/en/stable/&quot;&gt;módulo do
+Mastodon&lt;/a&gt;, como num Virtualenv,
+mas esta é a mais simples e rápida:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;pip install --user mastodon.py
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Depois, cria um ficheiro &lt;code&gt;bot.py&lt;/code&gt; e cola este pequeno pedaço de código:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;from mastodon import Mastodon
+mastodon = Mastodon(access_token=MASTODON_ACCESS_TOKEN,
+                    api_base_url=MASTODON_API_BASE_URL)
+mastodon.status_post(text, visibility='unlisted')
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;É tudo o que é preciso! Vamos por partes:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;depois de importar, criamos o objecto &lt;code&gt;mastodon&lt;/code&gt; que podemos usar para
+interagir com a API do Mastodon&lt;/li&gt;
+&lt;li&gt;substitui o campo &lt;code&gt;MASTODON_ACCESS_TOKEN&lt;/code&gt; pelo token de acesso que te foi dado 
+quando registaste a aplicação na API da tua instância&lt;/li&gt;
+&lt;li&gt;substitui o campo &lt;code&gt;MASTODON_API_BASE_URL&lt;/code&gt; pelo endereço da instância&lt;/li&gt;
+&lt;li&gt;o post é feito com a visibilidade não-listada para não interferir com as
+timelines locais -- já explico melhor.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Finalmente, coloca o script a correr regularmente num &lt;em&gt;cronjob&lt;/em&gt;; corre o
+comando &lt;code&gt;crontab -e&lt;/code&gt; e acrescenta a linha&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;@hourly /path/para/o/teu/bot.py
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;E está a rolar! Antes de activares o cron, corre o script um par de vezes para
+assegurar que está bem.&lt;/p&gt;
+
+&lt;h2&gt;Botiqueta&lt;/h2&gt;
+
+&lt;p&gt;Há uns anos a &lt;a href=&quot;https://tilde.pt/~aiscarvalho&quot;&gt;~aiscarvalho&lt;/a&gt; e eu demos um workshop de bots de
+Mastodon (e de Twitter, mas passado é passado). Éramos uma dúzia a criar
+geradores de texto e fomos para o masto.pt pôr os nossos bots a cantar, o que
+arreliou bastante o &lt;a href=&quot;https://masto.pt/@hugo&quot;&gt;administrador da instância&lt;/a&gt;: ele
+tratou de silenciar os nossos bots porque estavam a poluir a timeline local. À
+primeira ficámos irritados, então estávamos a trazer coisas tão giras e vêm
+logo assim. Mas depois lá concordámos que devíamos ter perguntado primeiro,
+pedimos desculpa e fomos ler sobre isso das timelines locais.&lt;/p&gt;
+
+&lt;p&gt;A timeline local é o ponto de cada instância onde se podem ler todos os toots
+públicos feitos por pessoas que dela fazem parte. É um sítio especialmente bom
+se estiveres numa instância temática, regional ou local, porque se encontram
+facilmente novas contas a seguir, e dá para conversas mais recatadas.&lt;/p&gt;
+
+&lt;p&gt;Ora, se um bot começa a emitir um ou mais toots a cada hora, começa a dominar
+a timeline local e a dificultar a leitura do resto, obrigando cada pessoa a
+silenciá-lo individualmente. Daí na maioria das instâncias existirem normas
+sobre toots não-listados -- as situações onde se deve evitar fazer toots
+públicos, como nos vários toots de um thread (o primeiro deve ser público, os
+seguintes não-listados) e quando existe política de bots, é quase sempre
+imposto que não façam toots públicos.&lt;/p&gt;
+
+&lt;p&gt;Este é o primeiro ponto do que tentámos condensar na Ciberlândia como as boas
+práticas de construção de bots:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Apenas fazer toots não-listados&lt;/li&gt;
+&lt;li&gt;Assinalar no perfil que a conta é um bot (há uma opção para isso)&lt;/li&gt;
+&lt;li&gt;Se o bot fizer upload de imagens e vídeos, contacta os admins da instância&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;O ponto 2 serve para discriminar os tipos de conta nas estatísticas da
+instância e permitir distinguir claramente quando uma conta é um bot.&lt;/p&gt;
+
+&lt;p&gt;O ponto 3 prende-se com as duras realidades do alojamento: afixar um vídeo de
+2MB por dia dá 730 MB por ano, o que é um peso razoável na conta mensal de
+alojamento. Os admins da tua instância podem ajudar-te a encontrar
+alternativas de alojamento ou métodos de compressão que possam facilitar a vida
+a todos os envolvidos.&lt;/p&gt;
+
+&lt;h2&gt;Portugal adopta o bot&lt;/h2&gt;
+
+&lt;p&gt;Na &lt;a href=&quot;https://ciberlandia.pt&quot;&gt;Ciberlândia&lt;/a&gt; damos as boas-vindas a bots
+interessantes, criativos e/ou úteis.  Se tiveres interesse na arte de engendrar
+estas geringonças de publicação automática, há espaço para experimentar e gente
+por perto para tirar dúvidas.&lt;/p&gt;
+
+&lt;p&gt;E se souberes de bots interessantes em português ou outras formas promissoras de
+engendrar bots, &lt;a href=&quot;https://ciberlandia.pt/@rlafuente&quot;&gt;manda-me um toot&lt;/a&gt;. (o mesmo
+para erros que possa ter feito e sugestões técnicas!)&lt;/p&gt;</description>
+	<pubDate>Sun, 01 Jan 2023 22:54:52 +0000</pubDate>
+</item>
+<item>
 	<title>~budd: Quote</title>
 	<guid isPermaLink="false">https://tilde.pt/~budd/blog/./quote.html</guid>
 	<link>https://tilde.pt/~budd/blog/quote.html</link>
@@ -664,12 +806,6 @@ those graphs, once again.&lt;/p&gt;
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Steve-Jobs-Interview</link>
 	<description>&lt;p&gt;An interview with Steve Jobs filmed on 2/18/1981 about the future of Apple, Computers, the Home &amp;amp; Personal computer markets, video games, and more.&lt;/p&gt;</description>
 	<pubDate>Fri, 26 Mar 2021 11:20:04 +0000</pubDate>
-</item>
-<item>
-	<title>N.S. do Computismo: Susan Kare Through the Years</title>
-	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Susan-Kare</guid>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Susan-Kare</link>
-	<pubDate>Thu, 25 Mar 2021 10:20:05 +0000</pubDate>
 </item>
 
 </channel>
