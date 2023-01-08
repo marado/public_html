@@ -4,7 +4,7 @@
 #
 # Learn more about twtxt at  https://github.com/buckket/twtxt
 #
-# This is hosted by a Yarn.social pod twtxt.net running yarnd edge@8d026eea
+# This is hosted by a Yarn.social pod twtxt.net running yarnd edge@42d01bde
 # Learn more about Yarn.social at https://yarn.social
 #
 # nick        = marado
@@ -289,3 +289,10 @@
 2022-12-26T11:00:33Z	@<justamoment https://twtxt.net/user/justamoment/twtxt.txt> @<prologic https://twtxt.net/user/prologic/twtxt.txt> (#hgvenxq) tbf, `format-patch` numbers your patches so that you can apply them with an one liner, no matter if they're 1 or 9999. As for identity leakage, do notice that only author patch info is present - a name (that can be a pseudonym) and an address field that can be empty. Other then that you only have the transport means, but you don't really need to use e-mail if that is your concern, you can for eg. set up an anonymous ftp... you just need to get the formatted patches, git not having its own transport is not a limitation but the freedom to let you get patches in any way you want! ;-)
 2022-12-27T02:53:23Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (#hgvenxq) You mean like a `git log --pretty=twtxt` that someone can get for every branch of every repo on your new git web interface?
 2022-12-27T02:56:40Z	[14 years married](http://marado.github.io/friendfeed-backup/entry.html?id=e6459d61).
+2022-12-29T01:57:33Z	@<slashdot https://feeds.twtxt.net/slashdot/twtxt.txt> @<prologic https://twtxt.net/user/prologic/twtxt.txt> (#dpn5c7a) Donations and investment offers are different things...
+2022-12-31T01:47:28Z	@<rrraksamam https://twtxt.net/user/rrraksamam/twtxt.txt> (#ypwfk6q) 2021 was so bad for me that I made a list of 12 things for 2022 I needed to get my life back on track. I only managed five, but I did manage five, and 2022 ends better than it started. Looking forward to 2023.
+2023-01-01T00:13:49Z	My turn now, Happy New Year, twtxters!
+2023-01-01T15:30:39Z	@<jcolag https://john.colagioia.net/twtxt.txt> (#xwqgtma) Happy #PublicDomainDay !
+2023-01-02T19:21:01Z	My top 10 (most listened) artists of 2022, according to Last.fm: ![a chart, with ten artists, Ordo Rosarius Equilibrio on the first position](https://twtxt.net/media/PzQpABGTjF68gtGF6cgwEN.png)
+2023-01-04T22:18:12Z	[Google wants RISC-V to be a “tier-1” Android architecture](https://arstechnica.com/gadgets/2023/01/google-announces-official-android-support-for-risc-v/): Google's keynote at the RISC-V Summit promises official, polished support.
+2023-01-08T17:45:01Z	Wondering if I'll meet any fellow twtxter in [Lisbon's MiniDebConf](https://pt2023.mini.debconf.org/)!
