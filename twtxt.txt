@@ -296,3 +296,5 @@
 2023-01-02T19:21:01Z	My top 10 (most listened) artists of 2022, according to Last.fm: ![a chart, with ten artists, Ordo Rosarius Equilibrio on the first position](https://twtxt.net/media/PzQpABGTjF68gtGF6cgwEN.png)
 2023-01-04T22:18:12Z	[Google wants RISC-V to be a “tier-1” Android architecture](https://arstechnica.com/gadgets/2023/01/google-announces-official-android-support-for-risc-v/): Google's keynote at the RISC-V Summit promises official, polished support.
 2023-01-08T17:45:01Z	Wondering if I'll meet any fellow twtxter in [Lisbon's MiniDebConf](https://pt2023.mini.debconf.org/)!
+2023-01-08T21:23:46Z	@<slashdot https://feeds.twtxt.net/slashdot/twtxt.txt> (#5qqgwfq) Sad this isn't being done EU-wide. And the fact that Apple doesn't say "our bad, sorry" and instead plans to appeal only proves that all their privacy-friendly claims are mere marketing.
+2023-01-09T02:11:55Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (#5qqgwfq) Well, they've been in the ad business at least [since 2016](https://www.wired.com/story/apple-is-an-ad-company-now/).
