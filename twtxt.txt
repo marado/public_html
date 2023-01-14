@@ -4,7 +4,7 @@
 #
 # Learn more about twtxt at  https://github.com/buckket/twtxt
 #
-# This is hosted by a Yarn.social pod twtxt.net running yarnd edge@42d01bde
+# This is hosted by a Yarn.social pod twtxt.net running yarnd edge@ac278fc6  go1.19.5
 # Learn more about Yarn.social at https://yarn.social
 #
 # nick        = marado
@@ -12,7 +12,6 @@
 # avatar      = https://twtxt.net/user/marado/avatar#ryd3lwrkaujef7nemdf3jt6ggzb2rarlcsrsttbxltuxi7alg43q
 # description = Systems Engineer, Free Software advocate, Musician, Virtual World God.
 #
-# followers   = 15
 # following   = 90
 #
 # link = my website https://tilde.pt/~marado
@@ -298,3 +297,5 @@
 2023-01-08T17:45:01Z	Wondering if I'll meet any fellow twtxter in [Lisbon's MiniDebConf](https://pt2023.mini.debconf.org/)!
 2023-01-08T21:23:46Z	@<slashdot https://feeds.twtxt.net/slashdot/twtxt.txt> (#5qqgwfq) Sad this isn't being done EU-wide. And the fact that Apple doesn't say "our bad, sorry" and instead plans to appeal only proves that all their privacy-friendly claims are mere marketing.
 2023-01-09T02:11:55Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (#5qqgwfq) Well, they've been in the ad business at least [since 2016](https://www.wired.com/story/apple-is-an-ad-company-now/).
+2023-01-12T16:59:49Z	How to lose a sale: ![a screenshot of an attempted visit to Pelagic's website, when the browser points out the need to enable DRM](https://twtxt.net/media/8CWhEiM8dEbDJbzFqMSpBZ.png)
+2023-01-14T17:55:17Z	@<mckinley https://twtxt.net/user/mckinley/twtxt.txt> @<prologic https://twtxt.net/user/prologic/twtxt.txt> (#t2gujba) Sure am! (bookmarking to tey out later)
