@@ -10,7 +10,7 @@
 <meta name='twitter:card' content='summary' />
 <meta name='twitter:site' content='@mind_booster' />
 <meta name='twitter:title' content='~marado's tildelog &mdash; posts com a tag "en"' />
-<meta name='twitter:description' content=" Merankorii Live at Club Tidal's Night Stream   19 de dezembro de 2022 &mdash;  ~marado      Celebrating the shortest?/longest? night (depending on where you are in the world), this year's Club Tidal solsice party is going to be a 24 hours festival, " />
+<meta name='twitter:description' content=" How to scp with a jump host   18 de janeiro de 2023 &mdash;  ~marado    The syntax isn't the most intuitive, I'm afraid.  If you want to scp files from a remote machine into yours, or vice versa, and you only have access to the remote machine via a " />
 <meta name='twitter:image' content='https://tilde.pt/~marado/blog/longestnight-sunset.svg' />
 </head><body>
 <div id="divbodyholder">
@@ -20,6 +20,32 @@
 <div id="description">a tildelog on tildeverse</div>
 </div></div></div>
 <div id="divbody"><div class="content">
+<h3><a class="ablack" href="how-to-scp-with-a-jump-host.html">
+How to scp with a jump host
+</a></h3>
+<!-- bashblog_timestamp: #202301181150.56# -->
+<div class="subtitle">18 de janeiro de 2023 &mdash; 
+~marado
+</div>
+<!-- text begin -->
+
+<p>The syntax isn't the most intuitive, I'm afraid.</p>
+
+<p>If you want to scp files from a remote machine into yours, or vice versa, and
+you only have access to the remote machine via a jump host...</p>
+
+<p>ie, if you need to</p>
+
+<p><code>ssh -J jumphost:port remotehost</code></p>
+
+<p>then, to copy files from remotehost to your local machine, you can do it by doing</p>
+
+<p><code>scp -oProxyCommand="ssh -W %h:%p jumphost -p port" remotehost:/path .</code></p>
+
+<p>tags: <a href='tag_scp.html'>scp</a>, <a href='tag_jump.html'>jump</a>, <a href='tag_en.html'>en</a></p>
+<!-- text end -->
+<p id='twitter'><a href='http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/how-to-scp-with-a-jump-host.html&text=&lt;escreve o comentário aqui mas deixa o URL para outras pessoas poderem seguir os comentários&gt;&via=mind_booster'>comentários? tweetar</a> 
+<a href='https://twitter.com/search?q=https://tilde.pt/~marado/blog/how-to-scp-with-a-jump-host.html'><span id='count-32511'></span></a>&nbsp;</p>
 <h3><a class="ablack" href="merankorii-live-at-club-tidals-night-stream.html">
 Merankorii Live at Club Tidal's Night Stream
 </a></h3>

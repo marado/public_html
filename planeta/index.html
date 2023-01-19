@@ -23,6 +23,150 @@
 <h1>Planeta Tilde</h1>
 
 <div class="daygroup">
+<h2>January 19, 2023</h2>
+
+<div class="channelgroup">
+
+
+
+
+
+
+
+<h3><a href="https://tilde.pt/~epifanio/blog/index.html" title="Epilog">~epifanio</a></h3>
+
+
+<div class="entrygroup" id="https://tilde.pt/~epifanio/blog/./hacking-a-custom-homepage-for-your-mastodon-instance.html">
+<h4 lang="en"><a href="https://tilde.pt/~epifanio/blog/hacking-a-custom-homepage-for-your-mastodon-instance.html">Hacking a custom homepage for your Mastodon instance</a></h4>
+<div class="entry">
+<div class="content">
+<p>Starting with version 4.0.0, Mastodon's homepage is not that great. It defaults to the "explore" page that basically shows the public timeline of that instance. If you want to know more you have to click on the "Learn more" button and then you're presented with the about page that shows the long description of the instance, the rules and the list of moderated servers. And it all shows up in a column centered on the page, which is kinda limiting.</p>
+
+<p>You can add some html tags to the description of the instance. That is good. But you can't do it in the rules section, where you can't even add hyperlinks.</p>
+
+<p>In our instance, Ciberlândia, we decided to hack a custom homepage:</p>
+
+<p><a href="https://ciberlandia.pt">https://ciberlandia.pt</a></p>
+
+<p>Looks good, doesn't it? <a href="https://ciberlandia.pt/@aiscarvalho">aiscarvalho</a> and <a href="https://ciberlandia.pt/@rlafuente">rlafuente</a> did a great work with the design of the page.</p>
+
+<p>We didn't want to mess with the Mastodon source code, so we did it all by hacking a few rules in the NGINX config.</p>
+
+<h4>First step: Create your homepage html</h4>
+
+<p>SSH to your server as the <code>mastodon</code> user (or <code>sudo - mastodon</code> if you're already logged in as root).</p>
+
+<p>Create the directory where you're html will be. We used <code>/home/mastodon/live/custom-index/</code>. Put your index.html, images and css files in there.</p>
+
+<h4>Second step: Add rules to NGINX config</h4>
+
+<p>In this step you have to be logged in as root.</p>
+
+<p>Edit the file <code>/etc/nginx/sites-available/mastodon</code> and add these lines:</p>
+
+<pre><code># START CUSTOM HOMEPAGE
+
+location /welcome {
+  rewrite ^ /welcome/ redirect;
+}
+
+location /welcome/ {
+  alias /home/mastodon/live/custom-index/;
+}
+
+location = / {                                                             
+  if ($cookie__session_id = "") {
+    rewrite ^/$ https://&lt;**your instance url in here**&gt;/welcome/ redirect;
+  }                                                                                                                                                      
+  try_files $uri @proxy;                                                   
+}                                   
+
+# END CUSTOM HOMEPAGE
+</code></pre>
+
+<h4>Final step: restart NGINX</h4>
+
+<p>Run this:</p>
+
+<p><code>
+systemctl restart nginx
+</code></p>
+
+<p>Now when a user tries to access the root of your site, NGINX will check if the user is logged in (checking the value of the cookie session_id) and redirect them to your custom page which is located at the /welcome/ path.</p>
+
+<p>If the user is logged in, they will of course be served the default Mastodon interface.</p>
+
+<p>tags: <a href="https://tilde.pt/~epifanio/blog/tag_mastodon.html">mastodon</a>, <a href="https://tilde.pt/~epifanio/blog/tag_nginx.html">nginx</a>, <a href="https://tilde.pt/~epifanio/blog/tag_ciberlandia.html">ciberlandia</a></p></div>
+
+
+
+
+
+
+
+<p class="date">
+<a href="https://tilde.pt/~epifanio/blog/hacking-a-custom-homepage-for-your-mastodon-instance.html">by ~epifanio at January 19, 2023 12:06 AM</a>
+</p>
+</div>
+</div>
+
+
+</div>
+
+</div>
+<div class="daygroup">
+<h2>January 18, 2023</h2>
+
+<div class="channelgroup">
+
+
+
+
+
+
+
+<h3><a href="https://tilde.pt/~marado/blog/index.html" title="~marado's tildelog">~marado</a></h3>
+
+
+<div class="entrygroup" id="https://tilde.pt/~marado/blog/./how-to-scp-with-a-jump-host.html">
+<h4 lang="en"><a href="https://tilde.pt/~marado/blog/how-to-scp-with-a-jump-host.html">How to scp with a jump host</a></h4>
+<div class="entry">
+<div class="content">
+<p>The syntax isn't the most intuitive, I'm afraid.</p>
+
+<p>If you want to scp files from a remote machine into yours, or vice versa, and
+you only have access to the remote machine via a jump host...</p>
+
+<p>ie, if you need to</p>
+
+<p><code>ssh -J jumphost:port remotehost</code></p>
+
+<p>then, to copy files from remotehost to your local machine, you can do it by doing</p>
+
+<p><code>scp -oProxyCommand="ssh -W %h:%p jumphost -p port" remotehost:/path .</code></p>
+
+<p>tags: <a href="https://tilde.pt/~marado/blog/tag_scp.html">scp</a>, <a href="https://tilde.pt/~marado/blog/tag_jump.html">jump</a>, <a href="https://tilde.pt/~marado/blog/tag_en.html">en</a></p>
+
+<p id="twitter"><a href="http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/how-to-scp-with-a-jump-host.html&amp;text=&lt;escreve o comentário aqui mas deixa o URL para outras pessoas poderem seguir os comentários&gt;&amp;via=mind_booster">comentários? tweetar</a> 
+<a href="https://twitter.com/search?q=https://tilde.pt/~marado/blog/how-to-scp-with-a-jump-host.html"><span id="count-32511"></span></a> </p></div>
+
+
+
+
+
+
+
+<p class="date">
+<a href="https://tilde.pt/~marado/blog/how-to-scp-with-a-jump-host.html">by ~marado at January 18, 2023 11:50 AM</a>
+</p>
+</div>
+</div>
+
+
+</div>
+
+</div>
+<div class="daygroup">
 <h2>January 01, 2023</h2>
 
 <div class="channelgroup">
@@ -2320,63 +2464,6 @@ those graphs, once again.</p>
 </div>
 
 </div>
-<div class="daygroup">
-<h2>March 26, 2021</h2>
-
-<div class="channelgroup">
-
-
-
-
-
-
-
-<h3><a href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/" title="Nossa Senhora do Computismo">N.S. do Computismo</a></h3>
-
-
-<div class="entrygroup" id="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Ted-Nelson-1979">
-<h4><a href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Ted-Nelson-1979">Ted Nelson struggles with uncomprehending radio interviewer, 1979</a></h4>
-<div class="entry">
-<div class="content">
-<p>Max Allen of CBC radio asks over and over how a computer could possibly be useful for thinking and visualizing.  He absolutely does not get it.</p></div>
-
-
-
-
-
-
-
-<p class="date">
-<a href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Ted-Nelson-1979">March 26, 2021 11:20 AM</a>
-</p>
-</div>
-</div>
-
-
-
-
-<div class="entrygroup" id="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Steve-Jobs-Interview">
-<h4><a href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Steve-Jobs-Interview">Steve Jobs Interview 1981-02-18</a></h4>
-<div class="entry">
-<div class="content">
-<p>An interview with Steve Jobs filmed on 2/18/1981 about the future of Apple, Computers, the Home &amp; Personal computer markets, video games, and more.</p></div>
-
-
-
-
-
-
-
-<p class="date">
-<a href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Steve-Jobs-Interview">March 26, 2021 11:20 AM</a>
-</p>
-</div>
-</div>
-
-
-</div>
-
-</div>
 
 
 <div class="sidebar">
@@ -2412,7 +2499,7 @@ those graphs, once again.</p>
 
 <p>
 <strong>Last updated:</strong><br>
-January 04, 2023 10:20 AM<br>
+January 19, 2023 01:20 PM<br>
 <em>All times are UTC.</em><br>
 <br>
 Powered by:<br>

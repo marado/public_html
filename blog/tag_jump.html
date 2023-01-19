@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="../styles.css" type="text/css" />
+<link rel="stylesheet" href="main.css" type="text/css" />
+<link rel="stylesheet" href="blog.css" type="text/css" />
+<link rel="alternate" type="application/rss+xml" title="assinar esta página..." href="feed.rss" />
+<title>~marado's tildelog &mdash; posts com a tag "jump"</title>
+<meta name='twitter:card' content='summary' />
+<meta name='twitter:site' content='@mind_booster' />
+<meta name='twitter:title' content='~marado's tildelog &mdash; posts com a tag "jump"' />
+<meta name='twitter:description' content=" How to scp with a jump host   18 de janeiro de 2023 &mdash;  ~marado    The syntax isn't the most intuitive, I'm afraid.  If you want to scp files from a remote machine into yours, or vice versa, and you only have access to the remote machine via a " />
+</head><body>
+<div id="divbodyholder">
+<div class="headerholder"><div class="header">
+<div id="title">
+<h1 class="nomargin"><a class="ablack" href="https://tilde.pt/~marado/blog/index.html">~marado's tildelog</a></h1>
+<div id="description">a tildelog on tildeverse</div>
+</div></div></div>
+<div id="divbody"><div class="content">
+<h3><a class="ablack" href="how-to-scp-with-a-jump-host.html">
+How to scp with a jump host
+</a></h3>
+<!-- bashblog_timestamp: #202301181150.56# -->
+<div class="subtitle">18 de janeiro de 2023 &mdash; 
+~marado
+</div>
+<!-- text begin -->
+
+<p>The syntax isn't the most intuitive, I'm afraid.</p>
+
+<p>If you want to scp files from a remote machine into yours, or vice versa, and
+you only have access to the remote machine via a jump host...</p>
+
+<p>ie, if you need to</p>
+
+<p><code>ssh -J jumphost:port remotehost</code></p>
+
+<p>then, to copy files from remotehost to your local machine, you can do it by doing</p>
+
+<p><code>scp -oProxyCommand="ssh -W %h:%p jumphost -p port" remotehost:/path .</code></p>
+
+<p>tags: <a href='tag_scp.html'>scp</a>, <a href='tag_jump.html'>jump</a>, <a href='tag_en.html'>en</a></p>
+<!-- text end -->
+<p id='twitter'><a href='http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/how-to-scp-with-a-jump-host.html&text=&lt;escreve o comentário aqui mas deixa o URL para outras pessoas poderem seguir os comentários&gt;&via=mind_booster'>comentários? tweetar</a> 
+<a href='https://twitter.com/search?q=https://tilde.pt/~marado/blog/how-to-scp-with-a-jump-host.html'><span id='count-32511'></span></a>&nbsp;</p>
+</div>
+<div id="footer">CC by-sa <a href="https://tilde.pt/~marado/">~marado</a> &mdash; <a href="mailto:mindboosternoori&#64;gmail&#46;com">mindboosternoori&#64;gmail&#46;com</a><br/>
+gerado com o <a href="https://tildegit.org/club/bashblog">bashblog</a>, um simples script bash para criar blogs como este</div>
+</div></div>
+</body></html>

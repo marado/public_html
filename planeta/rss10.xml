@@ -15,6 +15,8 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~epifanio/blog/./hacking-a-custom-homepage-for-your-mastodon-instance.html" />
+			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./how-to-scp-with-a-jump-host.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~rlafuente/blog/./bots-de-mastodon-o-que-sao-como-fazer-e-a-botiqueta.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~budd/blog/./quote.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./merankorii-live-at-club-tidals-night-stream.html" />
@@ -73,12 +75,96 @@
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/Milions-of-lines-of-code" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/Algorithmic-symphonies" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/What-have-we-lost" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Ted-Nelson-1979" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Steve-Jobs-Interview" />
 		</rdf:Seq>
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~epifanio/blog/./hacking-a-custom-homepage-for-your-mastodon-instance.html">
+	<title>~epifanio: Hacking a custom homepage for your Mastodon instance</title>
+	<link>https://tilde.pt/~epifanio/blog/hacking-a-custom-homepage-for-your-mastodon-instance.html</link>
+	<content:encoded>&lt;p&gt;Starting with version 4.0.0, Mastodon's homepage is not that great. It defaults to the &quot;explore&quot; page that basically shows the public timeline of that instance. If you want to know more you have to click on the &quot;Learn more&quot; button and then you're presented with the about page that shows the long description of the instance, the rules and the list of moderated servers. And it all shows up in a column centered on the page, which is kinda limiting.&lt;/p&gt;
+
+&lt;p&gt;You can add some html tags to the description of the instance. That is good. But you can't do it in the rules section, where you can't even add hyperlinks.&lt;/p&gt;
+
+&lt;p&gt;In our instance, Ciberlândia, we decided to hack a custom homepage:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ciberlandia.pt&quot;&gt;https://ciberlandia.pt&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Looks good, doesn't it? &lt;a href=&quot;https://ciberlandia.pt/@aiscarvalho&quot;&gt;aiscarvalho&lt;/a&gt; and &lt;a href=&quot;https://ciberlandia.pt/@rlafuente&quot;&gt;rlafuente&lt;/a&gt; did a great work with the design of the page.&lt;/p&gt;
+
+&lt;p&gt;We didn't want to mess with the Mastodon source code, so we did it all by hacking a few rules in the NGINX config.&lt;/p&gt;
+
+&lt;h4&gt;First step: Create your homepage html&lt;/h4&gt;
+
+&lt;p&gt;SSH to your server as the &lt;code&gt;mastodon&lt;/code&gt; user (or &lt;code&gt;sudo - mastodon&lt;/code&gt; if you're already logged in as root).&lt;/p&gt;
+
+&lt;p&gt;Create the directory where you're html will be. We used &lt;code&gt;/home/mastodon/live/custom-index/&lt;/code&gt;. Put your index.html, images and css files in there.&lt;/p&gt;
+
+&lt;h4&gt;Second step: Add rules to NGINX config&lt;/h4&gt;
+
+&lt;p&gt;In this step you have to be logged in as root.&lt;/p&gt;
+
+&lt;p&gt;Edit the file &lt;code&gt;/etc/nginx/sites-available/mastodon&lt;/code&gt; and add these lines:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;# START CUSTOM HOMEPAGE
+
+location /welcome {
+  rewrite ^ /welcome/ redirect;
+}
+
+location /welcome/ {
+  alias /home/mastodon/live/custom-index/;
+}
+
+location = / {                                                             
+  if ($cookie__session_id = &quot;&quot;) {
+    rewrite ^/$ https://&amp;lt;**your instance url in here**&amp;gt;/welcome/ redirect;
+  }                                                                                                                                                      
+  try_files $uri @proxy;                                                   
+}                                   
+
+# END CUSTOM HOMEPAGE
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4&gt;Final step: restart NGINX&lt;/h4&gt;
+
+&lt;p&gt;Run this:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;
+systemctl restart nginx
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Now when a user tries to access the root of your site, NGINX will check if the user is logged in (checking the value of the cookie session_id) and redirect them to your custom page which is located at the /welcome/ path.&lt;/p&gt;
+
+&lt;p&gt;If the user is logged in, they will of course be served the default Mastodon interface.&lt;/p&gt;
+
+&lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~epifanio/blog/tag_mastodon.html&quot;&gt;mastodon&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~epifanio/blog/tag_nginx.html&quot;&gt;nginx&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~epifanio/blog/tag_ciberlandia.html&quot;&gt;ciberlandia&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2023-01-19T00:06:34+00:00</dc:date>
+	<dc:creator>~epifanio</dc:creator>
+</item>
+<item rdf:about="https://tilde.pt/~marado/blog/./how-to-scp-with-a-jump-host.html">
+	<title>~marado: How to scp with a jump host</title>
+	<link>https://tilde.pt/~marado/blog/how-to-scp-with-a-jump-host.html</link>
+	<content:encoded>&lt;p&gt;The syntax isn't the most intuitive, I'm afraid.&lt;/p&gt;
+
+&lt;p&gt;If you want to scp files from a remote machine into yours, or vice versa, and
+you only have access to the remote machine via a jump host...&lt;/p&gt;
+
+&lt;p&gt;ie, if you need to&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;ssh -J jumphost:port remotehost&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;then, to copy files from remotehost to your local machine, you can do it by doing&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;scp -oProxyCommand=&quot;ssh -W %h:%p jumphost -p port&quot; remotehost:/path .&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_scp.html&quot;&gt;scp&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_jump.html&quot;&gt;jump&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_en.html&quot;&gt;en&lt;/a&gt;&lt;/p&gt;
+
+&lt;p id=&quot;twitter&quot;&gt;&lt;a href=&quot;http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/how-to-scp-with-a-jump-host.html&amp;amp;text=&amp;lt;escreve o comentário aqui mas deixa o URL para outras pessoas poderem seguir os comentários&amp;gt;&amp;amp;via=mind_booster&quot;&gt;comentários? tweetar&lt;/a&gt; 
+&lt;a href=&quot;https://twitter.com/search?q=https://tilde.pt/~marado/blog/how-to-scp-with-a-jump-host.html&quot;&gt;&lt;span id=&quot;count-32511&quot;&gt;&lt;/span&gt;&lt;/a&gt; &lt;/p&gt;</content:encoded>
+	<dc:date>2023-01-18T11:50:56+00:00</dc:date>
+	<dc:creator>~marado</dc:creator>
+</item>
 <item rdf:about="https://tilde.pt/~rlafuente/blog/./bots-de-mastodon-o-que-sao-como-fazer-e-a-botiqueta.html">
 	<title>~rlafuente: Bots de Mastodon: o que são, como fazer, e a botiqueta</title>
 	<link>https://tilde.pt/~rlafuente/blog/bots-de-mastodon-o-que-sao-como-fazer-e-a-botiqueta.html</link>
@@ -825,18 +911,6 @@ those graphs, once again.&lt;/p&gt;
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/What-have-we-lost</link>
 	<content:encoded>&lt;p&gt;from rc3 ccc conference&lt;/p&gt;</content:encoded>
 	<dc:date>2021-04-07T14:20:02+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Ted-Nelson-1979">
-	<title>N.S. do Computismo: Ted Nelson struggles with uncomprehending radio interviewer, 1979</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Ted-Nelson-1979</link>
-	<content:encoded>&lt;p&gt;Max Allen of CBC radio asks over and over how a computer could possibly be useful for thinking and visualizing.  He absolutely does not get it.&lt;/p&gt;</content:encoded>
-	<dc:date>2021-03-26T11:20:04+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Steve-Jobs-Interview">
-	<title>N.S. do Computismo: Steve Jobs Interview 1981-02-18</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/03/Steve-Jobs-Interview</link>
-	<content:encoded>&lt;p&gt;An interview with Steve Jobs filmed on 2/18/1981 about the future of Apple, Computers, the Home &amp;amp; Personal computer markets, video games, and more.&lt;/p&gt;</content:encoded>
-	<dc:date>2021-03-26T11:20:04+00:00</dc:date>
 </item>
 
 </rdf:RDF>
