@@ -130,9 +130,8 @@ location = / {
 
 &lt;p&gt;Run this:&lt;/p&gt;
 
-&lt;p&gt;&lt;code&gt;
-systemctl restart nginx
-&lt;/code&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;systemctl restart nginx
+&lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;Now when a user tries to access the root of your site, NGINX will check if the user is logged in (checking the value of the cookie session_id) and redirect them to your custom page which is located at the /welcome/ path.&lt;/p&gt;
 
