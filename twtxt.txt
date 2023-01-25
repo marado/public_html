@@ -4,7 +4,7 @@
 #
 # Learn more about twtxt at  https://github.com/buckket/twtxt
 #
-# This is hosted by a Yarn.social pod twtxt.net running yarnd edge@ac278fc6  go1.19.5
+# This is hosted by a Yarn.social pod twtxt.net running yarnd edge@0a5cb3af  go1.19.5
 # Learn more about Yarn.social at https://yarn.social
 #
 # nick        = marado
@@ -302,3 +302,6 @@
 2023-01-15T12:55:19Z	I've signed this [letter to stop new fossil fuel projects](https://secure.avaaz.org/campaign/en/davos_2023_loc/?cOOIlbb), and so can you.
 2023-01-17T21:32:26Z	[Greta Thunberg released after brief detention at German mine protest, police say](https://www.reuters.com/world/europe/german-police-detain-greta-thunberg-german-coal-village-protests-2023-01-17).
 2023-01-17T22:43:05Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (#ynd4qxq) follow the link, it's explained there
+2023-01-18T15:21:39Z	"[European Cyber Resiliency Act: Potential Impact on the Eclipse Foundation](https://eclipse-foundation.blog/2023/01/15/european-cyber-resiliency-act-potential-impact-on-the-eclipse-foundation/)" is a good reading and can be used to see the proposal's impact not just on Eclipse Foundation but, generically, on Free Software in Europe.
+2023-01-18T22:17:31Z	Lembrete anual: em Portugal o limiar de pobreza são 554€/mês, e o valor da pensão social de velhice é de 213.91€/mês.
+2023-01-21T21:50:01Z	On the [enshitification of the internet](https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys) (and how the Netheads were right all along).
