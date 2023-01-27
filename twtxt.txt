@@ -4,7 +4,7 @@
 #
 # Learn more about twtxt at  https://github.com/buckket/twtxt
 #
-# This is hosted by a Yarn.social pod twtxt.net running yarnd edge@0a5cb3af  go1.19.5
+# This is hosted by a Yarn.social pod twtxt.net running yarnd edge@a9f04102  go1.19.5
 # Learn more about Yarn.social at https://yarn.social
 #
 # nick        = marado
@@ -305,3 +305,5 @@
 2023-01-18T15:21:39Z	"[European Cyber Resiliency Act: Potential Impact on the Eclipse Foundation](https://eclipse-foundation.blog/2023/01/15/european-cyber-resiliency-act-potential-impact-on-the-eclipse-foundation/)" is a good reading and can be used to see the proposal's impact not just on Eclipse Foundation but, generically, on Free Software in Europe.
 2023-01-18T22:17:31Z	Lembrete anual: em Portugal o limiar de pobreza são 554€/mês, e o valor da pensão social de velhice é de 213.91€/mês.
 2023-01-21T21:50:01Z	On the [enshitification of the internet](https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys) (and how the Netheads were right all along).
+2023-01-27T00:43:54Z	@<GopherChat http://magical.fish:70/feeds/twtxt/twtxt.txt> (#hdjyh3a) lovely!
+2023-01-27T11:05:31Z	Happy to notice that this year's FOSDEM will have a devroom dedicated to the [energy transition](https://fosdem.org/2023/schedule/track/energy/): finally there is a place to discuss around free software's important role in creating solutions to the climate crisis.
