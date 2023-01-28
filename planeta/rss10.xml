@@ -98,7 +98,7 @@
 
 &lt;p&gt;SSH to your server as the &lt;code&gt;mastodon&lt;/code&gt; user (or &lt;code&gt;sudo - mastodon&lt;/code&gt; if you're already logged in as root).&lt;/p&gt;
 
-&lt;p&gt;Create the directory where you're html will be. We used &lt;code&gt;/home/mastodon/live/custom-index/&lt;/code&gt;. Put your index.html, images and css files in there.&lt;/p&gt;
+&lt;p&gt;Create the directory where your html will be. We used &lt;code&gt;/home/mastodon/live/custom-index/&lt;/code&gt;. Put your index.html, images and css files in there.&lt;/p&gt;
 
 &lt;h4&gt;Second step: Add rules to NGINX config&lt;/h4&gt;
 
