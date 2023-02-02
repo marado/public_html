@@ -4,7 +4,7 @@
 #
 # Learn more about twtxt at  https://github.com/buckket/twtxt
 #
-# This is hosted by a Yarn.social pod twtxt.net running yarnd edge@a9f04102  go1.19.5
+# This is hosted by a Yarn.social pod twtxt.net running yarnd edge@fe37a332  go1.20
 # Learn more about Yarn.social at https://yarn.social
 #
 # nick        = marado
@@ -12,7 +12,7 @@
 # avatar      = https://twtxt.net/user/marado/avatar#ryd3lwrkaujef7nemdf3jt6ggzb2rarlcsrsttbxltuxi7alg43q
 # description = Systems Engineer, Free Software advocate, Musician, Virtual World God.
 #
-# following   = 90
+# following   = 91
 #
 # link = my website https://tilde.pt/~marado
 #
@@ -62,6 +62,7 @@
 # follow = leo https://www.gkbrk.com/twtxt.txt
 # follow = logout http://i-logout.cz/twtxt.txt
 # follow = lucidiot https://tilde.town/~lucidiot/twtxt.txt
+# follow = lyse https://lyse.isobeef.org/twtxt.txt
 # follow = marado https://twtxt.net/user/marado/twtxt.txt
 # follow = marado@twitter https://feeds.twtxt.net/marcos-marado-atmind_booster/twtxt.txt
 # follow = mckinley https://twtxt.net/user/mckinley/twtxt.txt
@@ -307,3 +308,19 @@
 2023-01-21T21:50:01Z	On the [enshitification of the internet](https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys) (and how the Netheads were right all along).
 2023-01-27T00:43:54Z	@<GopherChat http://magical.fish:70/feeds/twtxt/twtxt.txt> (#hdjyh3a) lovely!
 2023-01-27T11:05:31Z	Happy to notice that this year's FOSDEM will have a devroom dedicated to the [energy transition](https://fosdem.org/2023/schedule/track/energy/): finally there is a place to discuss around free software's important role in creating solutions to the climate crisis.
+2023-01-27T23:10:47Z	![](https://gcdnb.pbrd.co/images/f6WGYPebXZgJ.jpg) @<prologic https://twtxt.net/user/prologic/twtxt.txt> something seems to have gone wrong with twtxt.net's upload capabilities...
+2023-01-28T00:49:38Z	(#ibw66va) @<prologic https://twtxt.net/user/prologic/twtxt.txt> now it worked 🤷‍♂️ ![](https://twtxt.net/media/xoLw3MNKLgPyKLpjB6vHMo.png)
+2023-01-28T00:53:29Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> @<nwu1dm https://twtxt.net/user/nwu1dm/twtxt.txt> (#4jk6bba) well, a twtxt file only you can modify and nobody else *is* what twtxt is all about.
+2023-01-28T03:25:58Z	@<slashdot https://feeds.twtxt.net/slashdot/twtxt.txt> (#4iumzeq) Seriously, I cannot believe that either side here is naive enough not to know what sort of war they are actually starting...
+2023-01-28T12:59:05Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (#4iumzeq) I don't think so. But it is a case of something... both parties here are saying "I don't trust you with my data which I think gives me a competitive advantage so I'm not going to open it up, but you should trust me when I say this opaque models trained with my secret data are so good you should use them".
+2023-01-28T13:08:15Z	@<thecanine https://twtxt.net/user/thecanine/twtxt.txt> (#v4bk7oa) thanks for that video on nothing music!
+2023-01-28T13:19:07Z	@<slashdot https://feeds.twtxt.net/slashdot/twtxt.txt> (#2ztq4da) so, the same conversation as with green cement: the science exists. yhe technology is there, but because it is more expensive, we'll keep using the polluting option. We really need stronger, faster, tougher regulation.
+2023-01-28T14:59:09Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (#teq2ora) It doesn't just because regulations don't exist, are poorly drafted, and often toothless. But the answer to that is stronger and better regulation, and I don't really see any alternative to it.
+2023-01-28T19:02:44Z	@<abucci https://anthony.buc.ci/user/abucci/twtxt.txt> (#4clsuoa) Inbox 6!
+2023-01-29T00:16:53Z	@<abucci https://anthony.buc.ci/user/abucci/twtxt.txt> @<prologic https://twtxt.net/user/prologic/twtxt.txt> (#teq2ora) I totally understand the frustration that comes with not being politically aligned with the two big parties - I feel it from experience, as my personal situation is not dissimilar. But the only thing stopping the smaller parties from growing is... support, votes. And sometimes, even a small party can make great things (proposing good bills that are actually approved by the other parties, for eg.).
+2023-01-30T01:54:26Z	@<bender https://anthony.buc.ci/user/bender/twtxt.txt> @<prologic https://twtxt.net/user/prologic/twtxt.txt> (#ahfv4xq) I've went further down - sometimes to seek something I've read and caught my attention at the time, othertimes to reference old threads in new ones. In this context, nothing is "too old".
+2023-01-31T01:42:08Z	@<GopherChat http://magical.fish:70/feeds/twtxt/twtxt.txt> (#u4ye4ba) If the idea is to have it accessible via telnet, why not run a [talker](https://en.m.wikipedia.org/wiki/Talker)?
+2023-01-31T23:20:49Z	(#lrrtpiq) @<paulasimoes-toots https://feeds.twtxt.net/paulasimoes@ciberlandia.pt/twtxt.txt> I wasn't planning on doing this, but after this delightful blog post I felt like publishing something about my readings again... Here is my "top 8" books of 2022 - not books published in 2022, but that I've read last year:  ![](https://twtxt.net/media/4TL7P6UTTjFua9pVK3GYTh.png)
+2023-01-31T23:44:31Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (#u4ye4ba) It is never too late to become a [spod](https://en.wiktionary.org/wiki/spod)!
+2023-02-01T00:39:38Z	@<off_grid_living https://twtxt.net/user/off_grid_living/twtxt.txt> @<prologic https://twtxt.net/user/prologic/twtxt.txt> (#hhsmcea) The Internet Archive are kings at that: [see here](https://twitter.com/internetarchive/status/1358090982189719552?t=97yPwK0ljlcVhWI0WLojAw&s=19).
+2023-02-02T03:12:27Z	I sometimes wonder how younger people think things were "before their time". Back in the day, the digital way to get manga/bd was in the now lost (it is, right?) art of fan novelization: I did read the first Dragonball manga books as texfiles, when I was young (years later they were published in Portugal, and I made the collection with drawings and everything).
