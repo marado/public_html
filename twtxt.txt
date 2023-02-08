@@ -4,7 +4,7 @@
 #
 # Learn more about twtxt at  https://github.com/buckket/twtxt
 #
-# This is hosted by a Yarn.social pod twtxt.net running yarnd edge@fe37a332  go1.20
+# This is hosted by a Yarn.social pod twtxt.net running yarnd edge@c82987fa  go1.20
 # Learn more about Yarn.social at https://yarn.social
 #
 # nick        = marado
@@ -324,3 +324,8 @@
 2023-01-31T23:44:31Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (#u4ye4ba) It is never too late to become a [spod](https://en.wiktionary.org/wiki/spod)!
 2023-02-01T00:39:38Z	@<off_grid_living https://twtxt.net/user/off_grid_living/twtxt.txt> @<prologic https://twtxt.net/user/prologic/twtxt.txt> (#hhsmcea) The Internet Archive are kings at that: [see here](https://twitter.com/internetarchive/status/1358090982189719552?t=97yPwK0ljlcVhWI0WLojAw&s=19).
 2023-02-02T03:12:27Z	I sometimes wonder how younger people think things were "before their time". Back in the day, the digital way to get manga/bd was in the now lost (it is, right?) art of fan novelization: I did read the first Dragonball manga books as texfiles, when I was young (years later they were published in Portugal, and I made the collection with drawings and everything).
+2023-02-03T22:01:32Z	No meu blog: [O voto eletrónico e a memória selectiva](https://tilde.pt/~marado/blog/o-voto-eletronico-e-a-memoria-selectiva.html)
+2023-02-03T22:03:53Z	This year I'll not be attending #FOSDEM. It starts tomorrow, and I'm missing it already :,(
+2023-02-03T22:22:56Z	Eu ainda sou do tempo... ![um postal de livro para enviar à editora](https://twtxt.net/media/ki4jh3kfUN8AS6GnSJNN2P.png)
+2023-02-03T23:32:08Z	A palavra "entretenedor" não existe, mas isso torna o trabalho do tradutor mais complicado, por isso... não existe mas inventa-se, pode ser que ninguém note: ![](https://twtxt.net/media/5shku3Z7t9UUKyhhN9giJ4.png)
+2023-02-05T18:21:48Z	Saying "we are a secular state but we need to realize most of out population is christian" is no different as saying "we don't racially discriminate but need to take into account most of us are white", or "we provide sexual freedom, but must cater to our predominant hetero/cis citizens". In other words: it's wrong.
