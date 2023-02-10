@@ -2,9 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>~marado's tildelog</title><link>https://tilde.pt/~marado/blog/index.html</link>
 <description>a tildelog on tildeverse</description><language>en</language>
-<lastBuildDate>Fri, 03 Feb 2023 20:59:19 +0000</lastBuildDate>
-<pubDate>Fri, 03 Feb 2023 20:59:19 +0000</pubDate>
+<lastBuildDate>Thu, 09 Feb 2023 14:46:20 +0000</lastBuildDate>
+<pubDate>Thu, 09 Feb 2023 14:46:20 +0000</pubDate>
 <atom:link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+MiniDebConf Portugal 2023
+</title><description><![CDATA[
+
+<p><img src="https://pt2023.mini.debconf.org/media/pages_files/miniDebConf_logo_chicken_swirl-twocolor3-plain-smaller.svg" alt="a rooster of Barcelos surrounded by Debian's swirl: MiniDebConf Portugal's
+logo" title="" /></p>
+
+<p>I've been a Debian user for a long time, but I've always sought (and felt the
+lack of) some sort of impulse to be more involved with Debian. Part of it, I
+suppose, was the lack of someone 'closer' (not necessarily, but also physically
+close) following the same path, or pushing in the same direction...  Anyway,
+once in a while I did find some opportunities to do something about it: in 2008
+I helped organize <a href="https://mindboosternoori.blogspot.com/2008/04/tecnonov-2008-tomorrow-fnac-coimbra.html">Tecnonov
+2008</a>
+where not only we had a Debian Developer talking about the project, we also had
+a key-signing party (and I got my now expired key signed by the DD in
+question). The year later, I went to Aveiro for <a href="https://www.debian.org/events/2009/0801-debianday-pt">Debian Day PT
+2009</a>, but... well, that
+was so long ago that the t-shirt I've got there has already been recycled!</p>
+
+<p>It was thanks to <a href="https://sintra2019.ubucon.org/">Ubucon Europe 2019</a> in Sintra
+that I've learned for the first time that there was an ongoing attempt to being
+DebianDay to Portugal... and finally, in 2023, a "local test" is being
+organized, a <a href="https://pt2023.mini.debconf.org/">MiniDebConf in Lisbon</a> that
+will, hopefully, also serve as a step towards a future <a href="https://wiki.debian.org/DebConf/25">DebConf in
+Portugal</a>.</p>
+
+<p>I have to confess, the younger me of ten, or the even younger me of twenty
+years ago would be a lot more excited with this, but still, it is finally
+happening, so how could I not attend? So here I am: with time off taken from
+work, hotel room reserved, ready for a week of Debian (and more generically
+free software) along likeminded individuals. I've even decided to contribute
+more actively and give <a href="https://pt2023.mini.debconf.org/users/marado/">a talk and a
+workshop</a>...</p>
+
+<p>It starts already this sunday, and it lasts until thursday. See you there?</p>
+
+<p>tags: <a href='tag_debian.html'>debian</a>, <a href='tag_debianday.html'>debianday</a>, <a href='tag_tecnonov.html'>tecnonov</a>, <a href='tag_minidebconf.html'>minidebconf</a>, <a href='tag_lisbon.html'>lisbon</a>, <a href='tag_aveiro.html'>aveiro</a>, <a href='tag_debconf.html'>debconf</a>, <a href='tag_events.html'>events</a>, <a href='tag_portugal.html'>portugal</a>, <a href='tag_ubucon.html'>ubucon</a>, <a href='tag_talk.html'>talk</a>, <a href='tag_workshop.html'>workshop</a>, <a href='tag_Free-Software.html'>Free-Software</a>, <a href='tag_en.html'>en</a></p>
+<!-- text end -->
+<p id='twitter'><a href='http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/minidebconf-portugal-2023.html&text=&lt;escreve o comentário aqui mas deixa o URL para outras pessoas poderem seguir os comentários&gt;&via=mind_booster'>comentários? tweetar</a> 
+<a href='https://twitter.com/search?q=https://tilde.pt/~marado/blog/minidebconf-portugal-2023.html'><span id='count-30734'></span></a>&nbsp;</p>
+]]></description><link>https://tilde.pt/~marado/blog/minidebconf-portugal-2023.html</link>
+<guid>https://tilde.pt/~marado/blog/./minidebconf-portugal-2023.html</guid>
+<dc:creator>~marado</dc:creator>
+<pubDate>Thu, 09 Feb 2023 14:45:07 +0000</pubDate></item>
 <item><title>
 O voto eletrónico e a memória selectiva
 </title><description><![CDATA[

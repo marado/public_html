@@ -9,6 +9,48 @@
 	<atom:link rel="self" href="http://tilde.pt/~marado/planeta/rss20.xml" type="application/rss+xml"/>
 
 <item>
+	<title>~marado: MiniDebConf Portugal 2023</title>
+	<guid isPermaLink="false">https://tilde.pt/~marado/blog/./minidebconf-portugal-2023.html</guid>
+	<link>https://tilde.pt/~marado/blog/minidebconf-portugal-2023.html</link>
+	<description>&lt;p&gt;&lt;img alt=&quot;a rooster of Barcelos surrounded by Debian's swirl: MiniDebConf Portugal's logo&quot; src=&quot;https://pt2023.mini.debconf.org/media/pages_files/miniDebConf_logo_chicken_swirl-twocolor3-plain-smaller.svg&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I've been a Debian user for a long time, but I've always sought (and felt the
+lack of) some sort of impulse to be more involved with Debian. Part of it, I
+suppose, was the lack of someone 'closer' (not necessarily, but also physically
+close) following the same path, or pushing in the same direction...  Anyway,
+once in a while I did find some opportunities to do something about it: in 2008
+I helped organize &lt;a href=&quot;https://mindboosternoori.blogspot.com/2008/04/tecnonov-2008-tomorrow-fnac-coimbra.html&quot;&gt;Tecnonov
+2008&lt;/a&gt;
+where not only we had a Debian Developer talking about the project, we also had
+a key-signing party (and I got my now expired key signed by the DD in
+question). The year later, I went to Aveiro for &lt;a href=&quot;https://www.debian.org/events/2009/0801-debianday-pt&quot;&gt;Debian Day PT
+2009&lt;/a&gt;, but... well, that
+was so long ago that the t-shirt I've got there has already been recycled!&lt;/p&gt;
+
+&lt;p&gt;It was thanks to &lt;a href=&quot;https://sintra2019.ubucon.org/&quot;&gt;Ubucon Europe 2019&lt;/a&gt; in Sintra
+that I've learned for the first time that there was an ongoing attempt to being
+DebianDay to Portugal... and finally, in 2023, a &quot;local test&quot; is being
+organized, a &lt;a href=&quot;https://pt2023.mini.debconf.org/&quot;&gt;MiniDebConf in Lisbon&lt;/a&gt; that
+will, hopefully, also serve as a step towards a future &lt;a href=&quot;https://wiki.debian.org/DebConf/25&quot;&gt;DebConf in
+Portugal&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I have to confess, the younger me of ten, or the even younger me of twenty
+years ago would be a lot more excited with this, but still, it is finally
+happening, so how could I not attend? So here I am: with time off taken from
+work, hotel room reserved, ready for a week of Debian (and more generically
+free software) along likeminded individuals. I've even decided to contribute
+more actively and give &lt;a href=&quot;https://pt2023.mini.debconf.org/users/marado/&quot;&gt;a talk and a
+workshop&lt;/a&gt;...&lt;/p&gt;
+
+&lt;p&gt;It starts already this sunday, and it lasts until thursday. See you there?&lt;/p&gt;
+
+&lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_debian.html&quot;&gt;debian&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_debianday.html&quot;&gt;debianday&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_tecnonov.html&quot;&gt;tecnonov&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_minidebconf.html&quot;&gt;minidebconf&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_lisbon.html&quot;&gt;lisbon&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_aveiro.html&quot;&gt;aveiro&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_debconf.html&quot;&gt;debconf&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_events.html&quot;&gt;events&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_portugal.html&quot;&gt;portugal&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_ubucon.html&quot;&gt;ubucon&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_talk.html&quot;&gt;talk&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_workshop.html&quot;&gt;workshop&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_Free-Software.html&quot;&gt;Free-Software&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_en.html&quot;&gt;en&lt;/a&gt;&lt;/p&gt;
+
+&lt;p id=&quot;twitter&quot;&gt;&lt;a href=&quot;http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/minidebconf-portugal-2023.html&amp;amp;text=&amp;lt;escreve o comentário aqui mas deixa o URL para outras pessoas poderem seguir os comentários&amp;gt;&amp;amp;via=mind_booster&quot;&gt;comentários? tweetar&lt;/a&gt; 
+&lt;a href=&quot;https://twitter.com/search?q=https://tilde.pt/~marado/blog/minidebconf-portugal-2023.html&quot;&gt;&lt;span id=&quot;count-30734&quot;&gt;&lt;/span&gt;&lt;/a&gt; &lt;/p&gt;</description>
+	<pubDate>Thu, 09 Feb 2023 14:45:07 +0000</pubDate>
+</item>
+<item>
 	<title>~marado: O voto eletrónico e a memória selectiva</title>
 	<guid isPermaLink="false">https://tilde.pt/~marado/blog/./o-voto-eletronico-e-a-memoria-selectiva.html</guid>
 	<link>https://tilde.pt/~marado/blog/o-voto-eletronico-e-a-memoria-selectiva.html</link>
@@ -925,15 +967,6 @@ those graphs, once again.&lt;/p&gt;
 
 &lt;p&gt;@ &lt;a href=&quot;https://www.informationisbeautiful.net/visualizations/million-lines-of-code/&quot;&gt;informationisbeautiful.net&lt;/a&gt;&lt;/p&gt;</description>
 	<pubDate>Mon, 19 Apr 2021 11:20:02 +0000</pubDate>
-</item>
-<item>
-	<title>N.S. do Computismo: Algorithmic symphonies from one line of code</title>
-	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/Algorithmic-symphonies</guid>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/Algorithmic-symphonies</link>
-	<description>&lt;p&gt;source and more @ &lt;a href=&quot;http://countercomplex.blogspot.com/2011/10/algorithmic-symphonies-from-one-line-of.html&quot;&gt;CounterComplex&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;or the youtube channel @  &lt;a href=&quot;https://www.youtube.com/channel/UCRRqeqAXdCC8GgatzHO3VWA&quot;&gt;Ville-Matias Heikkilä&lt;/a&gt;&lt;/p&gt;</description>
-	<pubDate>Thu, 15 Apr 2021 09:20:03 +0000</pubDate>
 </item>
 
 </channel>
