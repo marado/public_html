@@ -4,7 +4,7 @@
 #
 # Learn more about twtxt at  https://github.com/buckket/twtxt
 #
-# This is hosted by a Yarn.social pod twtxt.net running yarnd edge@c82987fa  go1.20
+# This is hosted by a Yarn.social pod twtxt.net running yarnd edge@18719023  go1.20.1
 # Learn more about Yarn.social at https://yarn.social
 #
 # nick        = marado
@@ -12,13 +12,14 @@
 # avatar      = https://twtxt.net/user/marado/avatar#ryd3lwrkaujef7nemdf3jt6ggzb2rarlcsrsttbxltuxi7alg43q
 # description = Systems Engineer, Free Software advocate, Musician, Virtual World God.
 #
-# following   = 91
+# following   = 92
 #
 # link = my website https://tilde.pt/~marado
 #
 # follow = 71m https://timmorgan.org/twtxt.txt
 # follow = 8ball https://domgoergen.com/twtxt/8ball.txt
 # follow = @gretathunberg@mastodon.nu https://feeds.twtxt.net/@gretathunberg@mastodon.nu/twtxt.txt
+# follow = @madcap https://ciberlandia.pt/@madcap.txt?limit=1000000
 # follow = Gopher Chat http://magical.fish:70/feeds/twtxt/twtxt.txt
 # follow = abliss https://abliss.keybase.pub/twtxt.txt#7a778276dd852edc65217e759cba637a28b4426b
 # follow = abucci https://anthony.buc.ci/user/abucci/twtxt.txt
@@ -332,3 +333,14 @@
 2023-02-08T13:56:21Z	(#5mfd7zq) @<abucci https://anthony.buc.ci/user/abucci/twtxt.txt> Hm, or maybe you are behind on Android's experience? O:-) I see that emoji well on my Goryon/Android. Unicode 13 support was [added on Android 11](https://developer.android.com/guide/topics/resources/internationalization#versioning-nougat).
 2023-02-08T23:25:46Z	@<abucci https://anthony.buc.ci/user/abucci/twtxt.txt> (#5mfd7zq) weird, [here](https://emojiterra.com/magic-wand/) it also says it is available on Android 11 and above. You should not need to install anything else...
 2023-02-09T11:02:57Z	@<kaniyama_t https://yarn.takuma-csirt.com/user/kaniyama_t/twtxt.txt> @<prologic https://twtxt.net/user/prologic/twtxt.txt> (#7uovubq) is you're hosting a twtxt file on github, you can actually have it in any repository, no need for gh-pages. [Example](https://raw.githubusercontent.com/marado/public_html/master/twtxt.txt)
+2023-02-10T17:00:35Z	New blog post: [MiniDebConf Portugal 2023](https://tilde.pt/~marado/blog/minidebconf-portugal-2023.html)
+2023-02-10T21:00:59Z	[Há 30 anos que a Universidade de Coimbra está ligada ao mundo pela internet](https://noticias.uc.pt/artigos/ha-30-anos-que-a-universidade-de-coimbra-esta-ligada-ao-mundo-pela-internet/)
+2023-02-11T02:03:28Z	@<slashdot https://feeds.twtxt.net/slashdot/twtxt.txt> (#4xzgqqa) here we go again...
+2023-02-12T09:46:35Z	MiniDebConf Portugal 2023: starting! ![](https://twtxt.net/media/VX4K6K7KEYkw26omyycQFQ.png)
+2023-02-14T09:33:11Z	Today is "I ♡ Free Software" day, and the love also comes to twtxt! In particular today I want to thank @<prologic https://twtxt.net/user/prologic/twtxt.txt> for being the force behind yarn.social and the nice community that has been growing around it! #ilovefs
+2023-02-14T22:59:40Z	![detail of MiniDebConf Portugal's t-shirt](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Debian_Portugal_2023.jpg/450px-Debian_Portugal_2023.jpg) #MiniDCPT - 3 days already gone, but 2 more still to come!
+2023-02-16T00:19:43Z	Portugal has 1.64% of its 2023 PIB allocated to the war industry, but NATO thinks it should be 2% minimum. On the other hand, in 2019 we had 16.2% of the population under the poverty lines. Priorities...
+2023-02-16T17:16:05Z	(#t2gujba) It's tested - and [alive](https://tilde.pt/~marado/twtxt-2021.php)! :-)
+2023-02-21T14:03:03Z	Origami, ThanatoSchizO's last album, was released on this date, twelve years ago. ![Origami Cover](http://www.thanatoschizo.com/ficheiros/base/images/covers/origami.jpg "Origami Cover")
+2023-02-21T15:27:38Z	You weren't able to attend to #MiniDCPT ? Well, the video of my presentation on #ilovefs is [now online](https://saimei.ftp.acc.umu.se/pub/debian-meetings/2023/MiniDebConfLisboa/mini_dc-lisbon-09-I_love_Free_Software.mp4).
+2023-02-25T00:05:58Z	@<eldarqtq https://twtxt.net/user/eldarqtq/twtxt.txt> @<prologic https://twtxt.net/user/prologic/twtxt.txt> (#nofcg5q) It might be also useful to also have a way to report a message or feed (for violations to code of conduct, privacy policy, etc.).
