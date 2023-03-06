@@ -4,7 +4,7 @@
 #
 # Learn more about twtxt at  https://github.com/buckket/twtxt
 #
-# This is hosted by a Yarn.social pod twtxt.net running yarnd edge@18719023  go1.20.1
+# This is hosted by a Yarn.social pod twtxt.net running yarnd edge@d794b8f3  go1.20.1
 # Learn more about Yarn.social at https://yarn.social
 #
 # nick        = marado
@@ -344,3 +344,11 @@
 2023-02-21T14:03:03Z	Origami, ThanatoSchizO's last album, was released on this date, twelve years ago. ![Origami Cover](http://www.thanatoschizo.com/ficheiros/base/images/covers/origami.jpg "Origami Cover")
 2023-02-21T15:27:38Z	You weren't able to attend to #MiniDCPT ? Well, the video of my presentation on #ilovefs is [now online](https://saimei.ftp.acc.umu.se/pub/debian-meetings/2023/MiniDebConfLisboa/mini_dc-lisbon-09-I_love_Free_Software.mp4).
 2023-02-25T00:05:58Z	@<eldarqtq https://twtxt.net/user/eldarqtq/twtxt.txt> @<prologic https://twtxt.net/user/prologic/twtxt.txt> (#nofcg5q) It might be also useful to also have a way to report a message or feed (for violations to code of conduct, privacy policy, etc.).
+2023-03-02T18:23:46Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> Why does my twtxt feed have dozens of twts, but the [web interface](https://twtxt.net/user/marado/) is only showing "Page 1/1 of 9 Twts"? Does it limit the number of twts shown by time (show only "most recent twts") instead of by feed size? If that is so, is that limit's existence a pod configuration?
+2023-03-02T18:24:59Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> Why does my twtxt feed have dozens of twts, but the [web interface](https://twtxt.net/user/marado/) is only showing "Page 1/1 of 9 Twts"? Does it limit the number of twts shown by time (show only "most recent twts") instead of by feed size? If that is so, is that limit's existence a pod configuration?
+2023-03-03T11:03:02Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> (#xvurpta) Less than ten days? Why? What does that solve?
+2023-03-03T13:20:18Z	@<slashdot https://feeds.twtxt.net/slashdot/twtxt.txt> (#d7wsbja) Apparently it is "former Debian project leader" and in fact Debian has nothing to do with this.
+2023-03-05T13:12:33Z	@<prologic https://twtxt.net/user/prologic/twtxt.txt> I think goryon doesn't show twts coming from activitypub accounts or something... ![same twt seen on the web an on goryon](https://twtxt.net/media/FCxP4vhsXuu9kFk36BkEQF.png)
+2023-03-06T11:16:05Z	(#ykblsha) @<prologic https://twtxt.net/user/prologic/twtxt.txt> I never got around to set up like that, I currently use twtxt.net web interface and goryon as clients, and have a simple cron doing a wget of the feed. I suppose I could still write something about why am I doing that...
+2023-03-06T11:17:42Z	(#c5qplsq) @<prologic https://twtxt.net/user/prologic/twtxt.txt> was in the plans, didn't do it yet because I didn't test on a recent build of the app (but I suppose it shouldn't make a difference). Will do.
+2023-03-06T11:42:13Z	(#c5qplsq) ...[done](https://git.mills.io/yarnsocial/app/issues/166).
