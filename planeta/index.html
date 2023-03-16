@@ -226,7 +226,7 @@ partido que está por detrás disso é o Partido Socialista.</p>
 
 <p>In this step you have to be logged in as root.</p>
 
-<p>Edit the file <code>/etc/nginx/sites-available/mastodon</code> and add these lines:</p>
+<p>Edit the file <code>/etc/nginx/sites-available/mastodon</code> and add these lines (don't forget to change you Content-Security-Policy according to your needs):</p>
 
 <pre><code># START CUSTOM HOMEPAGE
 
@@ -236,6 +236,11 @@ location /welcome {
 
 location /welcome/ {
   alias /home/mastodon/live/custom-index/;
+  add_header Content-Security-Policy "default-src 'none'; font-src 'self'; img-src 'self' data:; script-src 'self'; style-src 'self'; frame-ancestors 'none'; base-uri 'none'; form-action 'none'";
+  add_header X-XSS-Protection "1; mode=block";
+  add_header Strict-Transport-Security 'max-age=31536000; includeSubDomains; preload';
+  add_header X-Frame-Options "SAMEORIGIN";
+  add_header X-Content-Type-Options nosniff;
 }
 
 location = / {                                                             
@@ -258,6 +263,8 @@ location = / {
 <p>Now when a user tries to access the root of your site, NGINX will check if the user is logged in (checking the value of the cookie session_id) and redirect them to your custom page which is located at the /welcome/ path.</p>
 
 <p>If the user is logged in, they will of course be served the default Mastodon interface.</p>
+
+<p>[EDIT 2023-03-12] Added security headers</p>
 
 <p>tags: <a href="https://tilde.pt/~epifanio/blog/tag_mastodon.html">mastodon</a>, <a href="https://tilde.pt/~epifanio/blog/tag_nginx.html">nginx</a>, <a href="https://tilde.pt/~epifanio/blog/tag_ciberlandia.html">ciberlandia</a></p></div>
 
@@ -2588,7 +2595,7 @@ those graphs, once again.</p>
 
 <p>
 <strong>Last updated:</strong><br>
-February 10, 2023 04:20 PM<br>
+March 16, 2023 05:20 PM<br>
 <em>All times are UTC.</em><br>
 <br>
 Powered by:<br>
