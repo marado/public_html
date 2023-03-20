@@ -4,7 +4,7 @@
 #
 # Learn more about twtxt at  https://github.com/buckket/twtxt
 #
-# This is hosted by a Yarn.social pod twtxt.net running yarnd edge@d794b8f3  go1.20.1
+# This is hosted by a Yarn.social pod twtxt.net running yarnd edge@5246ca45  go1.20.2
 # Learn more about Yarn.social at https://yarn.social
 #
 # nick        = marado
@@ -12,14 +12,22 @@
 # avatar      = https://twtxt.net/user/marado/avatar#ryd3lwrkaujef7nemdf3jt6ggzb2rarlcsrsttbxltuxi7alg43q
 # description = Systems Engineer, Free Software advocate, Musician, Virtual World God.
 #
-# following   = 92
+# following   = 107
 #
 # link = my website https://tilde.pt/~marado
 #
 # follow = 71m https://timmorgan.org/twtxt.txt
 # follow = 8ball https://domgoergen.com/twtxt/8ball.txt
+# follow = @botsin.space http://botsin.space
+# follow = @ciberlandia.pt https://ciberlandia.pt/@rlafuente.txt?limit=999999
+# follow = @ciberlandia.pt@ciberlandia.pt http://ciberlandia.pt
 # follow = @gretathunberg@mastodon.nu https://feeds.twtxt.net/@gretathunberg@mastodon.nu/twtxt.txt
 # follow = @madcap https://ciberlandia.pt/@madcap.txt?limit=1000000
+# follow = @mamot.fr http://mamot.fr
+# follow = @mastodon.archive.org http://mastodon.archive.org
+# follow = @mastodon.social https://mastodon.social/users/ocdtrekkie
+# follow = @post.lurk.org https://post.lurk.org/users/rlafuente
+# follow = D3 Direitos Digitais 🇵🇹 🇪🇺@ciberlandia.pt https://ciberlandia.pt/@d3.txt?limit=10000
 # follow = Gopher Chat http://magical.fish:70/feeds/twtxt/twtxt.txt
 # follow = abliss https://abliss.keybase.pub/twtxt.txt#7a778276dd852edc65217e759cba637a28b4426b
 # follow = abucci https://anthony.buc.ci/user/abucci/twtxt.txt
@@ -44,7 +52,9 @@
 # follow = deepend https://yourtilde.com/~deepend/twtxt.txt
 # follow = dgold https://dgold.eu/twtxt.txt
 # follow = eaplmx https://twtxt.net/user/eaplmx/twtxt.txt
+# follow = edsantos@ciberlandia.pt https://ciberlandia.pt/users/edsantos
 # follow = edsu http://edsu.github.io/twtxt/twtxt.txt
+# follow = eldersnake@we.loveprivacy.club https://we.loveprivacy.club/user/eldersnake/twtxt.txt
 # follow = epifanio https://tilde.pt/~epifanio/twtxt.txt
 # follow = esc http://escowles.github.io/tw.txt
 # follow = fegffb https://feg-ffb.de/twtxt.txt
@@ -60,10 +70,12 @@
 # follow = kas https://enotty.dk/twtxt.txt
 # follow = kevin https://txt.om.gay/twtxt.txt
 # follow = lahvak http://lahvak.github.io/twtxt/twtxt.txt
+# follow = laz@tt.vltra.plus https://tt.vltra.plus/user/laz/twtxt.txt
 # follow = leo https://www.gkbrk.com/twtxt.txt
 # follow = logout http://i-logout.cz/twtxt.txt
 # follow = lucidiot https://tilde.town/~lucidiot/twtxt.txt
 # follow = lyse https://lyse.isobeef.org/twtxt.txt
+# follow = madcap@ciberlandia.pt https://ciberlandia.pt/users/madcap
 # follow = marado https://twtxt.net/user/marado/twtxt.txt
 # follow = marado@twitter https://feeds.twtxt.net/marcos-marado-atmind_booster/twtxt.txt
 # follow = mckinley https://twtxt.net/user/mckinley/twtxt.txt
@@ -90,12 +102,15 @@
 # follow = sixbitproxywax https://sixbitproxywax.com/twtxt.txt
 # follow = slashdot https://feeds.twtxt.net/slashdot/twtxt.txt
 # follow = stigatle https://twtxt.net/user/stigatle/twtxt.txt
+# follow = stigatle@yarn.stigatle.no https://yarn.stigatle.no/user/stigatle/twtxt.txt
 # follow = svf http://scott.vranesh-fallin.com/twtxt.txt
 # follow = sysdharma https://twtxt.lpho.de/twtxt.txt
 # follow = tca https://twtxt.net/user/tca/twtxt.txt
 # follow = tfurrows https://grex.org/~tfurrows/twtxt.txt
+# follow = thecanine@twtxt.net https://twtxt.net/user/thecanine/twtxt.txt
 # follow = tildebeast https://tilde.team/~tildebeast/twtxt/twtxt.txt
 # follow = tildept https://feeds.twtxt.net/tilde@ciberlandia.pt/twtxt.txt
+# follow = tkanos@twtxt.net https://twtxt.net/user/tkanos/twtxt.txt
 # follow = tolstoevsky https://tolstoevsky.ml/twtxt.txt
 # follow = tux0r https://twtxt.rosaelefanten.org
 # follow = twitter-mind_booster https://feeds.twtxt.net/twitter-mind_booster/twtxt.txt
@@ -352,3 +367,33 @@
 2023-03-06T11:16:05Z	(#ykblsha) @<prologic https://twtxt.net/user/prologic/twtxt.txt> I never got around to set up like that, I currently use twtxt.net web interface and goryon as clients, and have a simple cron doing a wget of the feed. I suppose I could still write something about why am I doing that...
 2023-03-06T11:17:42Z	(#c5qplsq) @<prologic https://twtxt.net/user/prologic/twtxt.txt> was in the plans, didn't do it yet because I didn't test on a recent build of the app (but I suppose it shouldn't make a difference). Will do.
 2023-03-06T11:42:13Z	(#c5qplsq) ...[done](https://git.mills.io/yarnsocial/app/issues/166).
+2023-03-06T22:57:15Z	Books I've read recently, wasn't counting on, and are no my usual 'style' include [The Diary of a Nobody](https://en.wikipedia.org/wiki/The_Diary_of_a_Nobody) and [Around the world in 80 days](https://en.m.wikipedia.org/wiki/Around_the_World_in_Eighty_Days), which was followed by the also unplanned [The Pursuit of Love](https://en.m.wikipedia.org/wiki/The_Pursuit_of_Love) that refers to those two others as favorites of the main character. Is this s coincidence, or am I stumbling upon something?
+2023-03-06T23:12:29Z	(#swyqoya) @<prologic https://twtxt.net/user/prologic/twtxt.txt> Seems that new twtxt posts here are showing on mastodon as replies (see example): ![](https://twtxt.net/media/F5C94cDqKpzfeqy2w6PC6K.png)
+2023-03-06T23:14:07Z	(#swyqoya) Hm, realized now that the screenshot isn't as good as I thought... this post (which was not a reply to anything) shows in the "Posts and replies" tab, but the "Posts" tab is empty.
+2023-03-08T00:47:28Z	On a [recent interview](https://www.vox.com/platform/amp/technology/2023/3/6/23627351/neal-stephenson-snow-crash-metaverse-goggles-movies-games-tv-podcast-peter-kafka-media-column), Neal Stephenson isn't confident on the future of the planned Snow Crash adaptation into a TV series, but, on the plus side, "there’s some work underway to adapt a book I co-wrote called The Rise and Fall of D.O.D.O. into a television series."
+2023-03-09T03:12:30Z	So, @prologic, should mute hide someone's posts even if we're looking at "Discover"? (I think so, but that's not happening)
+2023-03-09T03:14:10Z	(#7lu5xzq)  False alarm (I juat had to properly refresh)
+2023-03-10T13:49:05Z	(#x7zzmwq) @<movq https://www.uninformativ.de/twtxt.txt> With 11 years now, she has been still doing covers... https://www.youtube.com/watch?v=ezb8oJqwkH8
+2023-03-10T22:27:02Z	(#x7oivgq) @<thecanine https://twtxt.net/user/thecanine/twtxt.txt> First I allowed myself to be excited, but then I went to read... and they're not talking about making Facebook talk ActivityPub, but about creating yet another social network 😞
+2023-03-11T14:25:43Z	(#zbsrabq) @<prologic https://twtxt.net/user/prologic/twtxt.txt>  to be fair,  I don't really see a difference here: with the integration, users still only see the feeds they choose to read (either as a twtxt or AP), right? Or this is more a problem of the integration making the network "grow too fast"?
+2023-03-11T16:22:12Z	(#zbsrabq) @<prologic https://twtxt.net/user/prologic/twtxt.txt>  I see: I was speaking in the end user's perspective tho, I suppose those concerns only really affect the pod owner? And, if that is the case, giving a pod owner the ability to toggle AP integration on/off us probably good enough to mitigate those concerns?
+2023-03-11T19:08:20Z	(#db3ri3q) @<movq https://www.uninformativ.de/twtxt.txt> Here's to old school coffee! ![picture of my baloon coffee machine](https://twtxt.net/media/FqtMUscpkcp8FUrYcZAhma.png)
+2023-03-11T20:44:39Z	Mais uma vez, o Governo Português a favorecer a indústria às custas do ambiente: https://zero.ong/noticias/comporta-gale-zero-denuncia-incapacidade-de-protecao-da-rede-natura-em-portugal/
+2023-03-11T21:56:27Z	(#db3ri3q) @<movq https://www.uninformativ.de/twtxt.txt>  [Wikipedia explains better](https://en.m.wikipedia.org/wiki/Vacuum_coffee_maker) 😀
+2023-03-12T02:22:08Z	(#2wuyiea) @<prologic https://twtxt.net/user/prologic/twtxt.txt>  While I think this is a cool idea, I don't think it is a replacement for what you have been trying to achieve on yarn.social.
+2023-03-12T02:26:11Z	(#2wuyiea)  Also, how would you go about it? I mean, I can start using a txt on my client that is actually coming from a proxy service generating it from an AP account (like we already have on feeds), but how do I announce that your service should "follow back" my own feed so you can see replies and translate them into AP replies?
+2023-03-12T02:57:15Z	(#2wuyiea) @<prologic https://twtxt.net/user/prologic/twtxt.txt>  I see. Well, as I said, I see value in such a bridge, but I don't think it replaces yarn.social's AP integration. It could, however, be used as a backend in yarn.social: a pod would delegate the AP bridging, and all of that would be transparent to the user.
+2023-03-12T18:02:48Z	![This is a picture of some pin buttons.  I'm posting it just to try images where the alt text has new lines](https://twtxt.net/media/oQyrF88bRGvBqEfwjdqcaA.png)
+2023-03-12T18:12:04Z	(#fab5xja) This is an image with an alt text with new lines in it. Yarn.social's web interface renders it "well", the mobile app does not. Which is the correct behavior? Is this how new lines on image's alts are supposed to be? If so, should the web interface be replacing the "new line characters" with actual new lines? Or, in fact, what is the correct way to add a new line in alt texta in html?  So many questions 😊 anyone care to comment?
+2023-03-14T02:15:18Z	(#bax6uga) @<eldersnake https://twtxt.net/user/eldersnake/twtxt.txt>  Unfortunately it is a plague. In Europe we have [CDSM's Article 15](https://en.m.wikipedia.org/wiki/Directive_on_Copyright_in_the_Digital_Single_Market).
+2023-03-15T10:21:29Z	(#f3sy5za) @@post.lurk.org snif!
+2023-03-15T22:05:53Z	(#epgk4eq) @@madcap@ciberlandia.pt  E muito mais havia para fazer, não fosse o número reduzido de funcionários, "manifestamente insuficiente para corresponder ao mandato legal de execução das tarefas necessárias à garantia dos direitos dos cidadãos”... #CNPD
+2023-03-16T17:19:41Z	(#j6s7npa) @<slashdot https://feeds.twtxt.net/slashdot/twtxt.txt>  #WhatsWrongWithCapitalism
+2023-03-16T23:06:15Z	(#f524naa) @@madcap@ciberlandia.pt  Vergonha ou não, não estás sozinho!
+2023-03-17T13:24:23Z	The way Samsung bundles terms of services and privacy policy updates/acceptance with their Android security updates should be studied.
+2023-03-18T00:53:22Z	(#gasdyza) @<prologic https://twtxt.net/user/prologic/twtxt.txt>  Are you sure that's the case here? The [rss feed](https://scala.libhunt.com/newsletter/feed) looks clean...
+2023-03-18T03:01:58Z	(#jt3ww4q) @<ocdtrekkie https://mastodon.social/users/ocdtrekkie>  well, I mean... can a single-user experiment like that really be called "the metaverse"?
+2023-03-18T23:40:08Z	(#q6yvzsq) @<ocdtrekkie https://mastodon.social/users/ocdtrekkie> I usually `touch file;git log file|head;rm file`.
+2023-03-19T12:33:23Z	(#ov2u4qq) @<prologic https://twtxt.net/user/prologic/twtxt.txt> in the meantime, [docker wrote a clarification](https://www.docker.com/blog/we-apologize-we-did-a-terrible-job-announcing-the-end-of-docker-free-teams/).
+2023-03-20T15:43:10Z	[Combate às alterações climáticas é uma das maiores preocupações dos jovens](https://www.rtp.pt/noticias/pais/combate-as-alteracoes-climaticas-e-uma-das-maiores-preocupacoes-dos-jovens_v1474433) em Portugal.
+2023-03-20T16:59:32Z	My "one snippet" from [today's IPCC report](https://www.ipcc.ch/report/ar6/syr/): "Climate change is a threat to human well-being and planetary health. There is a rapidly closing window of opportunity to secure a liveable and sustainable future for all. The choices and actions implemented in this decade will have impacts now and for thousands of years."
