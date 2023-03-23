@@ -12,41 +12,24 @@
 # avatar      = https://twtxt.net/user/marado/avatar#ryd3lwrkaujef7nemdf3jt6ggzb2rarlcsrsttbxltuxi7alg43q
 # description = Systems Engineer, Free Software advocate, Musician, Virtual World God.
 #
-# following   = 107
+# following   = 94
 #
 # link = my website https://tilde.pt/~marado
 #
-# follow = 71m https://timmorgan.org/twtxt.txt
 # follow = 8ball https://domgoergen.com/twtxt/8ball.txt
-# follow = @botsin.space http://botsin.space
-# follow = @ciberlandia.pt https://ciberlandia.pt/@rlafuente.txt?limit=999999
-# follow = @ciberlandia.pt@ciberlandia.pt http://ciberlandia.pt
-# follow = @gretathunberg@mastodon.nu https://feeds.twtxt.net/@gretathunberg@mastodon.nu/twtxt.txt
-# follow = @madcap https://ciberlandia.pt/@madcap.txt?limit=1000000
-# follow = @mamot.fr http://mamot.fr
-# follow = @mastodon.archive.org http://mastodon.archive.org
-# follow = @mastodon.social https://mastodon.social/users/ocdtrekkie
-# follow = @post.lurk.org https://post.lurk.org/users/rlafuente
 # follow = D3 Direitos Digitais 🇵🇹 🇪🇺@ciberlandia.pt https://ciberlandia.pt/@d3.txt?limit=10000
 # follow = Gopher Chat http://magical.fish:70/feeds/twtxt/twtxt.txt
-# follow = abliss https://abliss.keybase.pub/twtxt.txt#7a778276dd852edc65217e759cba637a28b4426b
 # follow = abucci https://anthony.buc.ci/user/abucci/twtxt.txt
 # follow = adi https://twtxt.net/user/adi/twtxt.txt
-# follow = akraut https://akraut.keybase.pub/twtxt.txt
-# follow = alip https://dev.exherbo.org/~alip/twtxt.txt
 # follow = amorris https://feed.amorris.ca/hallway.txt
 # follow = anx https://twtxt.net/user/anx/twtxt.txt
-# follow = anx@twtxt.anxsnest.eu https://twtxt.anxsnest.eu
 # follow = autoalk http://autoalk.tk/twtxt/autoalk.txt
 # follow = benaiah https://benaiah.me/twtxt.txt
-# follow = borgerforslag https://enotty.dk/borgerforslag.txt
 # follow = buckket https://buckket.org/twtxt.txt
 # follow = bullseye https://domgoergen.com/twtxt/bullseye.txt
 # follow = c-keen http://pestilenz.org/~ckeen/twtxt.txt
 # follow = chartersazevedo https://nexp.pt/twtxt.txt
-# follow = clementd http://clementd-files.cellar.services.clever-cloud.com/twtxt.txt
 # follow = darch https://twtxt.net/user/darch/twtxt.txt
-# follow = darch2 https://yarn.algorave.dk/user/darch2/twtxt.txt
 # follow = darch@neotxt.dk https://neotxt.dk/user/darch/twtxt.txt
 # follow = dave https://davebucklin.com/twtxt.txt
 # follow = deepend https://yourtilde.com/~deepend/twtxt.txt
@@ -62,6 +45,7 @@
 # follow = fundor333 https://fundor333.com/twtxt.txt
 # follow = gbmor https://gbmor.dev/twtxt.txt
 # follow = gil https://tilde.pt/~gil/twtxt.txt
+# follow = gretathunberg@mastodon.nu https://mastodon.nu/users/gretathunberg
 # follow = hjertnes https://hjertnes.social/twtxt.txt
 # follow = jb55 https://jb55.com/twtxt.txt
 # follow = jcolag https://john.colagioia.net/twtxt.txt
@@ -88,6 +72,7 @@
 # follow = nblade http://nblade.sdf.org/twtxt/twtxt.txt
 # follow = news https://twtxt.net/user/news/twtxt.txt
 # follow = news@yarn.andrewjvpowell.com https://yarn.andrewjvpowell.com/user/news/twtxt.txt
+# follow = ocdtrekkie@mastodon.social https://mastodon.social/users/ocdtrekkie
 # follow = paulasimoes-toots https://feeds.twtxt.net/paulasimoes@ciberlandia.pt/twtxt.txt
 # follow = paulasimoes@mastodon.social https://feeds.twtxt.net/paulasimoes@mastodon.social/twtxt.txt
 # follow = pelmel http://pelmel.org/twtxt.txt
@@ -97,6 +82,8 @@
 # follow = retrocrash https://neotxt.dk/user/retrocrash/twtxt.txt
 # follow = retrocrash@twtxt.net https://twtxt.net/user/retrocrash/twtxt.txt
 # follow = reviravolta https://reviravolta.digital/twtxt.txt
+# follow = rlafuente@ciberlandia.pt https://ciberlandia.pt/users/rlafuente
+# follow = rlafuente@post.lurk.org https://post.lurk.org/users/rlafuente
 # follow = ruebot http://ruebot.github.io/twtxt/twtxt.txt
 # follow = sdk https://codevoid.de/tw.txt
 # follow = sixbitproxywax https://sixbitproxywax.com/twtxt.txt
@@ -397,3 +384,4 @@
 2023-03-19T12:33:23Z	(#ov2u4qq) @<prologic https://twtxt.net/user/prologic/twtxt.txt> in the meantime, [docker wrote a clarification](https://www.docker.com/blog/we-apologize-we-did-a-terrible-job-announcing-the-end-of-docker-free-teams/).
 2023-03-20T15:43:10Z	[Combate às alterações climáticas é uma das maiores preocupações dos jovens](https://www.rtp.pt/noticias/pais/combate-as-alteracoes-climaticas-e-uma-das-maiores-preocupacoes-dos-jovens_v1474433) em Portugal.
 2023-03-20T16:59:32Z	My "one snippet" from [today's IPCC report](https://www.ipcc.ch/report/ar6/syr/): "Climate change is a threat to human well-being and planetary health. There is a rapidly closing window of opportunity to secure a liveable and sustainable future for all. The choices and actions implemented in this decade will have impacts now and for thousands of years."
+2023-03-23T15:22:31Z	[EU: Proposed liability rules will harm Free Software](https://fsfe.org/news/2023/news-20230323-01.html)
