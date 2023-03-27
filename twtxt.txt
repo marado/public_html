@@ -4,7 +4,7 @@
 #
 # Learn more about twtxt at  https://github.com/buckket/twtxt
 #
-# This is hosted by a Yarn.social pod twtxt.net running yarnd edge@5246ca45  go1.20.2
+# This is hosted by a Yarn.social pod twtxt.net running yarnd edge@7dd5a93e  go1.20.2
 # Learn more about Yarn.social at https://yarn.social
 #
 # nick        = marado
@@ -17,7 +17,6 @@
 # link = my website https://tilde.pt/~marado
 #
 # follow = 8ball https://domgoergen.com/twtxt/8ball.txt
-# follow = D3 Direitos Digitais 🇵🇹 🇪🇺@ciberlandia.pt https://ciberlandia.pt/@d3.txt?limit=10000
 # follow = Gopher Chat http://magical.fish:70/feeds/twtxt/twtxt.txt
 # follow = abucci https://anthony.buc.ci/user/abucci/twtxt.txt
 # follow = adi https://twtxt.net/user/adi/twtxt.txt
@@ -29,6 +28,7 @@
 # follow = bullseye https://domgoergen.com/twtxt/bullseye.txt
 # follow = c-keen http://pestilenz.org/~ckeen/twtxt.txt
 # follow = chartersazevedo https://nexp.pt/twtxt.txt
+# follow = d3@ciberlandia.pt https://ciberlandia.pt/users/d3
 # follow = darch https://twtxt.net/user/darch/twtxt.txt
 # follow = darch@neotxt.dk https://neotxt.dk/user/darch/twtxt.txt
 # follow = dave https://davebucklin.com/twtxt.txt
@@ -49,6 +49,7 @@
 # follow = hjertnes https://hjertnes.social/twtxt.txt
 # follow = jb55 https://jb55.com/twtxt.txt
 # follow = jcolag https://john.colagioia.net/twtxt.txt
+# follow = jmjl@tilde.green https://tilde.green/~jmjl/twtxt/twtxt.txt
 # follow = johanbove https://johanbove.info/twtxt.txt
 # follow = justamoment https://twtxt.net/user/justamoment/twtxt.txt
 # follow = kas https://enotty.dk/twtxt.txt
@@ -73,8 +74,7 @@
 # follow = news https://twtxt.net/user/news/twtxt.txt
 # follow = news@yarn.andrewjvpowell.com https://yarn.andrewjvpowell.com/user/news/twtxt.txt
 # follow = ocdtrekkie@mastodon.social https://mastodon.social/users/ocdtrekkie
-# follow = paulasimoes-toots https://feeds.twtxt.net/paulasimoes@ciberlandia.pt/twtxt.txt
-# follow = paulasimoes@mastodon.social https://feeds.twtxt.net/paulasimoes@mastodon.social/twtxt.txt
+# follow = paulasimoes@ciberlandia.pt https://ciberlandia.pt/users/paulasimoes
 # follow = pelmel http://pelmel.org/twtxt.txt
 # follow = prologic https://twtxt.net/user/prologic/twtxt.txt
 # follow = quite https://lublin.se/twtxt.txt
@@ -385,3 +385,9 @@
 2023-03-20T15:43:10Z	[Combate às alterações climáticas é uma das maiores preocupações dos jovens](https://www.rtp.pt/noticias/pais/combate-as-alteracoes-climaticas-e-uma-das-maiores-preocupacoes-dos-jovens_v1474433) em Portugal.
 2023-03-20T16:59:32Z	My "one snippet" from [today's IPCC report](https://www.ipcc.ch/report/ar6/syr/): "Climate change is a threat to human well-being and planetary health. There is a rapidly closing window of opportunity to secure a liveable and sustainable future for all. The choices and actions implemented in this decade will have impacts now and for thousands of years."
 2023-03-23T15:22:31Z	[EU: Proposed liability rules will harm Free Software](https://fsfe.org/news/2023/news-20230323-01.html)
+2023-03-25T23:52:29Z	(#wwrg6ja) @<prologic https://twtxt.net/user/prologic/twtxt.txt>  I will!
+2023-03-26T15:48:57Z	(#ck442ka) @<jmjl https://tilde.green/~jmjl/twtxt/twtxt.txt>  for images, one of those messages is the alt, the other is the title. More info [here](https://www.markdownguide.org/basic-syntax/#images-1).
+2023-03-26T20:40:08Z	(#2atsloq) @<slashdot https://feeds.twtxt.net/slashdot/twtxt.txt>  FFS.
+2023-03-26T23:33:04Z	(#wwrg6ja) @<prologic https://twtxt.net/user/prologic/twtxt.txt> I'm still going to do it, but I only actually read the log you quotes now, and FWIW, I supposedly *am* following that feed (on purpose):  ![screenshot showing I am following edsantos@ciberlandia](https://twtxt.net/media/C8SShk9Y7MpkPEdY7m9gK4.png)
+2023-03-27T00:13:36Z	(#wwrg6ja) @<prologic https://twtxt.net/user/prologic/twtxt.txt>  gotcha
+2023-03-27T10:16:03Z	(#wwrg6ja) Done.
