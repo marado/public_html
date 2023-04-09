@@ -4,7 +4,7 @@
 #
 # Learn more about twtxt at  https://github.com/buckket/twtxt
 #
-# This is hosted by a Yarn.social pod twtxt.net running yarnd edge@7dd5a93e  go1.20.2
+# This is hosted by a Yarn.social pod twtxt.net running yarnd 0.15.1@7dd5a93e 2023-03-27T00:53:59+10:00 go1.20.3
 # Learn more about Yarn.social at https://yarn.social
 #
 # nick        = marado
@@ -12,7 +12,7 @@
 # avatar      = https://twtxt.net/user/marado/avatar#ryd3lwrkaujef7nemdf3jt6ggzb2rarlcsrsttbxltuxi7alg43q
 # description = Systems Engineer, Free Software advocate, Musician, Virtual World God.
 #
-# following   = 94
+# following   = 96
 #
 # link = my website https://tilde.pt/~marado
 #
@@ -77,6 +77,7 @@
 # follow = paulasimoes@ciberlandia.pt https://ciberlandia.pt/users/paulasimoes
 # follow = pelmel http://pelmel.org/twtxt.txt
 # follow = prologic https://twtxt.net/user/prologic/twtxt.txt
+# follow = prx@tilde.town http://tilde.town/~prx/twtxt.txt
 # follow = quite https://lublin.se/twtxt.txt
 # follow = reednj http://twtxt.xyz/user/8c2b4bbfa328944ba.txt
 # follow = retrocrash https://neotxt.dk/user/retrocrash/twtxt.txt
@@ -99,6 +100,7 @@
 # follow = tildept https://feeds.twtxt.net/tilde@ciberlandia.pt/twtxt.txt
 # follow = tkanos@twtxt.net https://twtxt.net/user/tkanos/twtxt.txt
 # follow = tolstoevsky https://tolstoevsky.ml/twtxt.txt
+# follow = tunes@ciberlandia.pt https://ciberlandia.pt/users/tunes
 # follow = tux0r https://twtxt.rosaelefanten.org
 # follow = twitter-mind_booster https://feeds.twtxt.net/twitter-mind_booster/twtxt.txt
 # follow = twtxt https://buckket.org/twtxt_news.txt
@@ -391,3 +393,15 @@
 2023-03-26T23:33:04Z	(#wwrg6ja) @<prologic https://twtxt.net/user/prologic/twtxt.txt> I'm still going to do it, but I only actually read the log you quotes now, and FWIW, I supposedly *am* following that feed (on purpose):  ![screenshot showing I am following edsantos@ciberlandia](https://twtxt.net/media/C8SShk9Y7MpkPEdY7m9gK4.png)
 2023-03-27T00:13:36Z	(#wwrg6ja) @<prologic https://twtxt.net/user/prologic/twtxt.txt>  gotcha
 2023-03-27T10:16:03Z	(#wwrg6ja) Done.
+2023-03-29T01:13:00Z	(#2atsloq) unfortunately, it isn't "just Germany" the whole [EU seems OK](https://twtxt.net/twt/5r7pr6a) with ignoring the urgency science proves the sittuation demands. And this was already an watered-down decision...
+2023-03-29T01:16:44Z	(#2atsloq)  (for reference, here's me whining on how the measure was already insufficient [last year](https://search.twtxt.net/twt/qwtzwca)).
+2023-03-31T10:20:04Z	#WikiCon Portugal 2023 has started today, a [3 days free event](https://pt.wikimedia.org/wiki/WikiCon_Portugal_2023), a gathering not only about Wikimedia, but free culture in general. I'll be there the next two days, come say hi!
+2023-04-01T23:16:08Z	A tiring yet very fruitful day at #WikiCon. And tomorrow there's more to come! ![](https://twtxt.net/media/8DwQf2j2sT4LZP8Uad2Lq3.png)
+2023-04-02T00:01:21Z	(#ez6ghnq) @<prologic https://twtxt.net/user/prologic/twtxt.txt>  Don't be envious, the Australian Wikimedia [also has an upcoming event](https://wikimedia.org.au/wiki/The_GLAM_Wiki_Road_Map)!
+2023-04-02T00:28:50Z	(#ez6ghnq) @<prologic https://twtxt.net/user/prologic/twtxt.txt>  So picky! :-D but the Australian one after that is [going to be online](https://wikimedia.org.au/wiki/Community_Meeting_-_April_2023).
+2023-04-04T21:57:38Z	A MEO com publicidade a dizer que tem internet de velocidade supersónica... eles não sabem o que "velocidade supersónica" quer dizer, pois não?
+2023-04-05T08:06:20Z	(#akmusiq) @<prologic https://twtxt.net/user/prologic/twtxt.txt>  We really need to make the UX no this better. Perhaps alert the author that their images won't be shown and why?
+2023-04-05T08:25:16Z	(#4j5o35q) @<prx https://si3t.ch/twtxt.txt>  I'm not sure I understand what you mean there, are you saying that `:softwrap` doesn't work on vim when the text is colored?
+2023-04-07T02:35:05Z	(#cmvzuda) @<dfaria https://dfaria.eu/twtxt.txt> I'm more of a "Sol Invictus' Black Easter" kind of guy: ![a picture of Sol Invictus' album "Lex Talionis", which includes the song "Black Easter"](https://twtxt.net/media/MJLvUX9sfUcrsBgEVgQ7if.png)
+2023-04-07T11:00:20Z	(#v27zfva) @<slashdot https://feeds.twtxt.net/slashdot/twtxt.txt>  Sometimes I read things like this and get an urge to write a SciFi story inspired by it. I never do.
+2023-04-07T11:32:44Z	For a good while I have been trying to recall the name of what was arguably the arcade game I played the most in my hometown, as a kid. Finally, I recalled: [Cadillacs and Dinosaurs](https://rq87.flyingomelette.com/RQ/CAD/main.html). ![screenshot from the game](https://rq87.flyingomelette.com/RQ/CAD/1g.png)
