@@ -12,12 +12,15 @@
 # avatar      = https://twtxt.net/user/marado/avatar#ryd3lwrkaujef7nemdf3jt6ggzb2rarlcsrsttbxltuxi7alg43q
 # description = Systems Engineer, Free Software advocate, Musician, Virtual World God.
 #
-# following   = 96
+# following   = 98
 #
 # link = my website https://tilde.pt/~marado
 #
 # follow = 8ball https://domgoergen.com/twtxt/8ball.txt
+# follow = EmojiSnake@botsin.space https://botsin.space/users/EmojiSnake
+# follow = EmojiTetra@botsin.space https://botsin.space/users/EmojiTetra
 # follow = Gopher Chat http://magical.fish:70/feeds/twtxt/twtxt.txt
+# follow = JoeSondow@dice.camp https://dice.camp/users/JoeSondow
 # follow = abucci https://anthony.buc.ci/user/abucci/twtxt.txt
 # follow = adi https://twtxt.net/user/adi/twtxt.txt
 # follow = amorris https://feed.amorris.ca/hallway.txt
@@ -73,7 +76,6 @@
 # follow = nblade http://nblade.sdf.org/twtxt/twtxt.txt
 # follow = news https://twtxt.net/user/news/twtxt.txt
 # follow = news@yarn.andrewjvpowell.com https://yarn.andrewjvpowell.com/user/news/twtxt.txt
-# follow = ocdtrekkie@mastodon.social https://mastodon.social/users/ocdtrekkie
 # follow = paulasimoes@ciberlandia.pt https://ciberlandia.pt/users/paulasimoes
 # follow = pelmel http://pelmel.org/twtxt.txt
 # follow = prologic https://twtxt.net/user/prologic/twtxt.txt
@@ -405,3 +407,21 @@
 2023-04-07T02:35:05Z	(#cmvzuda) @<dfaria https://dfaria.eu/twtxt.txt> I'm more of a "Sol Invictus' Black Easter" kind of guy: ![a picture of Sol Invictus' album "Lex Talionis", which includes the song "Black Easter"](https://twtxt.net/media/MJLvUX9sfUcrsBgEVgQ7if.png)
 2023-04-07T11:00:20Z	(#v27zfva) @<slashdot https://feeds.twtxt.net/slashdot/twtxt.txt>  Sometimes I read things like this and get an urge to write a SciFi story inspired by it. I never do.
 2023-04-07T11:32:44Z	For a good while I have been trying to recall the name of what was arguably the arcade game I played the most in my hometown, as a kid. Finally, I recalled: [Cadillacs and Dinosaurs](https://rq87.flyingomelette.com/RQ/CAD/main.html). ![screenshot from the game](https://rq87.flyingomelette.com/RQ/CAD/1g.png)
+2023-04-12T23:29:41Z	(#fj7cqyq) Looking forward to hear someone adapt this into a song's lyrics!
+2023-04-13T19:45:45Z	I expect better. I always end disappointed. I am to blame.
+2023-04-14T09:34:58Z	[The EU's Proposed CRA Law May Have Unintended Consequences for the Python Ecosystem](https://pyfound.blogspot.com/2023/04/the-eus-proposed-cra-law-may-have.html) (as well as the entire free software movement).
+2023-04-14T10:43:30Z	(#pud4w2q) @<prologic https://twtxt.net/user/prologic/twtxt.txt> Perhaps [Eclipse's article on the subject](https://eclipse-foundation.blog/2023/02/23/cyber-resilience-act-good-intentions-and-unintended-consequences/) is clearer.. but the main focus on Python's text is on the liability clauses: while it might make sense that if you buy a product with software (or a software product) the vendor should be liable for its safety, security, etc., that does not translate well to the free software world, and it will have a chilling effect if, suddenly you (as a free software developer) start being liable for the flaws in that software. Python folks point out (and I agree) that "Assigning liability to every upstream developer would create less security, not more", Eclipse people point out that "Every open source license contains no liability clauses", and argue that "It is the companies which commercialize the technology and make a business from it who need to accept liability and provide warranties to their paying customers, not the open source projects".
+2023-04-14T21:02:59Z	(#srulaka) @<rlafuente https://ciberlandia.pt/users/rlafuente> tás a enviar mixed signals, que é muita bom foi o que eu ouvi na net!
+2023-04-15T12:35:23Z	(#pud4w2q) @<prologic https://twtxt.net/user/prologic/twtxt.txt>  I think these proposals come from lawmakers that ignore the existence or the importance of the Open Source ecosystem; and indeed this moving forward as is would be tragic for *all* free software development. eg., out of my free time I've contributed a few patches to several twtxt/yarn related projects. I do not want to by liable for them, however.
+2023-04-15T22:48:09Z	(#pud4w2q) @<movq https://www.uninformativ.de/twtxt.txt>  good example. Should the medical device manufacturer be liable? Yes. Should the library developer be liable? No.
+2023-04-16T01:22:57Z	(#gjst6xa) @<prologic https://twtxt.net/user/prologic/twtxt.txt>  net::ERR_HTTP_RESPONSE_CODE_FAILURE
+2023-04-16T01:26:49Z	(#oyi5iua) @<prologic https://twtxt.net/user/prologic/twtxt.txt>  I probably would *not* use an yarn.social client/app that didn't deal with twtxt (text) feeds - both "follow" them and "publish" them. But I suppose that it is possible to have a bidirectional converter between that json format and twtxt.
+2023-04-16T02:25:56Z	(#gjst6xa) @<prologic https://twtxt.net/user/prologic/twtxt.txt>  the other still doesn't work for me, but this one does
+2023-04-16T02:36:17Z	(#gjst6xa) @<prologic https://twtxt.net/user/prologic/twtxt.txt>  What I take out from this log is that buckets client is truncating twts when seeing one of those characters you use for newline: a PR fixing that should suffice. As for the rest, I see twtxt as meant to be a readable format, and I think yarn is not messing with that. Is someone doesn't like yarn's writing style (or anything else on any other feed) they can simply not follow them. I see no reason at all for yarn to change its underlying format away from twtxt.
+2023-04-16T03:00:03Z	(#gjst6xa) @<prologic https://twtxt.net/user/prologic/twtxt.txt>  I'd actually not replace it with newlines but with a space or something like that, so there's nothing breaking (twtxt output parsers or whatever, expecting only one line per twt).
+2023-04-16T12:39:11Z	(#gjst6xa) @<darch https://twtxt.net/user/darch/twtxt.txt>  case in point, I used to twtxt images before using yarn or markdown tp do it - and markdown isn't making twts like [this](https://tilde.pt/~marado/twtxt-2021.php#7bvo5zq) any less readible.
+2023-04-17T20:20:50Z	Today, Ubuntu decided to change the default browser in one of my machines. Again :rolleyes:
+2023-04-17T23:15:38Z	[delightful images of old BYTE magazine covers](https://lunduke.substack.com/p/the-truly-epic-byte-magazine-covers)
+2023-04-18T15:36:35Z	(#54piw5q) I am against the original idea of forking twtxt.txt into yarn.txt unless I see any technical reason or feature that would justify breaking compatibility - so far I don't see one. But I agree in principle with @<darch https://neotxt.dk/user/darch/twtxt.txt> that maybe we can add something on the metadata of the feeds enumerating the extensions we use or... I don't know, something that will allow any twtxt user to know how to deal with any 'yarnisms' in the content of our twts (even if the only one that comes to my mind as needing explanation is the thread hashes - how to interpret them).
+2023-04-19T08:24:05Z	The old kindle story of digital burning of Fahrenheit 451 had already shown the perils of using e-book platforms, but the [recent IA lawsuit has highlighted a graver danger](https://www.spectator.co.uk/article/the-internet-archives-troubles-are-bad-news-for-book-lovers/): with one click, in an instant and without anyone knowing, a vendor can (and does) "update" a book. It is not that new issues of Agatha Christie's books will be sold "moderized" it is that suddenly you cannot go to your library and find an old/original version. Chilling.
+2023-04-19T12:56:51Z	[Celebrar o quê? Não há planeta B](https://observador.pt/2023/04/19/celebrar-o-que-nao-ha-planeta-b-ativistas-climaticos-interrompem-aniversario-do-ps-e-baixam-as-calcas/)
