@@ -12,7 +12,7 @@
 # avatar      = https://twtxt.net/user/marado/avatar#ryd3lwrkaujef7nemdf3jt6ggzb2rarlcsrsttbxltuxi7alg43q
 # description = Systems Engineer, Free Software advocate, Musician, Virtual World God.
 #
-# following   = 98
+# following   = 99
 #
 # link = my website https://tilde.pt/~marado
 #
@@ -27,6 +27,7 @@
 # follow = anx https://twtxt.net/user/anx/twtxt.txt
 # follow = autoalk http://autoalk.tk/twtxt/autoalk.txt
 # follow = benaiah https://benaiah.me/twtxt.txt
+# follow = brunomiguel@masto.pt https://masto.pt/users/brunomiguel
 # follow = buckket https://buckket.org/twtxt.txt
 # follow = bullseye https://domgoergen.com/twtxt/bullseye.txt
 # follow = c-keen http://pestilenz.org/~ckeen/twtxt.txt
@@ -425,3 +426,8 @@
 2023-04-18T15:36:35Z	(#54piw5q) I am against the original idea of forking twtxt.txt into yarn.txt unless I see any technical reason or feature that would justify breaking compatibility - so far I don't see one. But I agree in principle with @<darch https://neotxt.dk/user/darch/twtxt.txt> that maybe we can add something on the metadata of the feeds enumerating the extensions we use or... I don't know, something that will allow any twtxt user to know how to deal with any 'yarnisms' in the content of our twts (even if the only one that comes to my mind as needing explanation is the thread hashes - how to interpret them).
 2023-04-19T08:24:05Z	The old kindle story of digital burning of Fahrenheit 451 had already shown the perils of using e-book platforms, but the [recent IA lawsuit has highlighted a graver danger](https://www.spectator.co.uk/article/the-internet-archives-troubles-are-bad-news-for-book-lovers/): with one click, in an instant and without anyone knowing, a vendor can (and does) "update" a book. It is not that new issues of Agatha Christie's books will be sold "moderized" it is that suddenly you cannot go to your library and find an old/original version. Chilling.
 2023-04-19T12:56:51Z	[Celebrar o quê? Não há planeta B](https://observador.pt/2023/04/19/celebrar-o-que-nao-ha-planeta-b-ativistas-climaticos-interrompem-aniversario-do-ps-e-baixam-as-calcas/)
+2023-04-20T02:30:44Z	Did you know that "Heartbeat biometric identification is considered to be very accurate and at a similar level to fingerprints or retina recognition"? Food for thought.
+2023-04-20T09:34:51Z	(#pud4w2q) More about this: [In letter to EU, open source bodies say Cyber Resilience Act could have ‘chilling effect’ on software development](https://techcrunch.com/2023/04/18/in-letter-to-european-commission-open-source-bodies-say-cyber-resilience-act-could-have-chilling-effect-on-software-development/)
+2023-04-20T09:47:38Z	(#j3y7s4q) @<prologic https://twtxt.net/user/prologic/twtxt.txt>  yeah, or any fitbit... measuring the heartrate is easy and cheap, and depending on the accuracy level it can be as cheap as... well, PPG, and *any* phone with a camera and flashlight [can do it](https://github.com/lhosszu/smartphone-ppg). But only yesterday I connected the dots on my mind regarding the sort (and potential uses) of the data being collected as soon as someone tries out a new band or watch.
+2023-04-20T10:29:11Z	(#j3y7s4q) @<prologic https://twtxt.net/user/prologic/twtxt.txt>  it is collected, we just don't know exactly what, how, where, what for or how long. A slightly tangential but good read about fitbit's data collection [here](https://blog.avast.com/what-fitbit-knows-about-you-avast).
+2023-04-20T11:29:19Z	(#ua5vkmq) @<prologic https://twtxt.net/user/prologic/twtxt.txt>  It works for me...
