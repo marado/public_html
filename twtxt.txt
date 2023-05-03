@@ -12,11 +12,12 @@
 # avatar      = https://twtxt.net/user/marado/avatar#ryd3lwrkaujef7nemdf3jt6ggzb2rarlcsrsttbxltuxi7alg43q
 # description = Systems Engineer, Free Software advocate, Musician, Virtual World God.
 #
-# following   = 99
+# following   = 100
 #
 # link = my website https://tilde.pt/~marado
 #
 # follow = 8ball https://domgoergen.com/twtxt/8ball.txt
+# follow = BBS@algorave.dk http://algorave.dk/bbs.txt
 # follow = EmojiSnake@botsin.space https://botsin.space/users/EmojiSnake
 # follow = EmojiTetra@botsin.space https://botsin.space/users/EmojiTetra
 # follow = Gopher Chat http://magical.fish:70/feeds/twtxt/twtxt.txt
@@ -445,3 +446,4 @@
 2023-04-30T13:29:03Z	O Governo está a preparar-se para começar a [fazer asneira com DRM](https://drm-pt.info/2023/04/30/alteracoes-ao-uso-de-drm-em-portugal/). Esperemos que o bom senso prevaleça.
 2023-05-01T18:52:16Z	(#hy2dnta) @<lyse https://lyse.isobeef.org/twtxt.txt>  cheating or not, now I'm actively resisting writing a "git timeline painter tool"!
 2023-05-02T01:06:10Z	Apparently India has started to [ban encrypted chat apps](https://www.news18.com/amp/india/govt-blocks-14-mobile-messenger-apps-in-jk-used-by-terror-groups-to-contact-supporters-ogws-exclusive-7684669.html) like Briar or Matrix client Element.
+2023-05-03T08:24:08Z	(#iuuizrq) @<BBS http://algorave.dk/bbs.txt>  this one is small and effective
