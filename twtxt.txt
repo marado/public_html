@@ -12,7 +12,7 @@
 # avatar      = https://twtxt.net/user/marado/avatar#ryd3lwrkaujef7nemdf3jt6ggzb2rarlcsrsttbxltuxi7alg43q
 # description = Systems Engineer, Free Software advocate, Musician, Virtual World God.
 #
-# following   = 100
+# following   = 101
 #
 # link = my website https://tilde.pt/~marado
 #
@@ -71,6 +71,7 @@
 # follow = mckinley https://twtxt.net/user/mckinley/twtxt.txt
 # follow = mdom https://domgoergen.com/twtxt/mdom.txt
 # follow = mdosch https://mdosch.de/twtxt.txt
+# follow = melyanna@tilde.club http://tilde.club/~melyanna/twtxt.txt
 # follow = mk https://mk.sdf.org/twtxt.txt
 # follow = moon https://enotty.dk/moon.txt
 # follow = movq https://www.uninformativ.de/twtxt.txt
@@ -447,3 +448,12 @@
 2023-05-01T18:52:16Z	(#hy2dnta) @<lyse https://lyse.isobeef.org/twtxt.txt>  cheating or not, now I'm actively resisting writing a "git timeline painter tool"!
 2023-05-02T01:06:10Z	Apparently India has started to [ban encrypted chat apps](https://www.news18.com/amp/india/govt-blocks-14-mobile-messenger-apps-in-jk-used-by-terror-groups-to-contact-supporters-ogws-exclusive-7684669.html) like Briar or Matrix client Element.
 2023-05-03T08:24:08Z	(#iuuizrq) @<BBS http://algorave.dk/bbs.txt>  this one is small and effective
+2023-05-04T10:19:35Z	(#aw4tlva) @<prx https://si3t.ch/twtxt.txt> did you backtick and execute the code in an attempt to quote it? There seems to be a password where it's generating code should be!
+2023-05-06T16:14:35Z	Hulduefni and Merankorii joint album "Synthetic Works" was released on this day, nine years ago. ![a picture of the CD](https://twtxt.net/media/6FinSbDXBDbuj3AZBBzx6Y.png)
+2023-05-06T17:39:10Z	#Greenwashing 101, from #PingoDoce: 1) create your own "ecodesign" stamp; 2) put your "ecodesign" stamp on your products even if they have an obvious use of plastic lids where no plastic would be necessary; 3) profit. ![a picture of two milk packets, that have an "ecodesign" mark, but also plastic lids](https://twtxt.net/media/bWCgkvWRs3R7fTF8p6tPni.png)
+2023-05-06T17:48:25Z	(#l2i2t4q) On an unrelated note, this twt made me [open a bug on yarn](https://git.mills.io/yarnsocial/yarn/issues/1160) since apparently hashtags are broken in the ActivityPub integration.
+2023-05-08T02:29:13Z	(#u3etadq) @<melyanna http://tilde.club/~melyanna/twtxt.txt>  Cool! too bad your home page announces your mastodon account, but not your twtxt feed.
+2023-05-11T11:18:05Z	(#4wjt32a) Update regarding this: [EU Parliament wants to protect Free Software in AI regulation](https://fsfe.org/news/2023/news-20230511-01.en.html), and "this principle must be anchored in the ongoing Cyber Resilience Act and Product Liability Directive and their upcoming votes."
+2023-05-11T22:10:21Z	(#cqvdjfq) @<rlafuente https://ciberlandia.pt/users/rlafuente> Great game! ![but I lost](https://twtxt.net/media/QaS9gJXXRd2GFGQaVTwWak.png)
+2023-05-12T20:38:08Z	SteetComplete, Every Door and Wikimedia Commons: a trio of apps forming the perfect excuse to go out for an healthy walk.
+2023-05-17T18:03:39Z	O que se tira da novela do dia, óbvio mas que ninguém está a apontar: 1) não se usam equipamentos de dados para manter dados privados; 2) usar whatsapp para coisas profissionais, estatais e/ou governamentais é profundamente errado, deve ser criticado e não pode ser normalizado.
