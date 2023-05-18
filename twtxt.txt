@@ -12,7 +12,7 @@
 # avatar      = https://twtxt.net/user/marado/avatar#ryd3lwrkaujef7nemdf3jt6ggzb2rarlcsrsttbxltuxi7alg43q
 # description = Systems Engineer, Free Software advocate, Musician, Virtual World God.
 #
-# following   = 101
+# following   = 102
 #
 # link = my website https://tilde.pt/~marado
 #
@@ -115,6 +115,7 @@
 # follow = von https://tilde.town/~von/twtxt.txt
 # follow = we_are_bots https://enotty.dk/we-are-bots.txt
 # follow = we_are_twtxt https://enotty.dk/we-are-twtxt.txt
+# follow = willowashmaple@twtxt.net https://twtxt.net/user/willowashmaple/twtxt.txt
 # follow = xandkar https://xandkar.net/twtxt.txt
 # follow = xuu https://txt.sour.is/user/xuu/twtxt.txt
 
@@ -457,3 +458,6 @@
 2023-05-11T22:10:21Z	(#cqvdjfq) @<rlafuente https://ciberlandia.pt/users/rlafuente> Great game! ![but I lost](https://twtxt.net/media/QaS9gJXXRd2GFGQaVTwWak.png)
 2023-05-12T20:38:08Z	SteetComplete, Every Door and Wikimedia Commons: a trio of apps forming the perfect excuse to go out for an healthy walk.
 2023-05-17T18:03:39Z	O que se tira da novela do dia, óbvio mas que ninguém está a apontar: 1) não se usam equipamentos de dados para manter dados privados; 2) usar whatsapp para coisas profissionais, estatais e/ou governamentais é profundamente errado, deve ser criticado e não pode ser normalizado.
+2023-05-18T00:37:22Z	(#kenj7ja) @<willowashmaple https://twtxt.net/user/willowashmaple/twtxt.txt>  That link seems broken :-(
+2023-05-18T00:38:47Z	(#hafhrvq) @<aiscarvalho https://ciberlandia.pt/users/aiscarvalho>  Sortuda, a internet hoje só me deu portes grátis...
+2023-05-18T11:19:18Z	(#lplr6wq) @<rlafuente https://ciberlandia.pt/users/rlafuente> e antena?
