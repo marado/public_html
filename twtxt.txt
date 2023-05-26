@@ -463,3 +463,4 @@
 2023-05-18T11:19:18Z	(#lplr6wq) @<rlafuente https://ciberlandia.pt/users/rlafuente> e antena?
 2023-05-21T03:41:08Z	(#mq5inwa) @<mckinley https://twtxt.net/user/mckinley/twtxt.txt>  went out to see [a movie](https://m.imdb.com/title/tt14323902/).
 2023-05-23T09:50:12Z	(#nrffpoq) @<slashdot https://feeds.twtxt.net/slashdot/twtxt.txt>  interesting reading for those who consider CJEU's stance on metadata retention inconvenient.
+2023-05-25T22:51:39Z	It is not surprising, but still the end of an era: [CDBaby will stop selling CDs](https://www.hypebot.com/hypebot/2023/05/cd-baby-ends-vinyl-cd-distribution-gives-artists-60-days-to-pay-to-get-their-products-back.html).
