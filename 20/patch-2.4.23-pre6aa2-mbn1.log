@@ -1,0 +1,10 @@
+Summary of changes from v2.4.23-pre6aa2 to v2.4.23-pre6aa2-mbn1
+===============================================================
+
+<anders:trudheim.com>:
+  o [thinkpad]: Fixed the missing include line in some files
+
+<eyal:eyal.emu.id.au>:
+  o [ipv4]: Fixed ip_select_ident in ipvs/ip_vs_conn.c
+  o [ipv6]: Fixed two DEVCONF arrays in addrconf.c
+  o [sctp]: Removed bogus line in protocol.c
