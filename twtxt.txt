@@ -471,3 +471,6 @@
 2023-06-03T15:55:11Z	I wrote here a few days ago about kokori's "rootkit" (now also available on CD) but it all started on this day 13 years ago, with the release of our "init()" EP, seen in this picture:  ![kokori - init()](https://twtxt.net/media/Wm5AtKCTJp9j2AXa2BF7aH.png)
 2023-06-09T17:55:20Z	Rain victims  ![a picture of infant oranges fallen down](https://twtxt.net/media/jEzzX3hJmvsBKdJEpz3xjN.png)
 2023-06-09T18:36:05Z	children of the rain ![picture of a newborn mushroom](https://twtxt.net/media/uComNo8SB3ZdKXBdas3uUH.png)
+2023-06-12T23:20:24Z	[PSD e IL querem projecto-piloto de voto online nas Europeias, PS e CNE são contra](https://eco.sapo.pt/2023/06/12/hoje-nas-noticias-remodelacao-do-governo-irs-e-voto-eletronico/).
+2023-06-13T14:35:52Z	Sabe sempre bem ser ouvido: ontem passou uma faixa de Kokori na [Unidade 304](https://unidade304.com/2023/06/12/unidade-304-emissao-1208-12jun2023/).
+2023-06-15T13:35:07Z	Pedro Nuno Santos a dizer que em qualquer empresa do mundo se comunica de diversar formas, incluindo via whatsapp. A AP está mesmo a precisar daqueles formações chapa 5 sobre segurança e privacidade de dados. Não, não é normal (ou aceitável) o uso de whatsapp (ou qq outra ferramenta não formalmente escolhida para o efeito de comunicação interna) para coisas destas.
