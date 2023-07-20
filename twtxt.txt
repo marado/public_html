@@ -4,7 +4,7 @@
 #
 # Learn more about twtxt at  https://github.com/buckket/twtxt
 #
-# This is hosted by a Yarn.social pod twtxt.net running yarnd 0.15.1@7dd5a93e 2023-03-27T00:53:59+10:00 go1.20.3
+# This is hosted by a Yarn.social pod twtxt.net running yarnd edge@a5861571  go1.20.6
 # Learn more about Yarn.social at https://yarn.social
 #
 # nick        = marado
@@ -484,3 +484,4 @@
 2023-07-13T11:18:23Z	It has been a long time coming (ten years since book 11!), but 2023 saw the release of book 12 of "Piracy Is Liberation". With it, I also ordered CBA's vol. 58, entitled "Modern Glossalia or The Erosion Of Meaning", which focuses (or at lease includes) a reflection of the growth of the extreme right, and their uses of language.  ![](https://twtxt.net/media/RVPiBHVH7tn57kpTMjxZGM.png)
 2023-07-14T20:41:44Z	(#gxbo6cq) @@madcap@ciberlandia.pt  why don't they want my money?
 2023-07-14T20:43:33Z	(#zzjlg5q) @@madcap@ciberlandia.pt  War+éz.
+2023-07-19T16:24:43Z	More on #CRA: Filezilla stopped distribution of downloads in Europe, [as a protest](https://filezilla-project.org/cra.php).
