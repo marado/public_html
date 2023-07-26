@@ -487,3 +487,9 @@
 2023-07-19T16:24:43Z	More on #CRA: Filezilla stopped distribution of downloads in Europe, [as a protest](https://filezilla-project.org/cra.php).
 2023-07-21T22:23:21Z	"Web Environment Integrity" is Google's fancy name for closing the web in a DRM scheme. The internet found out, started questioning in github issues ans pull requests... and now [the repository](https://github.com/RupertBenWiser/Web-Environment-Integrity) is worth reading with a popcorn bucket on your lap.
 2023-07-21T23:05:25Z	(#azhcjzq) @<prologic https://twtxt.net/user/prologic/twtxt.txt> "websites" that only work on "trusted browsers", the vilest sort of proposal one can do, breaking the web.
+2023-07-23T18:58:28Z	My home town now has a street library! #Lamego ![](https://twtxt.net/media/gpy2vvYhuBgwrMHPSTfmfU.png)
+2023-07-24T09:46:54Z	(#ui3mpma) I love them (specially those in phone booths!), but now I have one I might actually become a regular at :-)
+2023-07-25T09:17:44Z	(#5gmpt7a) @<thecanine https://twtxt.net/user/thecanine/twtxt.txt> an "everything app" with an [AI-powered asterisk](https://nitter.lacontrevoie.fr/mind_booster/status/1683471993662763009)...
+2023-07-25T22:19:31Z	(#azhcjzq) @<prologic https://twtxt.net/user/prologic/twtxt.txt>  Doctorow refers this new attestation stuff in [his recent essay on auto](https://pluralistic.net/2023/07/24/rent-to-pwn/#kitt-is-a-demon).
+2023-07-26T13:40:28Z	CNN's [obituary for Twitter](https://edition.cnn.com/2023/07/24/media/twitter-x-reliable-sources/index.html) is making the rounds today.
+2023-07-26T14:14:32Z	(#ismnqja) This. 2025 is the "limit date" (some say by, others before) for emissions peak, in order to keep warming to 1.5C. What are we doing? Globally, it seems that we are not even trying to make it peak, whenever.
