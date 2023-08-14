@@ -509,3 +509,4 @@
 2023-08-09T01:36:42Z	Of skies and bullets: ![](https://twtxt.net/media/mPQmppKfJUuifUNPaDCybV.png)
 2023-08-09T19:46:36Z	(#6ojybdq) @<prologic https://twtxt.net/user/prologic/twtxt.txt> So, you removed the working .github actions replacing it with non-working .gitea actions? You could have left the .github folder present at lest until .gitea is working correctly 😰
 2023-08-11T02:18:32Z	The only feature that leads me to use Gmail (and which I use extensively) is 'Snooze'. For a few days now, it has not been working properly. Lost about what will I use to replace my workflows, but it also seems that Gmail is about to get one less user.
+2023-08-11T13:38:27Z	[Arquivo Nacional do Som](https://arquivonacionaldosom.gov.pt/)
