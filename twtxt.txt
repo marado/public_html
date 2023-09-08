@@ -19,6 +19,8 @@
 # avatar      = https://ciberlandia.pt/system/accounts/avatars/110/995/967/220/365/140/original/7f87c0636a4211c1.jpg
 # description = Publicações públicas de @marado@ciberlandia.pt
 
+2023-09-07T13:31:08Z	"Vamos dar uma avaliação de impacte ambiental positivo a um projecto que faz mal ao ambiente, mas é para arranjar lítio que dá jeito para cenas 'green', por isso não tem mal":  https://www.jornaldenegocios.pt/empresas/energia/detalhe/apa-da-luz-verde-a-mina-de-montalegre-e-aprova-primeira-refinaria-de-litio-em-portugal  Assim não vamos lá.
+2023-09-06T14:40:44Z	GAFAMB!  https://www.theverge.com/2023/9/6/23859570/european-union-commission-digital-markets-act-gatekeepers-apple-google-meta-microsoft
 2023-09-05T12:10:14Z	Pergunta Escrita à Comissão Europeia de Sandra Pereira (PCP) no Parlamento Europeu, sobre o Regulamento “Ciber-resiliência”:  https://pcp.pt/sobre-regulamento-ciber-resiliencia
 2023-09-04T00:07:04Z	Web Environment Integrity - mais DRM para a Web  https://drm-pt.info/2023/09/02/web-environment-integrity/
 2023-09-03T17:47:24Z	Hello! This is now my 'official' presence on mastodon.  If you're following this via twtxt, that's cool! If not but you want to, the feed is at https://tilde.pt/~marado/twtxt.txt . If you want to see my previous twtxts, you can find the feed at https://tilde.pt/~marado/twtxt-2022.txt , or browse through them on the web at https://tilde.pt/~marado/twtxt-2022.html .  If you're rather follow me via ActivityPub, my mastodon account is now @marado .
