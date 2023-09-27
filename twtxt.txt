@@ -19,6 +19,7 @@
 # avatar      = https://ciberlandia.pt/system/accounts/avatars/110/995/967/220/365/140/original/7f87c0636a4211c1.jpg
 # description = Publicações públicas de @marado@ciberlandia.pt
 
+2023-09-27T10:56:18Z	Happy 40th anniversary, GNU!  Be it with GnuPG or GnuTLS, from timeless tools like gnuplot to the always ahead-of-the-curve GNUnet, GNU tools have been a continuous part of my life. And you know what? I'm looking forward to walk the next 40 side by side! ![A picture of a GNUnet sticker. It reads "You broke the Internet... We'll build as a GNU one!"](https://ciberlandia.pt/system/media_attachments/files/111/136/743/696/899/374/original/d79bb0c85f1f3cae.png)
 2023-09-26T09:42:50Z	"O seu educando do primeiro ciclo deve aceder à sua conta em http://portal.office.com. É um sítio web escrito em inglês, com uns termos de serviço em inglês cujo tempo estimado de leitura é de 55 minutos."  Estas situações são tão ridículas que não se percebe como é que são tão comuns...
 2023-09-20T22:31:19Z	Zero:《para alcançar as metas climáticas para 2030, "as emissões do setor dos transportes têm que ser reduzidas 2% todos os anos, a partir do próximo ano".》  @seyon https://ciberlandia.pt/@seyon/111085699075994380
 2023-09-19T11:40:48Z	sync; sync; sync
