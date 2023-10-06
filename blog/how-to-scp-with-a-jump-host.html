@@ -7,10 +7,6 @@
 <link rel="stylesheet" href="blog.css" type="text/css" />
 <link rel="alternate" type="application/rss+xml" title="assinar esta página..." href="feed.rss" />
 <title>How to scp with a jump host</title>
-<meta name='twitter:card' content='summary' />
-<meta name='twitter:site' content='@mind_booster' />
-<meta name='twitter:title' content='How to scp with a jump host' />
-<meta name='twitter:description' content=" The syntax isn't the most intuitive, I'm afraid.  If you want to scp files from a remote machine into yours, or vice versa, and you only have access to the remote machine via a jump host...  ie, if you need to  ssh -J jumphost:port remotehost  then," />
 </head><body>
 <div id="divbodyholder">
 <div class="headerholder"><div class="header">
@@ -43,9 +39,8 @@ you only have access to the remote machine via a jump host...</p>
 <p><code>scp -oProxyCommand="ssh -W %h:%p jumphost -p port" remotehost:/path .</code></p>
 
 <p>tags: <a href='tag_scp.html'>scp</a>, <a href='tag_jump.html'>jump</a>, <a href='tag_en.html'>en</a></p>
+
 <!-- text end -->
-<p id='twitter'><a href='http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/how-to-scp-with-a-jump-host.html&text=&lt;escreve o comentário aqui mas deixa o URL para outras pessoas poderem seguir os comentários&gt;&via=mind_booster'>comentários? tweetar</a> 
-<a href='https://twitter.com/search?q=https://tilde.pt/~marado/blog/how-to-scp-with-a-jump-host.html'><span id='count-32511'></span></a>&nbsp;</p>
 <!-- entry end -->
 </div>
 <div id="footer">CC by-sa <a href="https://tilde.pt/~marado/">~marado</a> &mdash; <a href="mailto:mindboosternoori&#64;gmail&#46;com">mindboosternoori&#64;gmail&#46;com</a><br/>

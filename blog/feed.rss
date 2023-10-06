@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>~marado's tildelog</title><link>https://tilde.pt/~marado/blog/index.html</link>
 <description>a tildelog on tildeverse</description><language>en</language>
-<lastBuildDate>Thu, 09 Feb 2023 14:46:20 +0000</lastBuildDate>
-<pubDate>Thu, 09 Feb 2023 14:46:20 +0000</pubDate>
+<lastBuildDate>Fri, 06 Oct 2023 16:20:09 +0000</lastBuildDate>
+<pubDate>Fri, 06 Oct 2023 16:20:09 +0000</pubDate>
 <atom:link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 MiniDebConf Portugal 2023
@@ -43,9 +43,8 @@ workshop</a>...</p>
 <p>It starts already this sunday, and it lasts until thursday. See you there?</p>
 
 <p>tags: <a href='tag_debian.html'>debian</a>, <a href='tag_debianday.html'>debianday</a>, <a href='tag_tecnonov.html'>tecnonov</a>, <a href='tag_minidebconf.html'>minidebconf</a>, <a href='tag_lisbon.html'>lisbon</a>, <a href='tag_aveiro.html'>aveiro</a>, <a href='tag_debconf.html'>debconf</a>, <a href='tag_events.html'>events</a>, <a href='tag_portugal.html'>portugal</a>, <a href='tag_ubucon.html'>ubucon</a>, <a href='tag_talk.html'>talk</a>, <a href='tag_workshop.html'>workshop</a>, <a href='tag_Free-Software.html'>Free-Software</a>, <a href='tag_en.html'>en</a></p>
+
 <!-- text end -->
-<p id='twitter'><a href='http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/minidebconf-portugal-2023.html&text=&lt;escreve o comentário aqui mas deixa o URL para outras pessoas poderem seguir os comentários&gt;&via=mind_booster'>comentários? tweetar</a> 
-<a href='https://twitter.com/search?q=https://tilde.pt/~marado/blog/minidebconf-portugal-2023.html'><span id='count-30734'></span></a>&nbsp;</p>
 ]]></description><link>https://tilde.pt/~marado/blog/minidebconf-portugal-2023.html</link>
 <guid>https://tilde.pt/~marado/blog/./minidebconf-portugal-2023.html</guid>
 <dc:creator>~marado</dc:creator>
@@ -109,9 +108,8 @@ partido que está por detrás disso é o Partido Socialista.</p>
 <p>Os Portugueses merecem melhor.</p>
 
 <p>tags: <a href='tag_voto.html'>voto</a>, <a href='tag_electrónico.html'>electrónico</a>, <a href='tag_voto-electrónico.html'>voto-electrónico</a>, <a href='tag_vote.html'>vote</a>, <a href='tag_e-vote.html'>e-vote</a>, <a href='tag_ps.html'>ps</a>, <a href='tag_cnpd.html'>cnpd</a>, <a href='tag_pt.html'>pt</a></p>
+
 <!-- text end -->
-<p id='twitter'><a href='http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/o-voto-eletronico-e-a-memoria-selectiva.html&text=&lt;escreve o comentário aqui mas deixa o URL para outras pessoas poderem seguir os comentários&gt;&via=mind_booster'>comentários? tweetar</a> 
-<a href='https://twitter.com/search?q=https://tilde.pt/~marado/blog/o-voto-eletronico-e-a-memoria-selectiva.html'><span id='count-25052'></span></a>&nbsp;</p>
 ]]></description><link>https://tilde.pt/~marado/blog/o-voto-eletronico-e-a-memoria-selectiva.html</link>
 <guid>https://tilde.pt/~marado/blog/./o-voto-eletronico-e-a-memoria-selectiva.html</guid>
 <dc:creator>~marado</dc:creator>
@@ -134,9 +132,8 @@ you only have access to the remote machine via a jump host...</p>
 <p><code>scp -oProxyCommand="ssh -W %h:%p jumphost -p port" remotehost:/path .</code></p>
 
 <p>tags: <a href='tag_scp.html'>scp</a>, <a href='tag_jump.html'>jump</a>, <a href='tag_en.html'>en</a></p>
+
 <!-- text end -->
-<p id='twitter'><a href='http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/how-to-scp-with-a-jump-host.html&text=&lt;escreve o comentário aqui mas deixa o URL para outras pessoas poderem seguir os comentários&gt;&via=mind_booster'>comentários? tweetar</a> 
-<a href='https://twitter.com/search?q=https://tilde.pt/~marado/blog/how-to-scp-with-a-jump-host.html'><span id='count-32511'></span></a>&nbsp;</p>
 ]]></description><link>https://tilde.pt/~marado/blog/how-to-scp-with-a-jump-host.html</link>
 <guid>https://tilde.pt/~marado/blog/./how-to-scp-with-a-jump-host.html</guid>
 <dc:creator>~marado</dc:creator>
@@ -162,9 +159,8 @@ during this 24h period and celebrate the Solstice by witnessing to people from
 all over the world livecoding sounds for your pleasure! </p>
 
 <p>tags: <a href='tag_Merankorii.html'>Merankorii</a>, <a href='tag_live.html'>live</a>, <a href='tag_music.html'>music</a>, <a href='tag_tidalcycles.html'>tidalcycles</a>, <a href='tag_algorave.html'>algorave</a>, <a href='tag_concert.html'>concert</a>, <a href='tag_en.html'>en</a></p>
+
 <!-- text end -->
-<p id='twitter'><a href='http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/merankorii-live-at-club-tidals-night-stream.html&text=&lt;escreve o comentário aqui mas deixa o URL para outras pessoas poderem seguir os comentários&gt;&via=mind_booster'>comentários? tweetar</a> 
-<a href='https://twitter.com/search?q=https://tilde.pt/~marado/blog/merankorii-live-at-club-tidals-night-stream.html'><span id='count-25153'></span></a>&nbsp;</p>
 ]]></description><link>https://tilde.pt/~marado/blog/merankorii-live-at-club-tidals-night-stream.html</link>
 <guid>https://tilde.pt/~marado/blog/./merankorii-live-at-club-tidals-night-stream.html</guid>
 <dc:creator>~marado</dc:creator>
@@ -196,9 +192,8 @@ apresentação online e gratuita, mesmo que não tenham interesse em depois
 participar no Hacktoberfest.</p>
 
 <p>tags: <a href='tag_ANSOL.html'>ANSOL</a>, <a href='tag_git.html'>git</a>, <a href='tag_gitlab.html'>gitlab</a>, <a href='tag_github.html'>github</a>, <a href='tag_hactoberfest.html'>hactoberfest</a>, <a href='tag_presentation.html'>presentation</a>, <a href='tag_Free-Software.html'>Free-Software</a>, <a href='tag_pt.html'>pt</a></p>
+
 <!-- text end -->
-<p id='twitter'><a href='http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/breve-introducao-ao-git-gitlab-e-github.html&text=&lt;escreve o comentário aqui mas deixa o URL para outras pessoas poderem seguir os comentários&gt;&via=mind_booster'>comentários? tweetar</a> 
-<a href='https://twitter.com/search?q=https://tilde.pt/~marado/blog/breve-introducao-ao-git-gitlab-e-github.html'><span id='count-31502'></span></a>&nbsp;</p>
 ]]></description><link>https://tilde.pt/~marado/blog/breve-introducao-ao-git-gitlab-e-github.html</link>
 <guid>https://tilde.pt/~marado/blog/./breve-introducao-ao-git-gitlab-e-github.html</guid>
 <dc:creator>~marado</dc:creator>
@@ -223,9 +218,8 @@ O lançamento deste livro vai ser já no próximo dia 5 de Junho, enquadrado no 
 </table>
 
 <p>tags: <a href='tag_livro.html'>livro</a>, <a href='tag_escrita.html'>escrita</a>, <a href='tag_Lamego.html'>Lamego</a>, <a href='tag_SciFi.html'>SciFi</a>, <a href='tag_pt.html'>pt</a></p>
+
 <!-- text end -->
-<p id='twitter'><a href='http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/lamego-2022---o-antes-e-o-depois.html&text=&lt;escreve o comentário aqui mas deixa o URL para outras pessoas poderem seguir os comentários&gt;&via=mind_booster'>comentários? tweetar</a> 
-<a href='https://twitter.com/search?q=https://tilde.pt/~marado/blog/lamego-2022---o-antes-e-o-depois.html'><span id='count-445'></span></a>&nbsp;</p>
 ]]></description><link>https://tilde.pt/~marado/blog/lamego-2022---o-antes-e-o-depois.html</link>
 <guid>https://tilde.pt/~marado/blog/./lamego-2022---o-antes-e-o-depois.html</guid>
 <dc:creator>~marado</dc:creator>
@@ -241,9 +235,8 @@ O Voto Eletrónico e o Solucionismo Tecnológico
 <p>Defendem que "Portugal é um país inovador e com técnicos de nível mundial, que podem produzir um sistema de voto eletrónico remoto seguro, testado e auditável", (sem dizer onde se basearam para fazer tal afirmação). Ficamos sem entender porque é que, se temos assim tão boas capacidades técnicas, como é que o voto por correspondência funciona tão mal - como é que <a href="https://www.publico.pt/2019/09/27/politica/noticia/cerca-39-mil-boletins-voto-devolvidos-estrangeiro-votacao-1888153">não temos a morada certa dos eleitores</a>, <a href="https://observador.pt/2019/10/17/35-mil-votos-nulos-no-estrangeiro-mudancas-no-voto-postal-baralharam-emigrantes/">não sabemos explicar como se vota</a> e nem sequer <a href="https://www.jn.pt/nacional/canal/legislativas-2019/emigrantes-alertam-boletim-de-voto-nao-cabe-no-envelope-11318936.html">preparar boletins que caibam nos envelopes</a>. Mas sim, vamos entregar-lhes a preparação de um sistema de voto electrónico, remoto, seguro, anónimo, fiável. O que pode correr mal?</p>
 
 <p>tags: <a href='tag_voto.html'>voto</a>, <a href='tag_electrónico.html'>electrónico</a>, <a href='tag_voto-electrónico.html'>voto-electrónico</a>, <a href='tag_vote.html'>vote</a>, <a href='tag_e-vote.html'>e-vote</a>, <a href='tag_TSP.html'>TSP</a>, <a href='tag_correspondência.html'>correspondência</a>, <a href='tag_voto-correspondência.html'>voto-correspondência</a>, <a href='tag_pt.html'>pt</a></p>
+
 <!-- text end -->
-<p id='twitter'><a href='http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/o-voto-eletronico-e-o-solucionismo-tecnologico.html&text=&lt;escreve o comentário aqui mas deixa o URL para outras pessoas poderem seguir os comentários&gt;&via=mind_booster'>comentários? tweetar</a> 
-<a href='https://twitter.com/search?q=https://tilde.pt/~marado/blog/o-voto-eletronico-e-o-solucionismo-tecnologico.html'><span id='count-3971'></span></a>&nbsp;</p>
 ]]></description><link>https://tilde.pt/~marado/blog/o-voto-eletronico-e-o-solucionismo-tecnologico.html</link>
 <guid>https://tilde.pt/~marado/blog/./o-voto-eletronico-e-o-solucionismo-tecnologico.html</guid>
 <dc:creator>~marado</dc:creator>
@@ -283,9 +276,8 @@ Happy 20th birthday, ANSOL!
 <p>Let's shape the future, together.</p>
 
 <p>tags: <a href='tag_ANSOL.html'>ANSOL</a>, <a href='tag_Free-Software.html'>Free-Software</a>, <a href='tag_Digital-Rights.html'>Digital-Rights</a>, <a href='tag_en.html'>en</a></p>
+
 <!-- text end -->
-<p id='twitter'><a href='http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/happy-20th-birthday-ansol.html&text=&lt;escreve o comentário aqui mas deixa o URL para outras pessoas poderem seguir os comentários&gt;&via=mind_booster'>comentários? tweetar</a> 
-<a href='https://twitter.com/search?q=https://tilde.pt/~marado/blog/happy-20th-birthday-ansol.html'><span id='count-27833'></span></a>&nbsp;</p>
 ]]></description><link>https://tilde.pt/~marado/blog/happy-20th-birthday-ansol.html</link>
 <guid>https://tilde.pt/~marado/blog/./happy-20th-birthday-ansol.html</guid>
 <dc:creator>~marado</dc:creator>
@@ -316,13 +308,12 @@ those graphs, once again.</p>
 <p><img src="cassette-2021.png" alt="graph showing the percentage of cassette tape releases" title="" /></p>
 
 <p>tags: <a href='tag_discogs.html'>discogs</a>, <a href='tag_stats.html'>stats</a>, <a href='tag_cassette.html'>cassette</a>, <a href='tag_tape.html'>tape</a>, <a href='tag_compact cassette.html'>compact cassette</a>, <a href='tag_music.html'>music</a>, <a href='tag_data.html'>data</a>, <a href='tag_software.html'>software</a>, <a href='tag_music business.html'>music business</a>, <a href='tag_music market.html'>music market</a>, <a href='tag_en.html'>en</a></p>
+
 <!-- text end -->
-<p id='twitter'><a href='http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/are-cassette-tapes-dead-again.html&text=&lt;escreve o comentário aqui mas deixa o URL para outras pessoas poderem seguir os comentários&gt;&via=mind_booster'>comentários? tweetar</a> 
-<a href='https://twitter.com/search?q=https://tilde.pt/~marado/blog/are-cassette-tapes-dead-again.html'><span id='count-31330'></span></a>&nbsp;</p>
 ]]></description><link>https://tilde.pt/~marado/blog/are-cassette-tapes-dead-again.html</link>
 <guid>https://tilde.pt/~marado/blog/./are-cassette-tapes-dead-again.html</guid>
 <dc:creator>~marado</dc:creator>
-<pubDate>Mon, 31 May 2021 22:22:04 +0000</pubDate></item>
+<pubDate>Mon, 31 May 2021 23:22:04 +0000</pubDate></item>
 <item><title>
 O manifesto das cebolas na era da transição digital
 </title><description><![CDATA[
@@ -348,9 +339,8 @@ O manifesto das cebolas na era da transição digital
 <p>Estes milhões são nossos. Até quando estaremos dispostos a esbanjá-los assim?</p>
 
 <p>tags: <a href='tag_pt.html'>pt</a>, <a href='tag_ANSOL.html'>ANSOL</a>, <a href='tag_ESOP.html'>ESOP</a>, <a href='tag_SNS.html'>SNS</a>, <a href='tag_Microsoft.html'>Microsoft</a>, <a href='tag_Licenças.html'>Licenças</a>, <a href='tag_Office-365.html'>Office-365</a>, <a href='tag_Office.html'>Office</a>, <a href='tag_manifesto.html'>manifesto</a>, <a href='tag_contratos.html'>contratos</a>, <a href='tag_públicos.html'>públicos</a>, <a href='tag_ilegais.html'>ilegais</a>, <a href='tag_contratos-públicos.html'>contratos-públicos</a>, <a href='tag_contratos-ilegais.html'>contratos-ilegais</a>, <a href='tag_transição.html'>transição</a>, <a href='tag_digital.html'>digital</a>, <a href='tag_transição-digital.html'>transição-digital</a></p>
+
 <!-- text end -->
-<p id='twitter'><a href='http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/o-manifesto-das-cebolas-na-era-da-transicao-digital.html&text=&lt;escreve o comentário aqui mas deixa o URL para outras pessoas poderem seguir os comentários&gt;&via=mind_booster'>comentários? tweetar</a> 
-<a href='https://twitter.com/search?q=https://tilde.pt/~marado/blog/o-manifesto-das-cebolas-na-era-da-transicao-digital.html'><span id='count-22330'></span></a>&nbsp;</p>
 ]]></description><link>https://tilde.pt/~marado/blog/o-manifesto-das-cebolas-na-era-da-transicao-digital.html</link>
 <guid>https://tilde.pt/~marado/blog/./o-manifesto-das-cebolas-na-era-da-transicao-digital.html</guid>
 <dc:creator>~marado</dc:creator>
@@ -392,8 +382,6 @@ Voto electrónico em Portugal - mais do que um problema técnico, um problema le
 <p>Tem-se discutido cada vez mais sobre o voto electrónico em Portugal. Contudo, tem-se falado do tema como se ele fosse maioritariamente um desafio técnico, quando, a meu ver, os entraves são legislativos. Não estou a defender que o "direito ao esclarecimento" deve ser posto de parte, mas acredito que é aí que o debate se deve centrar. A legislação actualmente em vigor - tanto nacional como comunitária - defende esse direito ao esclarecimento, que é incompatível com um sistema de voto electrónico(1). Acredito que haja quem ache que ter voto electrónico é mais importante - mas então é esse o argumento que deve ser feito por quem assim o acha, em particular devendendo as alterações legislativas necessárias. Esse debate pode trazer algum fruto. O técnico, parece-me, está ao mesmo nível em 2021 que estava há duas décadas atrás, e assim continuará.</p>
 
 <hr />
-<p id='twitter'><a href='http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/voto-electronico-em-portugal---mais-do-que-um-problema-tecnico-um-problema-legal.html&text=&lt;escreve o comentário aqui mas deixa o URL para outras pessoas poderem seguir os comentários&gt;&via=mind_booster'>comentários? tweetar</a> 
-<a href='https://twitter.com/search?q=https://tilde.pt/~marado/blog/voto-electronico-em-portugal---mais-do-que-um-problema-tecnico-um-problema-legal.html'><span id='count-6311'></span></a>&nbsp;</p>
 ]]></description><link>https://tilde.pt/~marado/blog/voto-electronico-em-portugal---mais-do-que-um-problema-tecnico-um-problema-legal.html</link>
 <guid>https://tilde.pt/~marado/blog/./voto-electronico-em-portugal---mais-do-que-um-problema-tecnico-um-problema-legal.html</guid>
 <dc:creator>~marado</dc:creator>
@@ -509,9 +497,8 @@ Unported</a> license (CC-BY-SA),
 and so this blog post should be considered licensed under the same terms.</p>
 
 <p>tags: <a href='tag_repo.html'>repo</a>, <a href='tag_manifest.html'>manifest</a>, <a href='tag_local-manifest.html'>local-manifest</a>, <a href='tag_local_manifests.html'>local_manifests</a>, <a href='tag_git.html'>git</a>, <a href='tag_en.html'>en</a></p>
+
 <!-- text end -->
-<p id='twitter'><a href='http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/repo-using-a-local-manifest.html&text=&lt;escreve o comentário aqui mas deixa o URL para outras pessoas poderem seguir os comentários&gt;&via=mind_booster'>comentários? tweetar</a> 
-<a href='https://twitter.com/search?q=https://tilde.pt/~marado/blog/repo-using-a-local-manifest.html'><span id='count-4673'></span></a>&nbsp;</p>
 ]]></description><link>https://tilde.pt/~marado/blog/repo-using-a-local-manifest.html</link>
 <guid>https://tilde.pt/~marado/blog/./repo-using-a-local-manifest.html</guid>
 <dc:creator>~marado</dc:creator>
@@ -555,9 +542,8 @@ Dia Mundial da Internet
 </ul>
 
 <p>tags: <a href='tag_pt.html'>pt</a>, <a href='tag_internet.html'>internet</a>, <a href='tag_history.html'>history</a></p>
+
 <!-- text end -->
-<p id='twitter'><a href='http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/dia-mundial-da-internet.html&text=&lt;escreve o comentário aqui mas deixa o URL para outras pessoas poderem seguir os comentários&gt;&via=mind_booster'>comentários? tweetar</a> 
-<a href='https://twitter.com/search?q=https://tilde.pt/~marado/blog/dia-mundial-da-internet.html'><span id='count-9670'></span></a>&nbsp;</p>
 ]]></description><link>https://tilde.pt/~marado/blog/dia-mundial-da-internet.html</link>
 <guid>https://tilde.pt/~marado/blog/./dia-mundial-da-internet.html</guid>
 <dc:creator>~marado</dc:creator>
@@ -633,13 +619,12 @@ aspects of its intended deployment.</p>
 
 <p>tags: <a href='tag_pt.html'>pt</a>, <a href='tag_tracing.html'>tracing</a>, <a href='tag_COVID-19.html'>COVID-19</a>, <a href='tag_privacy.html'>privacy</a></p>
 
+
 <!-- text end -->
-<p id='twitter'><a href='http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/contact-tracing.html&text=&lt;escreve o comentário aqui mas deixa o URL para outras pessoas poderem seguir os comentários&gt;&via=mind_booster'>comentários? tweetar</a> 
-<a href='https://twitter.com/search?q=https://tilde.pt/~marado/blog/contact-tracing.html'><span id='count-30254'></span></a>&nbsp;</p>
 ]]></description><link>https://tilde.pt/~marado/blog/contact-tracing.html</link>
 <guid>https://tilde.pt/~marado/blog/./contact-tracing.html</guid>
 <dc:creator>~marado</dc:creator>
-<pubDate>Sat, 09 May 2020 15:38:30 +0000</pubDate></item>
+<pubDate>Sat, 09 May 2020 16:38:30 +0000</pubDate></item>
 <item><title>
 Decentralized Privacy-Preserving Proximity Tracing -- is it really?
 </title><description><![CDATA[
@@ -678,13 +663,12 @@ Decentralized Privacy-Preserving Proximity Tracing -- is it really?
 
 <p>tags: <a href='tag_en.html'>en</a>, <a href='tag_DP-3T.html'>DP-3T</a>, <a href='tag_COVID-19.html'>COVID-19</a>, <a href='tag_privacy.html'>privacy</a>, <a href='tag_tracking.html'>tracking</a>, <a href='tag_tracing.html'>tracing</a>, <a href='tag_localization.html'>localization</a>, <a href='tag_PEPP-PT.html'>PEPP-PT</a>, <a href='tag_gnunet.html'>gnunet</a></p>
 
+
 <!-- text end -->
-<p id='twitter'><a href='http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/decentralized-privacy-preserving-proximity-tracing----is-it-really.html&text=&lt;escreve o comentário aqui mas deixa o URL para outras pessoas poderem seguir os comentários&gt;&via=mind_booster'>comentários? tweetar</a> 
-<a href='https://twitter.com/search?q=https://tilde.pt/~marado/blog/decentralized-privacy-preserving-proximity-tracing----is-it-really.html'><span id='count-18209'></span></a>&nbsp;</p>
 ]]></description><link>https://tilde.pt/~marado/blog/decentralized-privacy-preserving-proximity-tracing----is-it-really.html</link>
 <guid>https://tilde.pt/~marado/blog/./decentralized-privacy-preserving-proximity-tracing----is-it-really.html</guid>
 <dc:creator>~marado</dc:creator>
-<pubDate>Tue, 28 Apr 2020 23:51:24 +0000</pubDate></item>
+<pubDate>Wed, 29 Apr 2020 00:51:24 +0000</pubDate></item>
 <item><title>
 multi-aspell: a treat for alpine users
 </title><description><![CDATA[
@@ -712,13 +696,12 @@ Enjoy!</p>
 
 <p>tags: <a href='tag_pine.html'>pine</a>, <a href='tag_alpine.html'>alpine</a>, <a href='tag_tilde.pt.html'>tilde.pt</a>, <a href='tag_tilde.html'>tilde</a>, <a href='tag_tildeverse.html'>tildeverse</a>, <a href='tag_aspell.html'>aspell</a>, <a href='tag_multi-aspell.html'>multi-aspell</a>, <a href='tag_en.html'>en</a></p>
 
+
 <!-- text end -->
-<p id='twitter'><a href='http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/multi-aspell-a-treat-for-alpine-users.html&text=&lt;escreve o comentário aqui mas deixa o URL para outras pessoas poderem seguir os comentários&gt;&via=mind_booster'>comentários? tweetar</a> 
-<a href='https://twitter.com/search?q=https://tilde.pt/~marado/blog/multi-aspell-a-treat-for-alpine-users.html'><span id='count-17561'></span></a>&nbsp;</p>
 ]]></description><link>https://tilde.pt/~marado/blog/multi-aspell-a-treat-for-alpine-users.html</link>
 <guid>https://tilde.pt/~marado/blog/./multi-aspell-a-treat-for-alpine-users.html</guid>
 <dc:creator>~marado</dc:creator>
-<pubDate>Thu, 09 Apr 2020 22:22:06 +0000</pubDate></item>
+<pubDate>Thu, 09 Apr 2020 23:22:06 +0000</pubDate></item>
 <item><title>
 From ~marado to @marado
 </title><description><![CDATA[
@@ -753,13 +736,12 @@ directory.</p>
 
 <p>tags: <a href='tag_history.html'>history</a>, <a href='tag_tilde.html'>tilde</a>, <a href='tag_UNIX.html'>UNIX</a>, <a href='tag_username.html'>username</a>, <a href='tag_apache.html'>apache</a>, <a href='tag_httpd.html'>httpd</a>, <a href='tag_userdir.html'>userdir</a>, <a href='tag_en.html'>en</a></p>
 
+
 <!-- text end -->
-<p id='twitter'><a href='http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/from-marado-to-marado.html&text=&lt;escreve o comentário aqui mas deixa o URL para outras pessoas poderem seguir os comentários&gt;&via=mind_booster'>comentários? tweetar</a> 
-<a href='https://twitter.com/search?q=https://tilde.pt/~marado/blog/from-marado-to-marado.html'><span id='count-5236'></span></a>&nbsp;</p>
 ]]></description><link>https://tilde.pt/~marado/blog/from-marado-to-marado.html</link>
 <guid>https://tilde.pt/~marado/blog/./from-marado-to-marado.html</guid>
 <dc:creator>~marado</dc:creator>
-<pubDate>Sat, 04 Apr 2020 14:50:42 +0000</pubDate></item>
+<pubDate>Sat, 04 Apr 2020 15:50:42 +0000</pubDate></item>
 <item><title>
 My very first blog post... again
 </title><description><![CDATA[
@@ -783,9 +765,8 @@ find out together!</p>
 
 
 
+
 <!-- text end -->
-<p id='twitter'><a href='http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/my-very-first-blog-post-again.html&text=&lt;escreve o comentário aqui mas deixa o URL para outras pessoas poderem seguir os comentários&gt;&via=mind_booster'>comentários? tweetar</a> 
-<a href='https://twitter.com/search?q=https://tilde.pt/~marado/blog/my-very-first-blog-post-again.html'><span id='count-15319'></span></a>&nbsp;</p>
 ]]></description><link>https://tilde.pt/~marado/blog/my-very-first-blog-post-again.html</link>
 <guid>https://tilde.pt/~marado/blog/./my-very-first-blog-post-again.html</guid>
 <dc:creator>~marado</dc:creator>
