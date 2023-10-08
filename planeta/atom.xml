@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:planet="http://planet.intertwingly.net/" xmlns:indexing="urn:atom-extension:indexing" indexing:index="no"><access:restriction xmlns:access="http://www.bloglines.com/about/specs/fac-1.0" relationship="deny"/>
   <title>Planeta Tilde</title>
-  <updated>2023-03-16T17:20:03Z</updated>
+  <updated>2023-10-08T14:20:02Z</updated>
   <generator uri="http://intertwingly.net/code/venus/">Venus</generator>
   <author>
     <name>Marcos Marado</name>
@@ -49,8 +49,7 @@ workshop</a>...</p>
 
 <p>tags: <a href="https://tilde.pt/~marado/blog/tag_debian.html">debian</a>, <a href="https://tilde.pt/~marado/blog/tag_debianday.html">debianday</a>, <a href="https://tilde.pt/~marado/blog/tag_tecnonov.html">tecnonov</a>, <a href="https://tilde.pt/~marado/blog/tag_minidebconf.html">minidebconf</a>, <a href="https://tilde.pt/~marado/blog/tag_lisbon.html">lisbon</a>, <a href="https://tilde.pt/~marado/blog/tag_aveiro.html">aveiro</a>, <a href="https://tilde.pt/~marado/blog/tag_debconf.html">debconf</a>, <a href="https://tilde.pt/~marado/blog/tag_events.html">events</a>, <a href="https://tilde.pt/~marado/blog/tag_portugal.html">portugal</a>, <a href="https://tilde.pt/~marado/blog/tag_ubucon.html">ubucon</a>, <a href="https://tilde.pt/~marado/blog/tag_talk.html">talk</a>, <a href="https://tilde.pt/~marado/blog/tag_workshop.html">workshop</a>, <a href="https://tilde.pt/~marado/blog/tag_Free-Software.html">Free-Software</a>, <a href="https://tilde.pt/~marado/blog/tag_en.html">en</a></p>
 
-<p id="twitter"><a href="http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/minidebconf-portugal-2023.html&amp;text=&lt;escreve o coment&#xE1;rio aqui mas deixa o URL para outras pessoas poderem seguir os coment&#xE1;rios&gt;&amp;via=mind_booster">comentários? tweetar</a> 
-<a href="https://twitter.com/search?q=https://tilde.pt/~marado/blog/minidebconf-portugal-2023.html"><span id="count-30734"/></a> </p></div>
+</div>
     </summary>
     <updated>2023-02-09T14:45:07Z</updated>
     <author>
@@ -62,7 +61,7 @@ workshop</a>...</p>
       <link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml"/>
       <subtitle>a tildelog on tildeverse</subtitle>
       <title>~marado's tildelog</title>
-      <updated>2023-02-09T14:46:20Z</updated>
+      <updated>2023-10-06T16:20:09Z</updated>
     </source>
   </entry>
 
@@ -126,8 +125,7 @@ partido que está por detrás disso é o Partido Socialista.</p>
 
 <p>tags: <a href="https://tilde.pt/~marado/blog/tag_voto.html">voto</a>, <a href="https://tilde.pt/~marado/blog/tag_electr%C3%B3nico.html">electrónico</a>, <a href="https://tilde.pt/~marado/blog/tag_voto-electr%C3%B3nico.html">voto-electrónico</a>, <a href="https://tilde.pt/~marado/blog/tag_vote.html">vote</a>, <a href="https://tilde.pt/~marado/blog/tag_e-vote.html">e-vote</a>, <a href="https://tilde.pt/~marado/blog/tag_ps.html">ps</a>, <a href="https://tilde.pt/~marado/blog/tag_cnpd.html">cnpd</a>, <a href="https://tilde.pt/~marado/blog/tag_pt.html">pt</a></p>
 
-<p id="twitter"><a href="http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/o-voto-eletronico-e-a-memoria-selectiva.html&amp;text=&lt;escreve o coment&#xE1;rio aqui mas deixa o URL para outras pessoas poderem seguir os coment&#xE1;rios&gt;&amp;via=mind_booster">comentários? tweetar</a> 
-<a href="https://twitter.com/search?q=https://tilde.pt/~marado/blog/o-voto-eletronico-e-a-memoria-selectiva.html"><span id="count-25052"/></a> </p></div>
+</div>
     </summary>
     <updated>2023-02-03T20:56:31Z</updated>
     <author>
@@ -139,7 +137,7 @@ partido que está por detrás disso é o Partido Socialista.</p>
       <link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml"/>
       <subtitle>a tildelog on tildeverse</subtitle>
       <title>~marado's tildelog</title>
-      <updated>2023-02-09T14:46:20Z</updated>
+      <updated>2023-10-06T16:20:09Z</updated>
     </source>
   </entry>
 
@@ -245,8 +243,7 @@ you only have access to the remote machine via a jump host...</p>
 
 <p>tags: <a href="https://tilde.pt/~marado/blog/tag_scp.html">scp</a>, <a href="https://tilde.pt/~marado/blog/tag_jump.html">jump</a>, <a href="https://tilde.pt/~marado/blog/tag_en.html">en</a></p>
 
-<p id="twitter"><a href="http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/how-to-scp-with-a-jump-host.html&amp;text=&lt;escreve o coment&#xE1;rio aqui mas deixa o URL para outras pessoas poderem seguir os coment&#xE1;rios&gt;&amp;via=mind_booster">comentários? tweetar</a> 
-<a href="https://twitter.com/search?q=https://tilde.pt/~marado/blog/how-to-scp-with-a-jump-host.html"><span id="count-32511"/></a> </p></div>
+</div>
     </summary>
     <updated>2023-01-18T11:50:56Z</updated>
     <author>
@@ -258,7 +255,7 @@ you only have access to the remote machine via a jump host...</p>
       <link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml"/>
       <subtitle>a tildelog on tildeverse</subtitle>
       <title>~marado's tildelog</title>
-      <updated>2023-02-09T14:46:20Z</updated>
+      <updated>2023-10-06T16:20:09Z</updated>
     </source>
   </entry>
 
@@ -464,8 +461,7 @@ all over the world livecoding sounds for your pleasure! </p>
 
 <p>tags: <a href="https://tilde.pt/~marado/blog/tag_Merankorii.html">Merankorii</a>, <a href="https://tilde.pt/~marado/blog/tag_live.html">live</a>, <a href="https://tilde.pt/~marado/blog/tag_music.html">music</a>, <a href="https://tilde.pt/~marado/blog/tag_tidalcycles.html">tidalcycles</a>, <a href="https://tilde.pt/~marado/blog/tag_algorave.html">algorave</a>, <a href="https://tilde.pt/~marado/blog/tag_concert.html">concert</a>, <a href="https://tilde.pt/~marado/blog/tag_en.html">en</a></p>
 
-<p id="twitter"><a href="http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/merankorii-live-at-club-tidals-night-stream.html&amp;text=&lt;escreve o coment&#xE1;rio aqui mas deixa o URL para outras pessoas poderem seguir os coment&#xE1;rios&gt;&amp;via=mind_booster">comentários? tweetar</a> 
-<a href="https://twitter.com/search?q=https://tilde.pt/~marado/blog/merankorii-live-at-club-tidals-night-stream.html"><span id="count-25153"/></a> </p></div>
+</div>
     </summary>
     <updated>2022-12-19T23:37:40Z</updated>
     <author>
@@ -477,7 +473,7 @@ all over the world livecoding sounds for your pleasure! </p>
       <link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml"/>
       <subtitle>a tildelog on tildeverse</subtitle>
       <title>~marado's tildelog</title>
-      <updated>2023-02-09T14:46:20Z</updated>
+      <updated>2023-10-06T16:20:09Z</updated>
     </source>
   </entry>
 
@@ -613,8 +609,7 @@ participar no Hacktoberfest.</p>
 
 <p>tags: <a href="https://tilde.pt/~marado/blog/tag_ANSOL.html">ANSOL</a>, <a href="https://tilde.pt/~marado/blog/tag_git.html">git</a>, <a href="https://tilde.pt/~marado/blog/tag_gitlab.html">gitlab</a>, <a href="https://tilde.pt/~marado/blog/tag_github.html">github</a>, <a href="https://tilde.pt/~marado/blog/tag_hactoberfest.html">hactoberfest</a>, <a href="https://tilde.pt/~marado/blog/tag_presentation.html">presentation</a>, <a href="https://tilde.pt/~marado/blog/tag_Free-Software.html">Free-Software</a>, <a href="https://tilde.pt/~marado/blog/tag_pt.html">pt</a></p>
 
-<p id="twitter"><a href="http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/breve-introducao-ao-git-gitlab-e-github.html&amp;text=&lt;escreve o coment&#xE1;rio aqui mas deixa o URL para outras pessoas poderem seguir os coment&#xE1;rios&gt;&amp;via=mind_booster">comentários? tweetar</a> 
-<a href="https://twitter.com/search?q=https://tilde.pt/~marado/blog/breve-introducao-ao-git-gitlab-e-github.html"><span id="count-31502"/></a> </p></div>
+</div>
     </summary>
     <updated>2022-10-12T17:26:29Z</updated>
     <author>
@@ -626,7 +621,7 @@ participar no Hacktoberfest.</p>
       <link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml"/>
       <subtitle>a tildelog on tildeverse</subtitle>
       <title>~marado's tildelog</title>
-      <updated>2023-02-09T14:46:20Z</updated>
+      <updated>2023-10-06T16:20:09Z</updated>
     </source>
   </entry>
 
@@ -646,7 +641,7 @@ participar no Hacktoberfest.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-03-16T17:20:02Z</updated>
+      <updated>2023-10-08T14:20:02Z</updated>
     </source>
   </entry>
 
@@ -671,8 +666,7 @@ O lançamento deste livro vai ser já no próximo dia 5 de Junho, enquadrado no 
 
 <p>tags: <a href="https://tilde.pt/~marado/blog/tag_livro.html">livro</a>, <a href="https://tilde.pt/~marado/blog/tag_escrita.html">escrita</a>, <a href="https://tilde.pt/~marado/blog/tag_Lamego.html">Lamego</a>, <a href="https://tilde.pt/~marado/blog/tag_SciFi.html">SciFi</a>, <a href="https://tilde.pt/~marado/blog/tag_pt.html">pt</a></p>
 
-<p id="twitter"><a href="http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/lamego-2022---o-antes-e-o-depois.html&amp;text=&lt;escreve o coment&#xE1;rio aqui mas deixa o URL para outras pessoas poderem seguir os coment&#xE1;rios&gt;&amp;via=mind_booster">comentários? tweetar</a> 
-<a href="https://twitter.com/search?q=https://tilde.pt/~marado/blog/lamego-2022---o-antes-e-o-depois.html"><span id="count-445"/></a> </p></div>
+</div>
     </summary>
     <updated>2022-05-28T19:12:00Z</updated>
     <author>
@@ -684,7 +678,7 @@ O lançamento deste livro vai ser já no próximo dia 5 de Junho, enquadrado no 
       <link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml"/>
       <subtitle>a tildelog on tildeverse</subtitle>
       <title>~marado's tildelog</title>
-      <updated>2023-02-09T14:46:20Z</updated>
+      <updated>2023-10-06T16:20:09Z</updated>
     </source>
   </entry>
 
@@ -729,8 +723,7 @@ O lançamento deste livro vai ser já no próximo dia 5 de Junho, enquadrado no 
 
 <p>tags: <a href="https://tilde.pt/~marado/blog/tag_voto.html">voto</a>, <a href="https://tilde.pt/~marado/blog/tag_electr%C3%B3nico.html">electrónico</a>, <a href="https://tilde.pt/~marado/blog/tag_voto-electr%C3%B3nico.html">voto-electrónico</a>, <a href="https://tilde.pt/~marado/blog/tag_vote.html">vote</a>, <a href="https://tilde.pt/~marado/blog/tag_e-vote.html">e-vote</a>, <a href="https://tilde.pt/~marado/blog/tag_TSP.html">TSP</a>, <a href="https://tilde.pt/~marado/blog/tag_correspond%C3%AAncia.html">correspondência</a>, <a href="https://tilde.pt/~marado/blog/tag_voto-correspond%C3%AAncia.html">voto-correspondência</a>, <a href="https://tilde.pt/~marado/blog/tag_pt.html">pt</a></p>
 
-<p id="twitter"><a href="http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/o-voto-eletronico-e-o-solucionismo-tecnologico.html&amp;text=&lt;escreve o coment&#xE1;rio aqui mas deixa o URL para outras pessoas poderem seguir os coment&#xE1;rios&gt;&amp;via=mind_booster">comentários? tweetar</a> 
-<a href="https://twitter.com/search?q=https://tilde.pt/~marado/blog/o-voto-eletronico-e-o-solucionismo-tecnologico.html"><span id="count-3971"/></a> </p></div>
+</div>
     </summary>
     <updated>2022-01-08T19:47:14Z</updated>
     <author>
@@ -742,7 +735,7 @@ O lançamento deste livro vai ser já no próximo dia 5 de Junho, enquadrado no 
       <link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml"/>
       <subtitle>a tildelog on tildeverse</subtitle>
       <title>~marado's tildelog</title>
-      <updated>2023-02-09T14:46:20Z</updated>
+      <updated>2023-10-06T16:20:09Z</updated>
     </source>
   </entry>
 
@@ -861,7 +854,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-03-16T17:20:03Z</updated>
+      <updated>2023-10-08T14:20:02Z</updated>
     </source>
   </entry>
 
@@ -879,7 +872,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-03-16T17:20:03Z</updated>
+      <updated>2023-10-08T14:20:02Z</updated>
     </source>
   </entry>
 
@@ -899,7 +892,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-03-16T17:20:03Z</updated>
+      <updated>2023-10-08T14:20:02Z</updated>
     </source>
   </entry>
 
@@ -917,7 +910,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-03-16T17:20:02Z</updated>
+      <updated>2023-10-08T14:20:02Z</updated>
     </source>
   </entry>
 
@@ -957,8 +950,7 @@ as soon as you exit your editor.</p>
 
 <p>tags: <a href="https://tilde.pt/~marado/blog/tag_ANSOL.html">ANSOL</a>, <a href="https://tilde.pt/~marado/blog/tag_Free-Software.html">Free-Software</a>, <a href="https://tilde.pt/~marado/blog/tag_Digital-Rights.html">Digital-Rights</a>, <a href="https://tilde.pt/~marado/blog/tag_en.html">en</a></p>
 
-<p id="twitter"><a href="http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/happy-20th-birthday-ansol.html&amp;text=&lt;escreve o coment&#xE1;rio aqui mas deixa o URL para outras pessoas poderem seguir os coment&#xE1;rios&gt;&amp;via=mind_booster">comentários? tweetar</a> 
-<a href="https://twitter.com/search?q=https://tilde.pt/~marado/blog/happy-20th-birthday-ansol.html"><span id="count-27833"/></a> </p></div>
+</div>
     </summary>
     <updated>2021-10-09T19:12:29Z</updated>
     <author>
@@ -970,7 +962,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml"/>
       <subtitle>a tildelog on tildeverse</subtitle>
       <title>~marado's tildelog</title>
-      <updated>2023-02-09T14:46:20Z</updated>
+      <updated>2023-10-06T16:20:09Z</updated>
     </source>
   </entry>
 
@@ -992,7 +984,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-03-16T17:20:02Z</updated>
+      <updated>2023-10-08T14:20:02Z</updated>
     </source>
   </entry>
 
@@ -1012,7 +1004,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-03-16T17:20:02Z</updated>
+      <updated>2023-10-08T14:20:02Z</updated>
     </source>
   </entry>
 
@@ -1034,7 +1026,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-03-16T17:20:03Z</updated>
+      <updated>2023-10-08T14:20:02Z</updated>
     </source>
   </entry>
 
@@ -1068,7 +1060,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-03-16T17:20:03Z</updated>
+      <updated>2023-10-08T14:20:02Z</updated>
     </source>
   </entry>
 
@@ -1086,7 +1078,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-03-16T17:20:02Z</updated>
+      <updated>2023-10-08T14:20:02Z</updated>
     </source>
   </entry>
 
@@ -1108,7 +1100,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-03-16T17:20:03Z</updated>
+      <updated>2023-10-08T14:20:02Z</updated>
     </source>
   </entry>
 
@@ -1130,7 +1122,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-03-16T17:20:03Z</updated>
+      <updated>2023-10-08T14:20:02Z</updated>
     </source>
   </entry>
 
@@ -1148,7 +1140,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-03-16T17:20:03Z</updated>
+      <updated>2023-10-08T14:20:02Z</updated>
     </source>
   </entry>
 
@@ -1168,7 +1160,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-03-16T17:20:02Z</updated>
+      <updated>2023-10-08T14:20:02Z</updated>
     </source>
   </entry>
 
@@ -1186,7 +1178,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-03-16T17:20:02Z</updated>
+      <updated>2023-10-08T14:20:02Z</updated>
     </source>
   </entry>
 
@@ -1226,7 +1218,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-03-16T17:20:02Z</updated>
+      <updated>2023-10-08T14:20:02Z</updated>
     </source>
   </entry>
 
@@ -1244,7 +1236,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-03-16T17:20:02Z</updated>
+      <updated>2023-10-08T14:20:02Z</updated>
     </source>
   </entry>
 
@@ -1265,7 +1257,7 @@ more at <a href="http://natashenka.ca/wp-content/uploads/2014/01/truebugswait8x1
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-03-16T17:20:02Z</updated>
+      <updated>2023-10-08T14:20:02Z</updated>
     </source>
   </entry>
 
@@ -1289,7 +1281,7 @@ more at <a href="http://natashenka.ca/wp-content/uploads/2014/01/truebugswait8x1
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-03-16T17:20:02Z</updated>
+      <updated>2023-10-08T14:20:02Z</updated>
     </source>
   </entry>
 
@@ -1320,10 +1312,9 @@ those graphs, once again.</p>
 
 <p>tags: <a href="https://tilde.pt/~marado/blog/tag_discogs.html">discogs</a>, <a href="https://tilde.pt/~marado/blog/tag_stats.html">stats</a>, <a href="https://tilde.pt/~marado/blog/tag_cassette.html">cassette</a>, <a href="https://tilde.pt/~marado/blog/tag_tape.html">tape</a>, <a href="https://tilde.pt/~marado/blog/tag_compact cassette.html">compact cassette</a>, <a href="https://tilde.pt/~marado/blog/tag_music.html">music</a>, <a href="https://tilde.pt/~marado/blog/tag_data.html">data</a>, <a href="https://tilde.pt/~marado/blog/tag_software.html">software</a>, <a href="https://tilde.pt/~marado/blog/tag_music business.html">music business</a>, <a href="https://tilde.pt/~marado/blog/tag_music market.html">music market</a>, <a href="https://tilde.pt/~marado/blog/tag_en.html">en</a></p>
 
-<p id="twitter"><a href="http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/are-cassette-tapes-dead-again.html&amp;text=&lt;escreve o coment&#xE1;rio aqui mas deixa o URL para outras pessoas poderem seguir os coment&#xE1;rios&gt;&amp;via=mind_booster">comentários? tweetar</a> 
-<a href="https://twitter.com/search?q=https://tilde.pt/~marado/blog/are-cassette-tapes-dead-again.html"><span id="count-31330"/></a> </p></div>
+</div>
     </summary>
-    <updated>2021-05-31T22:22:04Z</updated>
+    <updated>2021-05-31T23:22:04Z</updated>
     <author>
       <name>~marado</name>
     </author>
@@ -1333,7 +1324,7 @@ those graphs, once again.</p>
       <link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml"/>
       <subtitle>a tildelog on tildeverse</subtitle>
       <title>~marado's tildelog</title>
-      <updated>2023-02-09T14:46:20Z</updated>
+      <updated>2023-10-06T16:20:09Z</updated>
     </source>
   </entry>
 
@@ -1355,7 +1346,7 @@ those graphs, once again.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-03-16T17:20:02Z</updated>
+      <updated>2023-10-08T14:20:02Z</updated>
     </source>
   </entry>
 
@@ -1375,7 +1366,7 @@ those graphs, once again.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-03-16T17:20:02Z</updated>
+      <updated>2023-10-08T14:20:02Z</updated>
     </source>
   </entry>
 
@@ -1393,7 +1384,7 @@ those graphs, once again.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-03-16T17:20:03Z</updated>
+      <updated>2023-10-08T14:20:02Z</updated>
     </source>
   </entry>
 
@@ -1415,7 +1406,7 @@ those graphs, once again.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-03-16T17:20:02Z</updated>
+      <updated>2023-10-08T14:20:02Z</updated>
     </source>
   </entry>
 
@@ -1437,7 +1428,7 @@ those graphs, once again.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-03-16T17:20:02Z</updated>
+      <updated>2023-10-08T14:20:02Z</updated>
     </source>
   </entry>
 
@@ -1457,7 +1448,7 @@ those graphs, once again.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-03-16T17:20:02Z</updated>
+      <updated>2023-10-08T14:20:02Z</updated>
     </source>
   </entry>
 
@@ -1475,7 +1466,7 @@ those graphs, once again.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-03-16T17:20:02Z</updated>
+      <updated>2023-10-08T14:20:02Z</updated>
     </source>
   </entry>
 
@@ -1495,7 +1486,7 @@ those graphs, once again.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-03-16T17:20:03Z</updated>
+      <updated>2023-10-08T14:20:02Z</updated>
     </source>
   </entry>
 
@@ -1525,8 +1516,7 @@ those graphs, once again.</p>
 
 <p>tags: <a href="https://tilde.pt/~marado/blog/tag_pt.html">pt</a>, <a href="https://tilde.pt/~marado/blog/tag_ANSOL.html">ANSOL</a>, <a href="https://tilde.pt/~marado/blog/tag_ESOP.html">ESOP</a>, <a href="https://tilde.pt/~marado/blog/tag_SNS.html">SNS</a>, <a href="https://tilde.pt/~marado/blog/tag_Microsoft.html">Microsoft</a>, <a href="https://tilde.pt/~marado/blog/tag_Licen%C3%A7as.html">Licenças</a>, <a href="https://tilde.pt/~marado/blog/tag_Office-365.html">Office-365</a>, <a href="https://tilde.pt/~marado/blog/tag_Office.html">Office</a>, <a href="https://tilde.pt/~marado/blog/tag_manifesto.html">manifesto</a>, <a href="https://tilde.pt/~marado/blog/tag_contratos.html">contratos</a>, <a href="https://tilde.pt/~marado/blog/tag_p%C3%BAblicos.html">públicos</a>, <a href="https://tilde.pt/~marado/blog/tag_ilegais.html">ilegais</a>, <a href="https://tilde.pt/~marado/blog/tag_contratos-p%C3%BAblicos.html">contratos-públicos</a>, <a href="https://tilde.pt/~marado/blog/tag_contratos-ilegais.html">contratos-ilegais</a>, <a href="https://tilde.pt/~marado/blog/tag_transi%C3%A7%C3%A3o.html">transição</a>, <a href="https://tilde.pt/~marado/blog/tag_digital.html">digital</a>, <a href="https://tilde.pt/~marado/blog/tag_transi%C3%A7%C3%A3o-digital.html">transição-digital</a></p>
 
-<p id="twitter"><a href="http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/o-manifesto-das-cebolas-na-era-da-transicao-digital.html&amp;text=&lt;escreve o coment&#xE1;rio aqui mas deixa o URL para outras pessoas poderem seguir os coment&#xE1;rios&gt;&amp;via=mind_booster">comentários? tweetar</a> 
-<a href="https://twitter.com/search?q=https://tilde.pt/~marado/blog/o-manifesto-das-cebolas-na-era-da-transicao-digital.html"><span id="count-22330"/></a> </p></div>
+</div>
     </summary>
     <updated>2021-05-11T15:01:44Z</updated>
     <author>
@@ -1538,7 +1528,7 @@ those graphs, once again.</p>
       <link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml"/>
       <subtitle>a tildelog on tildeverse</subtitle>
       <title>~marado's tildelog</title>
-      <updated>2023-02-09T14:46:20Z</updated>
+      <updated>2023-10-06T16:20:09Z</updated>
     </source>
   </entry>
 
@@ -1578,9 +1568,7 @@ those graphs, once again.</p>
 
 <p>Tem-se discutido cada vez mais sobre o voto electrónico em Portugal. Contudo, tem-se falado do tema como se ele fosse maioritariamente um desafio técnico, quando, a meu ver, os entraves são legislativos. Não estou a defender que o "direito ao esclarecimento" deve ser posto de parte, mas acredito que é aí que o debate se deve centrar. A legislação actualmente em vigor - tanto nacional como comunitária - defende esse direito ao esclarecimento, que é incompatível com um sistema de voto electrónico(1). Acredito que haja quem ache que ter voto electrónico é mais importante - mas então é esse o argumento que deve ser feito por quem assim o acha, em particular devendendo as alterações legislativas necessárias. Esse debate pode trazer algum fruto. O técnico, parece-me, está ao mesmo nível em 2021 que estava há duas décadas atrás, e assim continuará.</p>
 
-<hr/>
-<p id="twitter"><a href="http://twitter.com/intent/tweet?url=https://tilde.pt/~marado/blog/voto-electronico-em-portugal---mais-do-que-um-problema-tecnico-um-problema-legal.html&amp;text=&lt;escreve o coment&#xE1;rio aqui mas deixa o URL para outras pessoas poderem seguir os coment&#xE1;rios&gt;&amp;via=mind_booster">comentários? tweetar</a> 
-<a href="https://twitter.com/search?q=https://tilde.pt/~marado/blog/voto-electronico-em-portugal---mais-do-que-um-problema-tecnico-um-problema-legal.html"><span id="count-6311"/></a> </p></div>
+<hr/></div>
     </summary>
     <updated>2021-05-11T12:45:43Z</updated>
     <author>
@@ -1592,7 +1580,7 @@ those graphs, once again.</p>
       <link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml"/>
       <subtitle>a tildelog on tildeverse</subtitle>
       <title>~marado's tildelog</title>
-      <updated>2023-02-09T14:46:20Z</updated>
+      <updated>2023-10-06T16:20:09Z</updated>
     </source>
   </entry>
 
@@ -1610,7 +1598,7 @@ those graphs, once again.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-03-16T17:20:02Z</updated>
+      <updated>2023-10-08T14:20:02Z</updated>
     </source>
   </entry>
 
@@ -1630,7 +1618,7 @@ those graphs, once again.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-03-16T17:20:02Z</updated>
+      <updated>2023-10-08T14:20:02Z</updated>
     </source>
   </entry>
 
@@ -1648,7 +1636,7 @@ those graphs, once again.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-03-16T17:20:02Z</updated>
+      <updated>2023-10-08T14:20:02Z</updated>
     </source>
   </entry>
 
