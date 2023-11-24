@@ -19,6 +19,7 @@
 # avatar      = https://ciberlandia.pt/system/accounts/avatars/110/995/967/220/365/140/original/7f87c0636a4211c1.jpg
 # description = Publicações públicas de @marado@ciberlandia.pt
 
+2023-11-24T00:23:54Z	"com a justificação de salvaguardar projetos de superior interesse nacional (como também justificaram os do lítio) que a República não quer deixar que os Açores tenham direito a um parecer vinculativo sobre o que pode ou não acontecer no mar dos Açores"  @EsquerdaNet@masto.pt https://masto.pt/@EsquerdaNet/111462120598573733
 2023-11-22T13:01:40Z	#WTF, @SlackHQ@selfhosted.cafe  on @firefox@fedia.io :  7,0G    ./storage/default/https+++app.slack.com/cache/morgue
 2023-11-20T09:49:06Z	"Um dia exploro melhor..."  Descobri hoje que o site "Porto Sonoro" já não existe. Felizmente, há o #ArquivoPT :  https://arquivo.pt/wayback/20200408140845/http://www.portosonoro.pt/
 2023-11-19T02:15:21Z	《 There is no time left  We had decades of warnings, negotiation and broken promises. We are now in our final hour. As Prof Hans Shellenhuber says “Climate change is now reaching the endgame, where very soon humanity must choose between taking unprecedented action, or accept that it has been left too late and bear the consequences” (p. 3). That was in 2018. 》  @ApaulD@aus.social https://aus.social/@ApaulD/111434491677621776
