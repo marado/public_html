@@ -2,13 +2,13 @@
 <opml version="1.1">
   <head>
     <title>Planeta Tilde</title>
-    <dateModified>Sun, 08 Oct 2023 14:20:02 GMT</dateModified>
+    <dateModified>Sat, 06 Jan 2024 15:20:02 GMT</dateModified>
     <ownerName>Marcos Marado</ownerName>
     <ownerEmail>mindboosternoori@gmail.com</ownerEmail>
   </head>
   <body>
     <outline type="rss" text="~budd" title="o meu tildelog" xmlUrl="https://tilde.pt/~budd/blog/feed.rss"/>
-    <outline type="rss" text="~epifanio" title="Epilog" xmlUrl="https://tilde.pt/~epifanio/blog/feed.rss"/>
+    <outline type="rss" text="~epifanio" title="~epifanio blog" xmlUrl="https://tilde.pt/~epifanio/blog/feed.rss"/>
     <outline type="rss" text="~gil" title="o meu tildelog" xmlUrl="https://tilde.pt/~gil/blog/feed.rss"/>
     <outline type="rss" text="~marado" title="~marado's tildelog" xmlUrl="https://tilde.pt/~marado/blog/feed.rss"/>
     <outline type="rss" text="~maria" title="o meu tildelog" xmlUrl="https://tilde.pt/~maria/blog/feed.rss"/>

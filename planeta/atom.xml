@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:planet="http://planet.intertwingly.net/" xmlns:indexing="urn:atom-extension:indexing" indexing:index="no"><access:restriction xmlns:access="http://www.bloglines.com/about/specs/fac-1.0" relationship="deny"/>
   <title>Planeta Tilde</title>
-  <updated>2023-10-08T14:20:02Z</updated>
+  <updated>2024-01-06T15:20:02Z</updated>
   <generator uri="http://intertwingly.net/code/venus/">Venus</generator>
   <author>
     <name>Marcos Marado</name>
@@ -10,6 +10,65 @@
   <id>http://tilde.pt/~marado/planeta/atom.xml</id>
   <link href="http://tilde.pt/~marado/planeta/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="http://tilde.pt/~marado/planeta/" rel="alternate"/>
+
+  <entry xml:lang="en">
+    <id>https://tilde.pt/~epifanio/blog/./blocking-huge-instances-might-save-the-fediverse.html</id>
+    <link href="https://tilde.pt/~epifanio/blog/blocking-huge-instances-might-save-the-fediverse.html" rel="alternate" type="text/html"/>
+    <title>Blocking big instances might save the Fediverse</title>
+    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>A few days ago, the new social network Threads fulfilled the promise it made a few months ago. It started testing the implementation of ActivityPub, the protocol responsible for the interoperability between all the instances of Mastodon, Pleroma, Lemmy, PixelFed (what we like to call the Fediverse).</p>
+
+<p>Back in July, when it was announced that this new social network was planning to implement ActivityPub, the Fediverse was divided over whether to allow or to block federation with it. Now we're back in this debate. This time with the certainty that they really are doing it.</p>
+
+<p>This whole discussion centers on the fact that Threads is yet another product of Meta, the tech giant that owns Facebook, Instagram and Whastapp. In fact, to use Threads you must have an Instagram account.</p>
+
+<p>Many of us who lurk in the Fediverse view this move by Meta with suspicion. Tech giants have a long history of adopting open protocols when they are favorable to its business and abandoning them when they have already built a big user base and don't want those to flee to other platforms. Examples abound. The most famous are those of the RSS protocol, abandoned by Google Reader, and the XMPP/Jabber protocol, abandoned by Google Talk and Facebook Messenger.</p>
+
+<p>There's little doubt that the same could happen with ActivityPub. If Meta is currently considering adopting it, it's because they think they can get some commercial benefit from it. But if this strategy doesn't work, if they reach the conclusion that it is in fact detrimental to their financial health, the protocol will certainly be abandoned.</p>
+
+<p>Many fear that this could happen, that the Fediverse will become too dependent on a single instance where most of the users host their accounts.</p>
+
+<p>Many even think that that is in fact Meta's big evil plan. They will enter the Fediverse, build a big user base and abandon it, leaving all the other users wishing they were on Threads so they can continue to interact with the majority of their contacts. But does that make any sense? Just a few hours after Threads was launched, it already had more users than the entire Fediverse. Why would they want to extinguish something that can't stand up to them?</p>
+
+<p>We all know in fact who their main rival is: Twitter, the social network that launched the concept of microblogging but has become a nightmare after being acquired by its new billionaire last year . And yes, there is also another potential competitor: BlueSky, the new social network launched by the former billionaire of Twitter, Jack Dorsey. It was supposedly designed from the start to be decentralized, but so far this has been nothing more than promises.</p>
+
+<p>Maybe this whole adoption of ActivityPub thing is some kind of plan is to win this space. I have no idea. But I know they're not doing it just because they believe in decentralization. If they did believe, why haven't they implemented it on Facebook or Instagram? Why do we even need an account to read posts from those platforms? Why don't they make their users' posts available via RSS so that we can follow them without accessing their platform (as Mastodon does)? Possibly because those products already are market leaders and they don't want to mess around with them. In fact, if any other promising competing products show up, they are quickly acquired.</p>
+
+<p>A very interesting feature of Mastodon is the ease with which you can migrate an account from one server to another, bringing all the followers from the old account to the new one. According to Eugen Rochko (Gargron), Mastodon's creator, his "<a href="https://mastodon.social/@Gargron/111591822065763831">wife is looking forward to deleting her Instagram account once she can connect with the same folks from her Mastodon account. Being able to remain in touch with over 100M people who still use Meta products out of the comfort of an ad-free, privacy-friendly platform like Mastodon is a game changer</a>". </p>
+
+<p>What Gargron doesn't tell us is how he expects that to happen. First of all, ActivityPub is being tested on Threads, not Instagram. But let's imagine that Instagram goes down that road too. Can you imagine Instagram implementing an account migration feature that allows its users to move away to a Mastodon instance? I can see it happening in the opposite direction, sure. But believing that Meta will allow any celebrity to leave its platform while keeping their millions of followers, is totally naive. </p>
+
+<p>Even if they did allow it, and if they somehow managed to monetize posts from other servers, it would still be a huge risk if those celebrities' followers also decided to migrate to the same server where the "cool people" are now.</p>
+
+<p>But wait a minute. Why am I so critical of Meta's plan, when I've always been and advocate for interoperability? And, like me, why are so many other defenders of open protocols wary of federation with Threads? Isn't it contradictory that, now that this platform is going to adopt one of those protocols, we are so suspicious and thinking of blocking it in our accounts and on our servers? Aren't we the ones who compare ActivityPub with SMTP, the successful protocol that allows email to also be a decentralized and federated system?</p>
+
+<p>Well, when we advocate the adoption of open protocols, what we're really saying is that anyone with some technical ability can create and manage a server. If so many people can do it, then the existence of servers that hold a majority of users is completely unnecessary. There are currently thousands of Mastodon servers (<a href="https://instances.social">instances.social</a> currently lists almost 17,000). Most of those only have a few dozen users. This is what we call decentralization. It's the possibility for a community to have its own corner of the Internet, free and independent of the big tech infrastructure. <strong>On the other hand, if a majority of users are centered on a single server, can we really call that decentralization?</strong></p>
+
+<p>I've thought about this a lot and I believe that the way forward is to block any instance that becomes a threat to the existence of the Fediverse by accumulating a significant percentage of users. <strong>I'm not only talking about Threads, Instagram, Twitter, Tik Tok, etc. I'm saying that we should also block any instance of Mastodon that grows beyond a reasonable size.</strong> Yes, Gargron, we're keeping an eye on your instance, too. Just like we block instances with hateful content, we should block any instance that may be toxic to the environment. That means blocking ones that are, or have become, bigger than they should be.</p>
+
+<p><strong>Basically, and going back to the email analogy, we don't want another Gmail. We want diversity.</strong></p>
+
+<p>But, unfortunately, not everyone agrees with blocking these platforms, which means that the Fediverse is split between blocking and non-blocking instances. In the latter, users will be able to interact with those trapped in Threads. In the former, this won't be possible. </p>
+
+<p>Perhaps some users will migrate from the blocking instances to permissive ones where they will be able to follow Cristiano Ronaldo or Kim Kardashian's posts. I'd rather look at the bright side of it and enjoy that some other people will choose to delete their big tech social accounts and move to smaller instances where they will be able to interact with the many interesting people and communities who have chosen to keep control of their own data and posts.</p>
+
+<p>Blocking is taking care of our space. It means keeping it healthy and free from manipulative algorithms, targeted advertising and dark patterns. Blocking is the best way to send out the message that we're fine as we are and don't need Zuckerbergs or Musks to get what, after all, we already have.</p>
+
+<p>tags: <a href="https://tilde.pt/~epifanio/blog/tag_mastodon.html">mastodon</a>, <a href="https://tilde.pt/~epifanio/blog/tag_fediverse.html">fediverse</a>, <a href="https://tilde.pt/~epifanio/blog/tag_block.html">block</a>, <a href="https://tilde.pt/~epifanio/blog/tag_threads.html">threads</a></p>
+</div>
+    </summary>
+    <updated>2023-12-21T14:44:35Z</updated>
+    <author>
+      <name>~epifanio</name>
+    </author>
+    <source>
+      <id>https://tilde.pt/~epifanio/blog/index.html</id>
+      <link href="https://tilde.pt/~epifanio/blog/index.html" rel="alternate" type="text/html"/>
+      <link href="https://tilde.pt/~epifanio/blog/feed.rss" rel="self" type="application/rss+xml"/>
+      <subtitle>um blog na tildelândia</subtitle>
+      <title>~epifanio blog</title>
+      <updated>2023-12-22T09:34:10Z</updated>
+    </source>
+  </entry>
 
   <entry xml:lang="en">
     <id>https://tilde.pt/~marado/blog/./minidebconf-portugal-2023.html</id>
@@ -208,6 +267,10 @@ location = / {
 <p>[EDIT 2023-03-12] Added security headers</p>
 
 <p>tags: <a href="https://tilde.pt/~epifanio/blog/tag_mastodon.html">mastodon</a>, <a href="https://tilde.pt/~epifanio/blog/tag_nginx.html">nginx</a>, <a href="https://tilde.pt/~epifanio/blog/tag_ciberlandia.html">ciberlandia</a></p>
+
+
+
+
 </div>
     </summary>
     <updated>2023-01-19T00:06:34Z</updated>
@@ -219,8 +282,8 @@ location = / {
       <link href="https://tilde.pt/~epifanio/blog/index.html" rel="alternate" type="text/html"/>
       <link href="https://tilde.pt/~epifanio/blog/feed.rss" rel="self" type="application/rss+xml"/>
       <subtitle>um blog na tildelândia</subtitle>
-      <title>Epilog</title>
-      <updated>2023-03-12T23:43:30Z</updated>
+      <title>~epifanio blog</title>
+      <updated>2023-12-22T09:34:10Z</updated>
     </source>
   </entry>
 
@@ -641,7 +704,7 @@ participar no Hacktoberfest.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-10-08T14:20:02Z</updated>
+      <updated>2024-01-06T15:20:02Z</updated>
     </source>
   </entry>
 
@@ -854,7 +917,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-10-08T14:20:02Z</updated>
+      <updated>2024-01-06T15:20:02Z</updated>
     </source>
   </entry>
 
@@ -872,7 +935,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-10-08T14:20:02Z</updated>
+      <updated>2024-01-06T15:20:02Z</updated>
     </source>
   </entry>
 
@@ -892,7 +955,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-10-08T14:20:02Z</updated>
+      <updated>2024-01-06T15:20:02Z</updated>
     </source>
   </entry>
 
@@ -910,7 +973,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-10-08T14:20:02Z</updated>
+      <updated>2024-01-06T15:20:02Z</updated>
     </source>
   </entry>
 
@@ -984,7 +1047,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-10-08T14:20:02Z</updated>
+      <updated>2024-01-06T15:20:02Z</updated>
     </source>
   </entry>
 
@@ -1004,7 +1067,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-10-08T14:20:02Z</updated>
+      <updated>2024-01-06T15:20:02Z</updated>
     </source>
   </entry>
 
@@ -1026,7 +1089,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-10-08T14:20:02Z</updated>
+      <updated>2024-01-06T15:20:02Z</updated>
     </source>
   </entry>
 
@@ -1060,7 +1123,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-10-08T14:20:02Z</updated>
+      <updated>2024-01-06T15:20:02Z</updated>
     </source>
   </entry>
 
@@ -1078,7 +1141,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-10-08T14:20:02Z</updated>
+      <updated>2024-01-06T15:20:02Z</updated>
     </source>
   </entry>
 
@@ -1100,7 +1163,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-10-08T14:20:02Z</updated>
+      <updated>2024-01-06T15:20:02Z</updated>
     </source>
   </entry>
 
@@ -1122,7 +1185,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-10-08T14:20:02Z</updated>
+      <updated>2024-01-06T15:20:02Z</updated>
     </source>
   </entry>
 
@@ -1140,7 +1203,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-10-08T14:20:02Z</updated>
+      <updated>2024-01-06T15:20:02Z</updated>
     </source>
   </entry>
 
@@ -1160,7 +1223,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-10-08T14:20:02Z</updated>
+      <updated>2024-01-06T15:20:02Z</updated>
     </source>
   </entry>
 
@@ -1178,7 +1241,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-10-08T14:20:02Z</updated>
+      <updated>2024-01-06T15:20:02Z</updated>
     </source>
   </entry>
 
@@ -1218,7 +1281,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-10-08T14:20:02Z</updated>
+      <updated>2024-01-06T15:20:02Z</updated>
     </source>
   </entry>
 
@@ -1236,7 +1299,7 @@ as soon as you exit your editor.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-10-08T14:20:02Z</updated>
+      <updated>2024-01-06T15:20:02Z</updated>
     </source>
   </entry>
 
@@ -1257,7 +1320,7 @@ more at <a href="http://natashenka.ca/wp-content/uploads/2014/01/truebugswait8x1
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-10-08T14:20:02Z</updated>
+      <updated>2024-01-06T15:20:02Z</updated>
     </source>
   </entry>
 
@@ -1281,7 +1344,7 @@ more at <a href="http://natashenka.ca/wp-content/uploads/2014/01/truebugswait8x1
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-10-08T14:20:02Z</updated>
+      <updated>2024-01-06T15:20:02Z</updated>
     </source>
   </entry>
 
@@ -1346,7 +1409,7 @@ those graphs, once again.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-10-08T14:20:02Z</updated>
+      <updated>2024-01-06T15:20:02Z</updated>
     </source>
   </entry>
 
@@ -1366,7 +1429,7 @@ those graphs, once again.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-10-08T14:20:02Z</updated>
+      <updated>2024-01-06T15:20:02Z</updated>
     </source>
   </entry>
 
@@ -1384,7 +1447,7 @@ those graphs, once again.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-10-08T14:20:02Z</updated>
+      <updated>2024-01-06T15:20:02Z</updated>
     </source>
   </entry>
 
@@ -1406,7 +1469,7 @@ those graphs, once again.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-10-08T14:20:02Z</updated>
+      <updated>2024-01-06T15:20:02Z</updated>
     </source>
   </entry>
 
@@ -1428,7 +1491,7 @@ those graphs, once again.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-10-08T14:20:02Z</updated>
+      <updated>2024-01-06T15:20:02Z</updated>
     </source>
   </entry>
 
@@ -1448,7 +1511,7 @@ those graphs, once again.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-10-08T14:20:02Z</updated>
+      <updated>2024-01-06T15:20:02Z</updated>
     </source>
   </entry>
 
@@ -1466,7 +1529,7 @@ those graphs, once again.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-10-08T14:20:02Z</updated>
+      <updated>2024-01-06T15:20:02Z</updated>
     </source>
   </entry>
 
@@ -1486,7 +1549,7 @@ those graphs, once again.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-10-08T14:20:02Z</updated>
+      <updated>2024-01-06T15:20:02Z</updated>
     </source>
   </entry>
 
@@ -1598,7 +1661,7 @@ those graphs, once again.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-10-08T14:20:02Z</updated>
+      <updated>2024-01-06T15:20:02Z</updated>
     </source>
   </entry>
 
@@ -1618,7 +1681,7 @@ those graphs, once again.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-10-08T14:20:02Z</updated>
+      <updated>2024-01-06T15:20:02Z</updated>
     </source>
   </entry>
 
@@ -1636,7 +1699,7 @@ those graphs, once again.</p>
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2023-10-08T14:20:02Z</updated>
+      <updated>2024-01-06T15:20:02Z</updated>
     </source>
   </entry>
 
@@ -1715,28 +1778,6 @@ those graphs, once again.</p>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
       <updated>2021-12-10T13:20:03Z</updated>
-    </source>
-  </entry>
-
-  <entry>
-    <id>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/Milions-of-lines-of-code</id>
-    <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/Milions-of-lines-of-code" rel="alternate" type="text/html"/>
-    <title>Millions of Lines of Code</title>
-    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p><img alt=" milions of lines of code" src="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/milions-of-lines-of-code.png"/> </p>
-
-<p>@ <a href="https://www.informationisbeautiful.net/visualizations/million-lines-of-code/">informationisbeautiful.net</a></p></div>
-    </summary>
-    <updated>2021-04-19T11:20:02Z</updated>
-    <source>
-      <id>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/</id>
-      <author>
-        <name>N.S. do Computismo</name>
-      </author>
-      <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/" rel="alternate" type="text/html"/>
-      <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
-      <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
-      <title>Nossa Senhora do Computismo</title>
-      <updated>2021-10-27T09:20:04Z</updated>
     </source>
   </entry>
 </feed>
