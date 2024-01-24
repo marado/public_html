@@ -19,6 +19,7 @@
 # avatar      = https://ciberlandia.pt/system/accounts/avatars/110/995/967/220/365/140/original/fa4bd5e19794d18f.png
 # description = Publicações públicas de @marado@ciberlandia.pt
 
+2024-01-23T21:48:01Z	#ptpol #sondagem   PS 26.4, AD 20.8, CH 16.6, BE 7.4, IL 5.4, CDU 3.9, PAN 2.2, L 1.3  Com estes resultados, nem esquerda nem direita democrática conseguem maioria.  https://www.publico.pt/2024/01/23/politica/noticia/ps-aumenta-distancia-face-ad-sondagem-confirma-continua-subida-chega-2077792
 2024-01-23T01:10:07Z	#Fanzines, #revistas, #jornais, #editoras... que projectos #Portugueses conhecem que aceitam submissões para publicação de #minicontos #flashfiction (<=1000 palavras)?
 2024-01-22T12:08:54Z	#MaradoWeekly #WeeklyRecord Week 04  (Chosen due to a #musicol thread) ![Radio Cidade's "La Vaca", from 1993, in cassette tape.](https://ciberlandia.pt/system/media_attachments/files/111/799/518/091/691/803/original/e925941f1f51f00e.jpg)
 2024-01-22T02:53:01Z	Não estava nada a contar tropeçar por um #conto de #SciFi #climático no @SetentaeQuatro@masto.pt , mas assim foi.  Vale a pena ler, aqui: https://setentaequatro.pt/noticia/429-europa-adentro
