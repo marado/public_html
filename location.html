@@ -1,0 +1,26 @@
+<html>
+<head>
+<script>
+function getLocation() {
+  if (navigator.geolocation) {
+    navigator.geolocation.getCurrentPosition(showPosition, showError);
+  } else {
+    document.getElementById("location").innerHTML = "Geolocation is not supported by this browser.";
+  }
+}
+
+function showPosition(position) {
+  document.getElementById("location").innerHTML = "Latitude: " + position.coords.latitude +
+  "<br>Longitude: " + position.coords.longitude;
+}
+
+function showError(error) {
+    document.getElementById("location").innerHTML = "Error: " + JSON.stringify(error.code);
+}
+</script>
+</head>
+<body onload="getLocation()">
+This is a small webpage that just tells you what your browser is telling me about where you are:
+<div id="location"><i>loading...</i></div>
+</body>
+</html>
