@@ -1,6 +1,6 @@
 Não é procrastinação, é... outra coisa
 
-Eu, a olhar para o [planeta tilde](https://tilde.pt/~marado/planeta/) depois de lhe acrescenntar o [maiquetilde](https://tilde.pt/~maique/blog/):
+Eu, a olhar para o [planeta tilde](https://tilde.pt/~marado/planeta/) depois de lhe acrescentar o [maiquetilde](https://tilde.pt/~maique/blog/):
 
 "Já corrigia o template do planeta para não deixar o conteúdo da coluna esquerda ir para cima da coluna direita..."
 
