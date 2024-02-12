@@ -2,9 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>~marado's tildelog</title><link>https://tilde.pt/~marado/blog/index.html</link>
 <description>a tildelog on tildeverse</description><language>en</language>
-<lastBuildDate>Fri, 06 Oct 2023 16:20:09 +0000</lastBuildDate>
-<pubDate>Fri, 06 Oct 2023 16:20:09 +0000</pubDate>
+<lastBuildDate>Mon, 12 Feb 2024 11:53:57 +0000</lastBuildDate>
+<pubDate>Mon, 12 Feb 2024 11:53:57 +0000</pubDate>
 <atom:link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Não é procrastinação, é... outra coisa
+</title><description><![CDATA[
+
+<p>Eu, a olhar para o <a href="https://tilde.pt/~marado/planeta/">planeta tilde</a> depois de lhe acrescenntar o <a href="https://tilde.pt/~maique/blog/">maiquetilde</a>:</p>
+
+<p>"Já corrigia o template do planeta para não deixar o conteúdo da coluna esquerda ir para cima da coluna direita..."</p>
+
+<p>Também eu, a olhar para o mesmo planeta:</p>
+
+<p>"...e se eu fizesse um blog post de boas vindas ao tilde para o ~maique? Até se deixava de notar os problemas no planeta tilde e tudo!"</p>
+
+<p>Ou, por outras palavras: bem vindo ao tildeverso, ~maique!</p>
+
+<p>tags: <a href='tag_tilde.html'>tilde</a>, <a href='tag_tilde.pt.html'>tilde.pt</a>, <a href='tag_tildeverse.html'>tildeverse</a>, <a href='tag_pt.html'>pt</a></p>
+<!-- text end -->
+]]></description><link>https://tilde.pt/~marado/blog/nao-e-procrastinacao-e-outra-coisa.html</link>
+<guid>https://tilde.pt/~marado/blog/./nao-e-procrastinacao-e-outra-coisa.html</guid>
+<dc:creator>~marado</dc:creator>
+<pubDate>Mon, 12 Feb 2024 11:53:36 +0000</pubDate></item>
 <item><title>
 MiniDebConf Portugal 2023
 </title><description><![CDATA[
