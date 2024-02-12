@@ -9,6 +9,61 @@
 	<atom:link rel="self" href="http://tilde.pt/~marado/planeta/rss20.xml" type="application/rss+xml"/>
 
 <item>
+	<title>~marado: Não é procrastinação, é... outra coisa</title>
+	<guid isPermaLink="false">https://tilde.pt/~marado/blog/./nao-e-procrastinacao-e-outra-coisa.html</guid>
+	<link>https://tilde.pt/~marado/blog/nao-e-procrastinacao-e-outra-coisa.html</link>
+	<description>&lt;p&gt;Eu, a olhar para o &lt;a href=&quot;https://tilde.pt/~marado/planeta/&quot;&gt;planeta tilde&lt;/a&gt; depois de lhe acrescenntar o &lt;a href=&quot;https://tilde.pt/~maique/blog/&quot;&gt;maiquetilde&lt;/a&gt;:&lt;/p&gt;
+
+&lt;p&gt;&quot;Já corrigia o template do planeta para não deixar o conteúdo da coluna esquerda ir para cima da coluna direita...&quot;&lt;/p&gt;
+
+&lt;p&gt;Também eu, a olhar para o mesmo planeta:&lt;/p&gt;
+
+&lt;p&gt;&quot;...e se eu fizesse um blog post de boas vindas ao tilde para o ~maique? Até se deixava de notar os problemas no planeta tilde e tudo!&quot;&lt;/p&gt;
+
+&lt;p&gt;Ou, por outras palavras: bem vindo ao tildeverso, ~maique!&lt;/p&gt;
+
+&lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_tilde.html&quot;&gt;tilde&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_tilde.pt.html&quot;&gt;tilde.pt&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_tildeverse.html&quot;&gt;tildeverse&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_pt.html&quot;&gt;pt&lt;/a&gt;&lt;/p&gt;</description>
+	<pubDate>Mon, 12 Feb 2024 11:53:36 +0000</pubDate>
+</item>
+<item>
+	<title>~maique: Dia 02</title>
+	<guid isPermaLink="false">https://tilde.pt/~maique/blog/./dia-02.html</guid>
+	<link>https://tilde.pt/~maique/blog/dia-02.html</link>
+	<description>&lt;p&gt;Já há blog, já há plantinha, já há eel. Já há acesso no telefone, e também no laptop. Tudo a funcionar.&lt;/p&gt;
+
+&lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~maique/blog/tag_curtas.html&quot;&gt;curtas&lt;/a&gt;&lt;/p&gt;</description>
+	<pubDate>Sat, 10 Feb 2024 09:16:08 +0000</pubDate>
+</item>
+<item>
+	<title>~maique: E fotos?</title>
+	<guid isPermaLink="false">https://tilde.pt/~maique/blog/./e-fotos.html</guid>
+	<link>https://tilde.pt/~maique/blog/e-fotos.html</link>
+	<description>&lt;p&gt;Como será partilhar uma foto?
+&lt;img alt=&quot;&quot; src=&quot;https://maique.eu/uploads/2024/b1c0eb54-9ba9-4c27-ad02-d8ba3c0bc9e4.jpg&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~maique/blog/tag_curtas.html&quot;&gt;curtas&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~maique/blog/tag_fotos.html&quot;&gt;fotos&lt;/a&gt;&lt;/p&gt;</description>
+	<pubDate>Fri, 09 Feb 2024 22:51:29 +0000</pubDate>
+</item>
+<item>
+	<title>~maique: Segundo</title>
+	<guid isPermaLink="false">https://tilde.pt/~maique/blog/./segundo.html</guid>
+	<link>https://tilde.pt/~maique/blog/segundo.html</link>
+	<description>&lt;p&gt;Vamos lá ver como fica isto com dois posts...&lt;/p&gt;
+
+&lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~maique/blog/tag_curtas.html&quot;&gt;curtas&lt;/a&gt;&lt;/p&gt;</description>
+	<pubDate>Fri, 09 Feb 2024 22:43:15 +0000</pubDate>
+</item>
+<item>
+	<title>~maique: Hey hey!</title>
+	<guid isPermaLink="false">https://tilde.pt/~maique/blog/./hey-hey.html</guid>
+	<link>https://tilde.pt/~maique/blog/hey-hey.html</link>
+	<description>&lt;p&gt;A tentar perceber como tudo isto funciona. Dois &lt;em&gt;reports&lt;/em&gt; já com o admin. &lt;br /&gt;
+Yay!&lt;/p&gt;
+
+&lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~maique/blog/tag_curtas.html&quot;&gt;curtas&lt;/a&gt;&lt;/p&gt;</description>
+	<pubDate>Fri, 09 Feb 2024 22:21:16 +0000</pubDate>
+</item>
+<item>
 	<title>~epifanio: Blocking big instances might save the Fediverse</title>
 	<guid isPermaLink="false">https://tilde.pt/~epifanio/blog/./blocking-huge-instances-might-save-the-fediverse.html</guid>
 	<link>https://tilde.pt/~epifanio/blog/blocking-huge-instances-might-save-the-fediverse.html</link>
@@ -943,41 +998,6 @@ those graphs, once again.&lt;/p&gt;
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/LCD-megademo</link>
 	<description>&lt;p&gt;more info  &lt;a href=&quot;https://github.com/MisterHW/44780HD&quot;&gt;github.com/MisterHW/44780HD&lt;/a&gt;&lt;/p&gt;</description>
 	<pubDate>Sat, 08 May 2021 10:20:04 +0000</pubDate>
-</item>
-<item>
-	<title>N.S. do Computismo: Coastermelt by scanlime</title>
-	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Coastermelt</guid>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Coastermelt</link>
-	<pubDate>Sat, 08 May 2021 10:20:03 +0000</pubDate>
-</item>
-<item>
-	<title>N.S. do Computismo: BBC Panorama – Amazon the Truth Behind the Click</title>
-	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Amazon-The-Truth-Behind-The-Click</guid>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Amazon-The-Truth-Behind-The-Click</link>
-	<pubDate>Thu, 06 May 2021 11:20:02 +0000</pubDate>
-</item>
-<item>
-	<title>N.S. do Computismo: Euroboy Playing Graba</title>
-	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/Euroboy-playing-graba</guid>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/Euroboy-playing-graba</link>
-	<pubDate>Fri, 30 Apr 2021 10:20:03 +0000</pubDate>
-</item>
-<item>
-	<title>N.S. do Computismo: Artscene Ascii Generator with a Neural Network</title>
-	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/NFO-NN-Generator</guid>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/NFO-NN-Generator</link>
-	<description>&lt;p&gt;&lt;img alt=&quot;ascii neural network&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/ascii-nn.png&quot; /&gt; &lt;/p&gt;
-
-&lt;p&gt;@ &lt;a href=&quot;https://rodarmor.com/artnet:&quot;&gt;roadarmor.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;tip from Ricardo Lafuente&lt;/p&gt;</description>
-	<pubDate>Mon, 26 Apr 2021 12:20:03 +0000</pubDate>
-</item>
-<item>
-	<title>N.S. do Computismo: Why Are The Mcdonalds Icecream Machines Always Broken</title>
-	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/Why-are-McDonalds-Icecream-Machines-Always-Broken</guid>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/Why-are-McDonalds-Icecream-Machines-Always-Broken</link>
-	<pubDate>Mon, 26 Apr 2021 11:20:02 +0000</pubDate>
 </item>
 
 </channel>
