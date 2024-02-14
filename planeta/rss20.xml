@@ -9,6 +9,21 @@
 	<atom:link rel="self" href="http://tilde.pt/~marado/planeta/rss20.xml" type="application/rss+xml"/>
 
 <item>
+	<title>~maique: De volta?</title>
+	<guid isPermaLink="false">https://tilde.pt/~maique/blog/./de-volta.html</guid>
+	<link>https://tilde.pt/~maique/blog/de-volta.html</link>
+	<description>&lt;p&gt;Já passaram muitos, MUITOS, anos desde a última vez que tive um blog em Português. Décadas. &lt;/p&gt;
+
+&lt;p&gt;Depois do &lt;strong&gt;quintal do xanato&lt;/strong&gt; veio o &lt;strong&gt;quintalito do xanato&lt;/strong&gt;. Anos a falar de filmes, da vida, e guiquice. &lt;/p&gt;
+
+&lt;p&gt;Depois passei para inglês, e por aí fiquei. &lt;a href=&quot;https://maique.eu&quot;&gt;Até hoje&lt;/a&gt;. Normalmente em formato mais curto, e cada vez mais com fotos do dia a dia. O blog ficou com grande parte das imagens que iam para o &lt;a href=&quot;https://www.instagram.com/maique/&quot;&gt;Instagram&lt;/a&gt;, onde agora os posts são mais esporádicos.  &lt;/p&gt;
+
+&lt;p&gt;Voltarei ao português? Aqui?&lt;/p&gt;
+
+&lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~maique/blog/tag_curtas.html&quot;&gt;curtas&lt;/a&gt;&lt;/p&gt;</description>
+	<pubDate>Tue, 13 Feb 2024 11:32:42 +0000</pubDate>
+</item>
+<item>
 	<title>~marado: Não é procrastinação, é... outra coisa</title>
 	<guid isPermaLink="false">https://tilde.pt/~marado/blog/./nao-e-procrastinacao-e-outra-coisa.html</guid>
 	<link>https://tilde.pt/~marado/blog/nao-e-procrastinacao-e-outra-coisa.html</link>
@@ -991,13 +1006,6 @@ those graphs, once again.&lt;/p&gt;
 	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Blipverts</guid>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Blipverts</link>
 	<pubDate>Tue, 11 May 2021 11:20:04 +0000</pubDate>
-</item>
-<item>
-	<title>N.S. do Computismo: LCD megademo</title>
-	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/LCD-megademo</guid>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/LCD-megademo</link>
-	<description>&lt;p&gt;more info  &lt;a href=&quot;https://github.com/MisterHW/44780HD&quot;&gt;github.com/MisterHW/44780HD&lt;/a&gt;&lt;/p&gt;</description>
-	<pubDate>Sat, 08 May 2021 10:20:04 +0000</pubDate>
 </item>
 
 </channel>

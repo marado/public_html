@@ -15,6 +15,7 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~maique/blog/./de-volta.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./nao-e-procrastinacao-e-outra-coisa.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~maique/blog/./dia-02.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~maique/blog/./e-fotos.html" />
@@ -74,11 +75,25 @@
 			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./o-manifesto-das-cebolas-na-era-da-transicao-digital.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./voto-electronico-em-portugal---mais-do-que-um-problema-tecnico-um-problema-legal.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Blipverts" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/LCD-megademo" />
 		</rdf:Seq>
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~maique/blog/./de-volta.html">
+	<title>~maique: De volta?</title>
+	<link>https://tilde.pt/~maique/blog/de-volta.html</link>
+	<content:encoded>&lt;p&gt;Já passaram muitos, MUITOS, anos desde a última vez que tive um blog em Português. Décadas. &lt;/p&gt;
+
+&lt;p&gt;Depois do &lt;strong&gt;quintal do xanato&lt;/strong&gt; veio o &lt;strong&gt;quintalito do xanato&lt;/strong&gt;. Anos a falar de filmes, da vida, e guiquice. &lt;/p&gt;
+
+&lt;p&gt;Depois passei para inglês, e por aí fiquei. &lt;a href=&quot;https://maique.eu&quot;&gt;Até hoje&lt;/a&gt;. Normalmente em formato mais curto, e cada vez mais com fotos do dia a dia. O blog ficou com grande parte das imagens que iam para o &lt;a href=&quot;https://www.instagram.com/maique/&quot;&gt;Instagram&lt;/a&gt;, onde agora os posts são mais esporádicos.  &lt;/p&gt;
+
+&lt;p&gt;Voltarei ao português? Aqui?&lt;/p&gt;
+
+&lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~maique/blog/tag_curtas.html&quot;&gt;curtas&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2024-02-13T11:32:42+00:00</dc:date>
+	<dc:creator>~maique</dc:creator>
+</item>
 <item rdf:about="https://tilde.pt/~marado/blog/./nao-e-procrastinacao-e-outra-coisa.html">
 	<title>~marado: Não é procrastinação, é... outra coisa</title>
 	<link>https://tilde.pt/~marado/blog/nao-e-procrastinacao-e-outra-coisa.html</link>
@@ -1033,12 +1048,6 @@ those graphs, once again.&lt;/p&gt;
 	<title>N.S. do Computismo: Blipverts</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Blipverts</link>
 	<dc:date>2021-05-11T11:20:04+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/LCD-megademo">
-	<title>N.S. do Computismo: LCD megademo</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/LCD-megademo</link>
-	<content:encoded>&lt;p&gt;more info  &lt;a href=&quot;https://github.com/MisterHW/44780HD&quot;&gt;github.com/MisterHW/44780HD&lt;/a&gt;&lt;/p&gt;</content:encoded>
-	<dc:date>2021-05-08T10:20:04+00:00</dc:date>
 </item>
 
 </rdf:RDF>
