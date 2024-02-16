@@ -9,6 +9,15 @@
 	<atom:link rel="self" href="http://tilde.pt/~marado/planeta/rss20.xml" type="application/rss+xml"/>
 
 <item>
+	<title>N.S. do Computismo: Máquinas de voto Diebold no Texas</title>
+	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2024/02/Texas</guid>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2024/02/Texas</link>
+	<description>&lt;p&gt;&lt;video controls=&quot;controls&quot;&gt;
+    &lt;source src=&quot;/~fimdomeio/nossa-senhora-do-computismo/img/diebold_med.webm&quot; type=&quot;video/webm&quot; /&gt;
+&lt;/video&gt;&lt;/p&gt;</description>
+	<pubDate>Fri, 16 Feb 2024 17:36:16 +0000</pubDate>
+</item>
+<item>
 	<title>~maique: De volta?</title>
 	<guid isPermaLink="false">https://tilde.pt/~maique/blog/./de-volta.html</guid>
 	<link>https://tilde.pt/~maique/blog/de-volta.html</link>
@@ -1000,12 +1009,6 @@ those graphs, once again.&lt;/p&gt;
 
 &lt;hr /&gt;</description>
 	<pubDate>Tue, 11 May 2021 12:45:43 +0000</pubDate>
-</item>
-<item>
-	<title>N.S. do Computismo: Blipverts</title>
-	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Blipverts</guid>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Blipverts</link>
-	<pubDate>Tue, 11 May 2021 11:20:04 +0000</pubDate>
 </item>
 
 </channel>

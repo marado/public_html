@@ -15,6 +15,7 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2024/02/Texas" />
 			<rdf:li rdf:resource="https://tilde.pt/~maique/blog/./de-volta.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./nao-e-procrastinacao-e-outra-coisa.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~maique/blog/./dia-02.html" />
@@ -74,11 +75,18 @@
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Altair" />
 			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./o-manifesto-das-cebolas-na-era-da-transicao-digital.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./voto-electronico-em-portugal---mais-do-que-um-problema-tecnico-um-problema-legal.html" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Blipverts" />
 		</rdf:Seq>
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2024/02/Texas">
+	<title>N.S. do Computismo: Máquinas de voto Diebold no Texas</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2024/02/Texas</link>
+	<content:encoded>&lt;p&gt;&lt;video controls=&quot;controls&quot;&gt;
+    &lt;source src=&quot;/~fimdomeio/nossa-senhora-do-computismo/img/diebold_med.webm&quot; type=&quot;video/webm&quot; /&gt;
+&lt;/video&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2024-02-16T17:36:16+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~maique/blog/./de-volta.html">
 	<title>~maique: De volta?</title>
 	<link>https://tilde.pt/~maique/blog/de-volta.html</link>
@@ -1043,11 +1051,6 @@ those graphs, once again.&lt;/p&gt;
 &lt;hr /&gt;</content:encoded>
 	<dc:date>2021-05-11T12:45:43+00:00</dc:date>
 	<dc:creator>~marado</dc:creator>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Blipverts">
-	<title>N.S. do Computismo: Blipverts</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Blipverts</link>
-	<dc:date>2021-05-11T11:20:04+00:00</dc:date>
 </item>
 
 </rdf:RDF>
