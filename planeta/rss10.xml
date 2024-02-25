@@ -15,6 +15,7 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~maique/blog/./folga.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2024/02/Texas" />
 			<rdf:li rdf:resource="https://tilde.pt/~maique/blog/./de-volta.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./nao-e-procrastinacao-e-outra-coisa.html" />
@@ -74,11 +75,19 @@
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Chain-of-fools" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Altair" />
 			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./o-manifesto-das-cebolas-na-era-da-transicao-digital.html" />
-			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./voto-electronico-em-portugal---mais-do-que-um-problema-tecnico-um-problema-legal.html" />
 		</rdf:Seq>
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~maique/blog/./folga.html">
+	<title>~maique: Folga!</title>
+	<link>https://tilde.pt/~maique/blog/folga.html</link>
+	<content:encoded>&lt;p&gt;Um dia em que não tenho de fazer nada, excepto editar mais um monte de fotos, e dormir. DORMIR.&lt;/p&gt;
+
+&lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~maique/blog/tag_curtas.html&quot;&gt;curtas&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2024-02-19T10:52:15+00:00</dc:date>
+	<dc:creator>~maique</dc:creator>
+</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2024/02/Texas">
 	<title>N.S. do Computismo: Máquinas de voto Diebold no Texas</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2024/02/Texas</link>
@@ -1011,45 +1020,6 @@ those graphs, once again.&lt;/p&gt;
 
 &lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_pt.html&quot;&gt;pt&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_ANSOL.html&quot;&gt;ANSOL&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_ESOP.html&quot;&gt;ESOP&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_SNS.html&quot;&gt;SNS&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_Microsoft.html&quot;&gt;Microsoft&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_Licen%C3%A7as.html&quot;&gt;Licenças&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_Office-365.html&quot;&gt;Office-365&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_Office.html&quot;&gt;Office&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_manifesto.html&quot;&gt;manifesto&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_contratos.html&quot;&gt;contratos&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_p%C3%BAblicos.html&quot;&gt;públicos&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_ilegais.html&quot;&gt;ilegais&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_contratos-p%C3%BAblicos.html&quot;&gt;contratos-públicos&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_contratos-ilegais.html&quot;&gt;contratos-ilegais&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_transi%C3%A7%C3%A3o.html&quot;&gt;transição&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_digital.html&quot;&gt;digital&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_transi%C3%A7%C3%A3o-digital.html&quot;&gt;transição-digital&lt;/a&gt;&lt;/p&gt;</content:encoded>
 	<dc:date>2021-05-11T15:01:44+00:00</dc:date>
-	<dc:creator>~marado</dc:creator>
-</item>
-<item rdf:about="https://tilde.pt/~marado/blog/./voto-electronico-em-portugal---mais-do-que-um-problema-tecnico-um-problema-legal.html">
-	<title>~marado: Voto electrónico em Portugal - mais do que um problema técnico, um problema legal</title>
-	<link>https://tilde.pt/~marado/blog/voto-electronico-em-portugal---mais-do-que-um-problema-tecnico-um-problema-legal.html</link>
-	<content:encoded>&lt;p&gt;O debate do voto electrónico tem décadas, mas, ainda que a investigação na área tenha apresentado evoluções, a discussão sobre a temática nem por isso. Pilotos atrás de pilotos, e tentativas de implementar o voto electrónico em Portugal vieram e falharam, mas pode-se sempre apontar o dedo a uma coisa: uma fraca implementação. Esse problema tem duas facetas: se, por um lado, aqueles que se opõe na generalidade ao voto electrónico têm uma forma fácil de apontar o dedo à má impementação e dizer &quot;vêm?, não presta!&quot;, esse argumento acaba por não convencer aqueles que são a favor do voto electrónico, com o argumento de que &quot;lá porque este foi mal feito, não quer dizer que não se possa fazer bem&quot;.&lt;/p&gt;
-
-&lt;p&gt;Também foi assim nas últimas Europeias, que em Portugal incluiram um piloto de voto de electrónico, que correu francamente mal - porque (adivinhe-se) tinha uma implementação má. Mas se a experiência serviu para alguma coisa, no que diz respeito à comunicação social e ao debate político, foi para por o tema outra vez na agenda política, e nunca se falou em portugal sobre o voto electrónico como hoje. Em vez que servir como prova de que o voto electrónico é uma má ideia, o exemplo serviu para aguçar apetites.&lt;/p&gt;
-
-&lt;p&gt;Mas, para o debate - se alguém o quiser efectivamente ter, e de forma séria - sobre a implementação de um sistema de voto electrónico em Portugal, o melhor contributo deste exemplo piloto que tivemos foi o post-mortem feito pela CNPD. O documento, que fez headlines nos jornais, e que demonstra que a implementação da solução usada era má, foi, mais uma vez, usado por vários como ponto de partida para dizer &quot;a solução é má, mas podem haver boas.&quot; Contudo, parece-me, quem diz isso não olhou para o documento como um todo.&lt;/p&gt;
-
-&lt;p&gt;O &lt;a href=&quot;https://t.co/42V1QRN2IT&quot;&gt;parecer da CNPD&lt;/a&gt; é uma leitura no total interessante, mas há um segmento em particular que me parecem muito útil. Mas, para quem pensava que ia ler um artigo a falar blockchain ou de consenso bizantino... lamento. O excerto do parecer que me parece valer a pena destacar é o que demonstra que o problema do voto electrónico em Portugal é, mais do que um problema técnico, um problema legal. Não me refiro à parte que diz &quot;qualquer solução precisa de ser legislada exaustivamente, o que não tem acontecido&quot; (o que é verdade, mas é resolúvel apenas com a criação de mais legislação), mas sim à parte que diz:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;a questão da transparência elencada no n.º 1 do artigo 5.º do RGPD tem de ser tida à luz da possibilidade de os titulares dos dados (leia-se &quot;eleitores&quot;) poderem compreender, de forma completa (ainda que não exaustiva), como decorrem as operações de tratamento que incidem sobre os seus dados pessoais, entre as quais se encontra a votação.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;É importante, porque declara que, à luz do RGPD (em vigor não só em Portugal mas nos diversos estados membros), obriga-se a que um sistema eleitoral - que por natureza lida com eleitores e seus votos - seja compreensível pela generalidade dos eleitores, coisa que não pode acontecer num sistema da complexidade exida por um sistema fiável de voto electrónico.&lt;/p&gt;
-
-&lt;p&gt;A CNPD aponta para o exemplo da Alemanha, em que este conflicto entre os sistemas de voto electrónico e a compreensão pelo cidadão comum do seu funcionamento foi levado ao seu Tribunal Constitucional, levando à decisão de não implementação de voto electrónico, mas não é só na Alemanha que esta questão precede o RGPD. No texto da associação &lt;a href=&quot;https://direitosdigitais.pt/comunicacao/noticias/76-vamos-reflectir-sobre-o-voto-electronico&quot;&gt;D3 - Defesa dos Direitos Digitais - sobre o voto electrónico&lt;/a&gt;, escrito em antecipação às europeias - quando a última experiência de voto electrónico decorreu em Portugal - lê-se:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;todo o cidadão deve poder compreender ele próprio o funcionamento do sistema eleitoral do país, qualquer que seja o sistema,  por forma a ter suficiente confiança de que este está em conformidade com a lei. Uma solução digital será sempre uma solução demasiado complexa, mesmo para os eleitores mais esclarecidos, o que irá inevitavelmente trazer desconfiança ao processo legislativo e aos seus resultados por parte de quem tenha resultados inferiores ao que esperava.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Mas será assim? Bem, em Portugal existem vários actos eleitorais, cada um com a sua Legislação aplicável. Temos, por exemplo, na Lei Eleitoral dos Órgãos das Autarquias Locais (que rege as Autárquicas que em breve decorrerão em território nacional), o Artigo 52.º que diz:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Cabe à Comissão Nacional de Eleições promover, através de meios de comunicação social, públicos e privados, o esclarecimento objectivo dos cidadãos sobre o significado das eleições para a vida do País, sobre o processo eleitoral e sobre o processo de votação.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Terá a CNE os meios necessários para cumprir tal artigo - no que diz respeito ao esclarecimento objectivo sobre o processo eleitoral - se o processo for por via electrónica?&lt;/p&gt;
-
-&lt;h3&gt;Em jeito de conclusão&lt;/h3&gt;
-
-&lt;p&gt;Tem-se discutido cada vez mais sobre o voto electrónico em Portugal. Contudo, tem-se falado do tema como se ele fosse maioritariamente um desafio técnico, quando, a meu ver, os entraves são legislativos. Não estou a defender que o &quot;direito ao esclarecimento&quot; deve ser posto de parte, mas acredito que é aí que o debate se deve centrar. A legislação actualmente em vigor - tanto nacional como comunitária - defende esse direito ao esclarecimento, que é incompatível com um sistema de voto electrónico(1). Acredito que haja quem ache que ter voto electrónico é mais importante - mas então é esse o argumento que deve ser feito por quem assim o acha, em particular devendendo as alterações legislativas necessárias. Esse debate pode trazer algum fruto. O técnico, parece-me, está ao mesmo nível em 2021 que estava há duas décadas atrás, e assim continuará.&lt;/p&gt;
-
-&lt;hr /&gt;</content:encoded>
-	<dc:date>2021-05-11T12:45:43+00:00</dc:date>
 	<dc:creator>~marado</dc:creator>
 </item>
 
