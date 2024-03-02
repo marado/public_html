@@ -11,7 +11,7 @@
 	  <header>
 	  <div>
 		This is a visual presentation of my <a href="twtxt-2021.txt">feed of tweets</a>, from 2020 to mid-2022.
-		You can also <a href="twtxt-201x.php">find the previous decade of 201x (2010-2019)</a>, or the <a href="twtxt.php">current feed</a>.
+		You can also <a href="twtxt-201x.php">find the previous decade of 201x (2010-2019)</a>, or a <a href="twtxt-2022.html">more recent feed</a> (up to mid-2023).
 	  </div>
 	  </header>
 	  <main class="container">

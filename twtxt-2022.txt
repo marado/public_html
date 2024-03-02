@@ -20,6 +20,11 @@
 # nick_alias = marado-2021
 # url_alias = https://tilde.pt/~marado/twtxt-2021.txt
 #
+# You can find the next feed of twts (2023) at:
+# next_nick = marado-2023
+# next_url = https://tilde.pt/~marado/twtxt-2023.txt
+# next_visualizer = https://tilde.pt/~marado/twtxt-2023.html
+#
 # You can find my current feed at:
 # current_nick = marado
 # current_url = https://tilde.pt/~marado/twtxt.txt
