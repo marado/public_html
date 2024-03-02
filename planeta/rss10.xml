@@ -15,8 +15,38 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./planeta-oops.html" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Outlandish-HCI-papers" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/The-secret-life-of-the-word-processor" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/11/Child-Abuse" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Altair" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/12/Tom-Scotts-dystopias" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Synth-Britannia" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2024/02/Texas-voting-machines" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/12/Ancient-Computer" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Taking-screenshots-in-1983" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/game-maps" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Tech-assistance" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Third-Thumb-project" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/06/The-Hidden-Politics-of-SimCity" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/06/True-Bugs-Wait" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Aquarius" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/LCD-megademo" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/10/Paperwork-Explosion" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Chain-of-fools" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Mac-Plus-Surfing-The-Web" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/06/Declaration-of-independence-of-cyberspace" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/defcon-radio" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Technology-Trap" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/First-Webcam" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Jurassic-systems" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/asterisk" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Blipverts" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Netiquette" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/06/CodeV2" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Way-Out" />
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2022/07/IBM-604-no-LNEC" />
 			<rdf:li rdf:resource="https://tilde.pt/~maique/blog/./folga.html" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2024/02/Texas" />
 			<rdf:li rdf:resource="https://tilde.pt/~maique/blog/./de-volta.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./nao-e-procrastinacao-e-outra-coisa.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~maique/blog/./dia-02.html" />
@@ -36,7 +66,6 @@
 			<rdf:li rdf:resource="https://tilde.pt/~budd/blog/./budd-has-checked-in.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~rlafuente/blog/./novo-post.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./breve-introducao-ao-git-gitlab-e-github.html" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2022/07/IBM-604-no-LNEC" />
 			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./lamego-2022---o-antes-e-o-depois.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~maria/blog/./convite.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./o-voto-eletronico-e-o-solucionismo-tecnologico.html" />
@@ -45,40 +74,228 @@
 			<rdf:li rdf:resource="https://tilde.pt/~tcarrondo/blog/./-title-on-this-line.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~tcarrondo/blog/./-olha-eu.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~tcarrondo/blog/./-olha-eu30007.html" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/12/Tom-Scotts-dystopias" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/12/Ancient-Computer" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/11/Child-Abuse" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/10/Paperwork-Explosion" />
 			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./happy-20th-birthday-ansol.html" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Jurassic-systems" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/First-Webcam" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Taking-screenshots-in-1983" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Tech-assistance" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Aquarius" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/game-maps" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Outlandish-HCI-papers" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/The-secret-life-of-the-word-processor" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Way-Out" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Technology-Trap" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/Technology-Trap" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/06/Declaration-of-independence-of-cyberspace" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/06/The-Hidden-Politics-of-SimCity" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/06/True-Bugs-Wait" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/06/CodeV2" />
-			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./are-cassette-tapes-dead-again.html" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Netiquette" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Mac-Plus-Surfing-The-Web" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Synth-Britannia" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Third-Thumb-project" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/defcon-radio" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/asterisk" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Chain-of-fools" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Altair" />
-			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./o-manifesto-das-cebolas-na-era-da-transicao-digital.html" />
 		</rdf:Seq>
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~marado/blog/./planeta-oops.html">
+	<title>~marado: Planeta Oops</title>
+	<link>https://tilde.pt/~marado/blog/planeta-oops.html</link>
+	<content:encoded>&lt;p&gt;Se segues o &lt;a href=&quot;https://tilde.pt/~marado/planeta/&quot;&gt;Planeta Tilde&lt;/a&gt; e te sentes vítima de spam por causa do refrescamento de uma das feeds...
+Oops, é culpa minha - quem diria que isto de manter um planeta consegue ser complexo... Prometo tentar ser mais cuidadoso de futuro!&lt;/p&gt;
+
+&lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_curtas.html&quot;&gt;curtas&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_planeta.html&quot;&gt;planeta&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_tilde.html&quot;&gt;tilde&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_tilde.pt.html&quot;&gt;tilde.pt&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_pt.html&quot;&gt;pt&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2024-03-02T17:07:36+00:00</dc:date>
+	<dc:creator>~marado</dc:creator>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Outlandish-HCI-papers">
+	<title>N.S. do Computismo: Outlandish HCI Papers</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Outlandish-HCI-papers</link>
+	<content:encoded>&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/weird-hci.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;@ &lt;a href=&quot;https://floe.butterbrot.org/matrix/rants/weird/&quot;&gt;floe.butterbrot&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2024-03-02T17:03:10+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/The-secret-life-of-the-word-processor">
+	<title>N.S. do Computismo: The Secret Life of the Word Processor</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/The-secret-life-of-the-word-processor</link>
+	<dc:date>2024-03-02T17:03:10+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/11/Child-Abuse">
+	<title>N.S. do Computismo: Facebook Conspiracy</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/11/Child-Abuse</link>
+	<content:encoded>&lt;p&gt;&lt;img alt=&quot;Console view&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/forcingChildren.png&quot; /&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2024-03-02T17:03:10+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Altair">
+	<title>N.S. do Computismo: Altair 8800</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Altair</link>
+	<content:encoded>&lt;p&gt;&lt;img alt=&quot;altair8800&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/altair8800.jpg&quot; /&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2024-03-02T17:03:10+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/12/Tom-Scotts-dystopias">
+	<title>N.S. do Computismo: Tom Scott Dystopias</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/12/Tom-Scotts-dystopias</link>
+	<dc:date>2024-03-02T17:03:10+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Synth-Britannia">
+	<title>N.S. do Computismo: Synth Britannia</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Synth-Britannia</link>
+	<dc:date>2024-03-02T17:03:10+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2024/02/Texas-voting-machines">
+	<title>N.S. do Computismo: Máquinas de voto Diebold no Texas</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2024/02/Texas-voting-machines</link>
+	<content:encoded>&lt;p&gt;&lt;video controls=&quot;controls&quot;&gt;
+    &lt;source src=&quot;/~fimdomeio/nossa-senhora-do-computismo/img/diebold_med.webm&quot; type=&quot;video/webm&quot; /&gt;
+&lt;/video&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2024-03-02T17:03:10+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/12/Ancient-Computer">
+	<title>N.S. do Computismo: The ancient 'computer' that simply shouldn't exist - BBC REEL</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/12/Ancient-Computer</link>
+	<dc:date>2024-03-02T17:03:10+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Taking-screenshots-in-1983">
+	<title>N.S. do Computismo: Taking screenshots in 1983</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Taking-screenshots-in-1983</link>
+	<content:encoded>&lt;p&gt;&lt;img alt=&quot;a man with a camera pointed at a screen&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/screenshot.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;source @ &lt;a href=&quot;https://www.reddit.com/r/pics/comments/2bazg9/taking_a_screenshot_in_1983/&quot;&gt;reddit.com&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2024-03-02T17:03:10+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/game-maps">
+	<title>N.S. do Computismo: A Museum of Game Maps</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/game-maps</link>
+	<content:encoded>&lt;p&gt;&lt;img alt=&quot;mario kart wii crowd&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/game-maps.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;@ &lt;a href=&quot;https://noclip.website/&quot;&gt;noclip&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2024-03-02T17:03:10+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Tech-assistance">
+	<title>N.S. do Computismo: Technical Assistance</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Tech-assistance</link>
+	<content:encoded>&lt;ol&gt;
+&lt;li&gt;The user clicks yes. They might read what they clicked yes to.&lt;/li&gt;
+&lt;li&gt;The user doesn't usually read prompts&lt;/li&gt;
+&lt;li&gt;The user will not read error messages, even if they are to their benefit.&lt;/li&gt;
+&lt;li&gt;The user doesn't know how to &quot;google&quot; problems&lt;/li&gt;
+&lt;li&gt;The user will sometimes even ignore IT professional help even when they call us. This is usually a &quot;bitch session&quot; with no clear resolution.&lt;/li&gt;
+&lt;li&gt;You will tell the user what to do, and they will also say yes. They still don't understand.&lt;/li&gt;
+&lt;li&gt;Users will install software and not understand how to remove said software (control panel/remove software).&lt;/li&gt;
+&lt;li&gt;Users are not curious. What would be obvious to simple reading they will ignore.&lt;/li&gt;
+&lt;li&gt;Only when the computing environment is unbearable, will they call in. Or it will be the simpleton user who wants you to do their work for them.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+&lt;li&gt;not sure what the original source is &lt;/li&gt;
+&lt;/ul&gt;</content:encoded>
+	<dc:date>2024-03-02T17:03:10+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Third-Thumb-project">
+	<title>N.S. do Computismo: Third Thumb Project</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Third-Thumb-project</link>
+	<content:encoded>&lt;p&gt;&lt;/p&gt;&lt;div style=&quot;padding: 66.67% 0 0 0;&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/551468278&quot;&gt;Third Thumb Project&lt;/a&gt; from &lt;a href=&quot;https://www.daniclodedesign.com/thethirdthumb&quot;&gt;Dani CLobe&lt;/a&gt;.&lt;/p&gt;</content:encoded>
+	<dc:date>2024-03-02T17:03:10+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/06/The-Hidden-Politics-of-SimCity">
+	<title>N.S. do Computismo: The Hidden politics of SimCity</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/06/The-Hidden-Politics-of-SimCity</link>
+	<dc:date>2024-03-02T17:03:10+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/06/True-Bugs-Wait">
+	<title>N.S. do Computismo: True Bugs Wait</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/06/True-Bugs-Wait</link>
+	<content:encoded>&lt;p&gt;&lt;img alt=&quot;Pickle&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/pickle.jpg&quot; /&gt;
+more at &lt;a href=&quot;http://natashenka.ca/wp-content/uploads/2014/01/truebugswait8x11.pdf&quot;&gt;natashenka.ca&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2024-03-02T17:03:10+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Aquarius">
+	<title>N.S. do Computismo: AQUARIUS from the YMF262 EP by Diode Milliampere, Live in Adlib Tracker II</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Aquarius</link>
+	<dc:date>2024-03-02T17:03:10+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/LCD-megademo">
+	<title>N.S. do Computismo: LCD megademo</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/LCD-megademo</link>
+	<content:encoded>&lt;p&gt;more info  &lt;a href=&quot;https://github.com/MisterHW/44780HD&quot;&gt;github.com/MisterHW/44780HD&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2024-03-02T17:03:10+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/10/Paperwork-Explosion">
+	<title>N.S. do Computismo: Paperwork Explosion</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/10/Paperwork-Explosion</link>
+	<dc:date>2024-03-02T17:03:10+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Chain-of-fools">
+	<title>N.S. do Computismo: Chain of Fools</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Chain-of-fools</link>
+	<dc:date>2024-03-02T17:03:10+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Mac-Plus-Surfing-The-Web">
+	<title>N.S. do Computismo: Mac Plus Surfing The Web</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Mac-Plus-Surfing-The-Web</link>
+	<content:encoded>&lt;p&gt;article @ &lt;a href=&quot;https://www.keacher.com/1216/how-i-introduced-a-27-year-old-computer-to-the-web/&quot;&gt;keacher.com&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2024-03-02T17:03:10+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/06/Declaration-of-independence-of-cyberspace">
+	<title>N.S. do Computismo: A Declaration of the Independence of Cyberspace</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/06/Declaration-of-independence-of-cyberspace</link>
+	<content:encoded>&lt;p&gt;What Barlow forgot is that any declaration of independence should be followed by the creation of an army of clueless believers willing to die for the cause.&lt;/p&gt;
+
+&lt;p&gt;@ &lt;a href=&quot;https://www.eff.org/cyberspace-independence&quot;&gt;eff.org&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2024-03-02T17:03:10+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/defcon-radio">
+	<title>N.S. do Computismo: DEF CON Radio</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/defcon-radio</link>
+	<content:encoded>&lt;p&gt;&lt;a href=&quot;https://somafm.com/defcon/songhistory.html&quot;&gt;&lt;img alt=&quot;defcon radio logo&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/defcon-400.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;@ &lt;a href=&quot;https://somafm.com/defcon/songhistory.html&quot;&gt;soma.fm&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2024-03-02T17:03:10+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Technology-Trap">
+	<title>N.S. do Computismo: Technology Trap</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Technology-Trap</link>
+	<dc:date>2024-03-02T17:03:10+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/First-Webcam">
+	<title>N.S. do Computismo: What was probably the first webcam</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/First-Webcam</link>
+	<content:encoded>&lt;p&gt;via &lt;a href=&quot;https://www.openculture.com/2021/09/the-very-first-webcam-was-invented-to-keep-an-eye-on-a-coffee-pot-at-cambridge-university.html&quot;&gt;openculture.com&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2024-03-02T17:03:10+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Jurassic-systems">
+	<title>N.S. do Computismo: Jurassic Systems</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Jurassic-systems</link>
+	<content:encoded>&lt;p&gt;&lt;img alt=&quot;os screenshot&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/jurassic-systems.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;@ &lt;a href=&quot;https://www.jurassicsystems.com/&quot;&gt;jurassicsystems.com&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2024-03-02T17:03:10+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/asterisk">
+	<title>N.S. do Computismo: Out of Season</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/asterisk</link>
+	<content:encoded>&lt;p&gt;clear;while :;do echo $LINES $COLUMNS $(($RANDOM%$COLUMNS));sleep 0.1;done|gawk '{a[$3]=0;for(x in a) {o=a[x];a[x]=a[x]+1;printf &quot;\033[%s;%sH &quot;,o,x;printf &quot;\033[%s;%sH*\033[0;0H&quot;,a[x],x;}}']]&quot;]&quot;}}'&lt;/p&gt;</content:encoded>
+	<dc:date>2024-03-02T17:03:10+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Blipverts">
+	<title>N.S. do Computismo: Blipverts</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Blipverts</link>
+	<dc:date>2024-03-02T17:03:10+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Netiquette">
+	<title>N.S. do Computismo: RFC 1855 - Netiquette Guidelines</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Netiquette</link>
+	<content:encoded>&lt;p&gt;&lt;img alt=&quot;Netiquette&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/netiquette.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;full document @ &lt;a href=&quot;https://datatracker.ietf.org/doc/html/rfc1855&quot;&gt;ieft.org&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2024-03-02T17:03:10+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/06/CodeV2">
+	<title>N.S. do Computismo: Code V2</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/06/CodeV2</link>
+	<content:encoded>&lt;p&gt;&lt;img alt=&quot;book cover&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/code.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;«From the Preface: &quot;This is a translation of an old book—indeed, in Internet time, it is a translation of an ancient text.&quot; That text is Lessig's &quot;Code and Other Laws of Cyberspace.&quot; The second version of that book is &quot;Code v2.&quot; The aim of Code v2 is to update the earlier work, making its argument more relevant to the current internet.»&lt;/p&gt;
+
+&lt;p&gt;more @ &lt;a href=&quot;https://lessig.org/product/codev2&quot;&gt;lessig.org&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2024-03-02T17:03:10+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Way-Out">
+	<title>N.S. do Computismo: You've Found Your Way In, But Is There a Way Out?</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Way-Out</link>
+	<content:encoded>&lt;p&gt;&lt;img alt=&quot;Hacker Magazine cover&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/wayout.jpg&quot; /&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2024-03-02T17:03:10+00:00</dc:date>
+</item>
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2022/07/IBM-604-no-LNEC">
+	<title>N.S. do Computismo: IBM 604 no LNEC</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2022/07/IBM-604-no-LNEC</link>
+	<content:encoded>&lt;p&gt;&lt;a href=&quot;https://arquivos.rtp.pt/conteudos/conferencia-de-gustavo-de-castro-no-lnec/&quot;&gt;&lt;img alt=&quot;IBM 604 no LNEC&quot; src=&quot;https://cdn-images.rtp.pt/arquivo/2022/04/gust.png?crop=top&amp;amp;fit=crop&amp;amp;h=461&amp;amp;ixlib=php-1.1.0&amp;amp;w=860&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2024-03-02T17:03:10+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~maique/blog/./folga.html">
 	<title>~maique: Folga!</title>
 	<link>https://tilde.pt/~maique/blog/folga.html</link>
@@ -87,14 +304,6 @@
 &lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~maique/blog/tag_curtas.html&quot;&gt;curtas&lt;/a&gt;&lt;/p&gt;</content:encoded>
 	<dc:date>2024-02-19T10:52:15+00:00</dc:date>
 	<dc:creator>~maique</dc:creator>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2024/02/Texas">
-	<title>N.S. do Computismo: Máquinas de voto Diebold no Texas</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2024/02/Texas</link>
-	<content:encoded>&lt;p&gt;&lt;video controls=&quot;controls&quot;&gt;
-    &lt;source src=&quot;/~fimdomeio/nossa-senhora-do-computismo/img/diebold_med.webm&quot; type=&quot;video/webm&quot; /&gt;
-&lt;/video&gt;&lt;/p&gt;</content:encoded>
-	<dc:date>2024-02-16T17:36:16+00:00</dc:date>
 </item>
 <item rdf:about="https://tilde.pt/~maique/blog/./de-volta.html">
 	<title>~maique: De volta?</title>
@@ -649,12 +858,6 @@ participar no Hacktoberfest.&lt;/p&gt;
 	<dc:date>2022-10-12T17:26:29+00:00</dc:date>
 	<dc:creator>~marado</dc:creator>
 </item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2022/07/IBM-604-no-LNEC">
-	<title>N.S. do Computismo: IBM 604 no LNEC</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2022/07/IBM-604-no-LNEC</link>
-	<content:encoded>&lt;p&gt;&lt;a href=&quot;https://arquivos.rtp.pt/conteudos/conferencia-de-gustavo-de-castro-no-lnec/&quot;&gt;&lt;img alt=&quot;IBM 604 no LNEC&quot; src=&quot;https://cdn-images.rtp.pt/arquivo/2022/04/gust.png?crop=top&amp;amp;fit=crop&amp;amp;h=461&amp;amp;ixlib=php-1.1.0&amp;amp;w=860&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
-	<dc:date>2022-07-08T18:51:58+00:00</dc:date>
-</item>
 <item rdf:about="https://tilde.pt/~marado/blog/./lamego-2022---o-antes-e-o-depois.html">
 	<title>~marado: Lamego 2022 - o antes e o depois</title>
 	<link>https://tilde.pt/~marado/blog/lamego-2022---o-antes-e-o-depois.html</link>
@@ -743,27 +946,6 @@ as soon as you exit your editor.&lt;/p&gt;
 	<dc:date>2021-12-31T00:53:50+00:00</dc:date>
 	<dc:creator>~tcarrondo</dc:creator>
 </item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/12/Tom-Scotts-dystopias">
-	<title>N.S. do Computismo: Tom Scott Dystopias</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/12/Tom-Scotts-dystopias</link>
-	<dc:date>2021-12-10T16:20:03+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/12/Ancient-Computer">
-	<title>N.S. do Computismo: The ancient 'computer' that simply shouldn't exist - BBC REEL</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/12/Ancient-Computer</link>
-	<dc:date>2021-12-10T14:20:03+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/11/Child-Abuse">
-	<title>N.S. do Computismo: Facebook Conspiracy</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/11/Child-Abuse</link>
-	<content:encoded>&lt;p&gt;&lt;img alt=&quot;Console view&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/forcingChildren.png&quot; /&gt;&lt;/p&gt;</content:encoded>
-	<dc:date>2021-11-29T12:20:04+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/10/Paperwork-Explosion">
-	<title>N.S. do Computismo: Paperwork Explosion</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/10/Paperwork-Explosion</link>
-	<dc:date>2021-10-27T10:20:04+00:00</dc:date>
-</item>
 <item rdf:about="https://tilde.pt/~marado/blog/./happy-20th-birthday-ansol.html">
 	<title>~marado: Happy 20th birthday, ANSOL!</title>
 	<link>https://tilde.pt/~marado/blog/happy-20th-birthday-ansol.html</link>
@@ -799,227 +981,6 @@ as soon as you exit your editor.&lt;/p&gt;
 
 &lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_ANSOL.html&quot;&gt;ANSOL&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_Free-Software.html&quot;&gt;Free-Software&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_Digital-Rights.html&quot;&gt;Digital-Rights&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_en.html&quot;&gt;en&lt;/a&gt;&lt;/p&gt;</content:encoded>
 	<dc:date>2021-10-09T19:12:29+00:00</dc:date>
-	<dc:creator>~marado</dc:creator>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Jurassic-systems">
-	<title>N.S. do Computismo: Jurassic Systems</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Jurassic-systems</link>
-	<content:encoded>&lt;p&gt;&lt;img alt=&quot;os screenshot&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/jurassic-systems.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;@ &lt;a href=&quot;https://www.jurassicsystems.com/&quot;&gt;jurassicsystems.com&lt;/a&gt;&lt;/p&gt;</content:encoded>
-	<dc:date>2021-09-23T10:20:04+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/First-Webcam">
-	<title>N.S. do Computismo: What was probably the first webcam</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/First-Webcam</link>
-	<content:encoded>&lt;p&gt;via &lt;a href=&quot;https://www.openculture.com/2021/09/the-very-first-webcam-was-invented-to-keep-an-eye-on-a-coffee-pot-at-cambridge-university.html&quot;&gt;openculture.com&lt;/a&gt;&lt;/p&gt;</content:encoded>
-	<dc:date>2021-09-15T20:20:04+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Taking-screenshots-in-1983">
-	<title>N.S. do Computismo: Taking screenshots in 1983</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Taking-screenshots-in-1983</link>
-	<content:encoded>&lt;p&gt;&lt;img alt=&quot;a man with a camera pointed at a screen&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/screenshot.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;source @ &lt;a href=&quot;https://www.reddit.com/r/pics/comments/2bazg9/taking_a_screenshot_in_1983/&quot;&gt;reddit.com&lt;/a&gt;&lt;/p&gt;</content:encoded>
-	<dc:date>2021-09-06T14:20:05+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Tech-assistance">
-	<title>N.S. do Computismo: Technical Assistance</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Tech-assistance</link>
-	<content:encoded>&lt;ol&gt;
-&lt;li&gt;The user clicks yes. They might read what they clicked yes to.&lt;/li&gt;
-&lt;li&gt;The user doesn't usually read prompts&lt;/li&gt;
-&lt;li&gt;The user will not read error messages, even if they are to their benefit.&lt;/li&gt;
-&lt;li&gt;The user doesn't know how to &quot;google&quot; problems&lt;/li&gt;
-&lt;li&gt;The user will sometimes even ignore IT professional help even when they call us. This is usually a &quot;bitch session&quot; with no clear resolution.&lt;/li&gt;
-&lt;li&gt;You will tell the user what to do, and they will also say yes. They still don't understand.&lt;/li&gt;
-&lt;li&gt;Users will install software and not understand how to remove said software (control panel/remove software).&lt;/li&gt;
-&lt;li&gt;Users are not curious. What would be obvious to simple reading they will ignore.&lt;/li&gt;
-&lt;li&gt;Only when the computing environment is unbearable, will they call in. Or it will be the simpleton user who wants you to do their work for them.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;ul&gt;
-&lt;li&gt;not sure what the original source is &lt;/li&gt;
-&lt;/ul&gt;</content:encoded>
-	<dc:date>2021-09-01T10:20:05+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Aquarius">
-	<title>N.S. do Computismo: AQUARIUS from the YMF262 EP by Diode Milliampere, Live in Adlib Tracker II</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/09/Aquarius</link>
-	<dc:date>2021-09-01T10:20:05+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/game-maps">
-	<title>N.S. do Computismo: A Museum of Game Maps</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/game-maps</link>
-	<content:encoded>&lt;p&gt;&lt;img alt=&quot;mario kart wii crowd&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/game-maps.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;@ &lt;a href=&quot;https://noclip.website/&quot;&gt;noclip&lt;/a&gt;&lt;/p&gt;</content:encoded>
-	<dc:date>2021-07-22T11:20:05+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Outlandish-HCI-papers">
-	<title>N.S. do Computismo: Outlandish HCI Papers</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Outlandish-HCI-papers</link>
-	<content:encoded>&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/weird-hci.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;@ &lt;a href=&quot;https://floe.butterbrot.org/matrix/rants/weird/&quot;&gt;floe.butterbrot&lt;/a&gt;&lt;/p&gt;</content:encoded>
-	<dc:date>2021-07-22T11:20:05+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/The-secret-life-of-the-word-processor">
-	<title>N.S. do Computismo: The Secret Life of the Word Processor</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/The-secret-life-of-the-word-processor</link>
-	<dc:date>2021-07-15T10:20:05+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Way-Out">
-	<title>N.S. do Computismo: You've Found Your Way In, But Is There a Way Out?</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Way-Out</link>
-	<content:encoded>&lt;p&gt;&lt;img alt=&quot;Hacker Magazine cover&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/wayout.jpg&quot; /&gt;&lt;/p&gt;</content:encoded>
-	<dc:date>2021-07-05T10:20:04+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Technology-Trap">
-	<title>N.S. do Computismo: Technology Trap</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Technology-Trap</link>
-	<dc:date>2021-07-04T11:20:04+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/Technology-Trap">
-	<title>N.S. do Computismo: Technology Trap</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/04/Technology-Trap</link>
-	<dc:date>2021-07-04T10:20:04+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/06/Declaration-of-independence-of-cyberspace">
-	<title>N.S. do Computismo: A Declaration of the Independence of Cyberspace</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/06/Declaration-of-independence-of-cyberspace</link>
-	<content:encoded>&lt;p&gt;What Barlow forgot is that any declaration of independence should be followed by the creation of an army of clueless believers willing to die for the cause.&lt;/p&gt;
-
-&lt;p&gt;@ &lt;a href=&quot;https://www.eff.org/cyberspace-independence&quot;&gt;eff.org&lt;/a&gt;&lt;/p&gt;</content:encoded>
-	<dc:date>2021-06-28T10:20:04+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/06/The-Hidden-Politics-of-SimCity">
-	<title>N.S. do Computismo: The Hidden politics of SimCity</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/06/The-Hidden-Politics-of-SimCity</link>
-	<dc:date>2021-06-22T18:20:03+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/06/True-Bugs-Wait">
-	<title>N.S. do Computismo: True Bugs Wait</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/06/True-Bugs-Wait</link>
-	<content:encoded>&lt;p&gt;&lt;img alt=&quot;Pickle&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/pickle.jpg&quot; /&gt;
-more at &lt;a href=&quot;http://natashenka.ca/wp-content/uploads/2014/01/truebugswait8x11.pdf&quot;&gt;natashenka.ca&lt;/a&gt;&lt;/p&gt;</content:encoded>
-	<dc:date>2021-06-14T15:20:03+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/06/CodeV2">
-	<title>N.S. do Computismo: Code V2</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/06/CodeV2</link>
-	<content:encoded>&lt;p&gt;&lt;img alt=&quot;book cover&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/code.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;«From the Preface: &quot;This is a translation of an old book—indeed, in Internet time, it is a translation of an ancient text.&quot; That text is Lessig's &quot;Code and Other Laws of Cyberspace.&quot; The second version of that book is &quot;Code v2.&quot; The aim of Code v2 is to update the earlier work, making its argument more relevant to the current internet.»&lt;/p&gt;
-
-&lt;p&gt;more @ &lt;a href=&quot;https://lessig.org/product/codev2&quot;&gt;lessig.org&lt;/a&gt;&lt;/p&gt;</content:encoded>
-	<dc:date>2021-06-09T10:20:03+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~marado/blog/./are-cassette-tapes-dead-again.html">
-	<title>~marado: Are Cassette tapes dead? (again)</title>
-	<link>https://tilde.pt/~marado/blog/are-cassette-tapes-dead-again.html</link>
-	<content:encoded>&lt;p&gt;Tired of reading people saying that one or another mature technology was dead,
-ten years ago I decided to act upon one of those claims (saying that cassette
-tapes were dead) and &lt;a href=&quot;https://mindboosternoori.blogspot.com/2011/05/stop-claiming-is-dead.html&quot;&gt;write a blog
-post&lt;/a&gt;,
-where, using the data available on Discogs, I made a graph showing the
-percentage of cassette releases related to all of the releases on that
-database.&lt;/p&gt;
-
-&lt;p&gt;That blog post had more success than I thought would have, with some people,
-once in a while, wondering how were things progressing (not only regarding the
-cassette tapes market on current days, but also the growth of discogs' database
-and its knowledge of past releases). I did update the graph a few times since
-the initial blog post, but today, to mark the 10th anniversary of the initial
-post, I decided to &lt;a href=&quot;https://github.com/marado/discogs-tape-releases&quot;&gt;actually write a script that automatically generates such a
-graphic&lt;/a&gt;, and generate one of
-those graphs, once again.&lt;/p&gt;
-
-&lt;p&gt;And, guess what!, turns out cassette tapes aren't dead, or even dying.&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&quot;graph showing the percentage of cassette tape releases&quot; src=&quot;https://tilde.pt/~marado/blog/cassette-2021.png&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_discogs.html&quot;&gt;discogs&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_stats.html&quot;&gt;stats&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_cassette.html&quot;&gt;cassette&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_tape.html&quot;&gt;tape&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_compact cassette.html&quot;&gt;compact cassette&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_music.html&quot;&gt;music&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_data.html&quot;&gt;data&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_software.html&quot;&gt;software&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_music business.html&quot;&gt;music business&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_music market.html&quot;&gt;music market&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_en.html&quot;&gt;en&lt;/a&gt;&lt;/p&gt;</content:encoded>
-	<dc:date>2021-05-31T23:22:04+00:00</dc:date>
-	<dc:creator>~marado</dc:creator>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Netiquette">
-	<title>N.S. do Computismo: RFC 1855 - Netiquette Guidelines</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Netiquette</link>
-	<content:encoded>&lt;p&gt;&lt;img alt=&quot;Netiquette&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/netiquette.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;full document @ &lt;a href=&quot;https://datatracker.ietf.org/doc/html/rfc1855&quot;&gt;ieft.org&lt;/a&gt;&lt;/p&gt;</content:encoded>
-	<dc:date>2021-05-31T10:20:03+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Mac-Plus-Surfing-The-Web">
-	<title>N.S. do Computismo: Mac Plus Surfing The Web</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Mac-Plus-Surfing-The-Web</link>
-	<content:encoded>&lt;p&gt;article @ &lt;a href=&quot;https://www.keacher.com/1216/how-i-introduced-a-27-year-old-computer-to-the-web/&quot;&gt;keacher.com&lt;/a&gt;&lt;/p&gt;</content:encoded>
-	<dc:date>2021-05-26T11:20:03+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Synth-Britannia">
-	<title>N.S. do Computismo: Synth Britannia</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Synth-Britannia</link>
-	<dc:date>2021-05-24T10:20:04+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Third-Thumb-project">
-	<title>N.S. do Computismo: Third Thumb Project</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Third-Thumb-project</link>
-	<content:encoded>&lt;p&gt;&lt;/p&gt;&lt;div style=&quot;padding: 66.67% 0 0 0;&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://vimeo.com/551468278&quot;&gt;Third Thumb Project&lt;/a&gt; from &lt;a href=&quot;https://www.daniclodedesign.com/thethirdthumb&quot;&gt;Dani CLobe&lt;/a&gt;.&lt;/p&gt;</content:encoded>
-	<dc:date>2021-05-22T20:20:05+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/defcon-radio">
-	<title>N.S. do Computismo: DEF CON Radio</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/defcon-radio</link>
-	<content:encoded>&lt;p&gt;&lt;a href=&quot;https://somafm.com/defcon/songhistory.html&quot;&gt;&lt;img alt=&quot;defcon radio logo&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/defcon-400.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;@ &lt;a href=&quot;https://somafm.com/defcon/songhistory.html&quot;&gt;soma.fm&lt;/a&gt;&lt;/p&gt;</content:encoded>
-	<dc:date>2021-05-19T10:20:04+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/asterisk">
-	<title>N.S. do Computismo: Out of Season</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/asterisk</link>
-	<content:encoded>&lt;p&gt;clear;while :;do echo $LINES $COLUMNS $(($RANDOM%$COLUMNS));sleep 0.1;done|gawk '{a[$3]=0;for(x in a) {o=a[x];a[x]=a[x]+1;printf &quot;\033[%s;%sH &quot;,o,x;printf &quot;\033[%s;%sH*\033[0;0H&quot;,a[x],x;}}']]&quot;]&quot;}}'&lt;/p&gt;</content:encoded>
-	<dc:date>2021-05-19T10:20:04+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Chain-of-fools">
-	<title>N.S. do Computismo: Chain of Fools</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Chain-of-fools</link>
-	<dc:date>2021-05-17T10:20:03+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Altair">
-	<title>N.S. do Computismo: Altair 8800</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Altair</link>
-	<content:encoded>&lt;p&gt;&lt;img alt=&quot;altair8800&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/altair8800.jpg&quot; /&gt;&lt;/p&gt;</content:encoded>
-	<dc:date>2021-05-17T10:20:03+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~marado/blog/./o-manifesto-das-cebolas-na-era-da-transicao-digital.html">
-	<title>~marado: O manifesto das cebolas na era da transição digital</title>
-	<link>https://tilde.pt/~marado/blog/o-manifesto-das-cebolas-na-era-da-transicao-digital.html</link>
-	<content:encoded>&lt;p&gt;&lt;em&gt;Ocorre-me com regularidade que eu escrevo demasidos comentários em redes sociais efémeras por natureza, ideais que rapidamente se perdem em eternos scrolls. Este é um texto que escrevi numa &lt;a href=&quot;https://twitter.com/mind_booster/status/1392049035867983872&quot;&gt;thread no twitter&lt;/a&gt; e que agora republico aqui, para mais fácil guardar para a posteridade.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Em 2012, a ANSOL - Associação Nacional para o Software Livre, lançou o seu &lt;a href=&quot;https://ansol.org/manifesto/campo-das-cebolas&quot;&gt;manifesto do campo das cebolas&lt;/a&gt;. Aí criticava o esbanjar de dinheiros públicos na aquisição - frequentemente ilegal - de software.   &lt;/p&gt;
-
-&lt;p&gt;A ESOP - Associação de Empresas de Software Open Source Portuguesas, fez de um desses contratos exemplo: &lt;a href=&quot;https://www.computerworld.com.pt/2014/03/14/esop-denuncia-aumento-de-concursos-publicos-ilegais/&quot;&gt;levou a Câmara Municipal de Almada a tribunal e ganhou&lt;/a&gt;. Mas de que serve uma vitória, num caso, se a prática se mantém?&lt;/p&gt;
-
-&lt;p&gt;Em 2013, observaram um aumento de 143% no valor destes contratos ilegais. Tinha já, entretanto, entrado em funcionamento o mecanismo de pareceres prévios da AMA. Ainda assim...&lt;/p&gt;
-
-&lt;p&gt;Em 2017, numa &lt;a href=&quot;https://www.publico.pt/2017/04/09/politica/investigacao/europa-a-colonia-digital-dos-eua-1767844&quot;&gt;investigação do Público&lt;/a&gt;, chega-se à conclusão que, neste aspecto, nada mudou para melhor. Diz-se, então, que esta prática &quot;deveria merecer uma acção da Comissão Europeia.&quot; Hoje fala-se de transição digital, mas sobre isto nada foi feito.&lt;/p&gt;
-
-&lt;p&gt;Hoje lembrei-me disto, porque alguém reclamava deste contrato, em que o &lt;a href=&quot;http://dre.pt/application/file/a/163047108&quot;&gt;SNS gasta perto de 300 mil euro em licenças de Office 365&lt;/a&gt;. Dir-me-ão que o SNS, agora, não tem alternativa noutro fornecedor. Já estava previsto no manifesto da ANSOL:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&quot;provavelmente dirão que não têm conhecimento de alternativas ou que têm conhecimento mas não têm capacidade para as implementar e gerir. Ou pior, dirão que devido às decisões que eles mesmo tomaram no passado - que os deixaram enredados num esparguete de dependências&quot;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Mas, convém sublinhar, também diz o manifesto das cebolas, &quot;quem paga somos nós&quot;, e há alternativa.&lt;/p&gt;
-
-&lt;p&gt;Estes milhões são nossos. Até quando estaremos dispostos a esbanjá-los assim?&lt;/p&gt;
-
-&lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_pt.html&quot;&gt;pt&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_ANSOL.html&quot;&gt;ANSOL&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_ESOP.html&quot;&gt;ESOP&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_SNS.html&quot;&gt;SNS&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_Microsoft.html&quot;&gt;Microsoft&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_Licen%C3%A7as.html&quot;&gt;Licenças&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_Office-365.html&quot;&gt;Office-365&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_Office.html&quot;&gt;Office&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_manifesto.html&quot;&gt;manifesto&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_contratos.html&quot;&gt;contratos&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_p%C3%BAblicos.html&quot;&gt;públicos&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_ilegais.html&quot;&gt;ilegais&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_contratos-p%C3%BAblicos.html&quot;&gt;contratos-públicos&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_contratos-ilegais.html&quot;&gt;contratos-ilegais&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_transi%C3%A7%C3%A3o.html&quot;&gt;transição&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_digital.html&quot;&gt;digital&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_transi%C3%A7%C3%A3o-digital.html&quot;&gt;transição-digital&lt;/a&gt;&lt;/p&gt;</content:encoded>
-	<dc:date>2021-05-11T15:01:44+00:00</dc:date>
 	<dc:creator>~marado</dc:creator>
 </item>
 
