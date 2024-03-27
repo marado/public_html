@@ -23,6 +23,56 @@
 <h1>Planeta Tilde</h1>
 
 <div class="daygroup">
+<h2>March 26, 2024</h2>
+
+<div class="channelgroup">
+
+
+
+
+
+
+
+<h3><a href="https://tilde.pt/~marado/blog/index.html" title="~marado's tildelog">~marado</a></h3>
+
+
+<div class="entrygroup" id="https://tilde.pt/~marado/blog/./escape-commands-for-ssh.html">
+<h4 lang="en"><a href="https://tilde.pt/~marado/blog/escape-commands-for-ssh.html">escape commands for ssh</a></h4>
+<div class="entry">
+<div class="content">
+<p>Apparently this isn't as well known as it (IMO) should, so... here it is:</p>
+
+<p>There are escape sequences on SSH, ie., if you are running an ssh session, you can control it by sending commands to it.</p>
+
+<p>Useful commands:</p>
+
+<pre>[enter]~.  -- terminate sesssion
+[enter]~^Z -- suspend session (note that ^Z means 'Ctrl-Z')
+[enter]~&amp;  -- put session into background
+[enter]~#  -- lists the sessions' fwd connections
+</pre>
+
+<p>If you ever wondered why aren't you able to type an ~ after an enter at the first attempt... here's why.</p>
+
+<p>tags: <a href="https://tilde.pt/~marado/blog/tag_escape.html">escape</a>, <a href="https://tilde.pt/~marado/blog/tag_ssh.html">ssh</a>, <a href="https://tilde.pt/~marado/blog/tag_en.html">en</a></p></div>
+
+
+
+
+
+
+
+<p class="date">
+<a href="https://tilde.pt/~marado/blog/escape-commands-for-ssh.html">by ~marado at March 26, 2024 07:46 PM</a>
+</p>
+</div>
+</div>
+
+
+</div>
+
+</div>
+<div class="daygroup">
 <h2>March 02, 2024</h2>
 
 <div class="channelgroup">
@@ -1011,11 +1061,11 @@ Yay!</p>
 <div class="content">
 <p>A few days ago, the new social network Threads fulfilled the promise it made a few months ago. It started testing the implementation of ActivityPub, the protocol responsible for the interoperability between all the instances of Mastodon, Pleroma, Lemmy, PixelFed (what we like to call the Fediverse).</p>
 
-<p>Back in July, when it was announced that this new social network was planning to implement ActivityPub, the Fediverse was divided over whether to allow or to block federation with it. Now we're back in this debate. This time with the certainty that they really are doing it.</p>
+<p>Back in July, when it was announced that this new social network was planning to implement ActivityPub, the Fediverse was divided over whether to allow or to block federation with it. Now we're back in this debate, but now we know they're really doing it.</p>
 
 <p>This whole discussion centers on the fact that Threads is yet another product of Meta, the tech giant that owns Facebook, Instagram and Whastapp. In fact, to use Threads you must have an Instagram account.</p>
 
-<p>Many of us who lurk in the Fediverse view this move by Meta with suspicion. Tech giants have a long history of adopting open protocols when they are favorable to its business and abandoning them when they have already built a big user base and don't want those to flee to other platforms. Examples abound. The most famous are those of the RSS protocol, abandoned by Google Reader, and the XMPP/Jabber protocol, abandoned by Google Talk and Facebook Messenger.</p>
+<p>Many of us who lurk in the Fediverse view this move by Meta with suspicion. Tech giants have a long history of adopting open protocols when they are favorable to their business and abandoning them when they have already built a big user base and don't want those to flee to other platforms. Examples abound. The most famous are those of the RSS protocol, abandoned by Google Reader, and the XMPP/Jabber protocol, abandoned by Google Talk and Facebook Messenger.</p>
 
 <p>There's little doubt that the same could happen with ActivityPub. If Meta is currently considering adopting it, it's because they think they can get some commercial benefit from it. But if this strategy doesn't work, if they reach the conclusion that it is in fact detrimental to their financial health, the protocol will certainly be abandoned.</p>
 
@@ -1025,17 +1075,17 @@ Yay!</p>
 
 <p>We all know in fact who their main rival is: Twitter, the social network that launched the concept of microblogging but has become a nightmare after being acquired by its new billionaire last year . And yes, there is also another potential competitor: BlueSky, the new social network launched by the former billionaire of Twitter, Jack Dorsey. It was supposedly designed from the start to be decentralized, but so far this has been nothing more than promises.</p>
 
-<p>Maybe this whole adoption of ActivityPub thing is some kind of plan is to win this space. I have no idea. But I know they're not doing it just because they believe in decentralization. If they did believe, why haven't they implemented it on Facebook or Instagram? Why do we even need an account to read posts from those platforms? Why don't they make their users' posts available via RSS so that we can follow them without accessing their platform (as Mastodon does)? Possibly because those products already are market leaders and they don't want to mess around with them. In fact, if any other promising competing products show up, they are quickly acquired.</p>
+<p>Maybe this whole adoption of ActivityPub thing is some kind of plan to win this space. I have no idea. But I know they're not doing it just because they believe in decentralization. If they did believe, why haven't they implemented it on Facebook or Instagram? Why do we even need an account to read posts from those platforms? Why don't they make their users' posts available via RSS so that we can follow them without accessing their platform, like Mastodon has done from the beginning?
 
-<p>A very interesting feature of Mastodon is the ease with which you can migrate an account from one server to another, bringing all the followers from the old account to the new one. According to Eugen Rochko (Gargron), Mastodon's creator, his "<a href="https://mastodon.social/@Gargron/111591822065763831">wife is looking forward to deleting her Instagram account once she can connect with the same folks from her Mastodon account. Being able to remain in touch with over 100M people who still use Meta products out of the comfort of an ad-free, privacy-friendly platform like Mastodon is a game changer</a>". </p>
+</p><p>A very interesting feature of Mastodon is the ease with which you can migrate an account from one server to another, bringing all the followers from the old account to the new one. According to Eugen Rochko (Gargron), Mastodon's creator, his "<a href="https://mastodon.social/@Gargron/111591822065763831">wife is looking forward to deleting her Instagram account once she can connect with the same folks from her Mastodon account. Being able to remain in touch with over 100M people who still use Meta products out of the comfort of an ad-free, privacy-friendly platform like Mastodon is a game changer</a>". </p>
 
 <p>What Gargron doesn't tell us is how he expects that to happen. First of all, ActivityPub is being tested on Threads, not Instagram. But let's imagine that Instagram goes down that road too. Can you imagine Instagram implementing an account migration feature that allows its users to move away to a Mastodon instance? I can see it happening in the opposite direction, sure. But believing that Meta will allow any celebrity to leave its platform while keeping their millions of followers, is totally naive. </p>
 
-<p>Even if they did allow it, and if they somehow managed to monetize posts from other servers, it would still be a huge risk if those celebrities' followers also decided to migrate to the same server where the "cool people" are now.</p>
+<p>Even if they did allow it, and if they somehow managed to monetize posts from other servers, it would still be a huge risk if those celebrities' followers also decided to migrate to the same server where the cool kids/On the other hand,are now.</p>
 
 <p>But wait a minute. Why am I so critical of Meta's plan, when I've always been and advocate for interoperability? And, like me, why are so many other defenders of open protocols wary of federation with Threads? Isn't it contradictory that, now that this platform is going to adopt one of those protocols, we are so suspicious and thinking of blocking it in our accounts and on our servers? Aren't we the ones who compare ActivityPub with SMTP, the successful protocol that allows email to also be a decentralized and federated system?</p>
 
-<p>Well, when we advocate the adoption of open protocols, what we're really saying is that anyone with some technical ability can create and manage a server. If so many people can do it, then the existence of servers that hold a majority of users is completely unnecessary. There are currently thousands of Mastodon servers (<a href="https://instances.social">instances.social</a> currently lists almost 17,000). Most of those only have a few dozen users. This is what we call decentralization. It's the possibility for a community to have its own corner of the Internet, free and independent of the big tech infrastructure. <strong>On the other hand, if a majority of users are centered on a single server, can we really call that decentralization?</strong></p>
+<p>Well, when we advocate the adoption of open protocols, what we're really saying is that anyone with some technical ability can create and manage a server. If so many people can do it, then the existence of servers that hold a majority of users is completely unnecessary. There are currently thousands of Mastodon servers (<a href="https://instances.social">instances.social</a> currently lists almost 17,000). Most of those only have a few dozen users. This is what we call decentralization. It's the possibility for a community to have its own corner of the Internet, free and independent of the big tech infrastructure. <strong>On the other hand, if a majority of users are centered on a single server, can we really call that decentralization?</strong> Multiple servers orbiting a massive server, resembles a centralized system more than the opposite.</p>
 
 <p>I've thought about this a lot and I believe that the way forward is to block any instance that becomes a threat to the existence of the Fediverse by accumulating a significant percentage of users. <strong>I'm not only talking about Threads, Instagram, Twitter, Tik Tok, etc. I'm saying that we should also block any instance of Mastodon that grows beyond a reasonable size.</strong> Yes, Gargron, we're keeping an eye on your instance, too. Just like we block instances with hateful content, we should block any instance that may be toxic to the environment. That means blocking ones that are, or have become, bigger than they should be.</p>
 
@@ -2130,72 +2180,6 @@ as soon as you exit your editor.</p>
 </div>
 
 </div>
-<div class="daygroup">
-<h2>October 09, 2021</h2>
-
-<div class="channelgroup">
-
-
-
-
-
-
-
-<h3><a href="https://tilde.pt/~marado/blog/index.html" title="~marado's tildelog">~marado</a></h3>
-
-
-<div class="entrygroup" id="https://tilde.pt/~marado/blog/./happy-20th-birthday-ansol.html">
-<h4 lang="en"><a href="https://tilde.pt/~marado/blog/happy-20th-birthday-ansol.html">Happy 20th birthday, ANSOL!</a></h4>
-<div class="entry">
-<div class="content">
-<p>Today we celebrated the 20th anniversary of <a href="https://ansol.org">ANSOL</a>, the Portuguese Free Software Association. It has been an honor to be part of the history of this still young association, and here's hope for an active 20 years more - I'll gladly celebrate its 40th!</p>
-
-<p><img alt="Image of the round table where I've participated" src="https://pbs.twimg.com/media/FBQ8TBoWYAAh7LR?format=jpg&amp;name=large" title="" /></p>
-
-<p>In these past 20 years, ANSOL worked on many issues, but if I had to highlight 3, I'd point out:</p>
-
-<ul>
-<li>the fight <a href="https://en.wikipedia.org/wiki/Proposed_directive_on_the_patentability_of_computer-implemented_inventions#Opponents_of_the_proposal">against Software Patents in Europe</a> - which stopped (or stalled?) software patents;</li>
-<li>the <a href="https://www.dn.pt/opiniao/opiniao-dn/convidados/normas-abertas-fantasmas-e-a-formula-midi-1776429.html">Open Standards Law in Portugal</a> - ahead of the curve;</li>
-<li>the <a href="https://fsfe.org/news/2019/news-20191113-01.en.html">Portuguese anti-DRM law</a>.</li>
-</ul>
-
-<p>But there are many more challenges ahead... and our victories aren't closed books.</p>
-
-<ul>
-<li>The Unified Patent Court in Europe is <a href="https://www.jdsupra.com/legalnews/only-one-more-ratification-needed-4189294/">about to become a reality</a>, and with it Software Patents;</li>
-<li>The Open Standards Law in Portugal exists, but <a href="https://shifter.pt/2021/02/lei-das-normas-abertas/">in practice it is isn't being actually applied</a>;</li>
-<li>And while we have a good protection against DRM in law (as far as we can within the EU, thanks to InfoSoc), there is now a <a href="https://twitter.com/mind_booster/status/1443250573147623424">covert attempt to water it down</a>.</li>
-</ul>
-
-<p>So, what now? Well, there is plenty to do: we should ensure we don't loose the Freedoms we have achieved, and we should strive to get those we still didn't get.</p>
-
-<p><em>There is plenty more to do, and you can help.</em></p>
-
-<p>If you're in Portugal, <a href="https://ansol.org/inscricao">join ANSOL</a>. If you're in Europe, FSFE will appreciate your <a href="https://fsfe.org/contribute/contribute.en.html">contribution</a>. If you're in Latin America, <a href="http://fsfla.org/ikiwiki/about/participate.en.html">here's your link</a>. In India, join <a href="https://fsf.org.in/volunteer/">here</a>. Based in North America, with worldwide mission, there's <a href="https://fsf.org/associate/">FSF</a>.</p>
-
-<p>Of course, as we could see in those who have joined ANSOL in today's celebration, there is plenty beyond the realm of software. Consider getting to know <a href="https://pt.wikimedia.org">Wikimedia Portugal</a> or the <a href="https://wikimediafoundation.org/">Wikimedia Foundation</a>, <a href="https://direitosdigitais.pt/">Direitos Digitais</a> in Portugal and <a href="https://edri.org/">EDRI</a> in Europe or <a href="https://www.eff.org/">EFF</a> overseas.</p>
-
-<p>Let's shape the future, together.</p>
-
-<p>tags: <a href="https://tilde.pt/~marado/blog/tag_ANSOL.html">ANSOL</a>, <a href="https://tilde.pt/~marado/blog/tag_Free-Software.html">Free-Software</a>, <a href="https://tilde.pt/~marado/blog/tag_Digital-Rights.html">Digital-Rights</a>, <a href="https://tilde.pt/~marado/blog/tag_en.html">en</a></p></div>
-
-
-
-
-
-
-
-<p class="date">
-<a href="https://tilde.pt/~marado/blog/happy-20th-birthday-ansol.html">by ~marado at October 09, 2021 07:12 PM</a>
-</p>
-</div>
-</div>
-
-
-</div>
-
-</div>
 
 
 <div class="sidebar">
@@ -2234,7 +2218,7 @@ as soon as you exit your editor.</p>
 
 <p>
 <strong>Last updated:</strong><br>
-March 02, 2024 05:08 PM<br>
+March 27, 2024 08:20 AM<br>
 <em>All times are UTC.</em><br>
 <br>
 Powered by:<br>
