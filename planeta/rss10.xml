@@ -88,13 +88,18 @@
 
 &lt;p&gt;Useful commands:&lt;/p&gt;
 
-&lt;pre&gt;[enter]~.  -- terminate sesssion
-[enter]~^Z -- suspend session (note that ^Z means 'Ctrl-Z')
-[enter]~&amp;amp;  -- put session into background
-[enter]~#  -- lists the sessions' fwd connections
+&lt;pre&gt; ~.   - terminate connection (and any multiplexed sessions)
+ ~B   - send a BREAK to the remote system
+ ~C   - open a command line
+ ~R   - request rekey
+ ~V/v - decrease/increase verbosity (LogLevel)
+ ~^Z  - suspend ssh
+ ~#   - list forwarded connections
+ ~&amp;amp;   - background ssh (when waiting for connections to terminate)
+ ~?   - this message
+ ~~   - send the escape character by typing it twice
+(Note that escapes are only recognized immediately after newline.)
 &lt;/pre&gt;
-
-&lt;p&gt;If you ever wondered why aren't you able to type an ~ after an enter at the first attempt... here's why.&lt;/p&gt;
 
 &lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_escape.html&quot;&gt;escape&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_ssh.html&quot;&gt;ssh&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_en.html&quot;&gt;en&lt;/a&gt;&lt;/p&gt;</content:encoded>
 	<dc:date>2024-03-26T19:46:48+00:00</dc:date>

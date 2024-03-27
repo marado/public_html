@@ -7,12 +7,17 @@ There are escape sequences on SSH, ie., if you are running an ssh session, you c
 Useful commands:
 
 <pre>
-[enter]~.  -- terminate sesssion
-[enter]~^Z -- suspend session (note that ^Z means 'Ctrl-Z')
-[enter]~&  -- put session into background
-[enter]~#  -- lists the sessions' fwd connections
+ ~.   - terminate connection (and any multiplexed sessions)
+ ~B   - send a BREAK to the remote system
+ ~C   - open a command line
+ ~R   - request rekey
+ ~V/v - decrease/increase verbosity (LogLevel)
+ ~^Z  - suspend ssh
+ ~#   - list forwarded connections
+ ~&   - background ssh (when waiting for connections to terminate)
+ ~?   - this message
+ ~~   - send the escape character by typing it twice
+(Note that escapes are only recognized immediately after newline.)
 </pre>
-
-If you ever wondered why aren't you able to type an ~ after an enter at the first attempt... here's why.
 
 tags: escape, ssh, en

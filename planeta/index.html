@@ -46,13 +46,18 @@
 
 <p>Useful commands:</p>
 
-<pre>[enter]~.  -- terminate sesssion
-[enter]~^Z -- suspend session (note that ^Z means 'Ctrl-Z')
-[enter]~&amp;  -- put session into background
-[enter]~#  -- lists the sessions' fwd connections
+<pre> ~.   - terminate connection (and any multiplexed sessions)
+ ~B   - send a BREAK to the remote system
+ ~C   - open a command line
+ ~R   - request rekey
+ ~V/v - decrease/increase verbosity (LogLevel)
+ ~^Z  - suspend ssh
+ ~#   - list forwarded connections
+ ~&amp;   - background ssh (when waiting for connections to terminate)
+ ~?   - this message
+ ~~   - send the escape character by typing it twice
+(Note that escapes are only recognized immediately after newline.)
 </pre>
-
-<p>If you ever wondered why aren't you able to type an ~ after an enter at the first attempt... here's why.</p>
 
 <p>tags: <a href="https://tilde.pt/~marado/blog/tag_escape.html">escape</a>, <a href="https://tilde.pt/~marado/blog/tag_ssh.html">ssh</a>, <a href="https://tilde.pt/~marado/blog/tag_en.html">en</a></p></div>
 
@@ -2218,7 +2223,7 @@ as soon as you exit your editor.</p>
 
 <p>
 <strong>Last updated:</strong><br>
-March 27, 2024 08:20 AM<br>
+March 27, 2024 12:20 PM<br>
 <em>All times are UTC.</em><br>
 <br>
 Powered by:<br>

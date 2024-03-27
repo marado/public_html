@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>~marado's tildelog</title><link>https://tilde.pt/~marado/blog/index.html</link>
 <description>a tildelog on tildeverse</description><language>en</language>
-<lastBuildDate>Tue, 26 Mar 2024 20:10:17 +0000</lastBuildDate>
-<pubDate>Tue, 26 Mar 2024 20:10:17 +0000</pubDate>
+<lastBuildDate>Wed, 27 Mar 2024 11:53:12 +0000</lastBuildDate>
+<pubDate>Wed, 27 Mar 2024 11:53:12 +0000</pubDate>
 <atom:link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 escape commands for ssh
@@ -16,13 +16,18 @@ escape commands for ssh
 <p>Useful commands:</p>
 
 <pre>
-[enter]~.  -- terminate sesssion
-[enter]~^Z -- suspend session (note that ^Z means 'Ctrl-Z')
-[enter]~&  -- put session into background
-[enter]~#  -- lists the sessions' fwd connections
+ ~.   - terminate connection (and any multiplexed sessions)
+ ~B   - send a BREAK to the remote system
+ ~C   - open a command line
+ ~R   - request rekey
+ ~V/v - decrease/increase verbosity (LogLevel)
+ ~^Z  - suspend ssh
+ ~#   - list forwarded connections
+ ~&   - background ssh (when waiting for connections to terminate)
+ ~?   - this message
+ ~~   - send the escape character by typing it twice
+(Note that escapes are only recognized immediately after newline.)
 </pre>
-
-<p>If you ever wondered why aren't you able to type an ~ after an enter at the first attempt... here's why.</p>
 
 <p>tags: <a href='tag_escape.html'>escape</a>, <a href='tag_ssh.html'>ssh</a>, <a href='tag_en.html'>en</a></p>
 <!-- text end -->

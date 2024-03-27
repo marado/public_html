@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:planet="http://planet.intertwingly.net/" xmlns:indexing="urn:atom-extension:indexing" indexing:index="no"><access:restriction xmlns:access="http://www.bloglines.com/about/specs/fac-1.0" relationship="deny"/>
   <title>Planeta Tilde</title>
-  <updated>2024-03-27T08:20:02Z</updated>
+  <updated>2024-03-27T12:20:02Z</updated>
   <generator uri="http://intertwingly.net/code/venus/">Venus</generator>
   <author>
     <name>Marcos Marado</name>
@@ -21,13 +21,18 @@
 
 <p>Useful commands:</p>
 
-<pre>[enter]~.  -- terminate sesssion
-[enter]~^Z -- suspend session (note that ^Z means 'Ctrl-Z')
-[enter]~&amp;  -- put session into background
-[enter]~#  -- lists the sessions' fwd connections
+<pre> ~.   - terminate connection (and any multiplexed sessions)
+ ~B   - send a BREAK to the remote system
+ ~C   - open a command line
+ ~R   - request rekey
+ ~V/v - decrease/increase verbosity (LogLevel)
+ ~^Z  - suspend ssh
+ ~#   - list forwarded connections
+ ~&amp;   - background ssh (when waiting for connections to terminate)
+ ~?   - this message
+ ~~   - send the escape character by typing it twice
+(Note that escapes are only recognized immediately after newline.)
 </pre>
-
-<p>If you ever wondered why aren't you able to type an ~ after an enter at the first attempt... here's why.</p>
 
 <p>tags: <a href="https://tilde.pt/~marado/blog/tag_escape.html">escape</a>, <a href="https://tilde.pt/~marado/blog/tag_ssh.html">ssh</a>, <a href="https://tilde.pt/~marado/blog/tag_en.html">en</a></p>
 </div>
@@ -42,7 +47,7 @@
       <link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml"/>
       <subtitle>a tildelog on tildeverse</subtitle>
       <title>~marado's tildelog</title>
-      <updated>2024-03-26T20:10:17Z</updated>
+      <updated>2024-03-27T11:53:12Z</updated>
     </source>
   </entry>
 
@@ -66,7 +71,7 @@ Oops, é culpa minha - quem diria que isto de manter um planeta consegue ser com
       <link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml"/>
       <subtitle>a tildelog on tildeverse</subtitle>
       <title>~marado's tildelog</title>
-      <updated>2024-03-26T20:10:17Z</updated>
+      <updated>2024-03-27T11:53:12Z</updated>
     </source>
   </entry>
 
@@ -88,7 +93,7 @@ Oops, é culpa minha - quem diria que isto de manter um planeta consegue ser com
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2024-03-27T08:20:02Z</updated>
+      <updated>2024-03-27T12:20:02Z</updated>
     </source>
   </entry>
 
@@ -106,7 +111,7 @@ Oops, é culpa minha - quem diria que isto de manter um planeta consegue ser com
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2024-03-27T08:20:02Z</updated>
+      <updated>2024-03-27T12:20:02Z</updated>
     </source>
   </entry>
 
@@ -126,7 +131,7 @@ Oops, é culpa minha - quem diria que isto de manter um planeta consegue ser com
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2024-03-27T08:20:02Z</updated>
+      <updated>2024-03-27T12:20:02Z</updated>
     </source>
   </entry>
 
@@ -146,7 +151,7 @@ Oops, é culpa minha - quem diria que isto de manter um planeta consegue ser com
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2024-03-27T08:20:02Z</updated>
+      <updated>2024-03-27T12:20:02Z</updated>
     </source>
   </entry>
 
@@ -164,7 +169,7 @@ Oops, é culpa minha - quem diria que isto de manter um planeta consegue ser com
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2024-03-27T08:20:01Z</updated>
+      <updated>2024-03-27T12:20:02Z</updated>
     </source>
   </entry>
 
@@ -182,7 +187,7 @@ Oops, é culpa minha - quem diria que isto de manter um planeta consegue ser com
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2024-03-27T08:20:01Z</updated>
+      <updated>2024-03-27T12:20:02Z</updated>
     </source>
   </entry>
 
@@ -204,7 +209,7 @@ Oops, é culpa minha - quem diria que isto de manter um planeta consegue ser com
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2024-03-27T08:20:01Z</updated>
+      <updated>2024-03-27T12:20:02Z</updated>
     </source>
   </entry>
 
@@ -222,7 +227,7 @@ Oops, é culpa minha - quem diria que isto de manter um planeta consegue ser com
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2024-03-27T08:20:01Z</updated>
+      <updated>2024-03-27T12:20:02Z</updated>
     </source>
   </entry>
 
@@ -244,7 +249,7 @@ Oops, é culpa minha - quem diria que isto de manter um planeta consegue ser com
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2024-03-27T08:20:01Z</updated>
+      <updated>2024-03-27T12:20:02Z</updated>
     </source>
   </entry>
 
@@ -266,7 +271,7 @@ Oops, é culpa minha - quem diria que isto de manter um planeta consegue ser com
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2024-03-27T08:20:01Z</updated>
+      <updated>2024-03-27T12:20:02Z</updated>
     </source>
   </entry>
 
@@ -300,7 +305,7 @@ Oops, é culpa minha - quem diria que isto de manter um planeta consegue ser com
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2024-03-27T08:20:01Z</updated>
+      <updated>2024-03-27T12:20:02Z</updated>
     </source>
   </entry>
 
@@ -322,7 +327,7 @@ Oops, é culpa minha - quem diria que isto de manter um planeta consegue ser com
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2024-03-27T08:20:01Z</updated>
+      <updated>2024-03-27T12:20:02Z</updated>
     </source>
   </entry>
 
@@ -340,7 +345,7 @@ Oops, é culpa minha - quem diria que isto de manter um planeta consegue ser com
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2024-03-27T08:20:01Z</updated>
+      <updated>2024-03-27T12:20:02Z</updated>
     </source>
   </entry>
 
@@ -361,7 +366,7 @@ more at <a href="http://natashenka.ca/wp-content/uploads/2014/01/truebugswait8x1
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2024-03-27T08:20:01Z</updated>
+      <updated>2024-03-27T12:20:02Z</updated>
     </source>
   </entry>
 
@@ -379,7 +384,7 @@ more at <a href="http://natashenka.ca/wp-content/uploads/2014/01/truebugswait8x1
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2024-03-27T08:20:01Z</updated>
+      <updated>2024-03-27T12:20:02Z</updated>
     </source>
   </entry>
 
@@ -399,7 +404,7 @@ more at <a href="http://natashenka.ca/wp-content/uploads/2014/01/truebugswait8x1
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2024-03-27T08:20:01Z</updated>
+      <updated>2024-03-27T12:20:02Z</updated>
     </source>
   </entry>
 
@@ -417,7 +422,7 @@ more at <a href="http://natashenka.ca/wp-content/uploads/2014/01/truebugswait8x1
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2024-03-27T08:20:01Z</updated>
+      <updated>2024-03-27T12:20:02Z</updated>
     </source>
   </entry>
 
@@ -435,7 +440,7 @@ more at <a href="http://natashenka.ca/wp-content/uploads/2014/01/truebugswait8x1
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2024-03-27T08:20:01Z</updated>
+      <updated>2024-03-27T12:20:02Z</updated>
     </source>
   </entry>
 
@@ -455,7 +460,7 @@ more at <a href="http://natashenka.ca/wp-content/uploads/2014/01/truebugswait8x1
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2024-03-27T08:20:01Z</updated>
+      <updated>2024-03-27T12:20:02Z</updated>
     </source>
   </entry>
 
@@ -477,7 +482,7 @@ more at <a href="http://natashenka.ca/wp-content/uploads/2014/01/truebugswait8x1
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2024-03-27T08:20:01Z</updated>
+      <updated>2024-03-27T12:20:02Z</updated>
     </source>
   </entry>
 
@@ -499,7 +504,7 @@ more at <a href="http://natashenka.ca/wp-content/uploads/2014/01/truebugswait8x1
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2024-03-27T08:20:01Z</updated>
+      <updated>2024-03-27T12:20:02Z</updated>
     </source>
   </entry>
 
@@ -517,7 +522,7 @@ more at <a href="http://natashenka.ca/wp-content/uploads/2014/01/truebugswait8x1
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2024-03-27T08:20:01Z</updated>
+      <updated>2024-03-27T12:20:02Z</updated>
     </source>
   </entry>
 
@@ -537,7 +542,7 @@ more at <a href="http://natashenka.ca/wp-content/uploads/2014/01/truebugswait8x1
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2024-03-27T08:20:01Z</updated>
+      <updated>2024-03-27T12:20:02Z</updated>
     </source>
   </entry>
 
@@ -559,7 +564,7 @@ more at <a href="http://natashenka.ca/wp-content/uploads/2014/01/truebugswait8x1
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2024-03-27T08:20:01Z</updated>
+      <updated>2024-03-27T12:20:02Z</updated>
     </source>
   </entry>
 
@@ -579,7 +584,7 @@ more at <a href="http://natashenka.ca/wp-content/uploads/2014/01/truebugswait8x1
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2024-03-27T08:20:01Z</updated>
+      <updated>2024-03-27T12:20:02Z</updated>
     </source>
   </entry>
 
@@ -597,7 +602,7 @@ more at <a href="http://natashenka.ca/wp-content/uploads/2014/01/truebugswait8x1
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2024-03-27T08:20:01Z</updated>
+      <updated>2024-03-27T12:20:02Z</updated>
     </source>
   </entry>
 
@@ -619,7 +624,7 @@ more at <a href="http://natashenka.ca/wp-content/uploads/2014/01/truebugswait8x1
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2024-03-27T08:20:01Z</updated>
+      <updated>2024-03-27T12:20:02Z</updated>
     </source>
   </entry>
 
@@ -643,7 +648,7 @@ more at <a href="http://natashenka.ca/wp-content/uploads/2014/01/truebugswait8x1
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2024-03-27T08:20:01Z</updated>
+      <updated>2024-03-27T12:20:02Z</updated>
     </source>
   </entry>
 
@@ -663,7 +668,7 @@ more at <a href="http://natashenka.ca/wp-content/uploads/2014/01/truebugswait8x1
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2024-03-27T08:20:01Z</updated>
+      <updated>2024-03-27T12:20:02Z</updated>
     </source>
   </entry>
 
@@ -683,7 +688,7 @@ more at <a href="http://natashenka.ca/wp-content/uploads/2014/01/truebugswait8x1
       <link href="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss" rel="self" type="application/rss+xml"/>
       <subtitle>Um cantinho de cultura para eremitas digitais</subtitle>
       <title>Nossa Senhora do Computismo</title>
-      <updated>2024-03-27T08:20:01Z</updated>
+      <updated>2024-03-27T12:20:02Z</updated>
     </source>
   </entry>
 
@@ -766,7 +771,7 @@ more at <a href="http://natashenka.ca/wp-content/uploads/2014/01/truebugswait8x1
       <link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml"/>
       <subtitle>a tildelog on tildeverse</subtitle>
       <title>~marado's tildelog</title>
-      <updated>2024-03-26T20:10:17Z</updated>
+      <updated>2024-03-27T11:53:12Z</updated>
     </source>
   </entry>
 
@@ -976,7 +981,7 @@ workshop</a>...</p>
       <link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml"/>
       <subtitle>a tildelog on tildeverse</subtitle>
       <title>~marado's tildelog</title>
-      <updated>2024-03-26T20:10:17Z</updated>
+      <updated>2024-03-27T11:53:12Z</updated>
     </source>
   </entry>
 
@@ -1052,7 +1057,7 @@ partido que está por detrás disso é o Partido Socialista.</p>
       <link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml"/>
       <subtitle>a tildelog on tildeverse</subtitle>
       <title>~marado's tildelog</title>
-      <updated>2024-03-26T20:10:17Z</updated>
+      <updated>2024-03-27T11:53:12Z</updated>
     </source>
   </entry>
 
@@ -1174,7 +1179,7 @@ you only have access to the remote machine via a jump host...</p>
       <link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml"/>
       <subtitle>a tildelog on tildeverse</subtitle>
       <title>~marado's tildelog</title>
-      <updated>2024-03-26T20:10:17Z</updated>
+      <updated>2024-03-27T11:53:12Z</updated>
     </source>
   </entry>
 
@@ -1392,7 +1397,7 @@ all over the world livecoding sounds for your pleasure! </p>
       <link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml"/>
       <subtitle>a tildelog on tildeverse</subtitle>
       <title>~marado's tildelog</title>
-      <updated>2024-03-26T20:10:17Z</updated>
+      <updated>2024-03-27T11:53:12Z</updated>
     </source>
   </entry>
 
@@ -1540,7 +1545,7 @@ participar no Hacktoberfest.</p>
       <link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml"/>
       <subtitle>a tildelog on tildeverse</subtitle>
       <title>~marado's tildelog</title>
-      <updated>2024-03-26T20:10:17Z</updated>
+      <updated>2024-03-27T11:53:12Z</updated>
     </source>
   </entry>
 
@@ -1577,7 +1582,7 @@ O lançamento deste livro vai ser já no próximo dia 5 de Junho, enquadrado no 
       <link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml"/>
       <subtitle>a tildelog on tildeverse</subtitle>
       <title>~marado's tildelog</title>
-      <updated>2024-03-26T20:10:17Z</updated>
+      <updated>2024-03-27T11:53:12Z</updated>
     </source>
   </entry>
 
@@ -1634,7 +1639,7 @@ O lançamento deste livro vai ser já no próximo dia 5 de Junho, enquadrado no 
       <link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml"/>
       <subtitle>a tildelog on tildeverse</subtitle>
       <title>~marado's tildelog</title>
-      <updated>2024-03-26T20:10:17Z</updated>
+      <updated>2024-03-27T11:53:12Z</updated>
     </source>
   </entry>
 
