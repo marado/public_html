@@ -4,34 +4,25 @@
 #
 # Learn more about twtxt at  https://github.com/buckket/twtxt
 #
-# This is hosted by Ciberlândia, a Mastodon community dedicated to digital
-# culture and its intersection with all areas that focus on creativity, society
-# and human interaction in general, mainly in Portuguese language.
-# Learn more at https://ciberlandia.pt
-#
-# The numeric value between the date and the status text (#...) is the id
-# of that toot, so you can easily find the URL of a toot.
-#
-# By default, you will only see the 20 most recent statuses.
-#
-# You can also set parameters "limit" and "offset" in your query string if
-# you want to fetch more statuses. Please note that you can only fetch up
-# to 200 statuses at a time. 
-#
-# E.g. to get the latest 200 statuses:
-# https://ciberlandia.pt/@marado.txt?limit=200
-#
-# E.g. to skip the latest 200 status, and fetch the 200 previous ones:
-# https://ciberlandia.pt/@marado.txt?offset=200&limit=200
-#
-# nick        = @marado@ciberlandia.pt
-# url         = https://ciberlandia.pt/@marado.txt
+# This is my feed of twts during the 2nd quarter of 2024:
+# nick        = marado-2024Q2
+# url         = https://tilde.pt/~marado/twtxt-2024Q2.txt
 # avatar      = https://ciberlandia.pt/system/accounts/avatars/110/995/967/220/365/140/original/fa4bd5e19794d18f.png
-# description = Publicações públicas de @marado@ciberlandia.pt
+# description = @marado@ciberlandia.pt publications during the 2nd quarter of 2024
+#
+# You can find the previous feed (Q1 2024) at:
+# prev_nick = marado-2024Q1
+# prev_url = https://tilde.pt/~marado/twtxt-2024Q1.txt
+# prev_visualizer = https://tilde.pt/~marado/twtxt-2024Q1.html
+# nick_alias = marado-2024Q1
+# url_alias = https://tilde.pt/~marado/twtxt-2024Q1.txt
+#
+# You can find my current feed at:
+# current_nick = marado
+# current_url = https://tilde.pt/~marado/twtxt.txt
+# current_visualizer = https://tilde.pt/~marado/twtxt.php
 
-2024-07-02T19:56:25Z	 (#112718655380991916) My twtxt feed has now been rotated, an archive for Q2 2024 can be seen here: https://tilde.pt/~marado/twtxt-2024Q2.html
-2024-07-02T18:31:49Z	 (#112718322713153296) @d3  @ansol@floss.social  e #ISOC-PT juntam-se a várias outras associações Europeias para pedir a Governos e @EUCommission@ec.social-network.europa.eu o fim do #ChatControl :  https://direitosdigitais.pt/comunicacao/comunicados/151-associacoes-exigem-fim-da-proposta-da-comissao-europeia-que-poe-em-risco-comunicacoes-de-todos-cidadaos
-2024-07-01T11:59:40Z	 (#112711118370199137) #MaradoWeekly #WeeklyRecord Week 27 !["Who Is Roger Plexico?" Is the question in the cover of this cassette tape, and also the name of the Roger Plexico EP thus released.  In front of the question, the drawing of Roger Plexico, a guy with an eye mask and sunglasses over it.](https://ciberlandia.pt/system/media_attachments/files/112/711/109/718/924/945/original/6b9b4f5a3e74cc1e.jpg)
+
 2024-06-30T18:37:28Z	 (#112707020316385419) Neste mês, a @ANSOL está de volta às páginas da #PCGuia: eu com um artigo sobre o @ardour@fosstodon.org, o @hugopeixoto a falar sobre a #EMEL.  Já nas bancas! ![Uma foto da "secção Open Source" da PCGuia de Julho de 2024, mostrando parcialmente o artigo "Usar o Ardour para fazer produção de Áudio"](https://ciberlandia.pt/system/media_attachments/files/112/706/985/470/902/953/original/5a1e6bc386691333.jpg)
 2024-06-29T16:22:54Z	 (#112700828824355862) #juststopoil #climate #protesters saw their homes raided and were arrested because, of course, how could our society survive with people on the loose trying to save the planet?  Here is the movement's written reply to this: https://juststopoil.org/2024/06/28/we-refuse-to-die-for-fossil-fuels-just-stop-oil-response-to-police-raids-resulting-in-at-least-13-arrests/
 2024-06-28T11:15:17Z	 (#112693956938244475) TIL, there's someone that keeps a maintained list of telnet services, including talkers!  https://thedubber.altervista.org/other/telnetlist.htm
@@ -218,14 +209,3 @@
 2024-03-01T21:36:07Z	 (#112022583246628702) A new month? On a #Friday?  It's time for #fridayreads, and since we're now in #March, it is also time to start the #MarchMysteryMadness!  And of course, I am still doing #readchristie2024, this month's #book being "The Blue Train", which not only is a #mystery (duh!), but also fit for MMM's first prompt, "dressed to the nines".  #bookstodon ![The first Portuguese edition of Agatha Christie's "The Mystery of the Blue Train"](https://ciberlandia.pt/system/media_attachments/files/112/022/574/718/401/659/original/3b857ba5b11ebe50.jpg)
 2024-03-01T14:05:08Z	 (#112020809868541395) Um cabeça de lista da #AD a dizer que as #AlteraçõesClimáticas são falsas, e temos previsão de ser esta a coligação mais votada...  #ptpol
 2024-03-01T13:24:10Z	 (#112020648765931638) ⏳ Extended deadline: contribute to #CREATe’s research on #TechnologicalProtectionMeasures for KR21 until 6 March  #TPM #DRM  Fill out this survey NOW 👉 https://uofg.qualtrics.com/jfe/form/SV_6sYj1ZyZbb6Ui6q
-2024-02-28T08:49:11Z	 (#112008242857657770) #MaradoWeekly #WeeklyRecord Week 09 ![GGGOLDDD's PTST 12"  The record is multisleeved, and the picture shows one sliding out of the other.](https://ciberlandia.pt/system/media_attachments/files/112/008/227/992/607/463/original/9fbec27414bdaebf.jpg)
-2024-02-27T10:36:55Z	 (#112003004175645605) Já abriram as inscrições para o #voto antecipado e/ou em mobilidade!  https://ciberlandia.pt/@marado/111835488371994624
-2024-02-27T01:11:27Z	 (#112000780680095689) Tive uma ideia brilhante: e se nós, país que nem um sistema de validação de facturas conseguimos ter a funcionar, fossemos brincar às eleições e fizessemos um sistema de voto eletrónico online? :picardfacepalm:   @jt_rebelo https://ciberlandia.pt/@jt_rebelo/111998507096775310
-2024-02-22T14:02:31Z	 (#111975501080232675) Just saw someone use the 🪷 emoji, and was reminded of the old #game #perestroika  https://youtu.be/OOTJ4azUQZk
-2024-02-21T20:53:12Z	 (#111971453674158122) Seeing new #bands having as their main or even online online presence their #instagram account... it breaks my heart a bit. ![Instagram's login popup showing that either you have an account or you cannot see what's in there.](https://ciberlandia.pt/system/media_attachments/files/111/971/449/440/260/422/original/407e9614caa07e12.png)
-2024-02-19T23:55:38Z	 (#111960846392764113) Um #debate desta duração e zero perguntas e referências à #criseclimática. Isto vai lindo.  #ptpol
-2024-02-19T08:02:52Z	 (#111957099957242691) #MaradoWeekly #WeeklyRecord Week 08 !["O Gajo" has a colection of four EPs called "As 4 Estações", each named by one of Lisbon's train stations. This picture captures the first one, "Rossio", and its promo stickers naming the four. The second one, "Santa Apolónia" is on the background.](https://ciberlandia.pt/system/media_attachments/files/111/957/086/178/604/790/original/c41162b63dba25f1.jpg)
-2024-02-18T11:56:08Z	 (#111952354893135947) Há para aí uma polémica descabida sobre o slogan do BE nesta companha, uma frase comum no Português mas da qual Pedro Abrunhosa pretende ter direitos de autor por ter cantado algo parecido.  Não é disso que se trata este toot. Numa tentativa de contra-argumentar o que alega Abrunhosa, mas porque argumentar dá trabalho, alguém pediu a uma dessas ferramentas de #IA que por aí andam para fazê-lo por si - e depois usou o resultado como resposta ao Abrunhosa.   Deu nisto: (no ALT da imagem comento-a) ![Texto muito bem escrito, pelo Copilot, a "explicar" que a frase do Abrunhosa é parecida com outras expressões do Português, dando exemplos. Um dos exemplos é atribuído ao Fernando Pessoa, mostrando um excerto da "Ode Marítima" com o exemplo, e indicando link para o poema.  Como seria de esperar, o Copilot escreve bem, mas não sabe o que está a escrever.  Acontece que aquele excerto não existe, aqueles versos não constam na Ode Marítima. O link para um site sobre poemas de amor (não exactamente como classificaria a Ode Marítima) é de um site que existe mesmo, mas que não tem este poema, nem aquele link (ou links naquele formato).](https://ciberlandia.pt/system/media_attachments/files/111/952/321/442/197/760/original/096e95251ed94dce.jpg)
-2024-02-17T03:19:03Z	 (#111944659349600026) Um fio sobre a #EscolaDigital :  @arturcoelho@masto.pt https://masto.pt/@arturcoelho/111943139816711162
-2024-02-15T12:20:36Z	 (#111935464151997491) The European Court rules that “the requirement to decrypt encrypted communications, as applied to end-to-end encrypted communciations, cannot be regarded as necessary in a democratic society” and infringes on the European Convention on Human Rights.  #telegram #encryption #privacy  @remixtures@tldr.nettime.org https://tldr.nettime.org/@remixtures/111931919570789448
-2024-02-14T23:59:30Z	 (#111932550041464016) Nada como acabar os últimos minutos do dia #ilovefs com um "save the date" que promete "amanhã há mais"!  @ubuntuportugal@masto.pt https://masto.pt/@ubuntuportugal/111926864836332411
