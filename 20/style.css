@@ -21,14 +21,6 @@ h1{
         background-color : #111111;
         font-family : verdana, arial, helvetica, sans-serif;
         font-size : 14px;
-        scrollbar-3dlight-color : #111111;
-        scrollbar-arrow-color : #BBBBCC;
-        scrollbar-darkshadow-color : #111111;
-        scrollbar-face-color : #111111;
-        scrollbar-highlight-color : #7D7D7D;
-        scrollbar-shadow-color : #789789;
-        scrollbar-track-color : #111111;
-
 }
 
 h2{
@@ -36,28 +28,13 @@ h2{
         background-color : #111111;
         font-family : verdana, arial, helvetica, sans-serif;
         font-size : 11px;
-        scrollbar-3dlight-color : #111111;
-        scrollbar-arrow-color : #BBBBCC;
-        scrollbar-darkshadow-color : #111111;
-        scrollbar-face-color : #111111;
-        scrollbar-highlight-color : #7D7D7D;
-        scrollbar-shadow-color : #789789;
-        scrollbar-track-color : #111111;
-
 }
 
 body {
 	color: #FFFFFF;
-        background-color : #111111;
+        background-color : #000000;
 	font-family : verdana, arial, helvetica, sans-serif;
 	font-size : 12px;
-	scrollbar-3dlight-color : #111111;
-	scrollbar-arrow-color : #BBBBCC;
-	scrollbar-darkshadow-color : #111111;
-	scrollbar-face-color : #000000;
-	scrollbar-highlight-color : #7D7D7D;
-	scrollbar-shadow-color : #789789;
-	scrollbar-track-color : #111111;
 }
 
 form {
