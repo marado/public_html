@@ -1,0 +1,6 @@
+Summary of changes from v2.6.10-rc2-mbn1 to v2.6.10-rc2-mm1-mbn1
+================================================================
+
+<marado:student.dei.uc.pt>:
+  o [mm]: 	Sync with -mm tree to include 2.6.10-rc2-mm1 changes
+  o [ipw2100]: 	Update from ipw2100 v0.62 to ipw2100 v1.0.0
