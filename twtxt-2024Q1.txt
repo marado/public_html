@@ -9,6 +9,7 @@
 # url         = https://tilde.pt/~marado/twtxt-2024Q1.txt
 # avatar      = https://ciberlandia.pt/system/accounts/avatars/110/995/967/220/365/140/original/fa4bd5e19794d18f.png
 # description = @marado@ciberlandia.pt publications during the 1st quarter of 2024
+# visualizer  = https://tilde.pt/~marado/twtxt-2024Q1.html
 #
 # You can find the previous feed (2023) at:
 # prev_nick = marado-2023

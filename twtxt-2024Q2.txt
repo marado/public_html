@@ -9,6 +9,7 @@
 # url         = https://tilde.pt/~marado/twtxt-2024Q2.txt
 # avatar      = https://ciberlandia.pt/system/accounts/avatars/110/995/967/220/365/140/original/fa4bd5e19794d18f.png
 # description = @marado@ciberlandia.pt publications during the 2nd quarter of 2024
+# visualizer  = https://tilde.pt/~marado/twtxt-2024Q2.html
 #
 # You can find the previous feed (Q1 2024) at:
 # prev_nick = marado-2024Q1
@@ -17,11 +18,15 @@
 # nick_alias = marado-2024Q1
 # url_alias = https://tilde.pt/~marado/twtxt-2024Q1.txt
 #
+# You can find the next feed of twts (H2 2024) at:
+# next_nick = marado-2024H2
+# next_url = https://tilde.pt/~marado/twtxt-2024H2.txt
+# next_visualizer = https://tilde.pt/~marado/twtxt-2024H2.html
+#
 # You can find my current feed at:
 # current_nick = marado
 # current_url = https://tilde.pt/~marado/twtxt.txt
 # current_visualizer = https://tilde.pt/~marado/twtxt.php
-
 
 2024-06-30T18:37:28Z	 (#112707020316385419) Neste mês, a @ANSOL está de volta às páginas da #PCGuia: eu com um artigo sobre o @ardour@fosstodon.org, o @hugopeixoto a falar sobre a #EMEL.  Já nas bancas! ![Uma foto da "secção Open Source" da PCGuia de Julho de 2024, mostrando parcialmente o artigo "Usar o Ardour para fazer produção de Áudio"](https://ciberlandia.pt/system/media_attachments/files/112/706/985/470/902/953/original/5a1e6bc386691333.jpg)
 2024-06-29T16:22:54Z	 (#112700828824355862) #juststopoil #climate #protesters saw their homes raided and were arrested because, of course, how could our society survive with people on the loose trying to save the planet?  Here is the movement's written reply to this: https://juststopoil.org/2024/06/28/we-refuse-to-die-for-fossil-fuels-just-stop-oil-response-to-police-raids-resulting-in-at-least-13-arrests/
