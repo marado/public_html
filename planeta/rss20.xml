@@ -9,6 +9,13 @@
 	<atom:link rel="self" href="http://tilde.pt/~marado/planeta/rss20.xml" type="application/rss+xml"/>
 
 <item>
+	<title>~epifanio: Moved to madcap.pt</title>
+	<guid isPermaLink="false">https://tilde.pt/~epifanio/blog/./moved-to-madcappt.html</guid>
+	<link>https://tilde.pt/~epifanio/blog/moved-to-madcappt.html</link>
+	<description>&lt;p&gt;I created a new website (with a shameless vanity domain). Whatever I might blog from now on, will happen there: &lt;a href=&quot;https://madcap.pt&quot;&gt;madcap.pt&lt;/a&gt;.&lt;/p&gt;</description>
+	<pubDate>Thu, 06 Feb 2025 19:07:23 +0000</pubDate>
+</item>
+<item>
 	<title>~marado: Voto Eletrónico 2025 (outra vez arroz)</title>
 	<guid isPermaLink="false">https://tilde.pt/~marado/blog/./voto-eletronico-2025-outra-vez-arroz.html</guid>
 	<link>https://tilde.pt/~marado/blog/voto-eletronico-2025-outra-vez-arroz.html</link>
@@ -933,12 +940,6 @@ as soon as you exit your editor.&lt;/p&gt;
 	<guid isPermaLink="false">https://tilde.pt/~tcarrondo/blog/./-title-on-this-line.html</guid>
 	<link>https://tilde.pt/~tcarrondo/blog/-title-on-this-line.html</link>
 	<pubDate>Sun, 02 Jan 2022 13:17:19 +0000</pubDate>
-</item>
-<item>
-	<title>~tcarrondo: # Olha eu!</title>
-	<guid isPermaLink="false">https://tilde.pt/~tcarrondo/blog/./-olha-eu.html</guid>
-	<link>https://tilde.pt/~tcarrondo/blog/-olha-eu.html</link>
-	<pubDate>Fri, 31 Dec 2021 01:05:20 +0000</pubDate>
 </item>
 
 </channel>

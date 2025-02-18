@@ -15,6 +15,7 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~epifanio/blog/./moved-to-madcappt.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./voto-eletronico-2025-outra-vez-arroz.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./escape-commands-for-ssh.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./planeta-oops.html" />
@@ -74,11 +75,17 @@
 			<rdf:li rdf:resource="https://tilde.pt/~tcarrondo/blog/./artigo-de-teste.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~tcarrondo/blog/./-title-on-this-line8872.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~tcarrondo/blog/./-title-on-this-line.html" />
-			<rdf:li rdf:resource="https://tilde.pt/~tcarrondo/blog/./-olha-eu.html" />
 		</rdf:Seq>
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~epifanio/blog/./moved-to-madcappt.html">
+	<title>~epifanio: Moved to madcap.pt</title>
+	<link>https://tilde.pt/~epifanio/blog/moved-to-madcappt.html</link>
+	<content:encoded>&lt;p&gt;I created a new website (with a shameless vanity domain). Whatever I might blog from now on, will happen there: &lt;a href=&quot;https://madcap.pt&quot;&gt;madcap.pt&lt;/a&gt;.&lt;/p&gt;</content:encoded>
+	<dc:date>2025-02-06T19:07:23+00:00</dc:date>
+	<dc:creator>~epifanio</dc:creator>
+</item>
 <item rdf:about="https://tilde.pt/~marado/blog/./voto-eletronico-2025-outra-vez-arroz.html">
 	<title>~marado: Voto Eletrónico 2025 (outra vez arroz)</title>
 	<link>https://tilde.pt/~marado/blog/voto-eletronico-2025-outra-vez-arroz.html</link>
@@ -973,12 +980,6 @@ as soon as you exit your editor.&lt;/p&gt;
 	<title>~tcarrondo: # Title on this line</title>
 	<link>https://tilde.pt/~tcarrondo/blog/-title-on-this-line.html</link>
 	<dc:date>2022-01-02T13:17:19+00:00</dc:date>
-	<dc:creator>~tcarrondo</dc:creator>
-</item>
-<item rdf:about="https://tilde.pt/~tcarrondo/blog/./-olha-eu.html">
-	<title>~tcarrondo: # Olha eu!</title>
-	<link>https://tilde.pt/~tcarrondo/blog/-olha-eu.html</link>
-	<dc:date>2021-12-31T01:05:20+00:00</dc:date>
 	<dc:creator>~tcarrondo</dc:creator>
 </item>
 
