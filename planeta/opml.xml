@@ -2,7 +2,7 @@
 <opml version="1.1">
   <head>
     <title>Planeta Tilde</title>
-    <dateModified>Tue, 18 Feb 2025 18:20:04 GMT</dateModified>
+    <dateModified>Sat, 12 Apr 2025 10:20:02 GMT</dateModified>
     <ownerName>Marcos Marado</ownerName>
     <ownerEmail>mindboosternoori@gmail.com</ownerEmail>
   </head>
@@ -10,11 +10,13 @@
     <outline type="rss" text="~budd" title="o meu tildelog" xmlUrl="https://tilde.pt/~budd/blog/feed.rss"/>
     <outline type="rss" text="~epifanio" title="~epifanio blog" xmlUrl="https://tilde.pt/~epifanio/blog/feed.rss"/>
     <outline type="rss" text="~gil" title="o meu tildelog" xmlUrl="https://tilde.pt/~gil/blog/feed.rss"/>
+    <outline type="rss" text="~lumen" title="o meu tildelog" xmlUrl="https://tilde.pt/~lumen/blog/feed.rss"/>
+    <outline type="rss" text="~maique" title="maiquetilde" xmlUrl="https://tilde.pt/~maique/blog/feed.rss"/>
     <outline type="rss" text="~marado" title="~marado's tildelog" xmlUrl="https://tilde.pt/~marado/blog/feed.rss"/>
     <outline type="rss" text="~maria" title="o meu tildelog" xmlUrl="https://tilde.pt/~maria/blog/feed.rss"/>
     <outline type="rss" text="~rlafuente" title="~rlafuente" xmlUrl="https://tilde.pt/~rlafuente/blog/feed.rss"/>
     <outline type="rss" text="~tcarrondo" title="o nosso tildelog" xmlUrl="https://tilde.pt/~tcarrondo/blog/feed.rss"/>
+    <outline type="rss" text="~zozo" title="o meu tildelog" xmlUrl="https://tilde.pt/~zozo/blog/feed.rss"/>
     <outline type="rss" text="N.S. do Computismo" title="Nossa Senhora do Computismo" xmlUrl="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/rss"/>
-    <outline type="rss" text="~maique" title="maiquetilde" xmlUrl="https://tilde.pt/~maique/blog/feed.rss"/>
   </body>
 </opml>
