@@ -8,7 +8,7 @@
 # nick        = marado-2025Q1
 # url         = https://tilde.pt/~marado/twtxt-2025Q1.txt
 # avatar      = https://media.ciberlandia.pt/ciberlandia-media/accounts/avatars/110/995/967/220/365/140/original/fa4bd5e19794d18f.png
-# description = @marado@ciberlandia.pt puiblications during the 1st quarter of 2025
+# description = @marado@ciberlandia.pt publications during the 1st quarter of 2025
 #
 # You can find the previous feed (H2 2024) at:
 # prev_nick = marado-2024H2
@@ -16,6 +16,11 @@
 # prev_visualizer = https://tilde.pt/~marado/twtxt-2024H2.html
 # nick_alias = marado-2024H2
 # url_alias = https://tilde.pt/~marado/twtxt-2024H2.txt
+#
+# You can find the next feed of twts (April 2025) at:
+# next_nick = marado-2025M04
+# next_url = https://tilde.pt/~marado/twtxt-2025M04.txt
+# next_visualizer = https://tilde.pt/~marado/twtxt-2025M04.html
 #
 # You can find my current feed at:
 # current_nick = marado
