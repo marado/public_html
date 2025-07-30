@@ -2,9 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>~marado's tildelog</title><link>https://tilde.pt/~marado/blog/index.html</link>
 <description>a tildelog on tildeverse</description><language>en</language>
-<lastBuildDate>Tue, 10 Jun 2025 16:08:46 +0000</lastBuildDate>
-<pubDate>Tue, 10 Jun 2025 16:08:46 +0000</pubDate>
+<lastBuildDate>Wed, 30 Jul 2025 11:42:53 +0000</lastBuildDate>
+<pubDate>Wed, 30 Jul 2025 11:42:53 +0000</pubDate>
 <atom:link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+creating wikidata items in batch: the Portuguese local elections example
+</title><description><![CDATA[
+
+<p>Every four years there are new local elections in Portugal - the next will be in a couple of months. For a new Portuguese local election event there should be a new <a href="https://www.wikidata.org/wiki/Q120913144">wikidata item</a>... only these election events actually have distinct (municipal) local elections, 308 of them. That means, the local election item has (or should have) 308 parts. How to create them?</p>
+
+<p>This is what I did for the 2025 elections. It's quite probably not the best way to do this, but it got the task done:</p>
+
+<ol>
+<li>I created <a href="https://w.wiki/EtZF">a query</a> looking at the parts of the 2021 elections. I saved the output and changed the names, replacing 2021 to 2025 - and that gave me a list of all the new items I had to create;</li>
+<li>I took the list of items names and turned it into a <a href="qs-local-elections.csv">quickstatements csv file</a> - not only stating the names of the items I wanted to create, but also adding a very basic set of properties to them. I ran it through <a href="https://quickstatements.toolforge.org">the online tool</a>, 308 items were created;</li>
+<li>I made a <a href="https://w.wiki/EtZb">new query</a> to have a list of these 308 items that were created, and saved its output because we now need to add them as parts of the 2025 elections item;</li>
+<li>created that <a href="qs-add-items-as-parts.csv">new quickstatements csv</a> saying that the 2025 elections had as a part each of those new items, and ran it.</li>
+</ol>
+
+<p>PS: I did this, possibly better, for the 2021 elections. I should have documented what I did but I didn't do it, and for 2025 at the begining I didn't even recall that I had been the one doing it for 2021. So, this blog post will hopefully help me know what I will need to do in 2029... but I hope it might also be useful to others, for similar tasks.</p>
+
+<p>tags: <a href='tag_wikidata.html'>wikidata</a>, <a href='tag_bulk.html'>bulk</a>, <a href='tag_quickstatements.html'>quickstatements</a>, <a href='tag_tutorial.html'>tutorial</a></p>
+<!-- text end -->
+]]></description><link>https://tilde.pt/~marado/blog/creating-wikidata-items-in-batch-the-portuguese-local-elections-example.html</link>
+<guid>https://tilde.pt/~marado/blog/./creating-wikidata-items-in-batch-the-portuguese-local-elections-example.html</guid>
+<dc:creator>~marado</dc:creator>
+<pubDate>Wed, 30 Jul 2025 11:41:36 +0000</pubDate></item>
 <item><title>
 musical endeavours
 </title><description><![CDATA[

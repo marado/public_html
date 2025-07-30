@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="../styles.css" type="text/css" />
+<link rel="stylesheet" href="main.css" type="text/css" />
+<link rel="stylesheet" href="blog.css" type="text/css" />
+<link rel="alternate" type="application/rss+xml" title="assinar esta página..." href="feed.rss" />
+<title>~marado's tildelog &mdash; posts com a tag "bulk"</title>
+</head><body>
+<div id="divbodyholder">
+<div class="headerholder"><div class="header">
+<div id="title">
+<h1 class="nomargin"><a class="ablack" href="https://tilde.pt/~marado/blog/index.html">~marado's tildelog</a></h1>
+<div id="description">a tildelog on tildeverse</div>
+</div></div></div>
+<div id="divbody"><div class="content">
+<h3><a class="ablack" href="creating-wikidata-items-in-batch-the-portuguese-local-elections-example.html">
+creating wikidata items in batch: the Portuguese local elections example
+</a></h3>
+<!-- bashblog_timestamp: #202507301141.36# -->
+<div class="subtitle">30 de julho de 2025 &mdash; 
+~marado
+</div>
+<!-- text begin -->
+
+<p>Every four years there are new local elections in Portugal - the next will be in a couple of months. For a new Portuguese local election event there should be a new <a href="https://www.wikidata.org/wiki/Q120913144">wikidata item</a>... only these election events actually have distinct (municipal) local elections, 308 of them. That means, the local election item has (or should have) 308 parts. How to create them?</p>
+
+<p>This is what I did for the 2025 elections. It's quite probably not the best way to do this, but it got the task done:</p>
+
+<ol>
+<li>I created <a href="https://w.wiki/EtZF">a query</a> looking at the parts of the 2021 elections. I saved the output and changed the names, replacing 2021 to 2025 - and that gave me a list of all the new items I had to create;</li>
+<li>I took the list of items names and turned it into a <a href="qs-local-elections.csv">quickstatements csv file</a> - not only stating the names of the items I wanted to create, but also adding a very basic set of properties to them. I ran it through <a href="https://quickstatements.toolforge.org">the online tool</a>, 308 items were created;</li>
+<li>I made a <a href="https://w.wiki/EtZb">new query</a> to have a list of these 308 items that were created, and saved its output because we now need to add them as parts of the 2025 elections item;</li>
+<li>created that <a href="qs-add-items-as-parts.csv">new quickstatements csv</a> saying that the 2025 elections had as a part each of those new items, and ran it.</li>
+</ol>
+
+<p>PS: I did this, possibly better, for the 2021 elections. I should have documented what I did but I didn't do it, and for 2025 at the begining I didn't even recall that I had been the one doing it for 2021. So, this blog post will hopefully help me know what I will need to do in 2029... but I hope it might also be useful to others, for similar tasks.</p>
+
+<p>tags: <a href='tag_wikidata.html'>wikidata</a>, <a href='tag_bulk.html'>bulk</a>, <a href='tag_quickstatements.html'>quickstatements</a>, <a href='tag_tutorial.html'>tutorial</a></p>
+<!-- text end -->
+</div>
+<div id="footer">CC by-sa <a href="https://tilde.pt/~marado/">~marado</a> &mdash; <a href="mailto:mindboosternoori@#64;gmail.#46;com">mindboosternoori@#64;gmail.#46;com</a><br/>
+gerado com o <a href="https://tildegit.org/club/bashblog">bashblog</a>, um simples script bash para criar blogs como este</div>
+</div></div>
+</body></html>

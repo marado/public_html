@@ -23,6 +23,55 @@
 <h1>Planeta Tilde</h1>
 
 <div class="daygroup">
+<h2>July 30, 2025</h2>
+
+<div class="channelgroup">
+
+
+
+
+
+
+
+<h3><a href="https://tilde.pt/~marado/blog/index.html" title="~marado's tildelog">~marado</a></h3>
+
+
+<div class="entrygroup" id="https://tilde.pt/~marado/blog/./creating-wikidata-items-in-batch-the-portuguese-local-elections-example.html">
+<h4 lang="en"><a href="https://tilde.pt/~marado/blog/creating-wikidata-items-in-batch-the-portuguese-local-elections-example.html">creating wikidata items in batch: the Portuguese local elections example</a></h4>
+<div class="entry">
+<div class="content">
+<p>Every four years there are new local elections in Portugal - the next will be in a couple of months. For a new Portuguese local election event there should be a new <a href="https://www.wikidata.org/wiki/Q120913144">wikidata item</a>... only these election events actually have distinct (municipal) local elections, 308 of them. That means, the local election item has (or should have) 308 parts. How to create them?</p>
+
+<p>This is what I did for the 2025 elections. It's quite probably not the best way to do this, but it got the task done:</p>
+
+<ol>
+<li>I created <a href="https://w.wiki/EtZF">a query</a> looking at the parts of the 2021 elections. I saved the output and changed the names, replacing 2021 to 2025 - and that gave me a list of all the new items I had to create;</li>
+<li>I took the list of items names and turned it into a <a href="https://tilde.pt/~marado/blog/qs-local-elections.csv">quickstatements csv file</a> - not only stating the names of the items I wanted to create, but also adding a very basic set of properties to them. I ran it through <a href="https://quickstatements.toolforge.org">the online tool</a>, 308 items were created;</li>
+<li>I made a <a href="https://w.wiki/EtZb">new query</a> to have a list of these 308 items that were created, and saved its output because we now need to add them as parts of the 2025 elections item;</li>
+<li>created that <a href="https://tilde.pt/~marado/blog/qs-add-items-as-parts.csv">new quickstatements csv</a> saying that the 2025 elections had as a part each of those new items, and ran it.</li>
+</ol>
+
+<p>PS: I did this, possibly better, for the 2021 elections. I should have documented what I did but I didn't do it, and for 2025 at the begining I didn't even recall that I had been the one doing it for 2021. So, this blog post will hopefully help me know what I will need to do in 2029... but I hope it might also be useful to others, for similar tasks.</p>
+
+<p>tags: <a href="https://tilde.pt/~marado/blog/tag_wikidata.html">wikidata</a>, <a href="https://tilde.pt/~marado/blog/tag_bulk.html">bulk</a>, <a href="https://tilde.pt/~marado/blog/tag_quickstatements.html">quickstatements</a>, <a href="https://tilde.pt/~marado/blog/tag_tutorial.html">tutorial</a></p></div>
+
+
+
+
+
+
+
+<p class="date">
+<a href="https://tilde.pt/~marado/blog/creating-wikidata-items-in-batch-the-portuguese-local-elections-example.html">by ~marado at July 30, 2025 11:41 AM</a>
+</p>
+</div>
+</div>
+
+
+</div>
+
+</div>
+<div class="daygroup">
 <h2>June 10, 2025</h2>
 
 <div class="channelgroup">
@@ -2209,48 +2258,6 @@ O lançamento deste livro vai ser já no próximo dia 5 de Junho, enquadrado no 
 </div>
 
 </div>
-<div class="daygroup">
-<h2>January 08, 2022</h2>
-
-<div class="channelgroup">
-
-
-
-
-
-
-
-<h3><a href="https://tilde.pt/~marado/blog/index.html" title="~marado's tildelog">~marado</a></h3>
-
-
-<div class="entrygroup" id="https://tilde.pt/~marado/blog/./o-voto-eletronico-e-o-solucionismo-tecnologico.html">
-<h4 lang="en"><a href="https://tilde.pt/~marado/blog/o-voto-eletronico-e-o-solucionismo-tecnologico.html">O Voto Eletrónico e o Solucionismo Tecnológico</a></h4>
-<div class="entry">
-<div class="content">
-<p>"No estrangeiro, os portugueses votam principalmente por voto postal", diz a <a href="https://comunidadeslusofonas.pt/associacao-tsp-defende-que-voto-digital-e-a-solucao-para-os-problemas-do-atual-sistema-eleitoral/">TSP</a>, sublinhando que "este sistema já funcionava mal em vários países", mas que nas últimas eleições "não chegou praticamente nenhum voto da África do Sul", e que agora com a pandemia "o sistema postal está próximo do colapso em países tão evoluídos como o Reino Unido".</p>
-
-<p>Então: nós que andamos nisto da democracia já há alguns aninhos, ainda não conseguimos fazer um sistema de voto por correspondência a funcionar decentemente. Um problema que tem, como solução, corrigir os problemas do sistema de voto postal, certo? Errado! Para a TSP - que aproveita para nos dar mais alguns detalhes sobre o que se passa com a proposta do voto electrónico remoto para as eleicões do CCP (agora sabemos que está a ser um trabalho conjunto do MAI, a AMA e o MNE) - a solução não é corrigir um sistema de fácil compreensão e tecnologia provada como o sistema de voto por correspondência, mas sim o voto eletrónico remoto.</p>
-
-<p>Defendem que "Portugal é um país inovador e com técnicos de nível mundial, que podem produzir um sistema de voto eletrónico remoto seguro, testado e auditável", (sem dizer onde se basearam para fazer tal afirmação). Ficamos sem entender porque é que, se temos assim tão boas capacidades técnicas, como é que o voto por correspondência funciona tão mal - como é que <a href="https://www.publico.pt/2019/09/27/politica/noticia/cerca-39-mil-boletins-voto-devolvidos-estrangeiro-votacao-1888153">não temos a morada certa dos eleitores</a>, <a href="https://observador.pt/2019/10/17/35-mil-votos-nulos-no-estrangeiro-mudancas-no-voto-postal-baralharam-emigrantes/">não sabemos explicar como se vota</a> e nem sequer <a href="https://www.jn.pt/nacional/canal/legislativas-2019/emigrantes-alertam-boletim-de-voto-nao-cabe-no-envelope-11318936.html">preparar boletins que caibam nos envelopes</a>. Mas sim, vamos entregar-lhes a preparação de um sistema de voto electrónico, remoto, seguro, anónimo, fiável. O que pode correr mal?</p>
-
-<p>tags: <a href="https://tilde.pt/~marado/blog/tag_voto.html">voto</a>, <a href="https://tilde.pt/~marado/blog/tag_electr%C3%B3nico.html">electrónico</a>, <a href="https://tilde.pt/~marado/blog/tag_voto-electr%C3%B3nico.html">voto-electrónico</a>, <a href="https://tilde.pt/~marado/blog/tag_vote.html">vote</a>, <a href="https://tilde.pt/~marado/blog/tag_e-vote.html">e-vote</a>, <a href="https://tilde.pt/~marado/blog/tag_TSP.html">TSP</a>, <a href="https://tilde.pt/~marado/blog/tag_correspond%C3%AAncia.html">correspondência</a>, <a href="https://tilde.pt/~marado/blog/tag_voto-correspond%C3%AAncia.html">voto-correspondência</a>, <a href="https://tilde.pt/~marado/blog/tag_pt.html">pt</a></p></div>
-
-
-
-
-
-
-
-<p class="date">
-<a href="https://tilde.pt/~marado/blog/o-voto-eletronico-e-o-solucionismo-tecnologico.html">by ~marado at January 08, 2022 07:47 PM</a>
-</p>
-</div>
-</div>
-
-
-</div>
-
-</div>
 
 
 <div class="sidebar">
@@ -2295,7 +2302,7 @@ O lançamento deste livro vai ser já no próximo dia 5 de Junho, enquadrado no 
 
 <p>
 <strong>Last updated:</strong><br>
-June 10, 2025 04:09 PM<br>
+July 30, 2025 11:45 AM<br>
 <em>All times are UTC.</em><br>
 <br>
 Powered by:<br>
