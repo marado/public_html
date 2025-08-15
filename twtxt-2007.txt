@@ -1,0 +1,23 @@
+# This is a backup of my 2007 tweets on twitter, stored in twxt format
+# Learn more about twtxt at https://github.com/buckket/twtxt
+#
+# == Metadata ==
+#
+# nick = marado-2007
+# url = https://tilde.pt/~marado/twtxt-2007.txt
+# visualizer = https://tilde.pt/~marado/twtxt-2007.html
+#
+# You can find the rest of this decade of twts at:
+# next_nick = marado-200x
+# next_url = https://tilde.pt/~marado/twtxt-200x.txt
+# next_visualizer = https://tilde.pt/~marado/twtxt-200x.php
+#
+# You can find my current feed at:
+# current_nick = marado
+# current_url = https://tilde.pt/~marado/twtxt.txt
+# current_visualizer = https://tilde.pt/~marado/twtxt.php
+#
+# == Content ==
+#
+2007-09-14T12:09:07+01:00	twitter'ing for the first time, since I've just registred to test an upcoming twitter mashup... https://twitter.com/mind_booster/status/268217302
+2007-10-08T19:10:33+01:00	working and patiently waiting for the next MegaTokyo strip... https://twitter.com/mind_booster/status/320928702
