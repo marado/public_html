@@ -1,6 +1,0 @@
-Summary of changes from v2.6.10-rc2-mbn1 to v2.6.10-rc2-mm1-mbn1
-================================================================
-
-<marado:student.dei.uc.pt>:
-  o [mm]: 	Fixed a lot of -mm bugs, mainly recurring to backports
-  o [acpi]: 	Fixed the acpi_power_off hangup after his call
