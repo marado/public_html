@@ -15,6 +15,64 @@
 <div id="description">a tildelog on tildeverse</div>
 </div></div></div>
 <div id="divbody"><div class="content">
+<h3><a class="ablack" href="creating-wikidata-items-in-batch-the-portuguese-local-elections-example.html">
+creating wikidata items in batch: the Portuguese local elections example
+</a></h3>
+<!-- bashblog_timestamp: #202507301141.36# -->
+<div class="subtitle">30 de julho de 2025 &mdash; 
+~marado
+</div>
+<!-- text begin -->
+
+<p>Every four years there are new local elections in Portugal - the next will be in a couple of months. For a new Portuguese local election event there should be a new <a href="https://www.wikidata.org/wiki/Q120913144">wikidata item</a>... only these election events actually have distinct (municipal) local elections, 308 of them. That means, the local election item has (or should have) 308 parts. How to create them?</p>
+
+<p>This is what I did for the 2025 elections. It's quite probably not the best way to do this, but it got the task done:</p>
+
+<ol>
+<li>I created <a href="https://w.wiki/EtZF">a query</a> looking at the parts of the 2021 elections. I saved the output and changed the names, replacing 2021 to 2025 - and that gave me a list of all the new items I had to create;</li>
+<li>I took the list of items names and turned it into a <a href="qs-local-elections.csv">quickstatements csv file</a> - not only stating the names of the items I wanted to create, but also adding a very basic set of properties to them. I ran it through <a href="https://quickstatements.toolforge.org">the online tool</a>, 308 items were created;</li>
+<li>I made a <a href="https://w.wiki/EtZb">new query</a> to have a list of these 308 items that were created, and saved its output because we now need to add them as parts of the 2025 elections item;</li>
+<li>created that <a href="qs-add-items-as-parts.csv">new quickstatements csv</a> saying that the 2025 elections had as a part each of those new items, and ran it.</li>
+</ol>
+
+<p>PS: I did this, possibly better, for the 2021 elections. I should have documented what I did but I didn't do it, and for 2025 at the begining I didn't even recall that I had been the one doing it for 2021. So, this blog post will hopefully help me know what I will need to do in 2029... but I hope it might also be useful to others, for similar tasks.</p>
+
+<p>tags: <a href='tag_wikidata.html'>wikidata</a>, <a href='tag_bulk.html'>bulk</a>, <a href='tag_quickstatements.html'>quickstatements</a>, <a href='tag_tutorial.html'>tutorial</a>, <a href='tag_en.html'>en</a></p>
+<!-- text end -->
+<h3><a class="ablack" href="musical-endeavours.html">
+musical endeavours
+</a></h3>
+<!-- bashblog_timestamp: #202506101600.21# -->
+<div class="subtitle">10 de junho de 2025 &mdash; 
+~marado
+</div>
+<!-- text begin -->
+
+<p>It has come to my attention that "my worlds don't cross" - many people who know
+me for some activities have no idea I delve in anothers. In particular, plenty
+of people don't know I'm a musician.</p>
+
+<p>Of course, it is quite probable that those also don't read this blog (who
+does?), but in any case, I felt compelled to write this short blog post to talk
+about two of musical projects - and how can you support me by adding their
+albums to your collection.</p>
+
+<p>My main focus for more than a decade has been on
+<a href="https://kokori.grogue.org">kokori</a>, a post-cyberpunk industrial duo that you
+can sample <a href="https://www.youtube.com/watch?v=_ggGrQOiqN8&amp;list=PL6e2XQAkf_eoCOhyQqBmKue5_pmAMv2Z7">on this youtube
+playlist</a>
+that showcases several songs from our full-length album 'rootkit' - an album
+that you can <a href="https://www.discogs.com/sell/release/27295098">buy on CD</a>.</p>
+
+<p>A distinct project is <a href="https://qink.grogue.org/">Qink</a>, and <strong>Q</strong>ink <strong>i</strong>s
+<strong>n</strong>ot <strong>k</strong>okori. Instead, it is meant to be "the final inorganic ambient to
+your darkest needs", the soundtrack to your horror show. You can <a href="https://metaphysicalcircuits.bandcamp.com/album/dies-ist-nicht-witte-dood">listen to its
+album</a>
+or even purchase its <a href="https://www.discogs.com/sell/item/1051619153">cassette tape
+edition</a>.</p>
+
+<p>tags: <a href='tag_music.html'>music</a>, <a href='tag_kokori.html'>kokori</a>, <a href='tag_qink.html'>qink</a>, <a href='tag_rootkit.html'>rootkit</a>, <a href='tag_en.html'>en</a></p>
+<!-- text end -->
 <h3><a class="ablack" href="escape-commands-for-ssh.html">
 escape commands for ssh
 </a></h3>

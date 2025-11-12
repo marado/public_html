@@ -2,9 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>~marado's tildelog</title><link>https://tilde.pt/~marado/blog/index.html</link>
 <description>a tildelog on tildeverse</description><language>en</language>
-<lastBuildDate>Wed, 30 Jul 2025 11:42:53 +0000</lastBuildDate>
-<pubDate>Wed, 30 Jul 2025 11:42:53 +0000</pubDate>
+<lastBuildDate>Wed, 12 Nov 2025 17:07:33 +0000</lastBuildDate>
+<pubDate>Wed, 12 Nov 2025 17:07:33 +0000</pubDate>
 <atom:link href="https://tilde.pt/~marado/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Do investimento da Microsoft em Sines
+</title><description><![CDATA[
+
+<p>Talvez alguém me consiga explicar melhor esta "novidade anunciada" do "investimento da Microsoft em Portugal". Porque para mim nem parece uma coisa nova, nem um investimento em Portugal - mas revela outras coisas... É que isto é na realidade um acordo entre a Microsoft (US) e NScale (UK) para alojar servidores Dell (US) com gráficas NVidia (US) em datacenters nos Estados Unidos e na Europa - já <a href="https://www.nscale.com/press-releases/nscale-microsoft-2025">anunciado no mês passado</a>. Um desses datacenters Europeus será o de Sines, em Portugal, onde esses "servidores para AI" irão estar a <a href="https://www.jornalmapa.pt/2024/12/02/transicao-energetica-e-zonas-de-sacrificio/">sugar energia</a> (e sim, aposto que isso irá gerar receita para a Start Campus, ainda que não vão ser os tais dez mil milhões - e apesar da Start Campus ser detida por fundos US+UK, sempre mantém postos de trabalho em Portugal...).</p>
+
+<p>Mas se isto já me pareceria "pouco para celebrar" (lá está, talvez me esteja a escapar qualquer coisa), o que me aflige é a parte de que ninguém está a falar - uma AI farm em Portugal para quê? E a resposta também já nos foi dada no anúncio do mês passado, e devia-nos preocupar: o objectivo da Microsoft é ter como "providenciar a clientes Europeias soluções de IA soberana, dentro da Europa" - ou todo este investimento da Microsoft é para a Microsoft tentar vender na europa as suas soluções de "Microsoft Sovereign Cloud" que, como sabemos, <a href="https://artmotion.eu/en/insights/blog/why-is-sovereign-washing-putting-europe-at-risk.html">de soberanas não têm nada</a>.</p>
+
+<p>É possível que eu não esteja a ver bem a coisa - e haja aqui uma dimensão, talvez até óbvia, que me esteja a passar ao lado. Mas mesmo que assim seja, este papaguear de uma "boa notícia" sem explicar a notícia ou porque é boa pouco abona do jornalismo que tem coberto este re-anúncio.</p>
+
+<p>tags: <a href='tag_Microsoft.html'>Microsoft</a>, <a href='tag_Sines.html'>Sines</a>, <a href='tag_StartCampus.html'>StartCampus</a>, <a href='tag_AI.html'>AI</a>, <a href='tag_IA.html'>IA</a>, <a href='tag_Nvidia.html'>Nvidia</a>, <a href='tag_Nscale.html'>Nscale</a>, <a href='tag_cloud.html'>cloud</a>, <a href='tag_soberania.html'>soberania</a>, <a href='tag_pt.html'>pt</a></p>
+<!-- text end -->
+]]></description><link>https://tilde.pt/~marado/blog/do-investimento-da-microsoft-em-sines.html</link>
+<guid>https://tilde.pt/~marado/blog/./do-investimento-da-microsoft-em-sines.html</guid>
+<dc:creator>~marado</dc:creator>
+<pubDate>Wed, 12 Nov 2025 16:27:53 +0000</pubDate></item>
 <item><title>
 creating wikidata items in batch: the Portuguese local elections example
 </title><description><![CDATA[
@@ -22,7 +38,7 @@ creating wikidata items in batch: the Portuguese local elections example
 
 <p>PS: I did this, possibly better, for the 2021 elections. I should have documented what I did but I didn't do it, and for 2025 at the begining I didn't even recall that I had been the one doing it for 2021. So, this blog post will hopefully help me know what I will need to do in 2029... but I hope it might also be useful to others, for similar tasks.</p>
 
-<p>tags: <a href='tag_wikidata.html'>wikidata</a>, <a href='tag_bulk.html'>bulk</a>, <a href='tag_quickstatements.html'>quickstatements</a>, <a href='tag_tutorial.html'>tutorial</a></p>
+<p>tags: <a href='tag_wikidata.html'>wikidata</a>, <a href='tag_bulk.html'>bulk</a>, <a href='tag_quickstatements.html'>quickstatements</a>, <a href='tag_tutorial.html'>tutorial</a>, <a href='tag_en.html'>en</a></p>
 <!-- text end -->
 ]]></description><link>https://tilde.pt/~marado/blog/creating-wikidata-items-in-batch-the-portuguese-local-elections-example.html</link>
 <guid>https://tilde.pt/~marado/blog/./creating-wikidata-items-in-batch-the-portuguese-local-elections-example.html</guid>
@@ -55,7 +71,7 @@ album</a>
 or even purchase its <a href="https://www.discogs.com/sell/item/1051619153">cassette tape
 edition</a>.</p>
 
-<p>tags: <a href='tag_music.html'>music</a>, <a href='tag_kokori.html'>kokori</a>, <a href='tag_qink.html'>qink</a>, <a href='tag_rootkit.html'>rootkit</a></p>
+<p>tags: <a href='tag_music.html'>music</a>, <a href='tag_kokori.html'>kokori</a>, <a href='tag_qink.html'>qink</a>, <a href='tag_rootkit.html'>rootkit</a>, <a href='tag_en.html'>en</a></p>
 <!-- text end -->
 ]]></description><link>https://tilde.pt/~marado/blog/musical-endeavours.html</link>
 <guid>https://tilde.pt/~marado/blog/./musical-endeavours.html</guid>

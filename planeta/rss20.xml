@@ -9,6 +9,19 @@
 	<atom:link rel="self" href="http://tilde.pt/~marado/planeta/rss20.xml" type="application/rss+xml"/>
 
 <item>
+	<title>~marado: Do investimento da Microsoft em Sines</title>
+	<guid isPermaLink="false">https://tilde.pt/~marado/blog/./do-investimento-da-microsoft-em-sines.html</guid>
+	<link>https://tilde.pt/~marado/blog/do-investimento-da-microsoft-em-sines.html</link>
+	<description>&lt;p&gt;Talvez alguém me consiga explicar melhor esta &quot;novidade anunciada&quot; do &quot;investimento da Microsoft em Portugal&quot;. Porque para mim nem parece uma coisa nova, nem um investimento em Portugal - mas revela outras coisas... É que isto é na realidade um acordo entre a Microsoft (US) e NScale (UK) para alojar servidores Dell (US) com gráficas NVidia (US) em datacenters nos Estados Unidos e na Europa - já &lt;a href=&quot;https://www.nscale.com/press-releases/nscale-microsoft-2025&quot;&gt;anunciado no mês passado&lt;/a&gt;. Um desses datacenters Europeus será o de Sines, em Portugal, onde esses &quot;servidores para AI&quot; irão estar a &lt;a href=&quot;https://www.jornalmapa.pt/2024/12/02/transicao-energetica-e-zonas-de-sacrificio/&quot;&gt;sugar energia&lt;/a&gt; (e sim, aposto que isso irá gerar receita para a Start Campus, ainda que não vão ser os tais dez mil milhões - e apesar da Start Campus ser detida por fundos US+UK, sempre mantém postos de trabalho em Portugal...).&lt;/p&gt;
+
+&lt;p&gt;Mas se isto já me pareceria &quot;pouco para celebrar&quot; (lá está, talvez me esteja a escapar qualquer coisa), o que me aflige é a parte de que ninguém está a falar - uma AI farm em Portugal para quê? E a resposta também já nos foi dada no anúncio do mês passado, e devia-nos preocupar: o objectivo da Microsoft é ter como &quot;providenciar a clientes Europeias soluções de IA soberana, dentro da Europa&quot; - ou todo este investimento da Microsoft é para a Microsoft tentar vender na europa as suas soluções de &quot;Microsoft Sovereign Cloud&quot; que, como sabemos, &lt;a href=&quot;https://artmotion.eu/en/insights/blog/why-is-sovereign-washing-putting-europe-at-risk.html&quot;&gt;de soberanas não têm nada&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;É possível que eu não esteja a ver bem a coisa - e haja aqui uma dimensão, talvez até óbvia, que me esteja a passar ao lado. Mas mesmo que assim seja, este papaguear de uma &quot;boa notícia&quot; sem explicar a notícia ou porque é boa pouco abona do jornalismo que tem coberto este re-anúncio.&lt;/p&gt;
+
+&lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_Microsoft.html&quot;&gt;Microsoft&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_Sines.html&quot;&gt;Sines&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_StartCampus.html&quot;&gt;StartCampus&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_AI.html&quot;&gt;AI&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_IA.html&quot;&gt;IA&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_Nvidia.html&quot;&gt;Nvidia&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_Nscale.html&quot;&gt;Nscale&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_cloud.html&quot;&gt;cloud&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_soberania.html&quot;&gt;soberania&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_pt.html&quot;&gt;pt&lt;/a&gt;&lt;/p&gt;</description>
+	<pubDate>Wed, 12 Nov 2025 16:27:53 +0000</pubDate>
+</item>
+<item>
 	<title>~marado: creating wikidata items in batch: the Portuguese local elections example</title>
 	<guid isPermaLink="false">https://tilde.pt/~marado/blog/./creating-wikidata-items-in-batch-the-portuguese-local-elections-example.html</guid>
 	<link>https://tilde.pt/~marado/blog/creating-wikidata-items-in-batch-the-portuguese-local-elections-example.html</link>
@@ -25,7 +38,7 @@
 
 &lt;p&gt;PS: I did this, possibly better, for the 2021 elections. I should have documented what I did but I didn't do it, and for 2025 at the begining I didn't even recall that I had been the one doing it for 2021. So, this blog post will hopefully help me know what I will need to do in 2029... but I hope it might also be useful to others, for similar tasks.&lt;/p&gt;
 
-&lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_wikidata.html&quot;&gt;wikidata&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_bulk.html&quot;&gt;bulk&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_quickstatements.html&quot;&gt;quickstatements&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_tutorial.html&quot;&gt;tutorial&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_wikidata.html&quot;&gt;wikidata&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_bulk.html&quot;&gt;bulk&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_quickstatements.html&quot;&gt;quickstatements&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_tutorial.html&quot;&gt;tutorial&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_en.html&quot;&gt;en&lt;/a&gt;&lt;/p&gt;</description>
 	<pubDate>Wed, 30 Jul 2025 11:41:36 +0000</pubDate>
 </item>
 <item>
@@ -55,7 +68,7 @@ album&lt;/a&gt;
 or even purchase its &lt;a href=&quot;https://www.discogs.com/sell/item/1051619153&quot;&gt;cassette tape
 edition&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_music.html&quot;&gt;music&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_kokori.html&quot;&gt;kokori&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_qink.html&quot;&gt;qink&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_rootkit.html&quot;&gt;rootkit&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_music.html&quot;&gt;music&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_kokori.html&quot;&gt;kokori&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_qink.html&quot;&gt;qink&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_rootkit.html&quot;&gt;rootkit&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_en.html&quot;&gt;en&lt;/a&gt;&lt;/p&gt;</description>
 	<pubDate>Tue, 10 Jun 2025 16:00:21 +0000</pubDate>
 </item>
 <item>
@@ -955,21 +968,6 @@ O lançamento deste livro vai ser já no próximo dia 5 de Junho, enquadrado no 
 
 &lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_livro.html&quot;&gt;livro&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_escrita.html&quot;&gt;escrita&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_Lamego.html&quot;&gt;Lamego&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_SciFi.html&quot;&gt;SciFi&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_pt.html&quot;&gt;pt&lt;/a&gt;&lt;/p&gt;</description>
 	<pubDate>Sat, 28 May 2022 19:12:00 +0000</pubDate>
-</item>
-<item>
-	<title>~maria: Convite</title>
-	<guid isPermaLink="false">https://tilde.pt/~maria/blog/./convite.html</guid>
-	<link>https://tilde.pt/~maria/blog/convite.html</link>
-	<description>&lt;p&gt;Olá!&lt;/p&gt;
-
-&lt;p&gt;Queria convidar-te para a minha festa de aniversário, no dia 26 de fevereiro em minha casa às 11:00, termina às 17:00, vai ter churrasco (se o tempo ajudar) e outras atividades e também vai ter lanche, que vou ser eu a preparar.&lt;/p&gt;
-
-&lt;p&gt;E se tiverem tragam computador para jogar minecraft e o skate.  &lt;/p&gt;
-
-&lt;p&gt;Peçam aos vossos pais para confirmarem a vossa presença ao meu pai :) &lt;/p&gt;
-
-&lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~maria/blog/tag_anivers%C3%A1rio.html&quot;&gt;aniversário&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~maria/blog/tag_convite.html&quot;&gt;convite&lt;/a&gt;&lt;/p&gt;</description>
-	<pubDate>Sun, 16 Jan 2022 17:26:36 +0000</pubDate>
 </item>
 
 </channel>

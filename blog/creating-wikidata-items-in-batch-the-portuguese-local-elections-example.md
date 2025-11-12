@@ -11,4 +11,4 @@ This is what I did for the 2025 elections. It's quite probably not the best way 
 
 PS: I did this, possibly better, for the 2021 elections. I should have documented what I did but I didn't do it, and for 2025 at the begining I didn't even recall that I had been the one doing it for 2021. So, this blog post will hopefully help me know what I will need to do in 2029... but I hope it might also be useful to others, for similar tasks.
 
-tags: wikidata, bulk, quickstatements, tutorial
+tags: wikidata, bulk, quickstatements, tutorial, en

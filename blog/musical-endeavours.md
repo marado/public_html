@@ -24,4 +24,4 @@ or even purchase its [cassette tape
 edition](https://www.discogs.com/sell/item/1051619153).
 
 
-tags: music, kokori, qink, rootkit
+tags: music, kokori, qink, rootkit, en
