@@ -23,10 +23,10 @@
 # prev_url = https://tilde.pt/~marado/twtxt-2008.txt
 # prev_visualizer = https://tilde.pt/~marado/twtxt-2008.html
 #
-# You can find the next decade of 201x (2010-2019) at:
-# next_nick = marado-201x
-# next_url = https://tilde.pt/~marado/twtxt-201x.txt
-# next_visualizer = https://tilde.pt/~marado/twtxt-201x.php
+# You can find the next year at:
+# next_nick = marado-2010
+# next_url = https://tilde.pt/~marado/twtxt-2010.txt
+# next_visualizer = https://tilde.pt/~marado/twtxt-2010.html
 #
 # You can find my current feed at:
 # current_nick = marado
