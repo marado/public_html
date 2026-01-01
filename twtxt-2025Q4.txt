@@ -4,35 +4,24 @@
 #
 # Learn more about twtxt at  https://github.com/buckket/twtxt
 #
-# This is hosted by Ciberlândia, a Mastodon community dedicated to digital
-# culture and its intersection with all areas that focus on creativity, society
-# and human interaction in general, mainly in Portuguese language.
-# Learn more at https://ciberlandia.pt
-#
-# The numeric value between the date and the status text (#...) is the id
-# of that toot, so you can easily find the URL of a toot.
-#
-# By default, you will only see the 20 most recent statuses.
-#
-# You can also set parameters "limit" and "offset" in your query string if
-# you want to fetch more statuses. Please note that you can only fetch up
-# to 200 statuses at a time. 
-#
-# E.g. to get the latest 200 statuses:
-# https://ciberlandia.pt/@marado.txt?limit=200
-#
-# E.g. to skip the latest 200 status, and fetch the 200 previous ones:
-# https://ciberlandia.pt/@marado.txt?offset=200&limit=200
-#
-# nick        = @marado@ciberlandia.pt
-# url         = https://ciberlandia.pt/@marado.txt
+# This is my feed of twts during the last quarter of 2025:
+# nick        = marado-2025Q4
+# url         = https://tilde.pt/~marado/twtxt-2025Q4.txt
 # avatar      = https://media.ciberlandia.pt/ciberlandia-media/accounts/avatars/110/995/967/220/365/140/original/fa4bd5e19794d18f.png
-# description = Publicações públicas de @marado@ciberlandia.pt
+# description = marado@ciberlandia.pt publications during the last quarter of 2025
+#
+# You can find the previous feed (June 2025) at:
+# prev_nick = marado-2025Q3
+# prev_url = https://tilde.pt/~marado/twtxt-2025Q3.txt
+# prev_visualizer = https://tilde.pt/~marado/twtxt-2025Q3.html
+# nick_alias = marado-2025Q3
+# url_alias = https://tilde.pt/~marado/twtxt-2025Q3.txt
+#
+# You can find my current feed at:
+# current_nick = marado
+# current_url = https://tilde.pt/~marado/twtxt.txt
+# current_visualizer = https://tilde.pt/~marado/twtxt.php
 
-2026-01-01T16:34:40Z	 (#115820808157184756) It's that time again, I've just rotated my #twtxt feed!  Find last quarter's twts [at the feed](https://tilde.pt/~marado/twtxt-2025Q4.txt), or see them [on the web](https://tilde.pt/~marado/twtxt-2025Q4.html).
-2026-01-01T13:20:25Z	 (#115820044319782346) #musiquinta - conheci em 2025  Não quero mentir e não tenho a certeza absoluta, mas acho que só em 2025 conheci os La Tène. Seja como for, foi em 2025 que luz um álbum deles na minha wishlist...  https://lateneband.bandcamp.com/track/les-d-clives
-2026-01-01T13:11:26Z	 (#115820008967089123) Agatha Christie, Dorothy L. Sayers, Franz Kafka...  Public Domain Day 2026 in Literature:  (download in epub here, and) Read 20 of the "best books" entering the public domain in 2026!
-2026-01-01T00:30:33Z	 (#115817017084767928) Feliz Dia do Domínio Público!  https://ansol.org/noticias/2026-01-01-dia-do-dominio-publico/
 2025-12-31T20:31:36Z	 (#115816077518401165) @birb@rss-parrot.net https://nealstephenson.substack.com/feed
 2025-12-31T17:18:51Z	 (#115815319591960768) 👉 TOP 10 - EDIÇÕES 2025  ÁLBUNS MAIS DESCARREGADOS NO BANDCAMP DA ADC 🎧 🛒 https://anti-demos-cracia.bandcamp.com  01. V/A - 25.12 02. Orquestra Popular de Paio Pires - 150 A Morte do Borrego 03. IdiossINcrasias - Vol 1 (Floating Ashes + Kokori) 04. Resonant - Ecos (de estilhaços planetários endossomáticos) 05. The Dreams Never End - Alma Partida 06. Turning Point - Porque a Lua se Quebrou 07. V/A - ADC Sampler 2024 08. Sci Fi Industries - Initial States 09. IdiossINcrasias - Vol 2 (Herr G meets Fuel2Fight + Primata) 10. Carnal Depression - Carnal Depression  #kokori #ADC ![Top 10 álbuns 2025 Bandcamp da Anti-Demos-Cracia www.anti-demos-cracia.bandcamp.com](https://media.ciberlandia.pt/ciberlandia-media/media_attachments/files/115/815/314/731/841/089/original/a5ec575d3faede6a.jpg)
 2025-12-31T15:51:48Z	 (#115814977262352834) Os 50 Artigos Mais Lidos da Wikipédia Lusófona em 2025: O Que Nos Dizem Sobre o Ano  https://wikimedia.pt/2025/12/31/os-50-artigos-mais-lidos-da-wikipedia-lusofona-em-2025-o-que-nos-dizem-sobre-o-ano/
@@ -229,3 +218,8 @@
 2025-10-09T08:15:25Z	 (#115343210909295452) Começar o dia de #musiquinta sobre #versões com um ☕ para acordar: é a "Coffee" dos #Raindogs a ser interpretada pelos #kokori :  https://anti-demos-cracia.bandcamp.com/track/kokori-coffee
 2025-10-08T13:23:51Z	 (#115338761405484624) #MaradoWeekly #WeeklyPlant Week 40 ![Five green hot chili peppers, the first we ever grew, freshly picked up after one of them got slightly sunburnt.](https://media.ciberlandia.pt/ciberlandia-media/media_attachments/files/115/338/755/068/349/895/original/4937311164eacc52.jpg)
 2025-10-05T10:45:45Z	 (#115321152820544320) O último dia de #festasoftwarelivre continua em grande, e para quem não pode estar pelo #Porto continua a poder acompanhar online:  https://festa2025.softwarelivre.eu/streaming/ ![Captura de ecrã do streaming de uma das salas](https://media.ciberlandia.pt/ciberlandia-media/media_attachments/files/115/321/149/915/344/599/original/878d32da04b73f00.jpg)
+2025-10-04T09:49:53Z	 (#115315270849471379) Já começou o segundo dia da #festasoftwarelivre - no Porto. Ainda vêm a tempo de aparecer, e se não podem algumas das salas têm transmissão em linha.  #SoftwareFreedomDay ![Welcome!](https://media.ciberlandia.pt/ciberlandia-media/media_attachments/files/115/315/265/168/801/245/original/f4aa8a8db182a1b2.jpg) ![t-shirt](https://media.ciberlandia.pt/ciberlandia-media/media_attachments/files/115/315/265/940/043/455/original/1bacc47dcaa3e019.jpg) ![Sessão de apresentação](https://media.ciberlandia.pt/ciberlandia-media/media_attachments/files/115/315/266/844/379/401/original/662b4dd19f1ecc89.jpg) ![Apresentação sobre soberania digital](https://media.ciberlandia.pt/ciberlandia-media/media_attachments/files/115/315/267/480/291/736/original/1308cfccdb561794.jpg)
+2025-10-03T16:03:58Z	 (#115311079517005291) The real use for this year's #Hacktoberfest, it seems was that I got an unsolicited e-mail from #Holopin, reminding me that they have my e-mail address - not for the best of reasons. Did I really subscribe to an holopin mailing list? I don't think so, but matters not - this made me realize that I *am* subscribed to one or several holopin mailing lists, so what better moment to unsubscribe? Click, click, oops, "403 ERROR" (Generated by cloudfront).  Well, OK... why do I want an holopin account, anyway? Let me just delete my account, and get done with it. Profile, Account settings, Deleting personal data... "To request account deletion, please email support@holopin.io." WTF, seriously? It's 2025!  Mail sent.
+2025-10-03T12:48:05Z	 (#115310309266989868) A @FestaSoftwareLivre@masto.pt deste ano já começou: são três dias em que se celebra o #SoftwareLivre - entrada gratuita, é claro, no #Porto.  Não podes ir todos os dias? Não tem mal, algumas das pistas estão a ser transmitidas online, em https://festa2025.softwarelivre.eu/streaming/  #FSL25 #SFD2025  [EN] Some of the talks (especially in the Drupal track) are in English, so you might interest to join us, from today till Sunday, either physically (Porto, Portugal) or following the streaming!  https://masto.pt/@FestaSoftwareLivre/115309542563016056
+2025-10-02T08:59:58Z	 (#115303749936122846) Nem #disco nem música dos #anos70 costumam estar nas minhas audições, mas visto que esse é o tema desta #musiquinta, fui tirar ao pó a um disco-disquito dessa década: "Baccara - Yes Sir, I Can Boogie"  https://www.youtube.com/watch?v=zL831kQUbEo ![Foto do single "Yes Sir, I Can Boogie" das Baccara a tocar, com a capa à mostra. Pela capa consegue-se ver que o lado B tem a música "Cara mia". A capa propriamente dita são as duas cantoras vestidas com o que se calhar são camisas de dormir, uma de preto e a outra de branco. Uma delas segura uma rosa. A edição é da RCA Victor.](https://media.ciberlandia.pt/ciberlandia-media/media_attachments/files/115/303/738/966/755/341/original/02f9f4e2fb922d26.jpg)
+2025-10-01T08:53:51Z	 (#115298063551808231) Há 33 anos, antes do mastodon ou das redes sociais, antes dos metaversos 3D sem pernas, antes do DRM na web, antes das redes sociais, antes dos blogs, antes da web 2.0;  Há 33 anos atrás, ainda era a Internet Portuguesa uma criança, nasceu o primeiro #Talker Português, uma comunidade virtual que, 33 anos depois, continua activa.  Parabéns, #SelvaVirtual !  https://selva.grogue.org
