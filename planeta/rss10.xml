@@ -15,6 +15,7 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2022/07/IBM-604-no-LNEC" />
 			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./sobre-o-debate-na-radio-entre-os-candidatos-menores-a-presidencia-da-republica.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./do-investimento-da-microsoft-em-sines.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./creating-wikidata-items-in-batch-the-portuguese-local-elections-example.html" />
@@ -52,7 +53,6 @@
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/05/Netiquette" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/06/CodeV2" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Way-Out" />
-			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2022/07/IBM-604-no-LNEC" />
 			<rdf:li rdf:resource="https://tilde.pt/~maique/blog/./folga.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~maique/blog/./de-volta.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./nao-e-procrastinacao-e-outra-coisa.html" />
@@ -79,6 +79,12 @@
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2022/07/IBM-604-no-LNEC">
+	<title>N.S. do Computismo: IBM 604 no LNEC</title>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2022/07/IBM-604-no-LNEC</link>
+	<content:encoded>&lt;p&gt;&lt;a href=&quot;https://arquivos.rtp.pt/conteudos/conferencia-de-gustavo-de-castro-no-lnec/&quot;&gt;&lt;img alt=&quot;IBM 604 no LNEC&quot; src=&quot;https://cdn-images.rtp.pt/arquivo/2022/04/gust.png?crop=top&amp;amp;fit=crop&amp;amp;h=461&amp;amp;ixlib=php-1.1.0&amp;amp;w=860&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2026-06-10T15:20:03+00:00</dc:date>
+</item>
 <item rdf:about="https://tilde.pt/~marado/blog/./sobre-o-debate-na-radio-entre-os-candidatos-menores-a-presidencia-da-republica.html">
 	<title>~marado: Sobre o debate na rádio entre os &quot;candidatos menores&quot; à Presidência da República</title>
 	<link>https://tilde.pt/~marado/blog/sobre-o-debate-na-radio-entre-os-candidatos-menores-a-presidencia-da-republica.html</link>
@@ -410,12 +416,6 @@ more at &lt;a href=&quot;http://natashenka.ca/wp-content/uploads/2014/01/truebug
 	<title>N.S. do Computismo: You've Found Your Way In, But Is There a Way Out?</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2021/07/Way-Out</link>
 	<content:encoded>&lt;p&gt;&lt;img alt=&quot;Hacker Magazine cover&quot; src=&quot;https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/img/wayout.jpg&quot; /&gt;&lt;/p&gt;</content:encoded>
-	<dc:date>2024-03-02T17:03:10+00:00</dc:date>
-</item>
-<item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2022/07/IBM-604-no-LNEC">
-	<title>N.S. do Computismo: IBM 604 no LNEC</title>
-	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2022/07/IBM-604-no-LNEC</link>
-	<content:encoded>&lt;p&gt;&lt;a href=&quot;https://arquivos.rtp.pt/conteudos/conferencia-de-gustavo-de-castro-no-lnec/&quot;&gt;&lt;img alt=&quot;IBM 604 no LNEC&quot; src=&quot;https://cdn-images.rtp.pt/arquivo/2022/04/gust.png?crop=top&amp;amp;fit=crop&amp;amp;h=461&amp;amp;ixlib=php-1.1.0&amp;amp;w=860&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
 	<dc:date>2024-03-02T17:03:10+00:00</dc:date>
 </item>
 <item rdf:about="https://tilde.pt/~maique/blog/./folga.html">
