@@ -9,6 +9,7 @@
 # url         = https://tilde.pt/~marado/twtxt-2025M04.txt
 # avatar      = https://media.ciberlandia.pt/ciberlandia-media/accounts/avatars/110/995/967/220/365/140/original/fa4bd5e19794d18f.png
 # description = marado@ciberlandia.pt publications during April 2025
+# visualizer  = https://tilde.pt/~marado/twtxt-2025M04.html
 #
 # You can find the previous feed (Q1 2025) at:
 # prev_nick = marado-2025Q1

@@ -4,32 +4,25 @@
 #
 # Learn more about twtxt at  https://github.com/buckket/twtxt
 #
-# This is hosted by Ciberlândia, a Mastodon community dedicated to digital
-# culture and its intersection with all areas that focus on creativity, society
-# and human interaction in general, mainly in Portuguese language.
-# Learn more at https://ciberlandia.pt
-#
-# The numeric value between the date and the status text (#...) is the id
-# of that toot, so you can easily find the URL of a toot.
-#
-# By default, you will only see the 20 most recent statuses.
-#
-# You can also set parameters "limit" and "offset" in your query string if
-# you want to fetch more statuses. Please note that you can only fetch up
-# to 200 statuses at a time. 
-#
-# E.g. to get the latest 200 statuses:
-# https://ciberlandia.pt/@marado.txt?limit=200
-#
-# E.g. to skip the latest 200 status, and fetch the 200 previous ones:
-# https://ciberlandia.pt/@marado.txt?offset=200&limit=200
-#
-# nick        = @marado@ciberlandia.pt
-# url         = https://ciberlandia.pt/@marado.txt
+# This is my feed of twts during the first quarterof 2026:
+# nick        = marado-2026Q1
+# url         = https://tilde.pt/~marado/twtxt-2026Q1.txt
 # avatar      = https://media.ciberlandia.pt/ciberlandia-media/accounts/avatars/110/995/967/220/365/140/original/fa4bd5e19794d18f.png
-# description = Publicações públicas de @marado@ciberlandia.pt
+# description = marado@ciberlandia.pt publications during the first quarter of 2026
+# visualizer  = https://tilde.pt/~marado/twtxt-2026Q01.html
+#
+# You can find the previous feed (Q4 2025) at:
+# prev_nick = marado-2025Q4
+# prev_url = https://tilde.pt/~marado/twtxt-2025Q4.txt
+# prev_visualizer = https://tilde.pt/~marado/twtxt-2025Q4.html
+# nick_alias = marado-2025Q4
+# url_alias = https://tilde.pt/~marado/twtxt-2025Q4.txt
+#
+# You can find my current feed at:
+# current_nick = marado
+# current_url = https://tilde.pt/~marado/twtxt.txt
+# current_visualizer = https://tilde.pt/~marado/twtxt.php
 
-2026-06-22T14:40:29Z	 (#116794276569111463) It's that time again, I've just rotated my #twtxt feed!    Find last quarter's twts [at the feed](https://tilde.pt/~marado/twtxt-2026Q1.txt), or see them [on the web](https://tilde.pt/~marado/twtxt-2026Q1.html).
 2026-06-22T13:37:20Z	 (#116794028217262486) "bioquem?"  Aqui: https://biolence.bandcamp.com/
 2026-06-22T13:32:53Z	 (#116794010743218393) São uma das bandas de death / thrash mais icónicas do nosso underground e regressam a #Lamego para testar (outra vez!) as fundações do velho "castro" e nos dar a conhecer o seu mais recente trabalho "Violent Obliteration" \m/  O #TreBARunA prepara-se para ser atingido por mais uma "nortada": da cidade invicta para Lamego, chegam os demolidores #BIOLENCE \m/  Dia 27 de junho, a partir das 22:00!  Como sempre, ENTRADA LIVRE, presença obrigatória \m/ ![Poster para o concerto de Biolence a 27 de Junho em Lamego, às 22:30. Entrada Livre.](https://media.ciberlandia.pt/ciberlandia-media/media_attachments/files/116/794/006/180/233/954/original/c5b2428bc4573652.jpg)
 2026-06-21T15:47:45Z	 (#116788878723796382) #MaradoWeekly #WeeklyShirt Week 24 ![For this weeky I waited for the last day of ghe week to post this shirt at the beginning of the summer (and the heatwave). It is a Sol Invictus t-shirt, with its blaring red sun logo, because "Summer is icumen in".](https://media.ciberlandia.pt/ciberlandia-media/media_attachments/files/116/788/847/994/427/898/original/6357c918e66ec499.jpg)
@@ -229,3 +222,4 @@
 2026-01-01T16:34:40Z	 (#115820808157184756) It's that time again, I've just rotated my #twtxt feed!  Find last quarter's twts [at the feed](https://tilde.pt/~marado/twtxt-2025Q4.txt), or see them [on the web](https://tilde.pt/~marado/twtxt-2025Q4.html).
 2026-01-01T13:20:25Z	 (#115820044319782346) #musiquinta - conheci em 2025  Não quero mentir e não tenho a certeza absoluta, mas acho que só em 2025 conheci os La Tène. Seja como for, foi em 2025 que luz um álbum deles na minha wishlist...  https://lateneband.bandcamp.com/track/les-d-clives
 2026-01-01T13:11:26Z	 (#115820008967089123) Agatha Christie, Dorothy L. Sayers, Franz Kafka...  Public Domain Day 2026 in Literature:  (download in epub here, and) Read 20 of the "best books" entering the public domain in 2026!
+2026-01-01T00:30:33Z	 (#115817017084767928) Feliz Dia do Domínio Público!  https://ansol.org/noticias/2026-01-01-dia-do-dominio-publico/

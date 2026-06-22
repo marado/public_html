@@ -5,10 +5,11 @@
 # Learn more about twtxt at  https://github.com/buckket/twtxt
 #
 # This is my feed of twts during June 2025:
-# nick        = marado-2025M05
-# url         = https://tilde.pt/~marado/twtxt-2025M05.txt
+# nick        = marado-2025M06
+# url         = https://tilde.pt/~marado/twtxt-2025M06.txt
 # avatar      = https://media.ciberlandia.pt/ciberlandia-media/accounts/avatars/110/995/967/220/365/140/original/fa4bd5e19794d18f.png
-# description = marado@ciberlandia.pt publications during May 2025
+# description = marado@ciberlandia.pt publications during June 2025
+# visualizer  = https://tilde.pt/~marado/twtxt-2025M06.html
 #
 # You can find the previous feed (May 2025) at:
 # prev_nick = marado-2025M05
