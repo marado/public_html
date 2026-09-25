@@ -9,6 +9,15 @@
 	<atom:link rel="self" href="http://tilde.pt/~marado/planeta/rss20.xml" type="application/rss+xml"/>
 
 <item>
+	<title>N.S. do Computismo: Zx Spectrum: De 1982 a Mais Além</title>
+	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2026/09/Zx-Spectrum</guid>
+	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2026/09/Zx-Spectrum</link>
+	<description>&lt;p&gt;&lt;a href=&quot;https://www.rtp.pt/play/p15967/zx-spectrum-de-1982-a-mais-alem&quot;&gt;
+    &lt;img alt=&quot;imagem de capa do documentário 'Zx Spectrum: De 1982 a Mais Além'&quot; src=&quot;https://cdn-images.rtp.pt/EPG/imagens/48362_78228_19508.png?w=900&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;</description>
+	<pubDate>Fri, 25 Sep 2026 10:35:42 +0000</pubDate>
+</item>
+<item>
 	<title>~dfaria: Um regresso à web 1.0</title>
 	<guid isPermaLink="false">https://tilde.pt/~dfaria/blog/./um-regresso-a-web-10.html</guid>
 	<link>https://tilde.pt/~dfaria/blog/um-regresso-a-web-10.html</link>
@@ -937,16 +946,6 @@ budd &lt;/p&gt;
 	<link>https://tilde.pt/~budd/blog/titulo-nova-entrada.html</link>
 	<description>&lt;p&gt;texto nova entrada&lt;/p&gt;</description>
 	<pubDate>Sun, 11 Dec 2022 21:48:14 +0000</pubDate>
-</item>
-<item>
-	<title>~budd: budd has checked-in</title>
-	<guid isPermaLink="false">https://tilde.pt/~budd/blog/./budd-has-checked-in.html</guid>
-	<link>https://tilde.pt/~budd/blog/budd-has-checked-in.html</link>
-	<description>&lt;p&gt;The rest of the text file is a &lt;strong&gt;Markdown&lt;/strong&gt; blog post. The process will continue
-as soon as you exit your editor. .... hummm what? &lt;strong&gt;searchThis&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~budd/blog/tag_keep-this-tag-format.html&quot;&gt;keep-this-tag-format&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~budd/blog/tag_tags-are-optional.html&quot;&gt;tags-are-optional&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~budd/blog/tag_beware-with-underscores-in-markdown.html&quot;&gt;beware-with-underscores-in-markdown&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~budd/blog/tag_example.html&quot;&gt;example&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~budd/blog/tag_whats.html&quot;&gt;whats&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~budd/blog/tag_the_problem.html&quot;&gt;the_problem&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~budd/blog/tag_of-a-underscore.html&quot;&gt;of-a-underscore&lt;/a&gt;&lt;/p&gt;</description>
-	<pubDate>Sat, 10 Dec 2022 18:54:12 +0000</pubDate>
 </item>
 
 </channel>
