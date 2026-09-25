@@ -9,6 +9,38 @@
 	<atom:link rel="self" href="http://tilde.pt/~marado/planeta/rss20.xml" type="application/rss+xml"/>
 
 <item>
+	<title>~dfaria: Um regresso à web 1.0</title>
+	<guid isPermaLink="false">https://tilde.pt/~dfaria/blog/./um-regresso-a-web-10.html</guid>
+	<link>https://tilde.pt/~dfaria/blog/um-regresso-a-web-10.html</link>
+	<description>&lt;p&gt;As páginas web pessoais que proliferaram nos finais dos anos 90 e inícios dos anos 2000 
+praticamente desapareceram com o advento das redes sociais. Parece mais &quot;confortável&quot; criar apenas 
+uma conta numa rede social do que se dar ao trabalho de aprender html, css, bash, php, python, 
+etc, para se ter uma presença no mundo digital. Contudo, estar apenas nas redes sociais não passa 
+de uma mera presença estandardizada em que não há grande oportunidade para se desenvolver a 
+criatividade e identidade digital, ao contrário do que acontecia nas pequenas páginas web pessoais 
+e blogs dos anos 2000. Por isso, talvez valha a pena voltar às formas mais tradicionais de se 
+marcar presença no mundo digital, de forma descentralizada e em servidores comunitários. É por 
+isso que saúdo iniciativas como a do &lt;a href=&quot;https://tilde.pt&quot;&gt;tilde.pt&lt;/a&gt; que oferece uma excelente experiência de 
+regresso à web 1.0, à linha de comandos Bash, à pequena web, em suma, a uma web mais lenta e 
+simultaneamente mais humana. Estou agora presente no tildeverso em dois lugares; 
+institucionalmente estou em &lt;a href=&quot;https://pages.up.pt/~up596591&quot;&gt;https://pages.up.pt/~up596591&lt;/a&gt; e 
+pessoalmente em &lt;a href=&quot;https://tilde.pt/~dfaria&quot;&gt;https://tilde.pt/~dfaria&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;tilde.pt&quot; src=&quot;https://tilde.pt/~dfaria/blog/img/2026-09-24-tilde.png&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~dfaria/blog/tag_etc.html&quot;&gt;etc&lt;/a&gt;&lt;/p&gt;</description>
+	<pubDate>Thu, 24 Sep 2026 22:52:44 +0000</pubDate>
+</item>
+<item>
+	<title>~dfaria: Olá mundo!</title>
+	<guid isPermaLink="false">https://tilde.pt/~dfaria/blog/./ola-mundo.html</guid>
+	<link>https://tilde.pt/~dfaria/blog/ola-mundo.html</link>
+	<description>&lt;p&gt;Primeiro post...&lt;/p&gt;
+
+&lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~dfaria/blog/tag_etc.html&quot;&gt;etc&lt;/a&gt;&lt;/p&gt;</description>
+	<pubDate>Tue, 22 Sep 2026 22:58:25 +0000</pubDate>
+</item>
+<item>
 	<title>N.S. do Computismo: IBM 604 no LNEC</title>
 	<guid isPermaLink="true">https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2022/07/IBM-604-no-LNEC</guid>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2022/07/IBM-604-no-LNEC</link>
@@ -915,48 +947,6 @@ as soon as you exit your editor. .... hummm what? &lt;strong&gt;searchThis&lt;/s
 
 &lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~budd/blog/tag_keep-this-tag-format.html&quot;&gt;keep-this-tag-format&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~budd/blog/tag_tags-are-optional.html&quot;&gt;tags-are-optional&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~budd/blog/tag_beware-with-underscores-in-markdown.html&quot;&gt;beware-with-underscores-in-markdown&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~budd/blog/tag_example.html&quot;&gt;example&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~budd/blog/tag_whats.html&quot;&gt;whats&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~budd/blog/tag_the_problem.html&quot;&gt;the_problem&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~budd/blog/tag_of-a-underscore.html&quot;&gt;of-a-underscore&lt;/a&gt;&lt;/p&gt;</description>
 	<pubDate>Sat, 10 Dec 2022 18:54:12 +0000</pubDate>
-</item>
-<item>
-	<title>~rlafuente: Novo post</title>
-	<guid isPermaLink="false">https://tilde.pt/~rlafuente/blog/./novo-post.html</guid>
-	<link>https://tilde.pt/~rlafuente/blog/novo-post.html</link>
-	<description>&lt;p&gt;Já ao tempo que quero tirar o pó a este blog e voltar à prática de escrever
-publicamente sem complexos.&lt;/p&gt;
-
-&lt;p&gt;E claro, já vão meses desde que a vontade está aí, mas já explorei meia dúzia
-de estruturas de post e terminar algo fica sempre para o dia seguinte.&lt;/p&gt;
-
-&lt;p&gt;Por isso zás, segue este post para desbloquear e espero que resulte.&lt;/p&gt;</description>
-	<pubDate>Mon, 24 Oct 2022 15:46:11 +0000</pubDate>
-</item>
-<item>
-	<title>~marado: Breve Introdução ao git, gitlab e github</title>
-	<guid isPermaLink="false">https://tilde.pt/~marado/blog/./breve-introducao-ao-git-gitlab-e-github.html</guid>
-	<link>https://tilde.pt/~marado/blog/breve-introducao-ao-git-gitlab-e-github.html</link>
-	<description>&lt;p&gt;Todos os anos em Outubro acontece o
-&lt;a href=&quot;https://hacktoberfest.com/&quot;&gt;Hacktoberfest&lt;/a&gt;: um evento que funciona como um
-concurso, em que se incentiva e promove a colaboração em projectos de Software
-Livre.&lt;/p&gt;
-
-&lt;p&gt;Tal como no ano passado, a &lt;a href=&quot;https://ansol.org&quot;&gt;ANSOL&lt;/a&gt; está a promover e
-facilitar a participação ao Hacktoberfest, apoio esse que vai ser pontuado com
-alguns eventos ao longo do mês.&lt;/p&gt;
-
-&lt;p&gt;Para começar, vou amanhã (dia 13 de Outubro, às 22h) fazer uma apresentação
-introdutória sobre &lt;a href=&quot;https://git-scm.com/&quot;&gt;git&lt;/a&gt;, ferramenta que é utilizada no
-Hacktoberfest, ainda que maioritariamente focando na sua utilização nas
-plataformas &lt;a href=&quot;https://gitlab.com&quot;&gt;gitlab&lt;/a&gt; ou &lt;a href=&quot;https://github.com&quot;&gt;github&lt;/a&gt; - que
-são as usadas no evento.&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&quot;cartaz do evento&quot; src=&quot;https://ansol.org/eventos/2022-10-13-hacktoberfest/poster.png&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Assim, estão todos convidados a
-&lt;a href=&quot;https://matrix.to/#/#hacktoberfest:ansol.org&quot;&gt;assistir&lt;/a&gt; a esta pequena
-apresentação online e gratuita, mesmo que não tenham interesse em depois
-participar no Hacktoberfest.&lt;/p&gt;
-
-&lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_ANSOL.html&quot;&gt;ANSOL&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_git.html&quot;&gt;git&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_gitlab.html&quot;&gt;gitlab&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_github.html&quot;&gt;github&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_hactoberfest.html&quot;&gt;hactoberfest&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_presentation.html&quot;&gt;presentation&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_Free-Software.html&quot;&gt;Free-Software&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_pt.html&quot;&gt;pt&lt;/a&gt;&lt;/p&gt;</description>
-	<pubDate>Wed, 12 Oct 2022 17:26:29 +0000</pubDate>
 </item>
 
 </channel>
