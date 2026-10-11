@@ -15,6 +15,7 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./remember-burning-dvds.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2026/09/Zx-Spectrum" />
 			<rdf:li rdf:resource="https://tilde.pt/~dfaria/blog/./um-regresso-a-web-10.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~dfaria/blog/./ola-mundo.html" />
@@ -74,11 +75,35 @@
 			<rdf:li rdf:resource="https://tilde.pt/~budd/blog/./quote.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~marado/blog/./merankorii-live-at-club-tidals-night-stream.html" />
 			<rdf:li rdf:resource="https://tilde.pt/~budd/blog/./obrigado.html" />
-			<rdf:li rdf:resource="https://tilde.pt/~budd/blog/./titulo-nova-entrada.html" />
 		</rdf:Seq>
 	</items>
 </channel>
 
+<item rdf:about="https://tilde.pt/~marado/blog/./remember-burning-dvds.html">
+	<title>~marado: Remember burning DVDs?</title>
+	<link>https://tilde.pt/~marado/blog/remember-burning-dvds.html</link>
+	<content:encoded>&lt;p&gt;It has been 0 days since I've burned a DVD.&lt;/p&gt;
+
+&lt;p&gt;That's right, trying to &quot;recover&quot; an old laptop, one of those that won't boot from USB thumb drives. Found out that it is still possible to buy blank DVD media where I live (DVD-R or DVD+R, but not DVD-RW; 90 cents per disc). I still remember when Debian could boast of being &quot;The Universal Operating System&quot; (it still does, I know) but nowadays that's far from the case - Debian no longer supports i686 machines, so I had to opt for an alternative...&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://voidlinux.org/&quot;&gt;Void Linux&lt;/a&gt; was the answer: it is actively developed and its latest version still supports machines with the target specifications (i686, 1Gb RAM), with graphical interface (xfce). So, that's what I aimed for, and burnt &lt;code&gt;void-live-i686-20250202-xfce.iso&lt;/code&gt; (an ISO too big to fit a CD, but fortunately that was not a limitation I had to deal with this time)...&lt;/p&gt;
+
+&lt;p&gt;...which fails to install (actually, it fails to boot) on this machine. It seems that I wasn't the first person stumbling into &lt;a href=&quot;https://www.reddit.com/r/voidlinux/comments/1r6k03d/void_linux_i686_live_iso_wont_boot_with_more_than/&quot;&gt;this issue&lt;/a&gt; (apparently if it had only 512Mb it would boot, but I did not open the machine to see if the RAM in it is in how many modules...).&lt;/p&gt;
+
+&lt;p&gt;My &quot;solution&quot; was to burn another DVD, with an older version - and just to raise my chances, I went for the oldest version available: &lt;code&gt;void-live-i686-20230628-xfce.iso&lt;/code&gt;. And, go figure, it boots! So I installed this version, and then updated the system. Well, before updating, I had to configure the keyboard again (the installer choice wasn't enough), and the machine's date (the hardware clock thought we were in 2004, just so you get an idea of what has this laptop been 'doing' these past few years...). Then, I configured it to autologin and not lock the screen when the screensaver starts (which meant editing a file, which meant installing vim; I should probably leave these kinds of configurations for after the upgrade, but I just did it when I remembered). While the upgrade was ongoing, I started Firefox just to skip the initial steps and remove its sponsored shortcuts (which isn't done how one would expect, and it is sad to see dark patterns in something that used to be given as a great example of Free Software...).&lt;/p&gt;
+
+&lt;p&gt;Don't worry - I am not planning on having this machine trying to go to the World Wide Web (and I know from experience that Firefox is not the browser to try to use in a low resources machine), but the browser comes installed by default, and to be honest it is a good idea to have it on the ready in case one is needed in an emergency...&lt;/p&gt;
+
+&lt;p&gt;After the upgrade I installed LibreOffice, tried it out and added a shortcut to it on the applications bar.&lt;/p&gt;
+
+&lt;p&gt;Finally, I rebooted the machine to see if everything was fine (it was!), and... well, an old laptop has just been given a new life! :-)&lt;/p&gt;
+
+&lt;p&gt;PS: after having experienced Xubuntu and Bodhi Linux with XFCE in old laptops that are not as old as this one, I must say I am surprised with how responsive this machine is with void linux (even if my experience with it wasn't much - just what I described).&lt;/p&gt;
+
+&lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_DVD.html&quot;&gt;DVD&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_Linux.html&quot;&gt;Linux&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_burn.html&quot;&gt;burn&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_laptop.html&quot;&gt;laptop&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_USB.html&quot;&gt;USB&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_Debian.html&quot;&gt;Debian&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_Void.html&quot;&gt;Void&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_VoidLinux.html&quot;&gt;VoidLinux&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_XFCE.html&quot;&gt;XFCE&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_i686.html&quot;&gt;i686&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_Firefox.html&quot;&gt;Firefox&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_LibreOffice.html&quot;&gt;LibreOffice&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_Xubuntu.html&quot;&gt;Xubuntu&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_Bodhi.html&quot;&gt;Bodhi&lt;/a&gt;, &lt;a href=&quot;https://tilde.pt/~marado/blog/tag_BodhiLinux.html&quot;&gt;BodhiLinux&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2026-10-11T19:13:31+00:00</dc:date>
+	<dc:creator>~marado</dc:creator>
+</item>
 <item rdf:about="https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2026/09/Zx-Spectrum">
 	<title>N.S. do Computismo: Zx Spectrum: De 1982 a Mais Além</title>
 	<link>https://tilde.pt/~fimdomeio/nossa-senhora-do-computismo/2026/09/Zx-Spectrum</link>
@@ -978,13 +1003,6 @@ budd &lt;/p&gt;
 
 &lt;p&gt;tags: &lt;a href=&quot;https://tilde.pt/~budd/blog/tag_obrigado.html&quot;&gt;obrigado&lt;/a&gt;&lt;/p&gt;</content:encoded>
 	<dc:date>2022-12-12T22:10:40+00:00</dc:date>
-	<dc:creator>~budd</dc:creator>
-</item>
-<item rdf:about="https://tilde.pt/~budd/blog/./titulo-nova-entrada.html">
-	<title>~budd: Título nova entrada</title>
-	<link>https://tilde.pt/~budd/blog/titulo-nova-entrada.html</link>
-	<content:encoded>&lt;p&gt;texto nova entrada&lt;/p&gt;</content:encoded>
-	<dc:date>2022-12-11T21:48:14+00:00</dc:date>
 	<dc:creator>~budd</dc:creator>
 </item>
 

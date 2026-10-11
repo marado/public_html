@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="../styles.css" type="text/css" />
+<link rel="stylesheet" href="main.css" type="text/css" />
+<link rel="stylesheet" href="blog.css" type="text/css" />
+<link rel="alternate" type="application/rss+xml" title="assinar esta página..." href="feed.rss" />
+<title>~marado's tildelog &mdash; posts com a tag "Void"</title>
+</head><body>
+<div id="divbodyholder">
+<div class="headerholder"><div class="header">
+<div id="title">
+<h1 class="nomargin"><a class="ablack" href="https://tilde.pt/~marado/blog/index.html">~marado's tildelog</a></h1>
+<div id="description">a tildelog on tildeverse</div>
+</div></div></div>
+<div id="divbody"><div class="content">
+<h3><a class="ablack" href="remember-burning-dvds.html">
+Remember burning DVDs?
+</a></h3>
+<!-- bashblog_timestamp: #202610111913.31# -->
+<div class="subtitle">11 de outubro de 2026 &mdash; 
+~marado
+</div>
+<!-- text begin -->
+
+<p>It has been 0 days since I've burned a DVD.</p>
+
+<p>That's right, trying to "recover" an old laptop, one of those that won't boot from USB thumb drives. Found out that it is still possible to buy blank DVD media where I live (DVD-R or DVD+R, but not DVD-RW; 90 cents per disc). I still remember when Debian could boast of being "The Universal Operating System" (it still does, I know) but nowadays that's far from the case - Debian no longer supports i686 machines, so I had to opt for an alternative...</p>
+
+<p><a href="https://voidlinux.org/">Void Linux</a> was the answer: it is actively developed and its latest version still supports machines with the target specifications (i686, 1Gb RAM), with graphical interface (xfce). So, that's what I aimed for, and burnt <code>void-live-i686-20250202-xfce.iso</code> (an ISO too big to fit a CD, but fortunately that was not a limitation I had to deal with this time)...</p>
+
+<p>...which fails to install (actually, it fails to boot) on this machine. It seems that I wasn't the first person stumbling into <a href="https://www.reddit.com/r/voidlinux/comments/1r6k03d/void_linux_i686_live_iso_wont_boot_with_more_than/">this issue</a> (apparently if it had only 512Mb it would boot, but I did not open the machine to see if the RAM in it is in how many modules...).</p>
+
+<p>My "solution" was to burn another DVD, with an older version - and just to raise my chances, I went for the oldest version available: <code>void-live-i686-20230628-xfce.iso</code>. And, go figure, it boots! So I installed this version, and then updated the system. Well, before updating, I had to configure the keyboard again (the installer choice wasn't enough), and the machine's date (the hardware clock thought we were in 2004, just so you get an idea of what has this laptop been 'doing' these past few years...). Then, I configured it to autologin and not lock the screen when the screensaver starts (which meant editing a file, which meant installing vim; I should probably leave these kinds of configurations for after the upgrade, but I just did it when I remembered). While the upgrade was ongoing, I started Firefox just to skip the initial steps and remove its sponsored shortcuts (which isn't done how one would expect, and it is sad to see dark patterns in something that used to be given as a great example of Free Software...).</p>
+
+<p>Don't worry - I am not planning on having this machine trying to go to the World Wide Web (and I know from experience that Firefox is not the browser to try to use in a low resources machine), but the browser comes installed by default, and to be honest it is a good idea to have it on the ready in case one is needed in an emergency...</p>
+
+<p>After the upgrade I installed LibreOffice, tried it out and added a shortcut to it on the applications bar.</p>
+
+<p>Finally, I rebooted the machine to see if everything was fine (it was!), and... well, an old laptop has just been given a new life! :-)</p>
+
+<p>PS: after having experienced Xubuntu and Bodhi Linux with XFCE in old laptops that are not as old as this one, I must say I am surprised with how responsive this machine is with void linux (even if my experience with it wasn't much - just what I described).</p>
+
+<p>tags: <a href='tag_DVD.html'>DVD</a>, <a href='tag_Linux.html'>Linux</a>, <a href='tag_burn.html'>burn</a>, <a href='tag_laptop.html'>laptop</a>, <a href='tag_USB.html'>USB</a>, <a href='tag_Debian.html'>Debian</a>, <a href='tag_Void.html'>Void</a>, <a href='tag_VoidLinux.html'>VoidLinux</a>, <a href='tag_XFCE.html'>XFCE</a>, <a href='tag_i686.html'>i686</a>, <a href='tag_Firefox.html'>Firefox</a>, <a href='tag_LibreOffice.html'>LibreOffice</a>, <a href='tag_Xubuntu.html'>Xubuntu</a>, <a href='tag_Bodhi.html'>Bodhi</a>, <a href='tag_BodhiLinux.html'>BodhiLinux</a></p>
+<!-- text end -->
+</div>
+<div id="footer">CC by-sa <a href="https://tilde.pt/~marado/">~marado</a> &mdash; <a href="mailto:mindboosternoori@#64;gmail.#46;com">mindboosternoori@#64;gmail.#46;com</a><br/>
+gerado com o <a href="https://tildegit.org/club/bashblog">bashblog</a>, um simples script bash para criar blogs como este</div>
+</div></div>
+</body></html>
